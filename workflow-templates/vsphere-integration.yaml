@@ -1,9 +1,9 @@
-name: Charmed Kubernetes Integration Tests
+name: Charmed Kubernetes VSphere Integration Tests
 on: [pull_request]
 
 jobs:
   integration-test:
-    name: Integration Test
+    name: VSphere Integration Test
     runs-on: self-hosted
     timeout-minutes: 60
     steps:
