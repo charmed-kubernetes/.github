@@ -1,4 +1,4 @@
-![CK logo](https://assets.ubuntu.com/v1/a41aaa61-cklogo-800.png)
+![CK logo](https://assets.ubuntu.com/v1/e6cd15f7-Charmed+Kubernetes_RGB_2022.svg)
 
 Charmed Kubernetes® is pure Kubernetes tested across the widest range of clouds with modern metrics and monitoring, brought to you by the people who deliver Ubuntu.
 
@@ -8,9 +8,13 @@ Google, Microsoft, and many other institutions run Kubernetes on Ubuntu because 
 
 ## Deploying Charmed Kubernetes®
 
-To learn more about **Charmed Kubernetes**®, including how to install it on your own cloud, please visit the [Documentation](https://ubuntu.com/kubernetes/docs).
+To learn more about **Charmed Kubernetes**®, including how to install it on your own cloud, please visit the [Documentation][docs].
 
 ## Contributing to Charmed Kubernetes®
 
 Charmed Kubernetes is an open source project and we welcome contributions of code, additions to the documentation, feature requests and any and all types of
 feedback. For more on contributing, see the [official documentation][get-in-touch] on how to contact the team.
+
+<!-- LINKS -->
+[docs]: https://ubuntu.com/kubernetes/docs
+[get-in-touch]: https://ubuntu.com/kubernetes/docs/get-in-touch
