@@ -25,14 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move dynamic readme generation into the profile/ path** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/5) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **add dynamic readme** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update .github/workflows/readme.yml  Co-authored-by: Adam...** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
 <!-- activity ends -->
