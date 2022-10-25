@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **use microk8s lxd profile from main repository (#1078)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.6 to 8.5.7 (#1074)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Fix tag push (#1077)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **handle juju 3.0.0 strict confinement** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Run prometheus tests after multus** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Skip prometheus to see if thats interfering with multus s...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add optional input for microk8s group name (#43)  * Add o...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update .github/workflows/readme.yml  Co-authored-by: Adam...** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@kwmonroe](https://github.com/kwmonroe) has closed this [issue](https://github.com/charmed-kubernetes/cdk-shrinkwrap/issues/26) in [charmed-kubernetes/cdk-shrinkwrap](https://api.github.com/repos/charmed-kubernetes/cdk-shrinkwrap).
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Address issues with the charmhub provided bundle (#30)  *...** to [cdk-shrinkwrap](https://github.com/charmed-kubernetes/cdk-shrinkwrap)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-shrinkwrap/pull/30) in the [cdk-shrinkwrap](https://github.com/charmed-kubernetes/cdk-shrinkwrap) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **scp kubeconfig to /home/addyess/.local/share/juju/<tmpfile>** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump actions/checkout && actions/setup-python versions** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/3) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Convert SR-IOV CNI charm to sidecar (#16)  * Convert SR-I...** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How we hire at Canonical](https://ubuntu.com//blog/how-we-hire-at-canonical) - Tue, 25 Oct 2022 15:50:30 
 * [Two approaches to IoT prototyping](https://ubuntu.com//blog/two-approaches-to-iot-prototyping) - Tue, 25 Oct 2022 12:22:36 
 * [Accelerate IT/OT convergence in Industry 4.0 [Part I]](https://ubuntu.com//blog/industry-4) - Tue, 25 Oct 2022 12:10:36 
 * [Canonical enables Ubuntu on Sipeed’s LicheeRV RISC-V board](https://ubuntu.com//blog/canonical-enables-ubuntu-on-sipeeds-licheerv-risc-v-board) - Tue, 25 Oct 2022 09:00:55 
 * [Participate in the Kubernetes and Cloud Native Operations Survey 2023](https://ubuntu.com//blog/participate-in-the-kubernetes-and-cloud-native-operations-survey-2023) - Tue, 25 Oct 2022 06:00:12 
 * [What does OTA mean?](https://ubuntu.com//blog/what-does-ota-mean) - Mon, 24 Oct 2022 09:00:27 
-* [What? The Steam snap is evolving!](https://ubuntu.com//blog/what-the-steam-snap-is-evolving) - Fri, 21 Oct 2022 09:06:51 
 <!-- blog ends -->
