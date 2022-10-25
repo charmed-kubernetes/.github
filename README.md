@@ -26,15 +26,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update .github/workflows/readme.yml  Co-authored-by: Adam...** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update .github/workflows/readme.yml  Co-authored-by: Adam...** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update .github/workflows/readme.yml  Co-authored-by: Adam...** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@kwmonroe](https://github.com/kwmonroe) has closed this [issue](https://github.com/charmed-kubernetes/cdk-shrinkwrap/issues/26) in [charmed-kubernetes/cdk-shrinkwrap](https://api.github.com/repos/charmed-kubernetes/cdk-shrinkwrap).
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Address issues with the charmhub provided bundle (#30)  *...** to [cdk-shrinkwrap](https://github.com/charmed-kubernetes/cdk-shrinkwrap)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-shrinkwrap/pull/30) in the [cdk-shrinkwrap](https://github.com/charmed-kubernetes/cdk-shrinkwrap) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **scp kubeconfig to /home/addyess/.local/share/juju/<tmpfile>** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump actions/checkout && actions/setup-python versions** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/3) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/4) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Convert SR-IOV CNI charm to sidecar (#16)  * Convert SR-I...** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
