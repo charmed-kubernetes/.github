@@ -25,13 +25,16 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pip-
     - name: Install Python dependencies
+      working-directory: profile
       run: |
         python -m pip install -r requirements.txt
     - name: Update README
+      working-directory: profile
       run: |-
         python dynamic_readme.py
         cat README.md
     - name: Commit and push if README changed
+      working-directory: profile
       run: |-
         git diff
         git config --global user.name "cdkbot"
