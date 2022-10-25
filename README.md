@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Run prometheus tests after multus** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Skip prometheus to see if thats interfering with multus s...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add optional input for microk8s group name (#43)  * Add o...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@stonepreston](https://github.com/stonepreston) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/42) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
