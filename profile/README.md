@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@FrancescoDeSimone](https://github.com/FrancescoDeSimone) has opened this [issue](https://github.com/charmed-kubernetes/cdk-shrinkwrap/issues/31) in [charmed-kubernetes/cdk-shrinkwrap](https://api.github.com/repos/charmed-kubernetes/cdk-shrinkwrap).
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add reboot warning if `nvidia-smi` fails. (#80)  * Add re...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/80) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update kubernetes_common.py (#37)  * Update kubernetes_co...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update lib/charms/layer/kubernetes_common.py  Co-authored...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pytest from 7.1.3 to 7.2.0 (#1081)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **purge google cloud instances (#1071)  * purge google clou...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-html from 3.1.1 to 3.2.0 (#1080)  * Bump pyte...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-asyncio from 0.19.0 to 0.20.1 (#1073)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove SR-IOV CNI resource spec (#1084)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove SR-IOV CNI build-resources (#1083)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix upgrade-charm stale version** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
