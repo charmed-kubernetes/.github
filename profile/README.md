@@ -26,6 +26,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add reboot warning if `nvidia-smi` fails. (#80)  * Add re...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/80) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update kubernetes_common.py (#37)  * Update kubernetes_co...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Update lib/charms/layer/kubernetes_common.py  Co-authored...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Elektrobit partners with Canonical to pave the way to a new era of software-defined vehicles](https://ubuntu.com//blog/elektrobit-partners-with-canonical) - Thu, 27 Oct 2022 08:01:13 
+* [Understanding AWS pricing](https://ubuntu.com//blog/aws-pricing) - Thu, 27 Oct 2022 07:00:18 
 * [Kubeflow just applied to join CNCF &#8211; what does it mean for you?](https://ubuntu.com//blog/kubeflow-applied-join-cncf) - Wed, 26 Oct 2022 07:53:37 
 * [Charmed Kubernetes and Huawei OceanStor Dorado All-Flash storage integration verification reports](https://ubuntu.com//blog/charmed-kubernetes-and-huawei-oceanstor-dorado-all-flash-storage-integration-verification-reports) - Wed, 26 Oct 2022 07:35:17 
 * [VMware alternatives: discover open source](https://ubuntu.com//blog/vmware-alternatives) - Wed, 26 Oct 2022 07:00:56 
 * [How we hire at Canonical](https://ubuntu.com//blog/how-we-hire-at-canonical) - Tue, 25 Oct 2022 15:50:30 
-* [Two approaches to IoT prototyping](https://ubuntu.com//blog/two-approaches-to-iot-prototyping) - Tue, 25 Oct 2022 12:22:36 
-* [Accelerate IT/OT convergence in Industry 4.0 [Part I]](https://ubuntu.com//blog/industry-4) - Tue, 25 Oct 2022 12:10:36 
 <!-- blog ends -->
