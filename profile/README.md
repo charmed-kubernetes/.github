@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pytest from 7.1.3 to 7.2.0 (#1081)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **purge google cloud instances (#1071)  * purge google clou...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove SR-IOV CNI resource spec (#1084)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove SR-IOV CNI build-resources (#1083)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix upgrade-charm stale version** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
