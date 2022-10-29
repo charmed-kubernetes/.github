@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **switch to az delete by resource** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Raise test_toggle_metrics timeouts to 10 minutes (#1088)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Run juju-wait with -v (#1086)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bug/integration/type error on unit join (#1085)  * join u...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1085) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@misohu](https://github.com/misohu) has opened this [issue](https://github.com/charmed-kubernetes/github-runner-operator/issues/22) in [charmed-kubernetes/github-runner-operator](https://api.github.com/repos/charmed-kubernetes/github-runner-operator).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
