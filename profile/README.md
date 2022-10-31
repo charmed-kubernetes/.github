@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Don't reconfigure kube-apiserver when enable-metrics chan...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **Resolve issue running integration tests due to Sequence n...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1091) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
@@ -32,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Confidential computing in public clouds: isolation and remote attestation explained](https://ubuntu.com//blog/confidential-computing-in-public-clouds-isolation-and-remote-attestation-explained) - Mon, 31 Oct 2022 18:02:33 
 * [Humans may be rational, or how to collect better documentation feedback with linguistic theory](https://ubuntu.com//blog/humans-may-be-rational-or-how-to-collect-better-documentation-feedback-with-linguistic-theory) - Fri, 28 Oct 2022 16:57:26 
 * [Accelerate IT/OT convergence in Industry 4.0 [Part II]](https://ubuntu.com//blog/industry-4-part-ii) - Fri, 28 Oct 2022 09:48:01 
 * [Elektrobit partners with Canonical to pave the way to a new era of software-defined vehicles](https://ubuntu.com//blog/elektrobit-partners-with-canonical) - Thu, 27 Oct 2022 08:01:13 
 * [Understanding AWS pricing](https://ubuntu.com//blog/aws-pricing) - Thu, 27 Oct 2022 07:00:18 
 * [Kubeflow just applied to join CNCF &#8211; what does it mean for you?](https://ubuntu.com//blog/kubeflow-applied-join-cncf) - Wed, 26 Oct 2022 07:53:37 
-* [Charmed Kubernetes and Huawei OceanStor Dorado All-Flash storage integration verification reports](https://ubuntu.com//blog/charmed-kubernetes-and-huawei-oceanstor-dorado-all-flash-storage-integration-verification-reports) - Wed, 26 Oct 2022 07:35:17 
 <!-- blog ends -->
