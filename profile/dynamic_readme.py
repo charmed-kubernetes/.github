@@ -37,6 +37,11 @@ def fetch_activity():
     content = []
     for e in events:
         user = ' - [@{}]({})'.format(e['actor']['display_login'],'/'.join(['https://github.com',e['actor']['login']]))
+        if e['type'] == 'PushEvent' and e['repo']['name'].endswith('.github'):
+            commits = e['payload']['commits']
+            if any("Updated README" in c['message'] for c in commits):
+                continue
+
         if e['type'] == 'IssuesEvent':
             action = 'has {} this [issue]({}) in [{}]({}).'.format(e['payload']['action'],
             e['payload']['issue']['html_url'],
