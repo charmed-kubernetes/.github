@@ -25,12 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **if the charm's channel is 'latest/{risk}', test that the ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1092) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **if the charm's channel is 'latest/{risk}', test that the ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix upgrade-charm stale version (#91)** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update release docs to indicate new charms (#727)  * Upda...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore commits to this repo from this automation.** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/6) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Don't reconfigure kube-apiserver when enable-metrics chan...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Resolve issue running integration tests due to Sequence n...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1091) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Public cloud for telco &#8211; Part 3: Microsoft Azure](https://ubuntu.com//blog/public-cloud-for-telco-part-3-microsoft-azure) - Tue, 01 Nov 2022 14:09:07 
 * [What is OpenSearch?](https://ubuntu.com//blog/what-is-opensearch) - Tue, 01 Nov 2022 01:00:11 
 * [Confidential computing in public clouds: isolation and remote attestation explained](https://ubuntu.com//blog/confidential-computing-in-public-clouds-isolation-and-remote-attestation-explained) - Mon, 31 Oct 2022 18:02:33 
 * [Humans may be rational, or how to collect better documentation feedback with linguistic theory](https://ubuntu.com//blog/humans-may-be-rational-or-how-to-collect-better-documentation-feedback-with-linguistic-theory) - Fri, 28 Oct 2022 16:57:26 
 * [Accelerate IT/OT convergence in Industry 4.0 [Part II]](https://ubuntu.com//blog/industry-4-part-ii) - Fri, 28 Oct 2022 09:48:01 
 * [Elektrobit partners with Canonical to pave the way to a new era of software-defined vehicles](https://ubuntu.com//blog/elektrobit-partners-with-canonical) - Thu, 27 Oct 2022 08:01:13 
-* [Understanding AWS pricing](https://ubuntu.com//blog/aws-pricing) - Thu, 27 Oct 2022 07:00:18 
 <!-- blog ends -->
