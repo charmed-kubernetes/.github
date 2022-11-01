@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update release docs to indicate new charms (#727)  * Upda...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore commits to this repo from this automation.** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/6) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Don't reconfigure kube-apiserver when enable-metrics chan...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
