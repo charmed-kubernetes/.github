@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump launchpadlib from 1.10.17 to 1.10.18 (#1090)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump prettytable from 3.4.1 to 3.5.0 (#1089)  * Bump pret...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add model crashdump for k8s models made during validation...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1095) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust kubernetes-dashboard namespace (#1094)  * adjust k...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1094) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **linter allows us to remove no-longer-useful variables** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/integration/validation.py  no need to test ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1094) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1094) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs from 1.4.1 to 1.4.2 (#1093)  * Bump mkdocs fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump launchpadlib from 1.10.16 to 1.10.17 (#1067)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **if the charm's channel is 'latest/{risk}', test that the ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1092) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **if the charm's channel is 'latest/{risk}', test that the ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
