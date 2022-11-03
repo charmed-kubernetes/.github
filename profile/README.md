@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How GCP pricing works](https://ubuntu.com//blog/gcp-pricing) - Thu, 03 Nov 2022 07:53:49 
 * [What to Expect at the Ubuntu Summit 2022](https://ubuntu.com//blog/what-to-expect-at-the-ubuntu-summit-2022) - Tue, 01 Nov 2022 14:56:59 
 * [Public cloud for telco &#8211; Part 3: Microsoft Azure](https://ubuntu.com//blog/public-cloud-for-telco-part-3-microsoft-azure) - Tue, 01 Nov 2022 14:09:07 
 * [What is OpenSearch?](https://ubuntu.com//blog/what-is-opensearch) - Tue, 01 Nov 2022 01:00:11 
 * [Confidential computing in public clouds: isolation and remote attestation explained](https://ubuntu.com//blog/confidential-computing-in-public-clouds-isolation-and-remote-attestation-explained) - Mon, 31 Oct 2022 18:02:33 
 * [Humans may be rational, or how to collect better documentation feedback with linguistic theory](https://ubuntu.com//blog/humans-may-be-rational-or-how-to-collect-better-documentation-feedback-with-linguistic-theory) - Fri, 28 Oct 2022 16:57:26 
-* [Accelerate IT/OT convergence in Industry 4.0 [Part II]](https://ubuntu.com//blog/industry-4-part-ii) - Fri, 28 Oct 2022 09:48:01 
 <!-- blog ends -->
