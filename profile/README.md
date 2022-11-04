@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **extra debugging** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **fix typo** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **include charmhub debugging on the juju controller** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update deprecated wait_for_idle** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/5) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rollback actions/setup-python version** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@shayancanonical](https://github.com/shayancanonical) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/91) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **remove github warnings, decrease charmcraft build deps** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
