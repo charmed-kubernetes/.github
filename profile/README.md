@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switching from libjuju deploy to juju snap deploy to fix ...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove proxy settings applied to the k8s model** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rollback actions changes** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **extra debugging** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **include charmhub debugging on the juju controller** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update deprecated wait_for_idle** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix strategy matrix** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rollback actions/setup-python version** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **vary on python versions, not ubuntu series** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/5) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
