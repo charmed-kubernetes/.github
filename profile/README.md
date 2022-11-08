@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **deploy coredns with juju snap rather than libjuju** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **switching from libjuju deploy to juju snap deploy to fix ...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove proxy settings applied to the k8s model** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **fix typo** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **include charmhub debugging on the juju controller** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update deprecated wait_for_idle** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix strategy matrix** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
