@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin setuptools<46** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **deploy coredns with juju snap rather than libjuju** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **switching from libjuju deploy to juju snap deploy to fix ...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **extra debugging** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **fix typo** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **include charmhub debugging on the juju controller** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update deprecated wait_for_idle** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Charmed Kubeflow now integrates with MindSpore](https://ubuntu.com//blog/open-source-mlops-ai-framework) - Tue, 08 Nov 2022 09:01:10 
+* [A hands-on guide to work with MindSpore on Kubeflow](https://ubuntu.com//blog/kubeflow-mindspore-integration-guide) - Tue, 08 Nov 2022 08:57:52 
 * [Snaps &#038; better refresh notifications](https://ubuntu.com//blog/snaps-better-refresh-notifications) - Fri, 04 Nov 2022 13:13:45 
 * [Learn about MLOps: Kubeflow at OSXP 2022](https://ubuntu.com//blog/kubeflow-osxp-2022) - Fri, 04 Nov 2022 09:09:22 
 * [Accelerate IT / OT convergence in Industry 4.0 [Part III]](https://ubuntu.com//blog/industry-4-part-iii) - Fri, 04 Nov 2022 07:19:53 
 * [How GCP pricing works](https://ubuntu.com//blog/gcp-pricing) - Thu, 03 Nov 2022 07:53:49 
-* [What to Expect at the Ubuntu Summit 2022](https://ubuntu.com//blog/what-to-expect-at-the-ubuntu-summit-2022) - Tue, 01 Nov 2022 14:56:59 
-* [Public cloud for telco &#8211; Part 3: Microsoft Azure](https://ubuntu.com//blog/public-cloud-for-telco-part-3-microsoft-azure) - Tue, 01 Nov 2022 14:09:07 
 <!-- blog ends -->
