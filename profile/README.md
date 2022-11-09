@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1100) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove setuptools pin** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **supply python version from matrix** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dickeyf](https://github.com/dickeyf) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/731) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **separate each clouds methods to its own cleanup-*.sh file...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump wheel from 0.38.2 to 0.38.3 (#1101)  * Bump wheel fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **upgrade github actions workflows (#1100)  * upgrade githu...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update container images from v0.9.3 to v0.12 (#27)  * upd...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/27) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1100) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/27) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1100) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump backoff from 2.1.2 to 2.2.1 (#1059)  * Bump backoff ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump wheel from 0.37.1 to 0.38.2 (#1098)  * Bump wheel fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **allow builds from focal as well as jammy** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin setuptools in releases greater or equal to focal** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1087) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
