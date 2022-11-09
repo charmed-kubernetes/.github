@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1100) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove setuptools pin** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **supply python version from matrix** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1100) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1100) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump backoff from 2.1.2 to 2.2.1 (#1059)  * Bump backoff ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump wheel from 0.37.1 to 0.38.2 (#1098)  * Bump wheel fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **allow builds from focal as well as jammy** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin setuptools in releases greater or equal to focal** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1087) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure we purge every aws region** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/34) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **migrate off of pipenv to just using requirements.txt (#34...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/34) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/34) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/34) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/34) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/34) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical to attend Supercomputing 22](https://ubuntu.com//blog/canonical-at-sc22) - Wed, 09 Nov 2022 13:35:34 
 * [Azure pricing explained](https://ubuntu.com//blog/azure-pricing) - Wed, 09 Nov 2022 07:00:18 
 * [Charmed Kubeflow now integrates with MindSpore](https://ubuntu.com//blog/open-source-mlops-ai-framework) - Tue, 08 Nov 2022 09:01:10 
 * [A hands-on guide to work with MindSpore on Kubeflow](https://ubuntu.com//blog/kubeflow-mindspore-integration-guide) - Tue, 08 Nov 2022 08:57:52 
 * [Snaps &#038; better refresh notifications](https://ubuntu.com//blog/snaps-better-refresh-notifications) - Fri, 04 Nov 2022 13:13:45 
 * [Learn about MLOps: Kubeflow at OSXP 2022](https://ubuntu.com//blog/kubeflow-osxp-2022) - Fri, 04 Nov 2022 09:09:22 
-* [Accelerate IT / OT convergence in Industry 4.0 [Part III]](https://ubuntu.com//blog/industry-4-part-iii) - Fri, 04 Nov 2022 07:19:53 
 <!-- blog ends -->
