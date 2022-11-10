@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical Presence at RISC-V Summit 2022](https://ubuntu.com//blog/canonical-presence-at-risc-v-summit-2022) - Thu, 10 Nov 2022 09:59:41 
 * [What is object storage?](https://ubuntu.com//blog/what-is-object-storage) - Thu, 10 Nov 2022 04:59:11 
 * [Canonical to attend Supercomputing 22](https://ubuntu.com//blog/canonical-at-sc22) - Wed, 09 Nov 2022 13:35:34 
 * [Azure pricing explained](https://ubuntu.com//blog/azure-pricing) - Wed, 09 Nov 2022 07:00:18 
 * [Charmed Kubeflow now integrates with MindSpore](https://ubuntu.com//blog/open-source-mlops-ai-framework) - Tue, 08 Nov 2022 09:01:10 
 * [A hands-on guide to work with MindSpore on Kubeflow](https://ubuntu.com//blog/kubeflow-mindspore-integration-guide) - Tue, 08 Nov 2022 08:57:52 
-* [Snaps &#038; better refresh notifications](https://ubuntu.com//blog/snaps-better-refresh-notifications) - Fri, 04 Nov 2022 13:13:45 
 <!-- blog ends -->
