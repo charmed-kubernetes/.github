@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.25.4-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **try different woke-version** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **lint** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **block until all microbots are started before disabling co...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **linting** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add note about distributed gateway type** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove Kube-DNS tests (#1102)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **update github actions versions** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix test issue with curl run** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **test microbot service while containerd is offline** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove `kube-dns` from `dns-providers` (#255)  * Remove k...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/255) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Put the CAPI cloud specific parts in the test setup (#1099)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dickeyf](https://github.com/dickeyf) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/731) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **separate each clouds methods to its own cleanup-*.sh file...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
