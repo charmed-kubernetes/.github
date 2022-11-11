@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.23.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@misohu](https://github.com/misohu) has closed this [issue](https://github.com/charmed-kubernetes/github-runner-operator/issues/22) in [charmed-kubernetes/github-runner-operator](https://api.github.com/repos/charmed-kubernetes/github-runner-operator).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.25.4-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **lint** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **block until all microbots are started before disabling co...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **linting** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add note about distributed gateway type** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove Kube-DNS tests (#1102)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
