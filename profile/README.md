@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove specific tag of get-woke checker** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.25.4-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **try different woke-version** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **lint** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How can the financial services sector tackle cloud concentration risk?](https://ubuntu.com//blog/https-ubuntu-com-blog-financial-services-cloud-concentration-risk) - Mon, 14 Nov 2022 10:08:06 
 * [Join us at UbuCon Asia in Seoul this November!](https://ubuntu.com//blog/join-ubucon-asia-seoul-november-2022) - Fri, 11 Nov 2022 21:46:45 
 * [Rencontrez Canonical à Cloud Expo Europe Paris 2022](https://ubuntu.com//blog/cloud-expo-paris-2022) - Fri, 11 Nov 2022 12:23:11 
 * [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Thu, 10 Nov 2022 20:29:54 
 * [Canonical Presence at RISC-V Summit 2022](https://ubuntu.com//blog/canonical-presence-at-risc-v-summit-2022) - Thu, 10 Nov 2022 09:59:41 
 * [What is object storage?](https://ubuntu.com//blog/what-is-object-storage) - Thu, 10 Nov 2022 04:59:11 
-* [Canonical to attend Supercomputing 22](https://ubuntu.com//blog/canonical-at-sc22) - Wed, 09 Nov 2022 13:35:34 
 <!-- blog ends -->
