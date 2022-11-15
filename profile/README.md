@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical at AWS re:Invent 2022](https://ubuntu.com//blog/canonical-at-aws-reinvent-2022) - Mon, 14 Nov 2022 23:10:05 
 * [How can the financial services sector tackle cloud concentration risk?](https://ubuntu.com//blog/https-ubuntu-com-blog-financial-services-cloud-concentration-risk) - Mon, 14 Nov 2022 10:08:06 
 * [Join us at UbuCon Asia in Seoul this November!](https://ubuntu.com//blog/join-ubucon-asia-seoul-november-2022) - Fri, 11 Nov 2022 21:46:45 
 * [Rencontrez Canonical à Cloud Expo Europe Paris 2022](https://ubuntu.com//blog/cloud-expo-paris-2022) - Fri, 11 Nov 2022 12:23:11 
 * [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Thu, 10 Nov 2022 20:29:54 
 * [Canonical Presence at RISC-V Summit 2022](https://ubuntu.com//blog/canonical-presence-at-risc-v-summit-2022) - Thu, 10 Nov 2022 09:59:41 
-* [What is object storage?](https://ubuntu.com//blog/what-is-object-storage) - Thu, 10 Nov 2022 04:59:11 
 <!-- blog ends -->
