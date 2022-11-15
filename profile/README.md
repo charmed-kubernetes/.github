@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix relation names in README (#4)  The aws-integrator:cli...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **updating kill_signal config documentation** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove specific tag of get-woke checker** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.23.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@misohu](https://github.com/misohu) has closed this [issue](https://github.com/charmed-kubernetes/github-runner-operator/issues/22) in [charmed-kubernetes/github-runner-operator](https://api.github.com/repos/charmed-kubernetes/github-runner-operator).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.25.4-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Scp/external gateway testing (#41)  * Add test for extern...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions (#1)  * adjus...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **restrict supported architectures based on upstream support** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **each charm builder needs git and primed with the upstream...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Switch back to 1.25 and stop using juju fork** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update workflow action versions** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
