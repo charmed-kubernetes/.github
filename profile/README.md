@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Merge the relation data from all kube-control endpoints r...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Scp/external gateway testing (#41)  * Add test for extern...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions (#1)  * adjus...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **restrict supported architectures based on upstream support** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **each charm builder needs git and primed with the upstream...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Switch back to 1.25 and stop using juju fork** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update workflow action versions** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **update interface-kube-control** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#13)** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#5)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add `tox -e format` and run it** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/13) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/5) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/16) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/gcp-k8s-storage/pull/3) in the [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Put multus as last test** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Apache Kafka service design for low latency and no data loss](https://ubuntu.com//blog/apache-kafka-service-design-for-low-latency-and-no-data-loss) - Wed, 16 Nov 2022 16:00:40 
 * [Canonical announces new enterprise-grade Ubuntu images designed for Intel IoT platforms](https://ubuntu.com//blog/canonical-announces-new-enterprise-grade-ubuntu-images-designed-for-intel-iot-platforms) - Tue, 15 Nov 2022 14:00:18 
 * [Hold your horses, I mean snaps! New feature lets you stop snap updates, for as long as you need](https://ubuntu.com//blog/hold-your-horses-i-mean-snaps-new-feature-lets-you-stop-snap-updates-for-as-long-as-you-need) - Tue, 15 Nov 2022 12:24:25 
 * [Canonical at AWS re:Invent 2022](https://ubuntu.com//blog/canonical-at-aws-reinvent-2022) - Mon, 14 Nov 2022 23:10:05 
 * [How can the financial services sector tackle cloud concentration risk?](https://ubuntu.com//blog/https-ubuntu-com-blog-financial-services-cloud-concentration-risk) - Mon, 14 Nov 2022 10:08:06 
 * [Join us at UbuCon Asia in Seoul this November!](https://ubuntu.com//blog/join-ubucon-asia-seoul-november-2022) - Fri, 11 Nov 2022 21:46:45 
-* [Rencontrez Canonical à Cloud Expo Europe Paris 2022](https://ubuntu.com//blog/cloud-expo-paris-2022) - Fri, 11 Nov 2022 12:23:11 
 <!-- blog ends -->
