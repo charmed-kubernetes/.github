@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Merge the relation data from all kube-control endpoints r...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Scp/external gateway testing (#41)  * Add test for extern...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions (#1)  * adjus...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **restrict supported architectures based on upstream support** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update workflow action versions** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/41) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
