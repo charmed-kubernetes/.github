@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **first successful deployment on charmed-k8s** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **update interface-kube-control** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#13)** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#5)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/5) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/16) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/gcp-k8s-storage/pull/3) in the [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Put multus as last test** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
