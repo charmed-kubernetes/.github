@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix issue with loggging errors** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/217) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/217) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **update interface-kube-control** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#13)** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#5)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add `tox -e format` and run it** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/13) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
