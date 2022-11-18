@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **fix issue with loggging errors** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/217) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/217) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **first successful deployment on charmed-k8s** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **update interface-kube-control** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#13)** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **update interface-kube-control (#5)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pair with layer-basic adjustments** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#18)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/18) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin python lib juju until testing against juju 3.0 contro...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#10)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-iam/pull/10) in the [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#42)** to [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-tigera-secure-ee/pull/42) in the [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
