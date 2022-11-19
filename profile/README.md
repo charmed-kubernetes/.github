@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **pair with layer-basic adjustments** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#18)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/18) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **pin python lib juju until testing against juju 3.0 contro...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#10)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-iam/pull/10) in the [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#42)** to [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-tigera-secure-ee/pull/42) in the [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#203)  * adjust charm metadata  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/203) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/6) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#12)** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kata/pull/12) in the [charm-kata](https://github.com/charmed-kubernetes/charm-kata) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#74)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/74) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#25)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/25) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
