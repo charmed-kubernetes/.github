@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#203)  * adjust charm metadata  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/203) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#74)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/74) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#25)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/25) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
