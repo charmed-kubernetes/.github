@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **backport for python3.6** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **reapply containerd resource after a containerd upgrade ac...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix kubelet cloud config not updating when azure data cha...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#203)  * adjust charm metadata  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/203) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/6) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#12)** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Empowering developers in financial services with desktop as a service](https://ubuntu.com//blog/empowering-developers-in-financial-services-with-desktop-as-a-service) - Mon, 21 Nov 2022 11:12:56 
 * [Apache Kafka service design for low latency and no data loss](https://ubuntu.com//blog/apache-kafka-service-design-for-low-latency-and-no-data-loss) - Wed, 16 Nov 2022 16:00:40 
 * [Canonical announces new enterprise-grade Ubuntu images designed for Intel IoT platforms](https://ubuntu.com//blog/canonical-announces-new-enterprise-grade-ubuntu-images-designed-for-intel-iot-platforms) - Tue, 15 Nov 2022 14:00:18 
 * [Hold your horses, I mean snaps! New feature lets you stop snap updates, for as long as you need](https://ubuntu.com//blog/hold-your-horses-i-mean-snaps-new-feature-lets-you-stop-snap-updates-for-as-long-as-you-need) - Tue, 15 Nov 2022 12:24:25 
 * [Canonical at AWS re:Invent 2022](https://ubuntu.com//blog/canonical-at-aws-reinvent-2022) - Mon, 14 Nov 2022 23:10:05 
 * [How can the financial services sector tackle cloud concentration risk?](https://ubuntu.com//blog/https-ubuntu-com-blog-financial-services-cloud-concentration-risk) - Mon, 14 Nov 2022 10:08:06 
-* [Join us at UbuCon Asia in Seoul this November!](https://ubuntu.com//blog/join-ubucon-asia-seoul-november-2022) - Fri, 11 Nov 2022 21:46:45 
 <!-- blog ends -->
