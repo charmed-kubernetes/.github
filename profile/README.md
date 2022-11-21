@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **backport for python3.6** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **reapply containerd resource after a containerd upgrade ac...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix kubelet cloud config not updating when azure data cha...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#203)  * adjust charm metadata  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/203) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **resource versions could present as a vA.B.C** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **resolve reinstall method name** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update images for next release (#216)  * Update images fo...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/216) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **update the version after resources have been installed** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove temporary directories used to build the resource, ...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Fix config and credential changes not being sent to Kuber...** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add support for changing request data (#8)  * Add .all_re...** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/216) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
