@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix kubelet cloud config not updating when azure data cha...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/131) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#203)  * adjust charm metadata  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/203) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/6) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#12)** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kata/pull/12) in the [charm-kata](https://github.com/charmed-kubernetes/charm-kata) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#74)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/74) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#25)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
