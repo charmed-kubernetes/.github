@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **raise exceptions, not return** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Bug fix: identify pre-stable microk8s releases (#1106)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1106) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Ensure we have enough version parts** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Generate scaffolding** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **restore num docker-registry units to 1** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **upgrade the containerd packages when a new containerd res...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **resource versions could present as a vA.B.C** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Open source and cybersecurity: from prevention to recovery](https://ubuntu.com//blog/open-source-and-cybersecurity-from-prevention-to-recovery) - Tue, 22 Nov 2022 13:00:43 
 * [Accelerate automotive 3D models with vGPU](https://ubuntu.com//blog/accelerate-automotive-3d-models-with-vgpu) - Tue, 22 Nov 2022 08:30:52 
 * [Empowering developers in financial services with desktop as a service](https://ubuntu.com//blog/empowering-developers-in-financial-services-with-desktop-as-a-service) - Mon, 21 Nov 2022 11:12:56 
 * [Apache Kafka service design for low latency and no data loss](https://ubuntu.com//blog/apache-kafka-service-design-for-low-latency-and-no-data-loss) - Wed, 16 Nov 2022 16:00:40 
 * [Canonical announces new enterprise-grade Ubuntu images designed for Intel IoT platforms](https://ubuntu.com//blog/canonical-announces-new-enterprise-grade-ubuntu-images-designed-for-intel-iot-platforms) - Tue, 15 Nov 2022 14:00:18 
 * [Hold your horses, I mean snaps! New feature lets you stop snap updates, for as long as you need](https://ubuntu.com//blog/hold-your-horses-i-mean-snaps-new-feature-lets-you-stop-snap-updates-for-as-long-as-you-need) - Tue, 15 Nov 2022 12:24:25 
-* [Canonical at AWS re:Invent 2022](https://ubuntu.com//blog/canonical-at-aws-reinvent-2022) - Mon, 14 Nov 2022 23:10:05 
 <!-- blog ends -->
