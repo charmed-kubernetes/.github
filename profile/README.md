@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **add some unit status while unpacking and installing conta...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **clarify use of flags** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **raise exceptions, not return** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Bug fix: identify pre-stable microk8s releases (#1106)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1106) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
