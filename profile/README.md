@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **raise exceptions, not return** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/84) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Bug fix: identify pre-stable microk8s releases (#1106)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1106) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix conflict between images in k8s.gcr.io and registry.k8...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/218) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/218) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **presence of text in `stderr` in kubectl don't necessarily...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/257) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add reboot warning if `nvidia-smi` fails. (#80)  * Add re...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
