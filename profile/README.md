@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix conflict between images in k8s.gcr.io and registry.k8...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/218) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/218) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1108) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update image registry, name, and tag** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update image name** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update image registry, name, and tag** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add some basic controller logic** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **presence of text in `stderr` in kubectl don't necessarily...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/257) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **run sync-oci-images with 1.26 (#1107)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1107) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/81) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add reboot warning if `nvidia-smi` fails. (#80)  * Add re...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
