@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial implementation** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **validation jobs use jammy. edge channel charms test 1.26/...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1110) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **update *-spec default series and default snap version** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **confirm the installation all necessary pip packages after...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bug fix: identify pre-stable microk8s releases (#1106)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update makefile, error when owner is nil** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-asyncio from 0.20.1 to 0.20.2 (#1104)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update makefile, shorten prefix, error when owner nil** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump wheel from 0.38.3 to 0.38.4 (#1103)  * Bump wheel fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **move reading the logs into the try block, rather than the...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **blackening** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt (#93)** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt with new `conctl` (#43)** to [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-tigera-secure-ee/pull/43) in the [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/75) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/93) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Expose subprocess failures (#11)** to [conctl](https://github.com/charmed-kubernetes/conctl)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/conctl/pull/11) in the [conctl](https://github.com/charmed-kubernetes/conctl) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
