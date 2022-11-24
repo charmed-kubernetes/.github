@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Correct path to make** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **move reading the logs into the try block, rather than the...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **blackening** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/75) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/93) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Expose subprocess failures (#11)** to [conctl](https://github.com/charmed-kubernetes/conctl)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/conctl/pull/11) in the [conctl](https://github.com/charmed-kubernetes/conctl) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
