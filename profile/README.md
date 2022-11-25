@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt (#93)** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt with new `conctl` (#43)** to [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-tigera-secure-ee/pull/43) in the [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/75) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
