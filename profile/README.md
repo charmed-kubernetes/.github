@@ -25,13 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1114) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Correct path to make** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **move reading the logs into the try block, rather than the...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **blackening** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt (#93)** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt with new `conctl` (#43)** to [layer-tigera-secure-ee](https://github.com/charmed-kubernetes/layer-tigera-secure-ee)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
