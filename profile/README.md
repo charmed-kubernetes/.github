@@ -29,7 +29,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1114) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Correct path to make** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **move reading the logs into the try block, rather than the...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -39,10 +38,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Open Source in HPC [part 5]](https://ubuntu.com//blog/open-source-in-hpc-part-5) - Mon, 28 Nov 2022 13:54:50 
 * [AI/ML in retail: how the shopping experience has changed](https://ubuntu.com//blog/ai-ml-retail) - Thu, 24 Nov 2022 11:27:38 
 * [Open source and cybersecurity: from prevention to recovery](https://ubuntu.com//blog/open-source-and-cybersecurity-from-prevention-to-recovery) - Tue, 22 Nov 2022 13:00:43 
 * [Accelerate automotive 3D models with vGPU](https://ubuntu.com//blog/accelerate-automotive-3d-models-with-vgpu) - Tue, 22 Nov 2022 08:30:52 
 * [Empowering developers in financial services with desktop as a service](https://ubuntu.com//blog/empowering-developers-in-financial-services-with-desktop-as-a-service) - Mon, 21 Nov 2022 11:12:56 
 * [Apache Kafka service design for low latency and no data loss](https://ubuntu.com//blog/apache-kafka-service-design-for-low-latency-and-no-data-loss) - Wed, 16 Nov 2022 16:00:40 
-* [Canonical announces new enterprise-grade Ubuntu images designed for Intel IoT platforms](https://ubuntu.com//blog/canonical-announces-new-enterprise-grade-ubuntu-images-designed-for-intel-iot-platforms) - Tue, 15 Nov 2022 14:00:18 
 <!-- blog ends -->
