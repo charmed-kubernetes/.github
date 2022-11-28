@@ -25,10 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Handle the semantic versioning of pre-stable releases (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1114) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Correct path to make** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **replace .format(...) with f-strings** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch from annotating pvc to using spec.StorageClassName** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix linting issue** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **clean up ceph-apps more traditionally with libjuju, remov...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **implement reactive.Endpoint.manage_flags to clear flags o...** to [charm-interface-ceph-client](https://github.com/charmed-kubernetes/charm-interface-ceph-client)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix Ceph pools flag (#259)  * Fix Ceph pools flag  * Fi...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/259) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -38,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu Summit 2022 Reflections](https://ubuntu.com//blog/ubuntu-summit-2022-reflections) - Mon, 28 Nov 2022 19:21:03 
 * [Open Source in HPC [part 5]](https://ubuntu.com//blog/open-source-in-hpc-part-5) - Mon, 28 Nov 2022 13:54:50 
 * [AI/ML in retail: how the shopping experience has changed](https://ubuntu.com//blog/ai-ml-retail) - Thu, 24 Nov 2022 11:27:38 
 * [Open source and cybersecurity: from prevention to recovery](https://ubuntu.com//blog/open-source-and-cybersecurity-from-prevention-to-recovery) - Tue, 22 Nov 2022 13:00:43 
 * [Accelerate automotive 3D models with vGPU](https://ubuntu.com//blog/accelerate-automotive-3d-models-with-vgpu) - Tue, 22 Nov 2022 08:30:52 
 * [Empowering developers in financial services with desktop as a service](https://ubuntu.com//blog/empowering-developers-in-financial-services-with-desktop-as-a-service) - Mon, 21 Nov 2022 11:12:56 
-* [Apache Kafka service design for low latency and no data loss](https://ubuntu.com//blog/apache-kafka-service-design-for-low-latency-and-no-data-loss) - Wed, 16 Nov 2022 16:00:40 
 <!-- blog ends -->
