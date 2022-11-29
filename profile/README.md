@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/45) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/45) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **replace .format(...) with f-strings** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **switch from annotating pvc to using spec.StorageClassName** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **fix linting issue** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **clean up ceph-apps more traditionally with libjuju, remov...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **implement reactive.Endpoint.manage_flags to clear flags o...** to [charm-interface-ceph-client](https://github.com/charmed-kubernetes/charm-interface-ceph-client)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix Ceph pools flag (#259)  * Fix Ceph pools flag  * Fi...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/259) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
