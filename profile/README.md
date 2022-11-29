@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **include the pvc write test inside the try...finally block** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Call the CAPI integration tests through make (#1112)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/45) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/45) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **replace .format(...) with f-strings** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1111) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **fix linting issue** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **clean up ceph-apps more traditionally with libjuju, remov...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **implement reactive.Endpoint.manage_flags to clear flags o...** to [charm-interface-ceph-client](https://github.com/charmed-kubernetes/charm-interface-ceph-client)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [VMware to open source: what do you need to consider?](https://ubuntu.com//blog/vmware-to-open-source-what-do-you-need-to-consider) - Tue, 29 Nov 2022 10:30:26 
 * [Ubuntu Summit 2022 Reflections](https://ubuntu.com//blog/ubuntu-summit-2022-reflections) - Mon, 28 Nov 2022 19:21:03 
 * [Open Source in HPC [part 5]](https://ubuntu.com//blog/open-source-in-hpc-part-5) - Mon, 28 Nov 2022 13:54:50 
 * [AI/ML in retail: how the shopping experience has changed](https://ubuntu.com//blog/ai-ml-retail) - Thu, 24 Nov 2022 11:27:38 
 * [Open source and cybersecurity: from prevention to recovery](https://ubuntu.com//blog/open-source-and-cybersecurity-from-prevention-to-recovery) - Tue, 22 Nov 2022 13:00:43 
 * [Accelerate automotive 3D models with vGPU](https://ubuntu.com//blog/accelerate-automotive-3d-models-with-vgpu) - Tue, 22 Nov 2022 08:30:52 
-* [Empowering developers in financial services with desktop as a service](https://ubuntu.com//blog/empowering-developers-in-financial-services-with-desktop-as-a-service) - Mon, 21 Nov 2022 11:12:56 
 <!-- blog ends -->
