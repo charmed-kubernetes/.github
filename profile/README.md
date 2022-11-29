@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/8) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update github workflows from templates** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ignore PushEvents that have no commits** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **add try/finally blocks so ceph tests cleanup better. (#11...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **include required csidriver for cephfs (#219)  * include r...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
@@ -33,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **render csidriver template for cephfs** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/219) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/219) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/45) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [VMware to open source: what do you need to consider?](https://ubuntu.com//blog/vmware-to-open-source-what-do-you-need-to-consider) - Tue, 29 Nov 2022 10:30:26 
+* [Ubuntu Summit 2022 Reflections](https://ubuntu.com//blog/ubuntu-summit-2022-reflections) - Mon, 28 Nov 2022 19:21:03 
+* [Open Source in HPC [part 5]](https://ubuntu.com//blog/open-source-in-hpc-part-5) - Mon, 28 Nov 2022 13:54:50 
+* [AI/ML in retail: how the shopping experience has changed](https://ubuntu.com//blog/ai-ml-retail) - Thu, 24 Nov 2022 11:27:38 
+* [Open source and cybersecurity: from prevention to recovery](https://ubuntu.com//blog/open-source-and-cybersecurity-from-prevention-to-recovery) - Tue, 22 Nov 2022 13:00:43 
+* [Accelerate automotive 3D models with vGPU](https://ubuntu.com//blog/accelerate-automotive-3d-models-with-vgpu) - Tue, 22 Nov 2022 08:30:52 
 <!-- blog ends -->
