@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1115) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1115) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Start building 1.24-eksd** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove commented yaml** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update some log capitlization, fix incorrect ref** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix improperly generated manifests that had extra prefix** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
@@ -32,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **implement reactive.Endpoint.manage_flags to clear flags o...** to [charm-interface-ceph-client](https://github.com/charmed-kubernetes/charm-interface-ceph-client)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/8) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update github workflows from templates** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ignore PushEvents that have no commits** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@addyess](https://github.com/addyess) has pushed the commit **add try/finally blocks so ceph tests cleanup better. (#11...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Kudos for Kudu Customization](https://ubuntu.com//blog/kudos-for-kudu-customization) - Wed, 30 Nov 2022 09:35:58 
+* [Need help choosing an embedded Linux distribution? Get guidance here](https://ubuntu.com//blog/embedded-linux-distribution) - Wed, 30 Nov 2022 08:56:53 
 * [VMware to open source: what do you need to consider?](https://ubuntu.com//blog/vmware-to-open-source-what-do-you-need-to-consider) - Tue, 29 Nov 2022 10:30:26 
 * [Ubuntu Summit 2022 Reflections](https://ubuntu.com//blog/ubuntu-summit-2022-reflections) - Mon, 28 Nov 2022 19:21:03 
 * [Open Source in HPC [part 5]](https://ubuntu.com//blog/open-source-in-hpc-part-5) - Mon, 28 Nov 2022 13:54:50 
 * [AI/ML in retail: how the shopping experience has changed](https://ubuntu.com//blog/ai-ml-retail) - Thu, 24 Nov 2022 11:27:38 
-* [Open source and cybersecurity: from prevention to recovery](https://ubuntu.com//blog/open-source-and-cybersecurity-from-prevention-to-recovery) - Tue, 22 Nov 2022 13:00:43 
-* [Accelerate automotive 3D models with vGPU](https://ubuntu.com//blog/accelerate-automotive-3d-models-with-vgpu) - Tue, 22 Nov 2022 08:30:52 
 <!-- blog ends -->
