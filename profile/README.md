@@ -25,16 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1115) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1115) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Start building 1.24-eksd** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove commented yaml** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update some log capitlization, fix incorrect ref** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix improperly generated manifests that had extra prefix** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update sample resource names** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **implement reactive.Endpoint.manage_flags to clear flags o...** to [charm-interface-ceph-client](https://github.com/charmed-kubernetes/charm-interface-ceph-client)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/8) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update github workflows from templates** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update domain, namespace, and prefix to match conventions** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update namespace and prefix names to match conventions** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **remove k8s tag from bird charm (#1117)  * remove k8s tag ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1117) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove k8s tag, not bird tag** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix hook error when parsing yaml from calicoctl (#94)  * ...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/94) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
