@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove commented yaml** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update some log capitlization, fix incorrect ref** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix improperly generated manifests that had extra prefix** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update sample resource names** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **implement reactive.Endpoint.manage_flags to clear flags o...** to [charm-interface-ceph-client](https://github.com/charmed-kubernetes/charm-interface-ceph-client)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/8) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update github workflows from templates** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ignore PushEvents that have no commits** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **add try/finally blocks so ceph tests cleanup better. (#11...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **include required csidriver for cephfs (#219)  * include r...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/219) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **include csidrivers objects in the pruning list** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **render csidriver template for cephfs** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/219) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/219) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
