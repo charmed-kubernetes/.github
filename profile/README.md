@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Lint and format** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **dupe 1.25-static in preparation for 1.26** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Correctly compare PREV_RELEASE when running compare-image...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating container-images/v1.26.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
