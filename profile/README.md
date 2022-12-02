@@ -25,10 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Lint and format** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **dupe 1.25-static in preparation for 1.26** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Correctly compare PREV_RELEASE when running compare-image...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **Updating container-images/v1.26.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **unpin pip version now that pip 22.3.1 is available (#1123)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **revert kv==0.4 due to https://github.com/mgax/kv/issues/6** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1123) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump kv from 0.3 to 0.4 (#1119)  * Bump kv from 0.3 to 0....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix `test_dns_providers` (#1121)  * Refactor test_dns_pro...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1121) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **handle failure of multiarch coredns resources (#1122)  * ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1122) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
