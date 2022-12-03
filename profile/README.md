@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Remove unhelpful test, fix broken test** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **unpin pip version now that pip 22.3.1 is available (#1123)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **revert kv==0.4 due to https://github.com/mgax/kv/issues/6** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1123) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix `test_dns_providers` (#1121)  * Refactor test_dns_pro...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1121) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **handle failure of multiarch coredns resources (#1122)  * ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1122) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
