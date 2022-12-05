@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Remove unhelpful test, fix broken test** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **unpin pip version now that pip 22.3.1 is available (#1123)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **revert kv==0.4 due to https://github.com/mgax/kv/issues/6** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1123) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump kv from 0.3 to 0.4 (#1119)  * Bump kv from 0.3 to 0....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **integration test on every supported series** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **updated callable workflows to default to jammy, and drop ...** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust tox to run unit and lint** to [layer-docker](https://github.com/charmed-kubernetes/layer-docker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **start github workflows** to [layer-docker](https://github.com/charmed-kubernetes/layer-docker)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/87) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [High-performance computing (HPC) technologies: what does the future hold? [part 6]](https://ubuntu.com//blog/high-performance-computing-hpc-technologies-what-does-the-future-hold-part-6) - Mon, 05 Dec 2022 18:24:14 
+* [Join Canonical and the financial services open-source community at OSSF NY](https://ubuntu.com//blog/join-canonical-and-the-financial-services-open-source-community-at-ossf-ny) - Mon, 05 Dec 2022 15:32:26 
 * [Telco network healing and auto-scaling with Open Source MANO TWELVE](https://ubuntu.com//blog/telco-network-healing-and-auto-scaling-with-open-source-mano-twelve) - Thu, 01 Dec 2022 14:18:40 
 * [Kudos for Kudu Customization](https://ubuntu.com//blog/kudos-for-kudu-customization) - Wed, 30 Nov 2022 09:35:58 
 * [Need help choosing an embedded Linux distribution? Get guidance here](https://ubuntu.com//blog/embedded-linux-distribution) - Wed, 30 Nov 2022 08:56:53 
 * [VMware to open source: what do you need to consider?](https://ubuntu.com//blog/vmware-to-open-source-what-do-you-need-to-consider) - Tue, 29 Nov 2022 10:30:26 
-* [Ubuntu Summit 2022 Reflections](https://ubuntu.com//blog/ubuntu-summit-2022-reflections) - Mon, 28 Nov 2022 19:21:03 
-* [Open Source in HPC [part 5]](https://ubuntu.com//blog/open-source-in-hpc-part-5) - Mon, 28 Nov 2022 13:54:50 
 <!-- blog ends -->
