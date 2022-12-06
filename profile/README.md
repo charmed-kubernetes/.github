@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Update tag format in CAPI release jenkins tag box (#1126)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1126) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **integration test on every supported series** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **updated callable workflows to default to jammy, and drop ...** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust tox to run unit and lint** to [layer-docker](https://github.com/charmed-kubernetes/layer-docker)
- - [@addyess](https://github.com/addyess) has pushed the commit **start github workflows** to [layer-docker](https://github.com/charmed-kubernetes/layer-docker)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/87) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical joins SOAFEE SIG](https://ubuntu.com//blog/canonical-joins-soafee-sig) - Tue, 06 Dec 2022 14:30:28 
 * [High-performance computing (HPC) technologies: what does the future hold? [part 6]](https://ubuntu.com//blog/high-performance-computing-hpc-technologies-what-does-the-future-hold-part-6) - Mon, 05 Dec 2022 18:24:14 
 * [Join Canonical and the financial services open-source community at OSSF NY](https://ubuntu.com//blog/join-canonical-and-the-financial-services-open-source-community-at-ossf-ny) - Mon, 05 Dec 2022 15:32:26 
 * [Telco network healing and auto-scaling with Open Source MANO TWELVE](https://ubuntu.com//blog/telco-network-healing-and-auto-scaling-with-open-source-mano-twelve) - Thu, 01 Dec 2022 14:18:40 
 * [Kudos for Kudu Customization](https://ubuntu.com//blog/kudos-for-kudu-customization) - Wed, 30 Nov 2022 09:35:58 
 * [Need help choosing an embedded Linux distribution? Get guidance here](https://ubuntu.com//blog/embedded-linux-distribution) - Wed, 30 Nov 2022 08:56:53 
-* [VMware to open source: what do you need to consider?](https://ubuntu.com//blog/vmware-to-open-source-what-do-you-need-to-consider) - Tue, 29 Nov 2022 10:30:26 
 <!-- blog ends -->
