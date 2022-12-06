@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Update tag format in CAPI release jenkins tag box (#1126)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1126) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **integration test on every supported series** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **updated callable workflows to default to jammy, and drop ...** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/7) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust tox to run unit and lint** to [layer-docker](https://github.com/charmed-kubernetes/layer-docker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **address wait_on_idle only supporting lists (#1130)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1130) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update dependency kv==0.4.1 (#1125)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update releases documentation to ensure k8s-operators are...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1129) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **update sriov-spec to deploy to allow privileged container...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1128) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **test coredns charm with the series defined in the validat...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1127) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1127) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
