@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/731) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/634) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump qs from 6.5.2 to 6.5.3 in /_sass/vanilla-framework (...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/732) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/732) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/732) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update conformance jobs to use vnc (no need to run those ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1144) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-alpha.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Start building microk8s 1.26-strict (#1146)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **improve upgrade task logging** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical Kubernetes 1.26 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-26-is-now-generally-available) - Mon, 12 Dec 2022 12:05:27 
 * [The State of IoT – October &#038; November 2022](https://ubuntu.com//blog/state-of-iot-october-november-2022) - Mon, 12 Dec 2022 08:15:40 
 * [.NET for Ubuntu hosts and containers is now available on Arm-based platforms](https://ubuntu.com//blog/net-for-ubuntu-hosts-and-containers-is-now-available-on-arm-based-platforms) - Thu, 08 Dec 2022 17:00:54 
 * [Application migration: best practices for success](https://ubuntu.com//blog/application-migration-best-practices-for-success) - Thu, 08 Dec 2022 06:14:09 
 * [Virgin Media O2 deploys Charmed OSM to accelerate  network functions virtualisation for cloud workloads](https://ubuntu.com//blog/virgin-media-o2-deploys-charmed-osm-to-accelerate-network-functions-virtualisation-for-cloud-workloads) - Wed, 07 Dec 2022 13:10:28 
 * [Canonical joins SOAFEE SIG](https://ubuntu.com//blog/canonical-joins-soafee-sig) - Tue, 06 Dec 2022 14:30:28 
-* [High-performance computing (HPC) technologies: what does the future hold? [part 6]](https://ubuntu.com//blog/high-performance-computing-hpc-technologies-what-does-the-future-hold-part-6) - Mon, 05 Dec 2022 18:24:14 
 <!-- blog ends -->
