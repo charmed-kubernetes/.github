@@ -45,7 +45,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- blog starts -->
 * [Open source in financial services &#8211; start with a strong foundation](https://ubuntu.com//blog/open-source-in-financial-services-start-with-a-strong-foundation) - Tue, 13 Dec 2022 08:01:48 
-* [Revisitign form elements in Vanilla Framework](https://ubuntu.com//blog/revisitign-form-elements-in-vanilla-framework) - Mon, 12 Dec 2022 17:08:15 
+* [Revisiting form elements in Vanilla Framework](https://ubuntu.com//blog/revisitign-form-elements-in-vanilla-framework) - Mon, 12 Dec 2022 17:08:15 
 * [Canonical Kubernetes 1.26 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-26-is-now-generally-available) - Mon, 12 Dec 2022 12:05:27 
 * [The State of IoT – October &#038; November 2022](https://ubuntu.com//blog/state-of-iot-october-november-2022) - Mon, 12 Dec 2022 08:15:40 
 * [.NET for Ubuntu hosts and containers is now available on Arm-based platforms](https://ubuntu.com//blog/net-for-ubuntu-hosts-and-containers-is-now-available-on-arm-based-platforms) - Thu, 08 Dec 2022 17:00:54 
