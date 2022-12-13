@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix worker services stuck due to systemd start limit (#134)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Use add_systemd_restart_always from common layer (#263)  ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add add_systemd_restart_always to common layer** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Use add_systemd_restart_always from common layer (#263)  ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix worker services stuck due to systemd start limit (#134)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/263) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/134) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Remove test_pod_security_policy due to LightKube deprecation** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add add_systemd_restart_always to common layer (#38)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@ca-scribner](https://github.com/ca-scribner) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/32) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Adds optional addons for microk8s (#46)  * Adds optional ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update gitignore and juju client README** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add juju client for manual testing** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tox.ini codespell path** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-asyncio from 0.20.2 to 0.20.3 (#1140)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu continues expanding RISC-V enablement in 2022](https://ubuntu.com//blog/ubuntu-continues-expanding-risc-v-enablement-in-2022) - Tue, 13 Dec 2022 17:00:57 
+* [What’s confidential, generally available, and open source? It’s Canonical Ubuntu 22.04 on Microsoft Azure!](https://ubuntu.com//blog/whats-confidential-generally-available-and-open-source-its-canonical-ubuntu-22-04-on-microsoft-azure) - Tue, 13 Dec 2022 15:52:10 
 * [Open source in financial services &#8211; start with a strong foundation](https://ubuntu.com//blog/open-source-in-financial-services-start-with-a-strong-foundation) - Tue, 13 Dec 2022 08:01:48 
 * [Revisiting form elements in Vanilla Framework](https://ubuntu.com//blog/revisitign-form-elements-in-vanilla-framework) - Mon, 12 Dec 2022 17:08:15 
 * [Canonical Kubernetes 1.26 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-26-is-now-generally-available) - Mon, 12 Dec 2022 12:05:27 
 * [The State of IoT – October &#038; November 2022](https://ubuntu.com//blog/state-of-iot-october-november-2022) - Mon, 12 Dec 2022 08:15:40 
-* [.NET for Ubuntu hosts and containers is now available on Arm-based platforms](https://ubuntu.com//blog/net-for-ubuntu-hosts-and-containers-is-now-available-on-arm-based-platforms) - Thu, 08 Dec 2022 17:00:54 
-* [Application migration: best practices for success](https://ubuntu.com//blog/application-migration-best-practices-for-success) - Thu, 08 Dec 2022 06:14:09 
 <!-- blog ends -->
