@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/19) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tox.ini codespell path** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove docker before running charmcraft** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#1149)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add controller bootstrapping process to cluster controller** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1149) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#264)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#264)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/264) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#39)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#39)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/39) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is MLOps?](https://ubuntu.com//blog/what-is-mlops) - Wed, 14 Dec 2022 09:42:11 
 * [Ubuntu continues expanding RISC-V enablement in 2022](https://ubuntu.com//blog/ubuntu-continues-expanding-risc-v-enablement-in-2022) - Tue, 13 Dec 2022 17:00:57 
 * [What’s confidential, generally available, and open source? It’s Canonical Ubuntu 22.04 on Microsoft Azure!](https://ubuntu.com//blog/whats-confidential-generally-available-and-open-source-its-canonical-ubuntu-22-04-on-microsoft-azure) - Tue, 13 Dec 2022 15:52:10 
 * [Open source in financial services &#8211; start with a strong foundation](https://ubuntu.com//blog/open-source-in-financial-services-start-with-a-strong-foundation) - Tue, 13 Dec 2022 08:01:48 
 * [Revisiting form elements in Vanilla Framework](https://ubuntu.com//blog/revisitign-form-elements-in-vanilla-framework) - Mon, 12 Dec 2022 17:08:15 
 * [Canonical Kubernetes 1.26 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-26-is-now-generally-available) - Mon, 12 Dec 2022 12:05:27 
-* [The State of IoT – October &#038; November 2022](https://ubuntu.com//blog/state-of-iot-october-november-2022) - Mon, 12 Dec 2022 08:15:40 
 <!-- blog ends -->
