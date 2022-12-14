@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@ca-scribner](https://github.com/ca-scribner) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/32) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Adds optional addons for microk8s (#46)  * Adds optional ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@kian99](https://github.com/kian99) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/46) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update gitignore and juju client README** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add juju client for manual testing** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tox.ini codespell path** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-asyncio from 0.20.2 to 0.20.3 (#1140)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#1149)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add controller bootstrapping process to cluster controller** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1149) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#264)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#264)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/264) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#39)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#39)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/39) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
