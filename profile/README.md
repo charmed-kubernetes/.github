@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/17) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Linting** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pass event across method calls** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/17) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/17) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tox testenv** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/19) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tox.ini codespell path** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove docker before running charmcraft** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#1149)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add controller bootstrapping process to cluster controller** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1149) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove CSIMigrationvSphere=True in 1.26.0 and beyond (#264)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
