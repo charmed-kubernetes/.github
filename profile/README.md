@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **include 1.26 stable bundle to releases on 1.26 release date** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin ops-lib-manifest** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin ops lib manifest to specific commit (#17)** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/opa-gatekeeper-operators/pull/11) in the [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/17) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Switch to 1.26 stable microk8s for integration tests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove bionic from stable charm testing** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **[Parameterize Validation Tests] Roll-up all validation jo...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1139) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/ci-master.yaml** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1139) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/736) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/736) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1139) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Handle APIError when applying manifests** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **axis renamed to parameter** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
