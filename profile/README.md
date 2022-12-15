@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **include 1.26 stable bundle to releases on 1.26 release date** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin ops-lib-manifest** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin ops lib manifest to specific commit (#17)** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/opa-gatekeeper-operators/pull/11) in the [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/17) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt (#21)  * Pin multus charm to 1.26...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Switch to 1.26 stable microk8s for integration tests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix linting** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **deploy with juju cmd instead of model.deploy** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin lightkube models** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update requirements.txt** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up resources with finalizer** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/21) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/21) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust codespell and charm building** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/21) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Repatriation to reduce public cloud spend &#8211; easier said than done?](https://ubuntu.com//blog/repatriation-to-reduce-public-cloud-spend) - Thu, 15 Dec 2022 12:54:48 
 * [What is MLOps?](https://ubuntu.com//blog/what-is-mlops) - Wed, 14 Dec 2022 09:42:11 
 * [Ubuntu continues expanding RISC-V enablement in 2022](https://ubuntu.com//blog/ubuntu-continues-expanding-risc-v-enablement-in-2022) - Tue, 13 Dec 2022 17:00:57 
 * [What’s confidential, generally available, and open source? It’s Canonical Ubuntu 22.04 on Microsoft Azure!](https://ubuntu.com//blog/whats-confidential-generally-available-and-open-source-its-canonical-ubuntu-22-04-on-microsoft-azure) - Tue, 13 Dec 2022 15:52:10 
 * [Open source in financial services &#8211; start with a strong foundation](https://ubuntu.com//blog/open-source-in-financial-services-start-with-a-strong-foundation) - Tue, 13 Dec 2022 08:01:48 
 * [Revisiting form elements in Vanilla Framework](https://ubuntu.com//blog/revisitign-form-elements-in-vanilla-framework) - Mon, 12 Dec 2022 17:08:15 
-* [Canonical Kubernetes 1.26 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-26-is-now-generally-available) - Mon, 12 Dec 2022 12:05:27 
 <!-- blog ends -->
