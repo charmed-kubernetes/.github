@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/17) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Linting** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pass event across method calls** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/17) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/17) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tox testenv** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **ci: remove Docker before running charmcraft (#19)  LXD in...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Switch to 1.26 stable microk8s for integration tests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix linting** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **deploy with juju cmd instead of model.deploy** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin lightkube models** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update requirements.txt** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up resources with finalizer** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/21) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/21) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust codespell and charm building** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/21) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
