@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up controller** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove bionic from stable charm testing** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **[Parameterize Validation Tests] Roll-up all validation jo...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1139) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/736) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1139) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Handle APIError when applying manifests** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **axis renamed to parameter** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu Summit Memories Live On](https://ubuntu.com//blog/ubuntu-summit-memories-live-on) - Thu, 15 Dec 2022 22:01:06 
 * [Repatriation to reduce public cloud spend &#8211; easier said than done?](https://ubuntu.com//blog/repatriation-to-reduce-public-cloud-spend) - Thu, 15 Dec 2022 12:54:48 
 * [What is MLOps?](https://ubuntu.com//blog/what-is-mlops) - Wed, 14 Dec 2022 09:42:11 
 * [Ubuntu continues expanding RISC-V enablement in 2022](https://ubuntu.com//blog/ubuntu-continues-expanding-risc-v-enablement-in-2022) - Tue, 13 Dec 2022 17:00:57 
 * [What’s confidential, generally available, and open source? It’s Canonical Ubuntu 22.04 on Microsoft Azure!](https://ubuntu.com//blog/whats-confidential-generally-available-and-open-source-its-canonical-ubuntu-22-04-on-microsoft-azure) - Tue, 13 Dec 2022 15:52:10 
 * [Open source in financial services &#8211; start with a strong foundation](https://ubuntu.com//blog/open-source-in-financial-services-start-with-a-strong-foundation) - Tue, 13 Dec 2022 08:01:48 
-* [Revisiting form elements in Vanilla Framework](https://ubuntu.com//blog/revisitign-form-elements-in-vanilla-framework) - Mon, 12 Dec 2022 17:08:15 
 <!-- blog ends -->
