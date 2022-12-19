@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Mon, 19 Dec 2022 19:56:52 
 * [Chiselled Ubuntu: the perfect present for your containerised and cloud applications](https://ubuntu.com//blog/chiselled-containers-perfect-gift-cloud-applications) - Mon, 19 Dec 2022 09:32:37 
 * [Snapcrafters: 2022 wrap-up](https://ubuntu.com//blog/snapcrafters-2022-wrap-up) - Fri, 16 Dec 2022 12:09:29 
 * [Launch your own micro cloud with one command](https://ubuntu.com//blog/one_command_micro_cloud) - Fri, 16 Dec 2022 10:00:50 
 * [Ubuntu Summit Memories Live On](https://ubuntu.com//blog/ubuntu-summit-memories-live-on) - Thu, 15 Dec 2022 22:01:06 
 * [Repatriation to reduce public cloud spend &#8211; easier said than done?](https://ubuntu.com//blog/repatriation-to-reduce-public-cloud-spend) - Thu, 15 Dec 2022 12:54:48 
-* [What is MLOps?](https://ubuntu.com//blog/what-is-mlops) - Wed, 14 Dec 2022 09:42:11 
 <!-- blog ends -->
