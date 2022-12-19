@@ -42,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Chiselled Ubuntu: the perfect present for your containerised and cloud applications](https://ubuntu.com//blog/chiselled-containers-perfect-gift-cloud-applications) - Mon, 19 Dec 2022 09:32:37 
 * [Snapcrafters: 2022 wrap-up](https://ubuntu.com//blog/snapcrafters-2022-wrap-up) - Fri, 16 Dec 2022 12:09:29 
 * [Launch your own micro cloud with one command](https://ubuntu.com//blog/one_command_micro_cloud) - Fri, 16 Dec 2022 10:00:50 
 * [Ubuntu Summit Memories Live On](https://ubuntu.com//blog/ubuntu-summit-memories-live-on) - Thu, 15 Dec 2022 22:01:06 
 * [Repatriation to reduce public cloud spend &#8211; easier said than done?](https://ubuntu.com//blog/repatriation-to-reduce-public-cloud-spend) - Thu, 15 Dec 2022 12:54:48 
 * [What is MLOps?](https://ubuntu.com//blog/what-is-mlops) - Wed, 14 Dec 2022 09:42:11 
-* [Ubuntu continues expanding RISC-V enablement in 2022](https://ubuntu.com//blog/ubuntu-continues-expanding-risc-v-enablement-in-2022) - Tue, 13 Dec 2022 17:00:57 
 <!-- blog ends -->
