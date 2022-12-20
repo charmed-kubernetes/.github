@@ -30,7 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/736) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,7 +39,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Mon, 19 Dec 2022 19:56:52 
+* [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Tue, 20 Dec 2022 09:15:52 
 * [Chiselled Ubuntu: the perfect present for your containerised and cloud applications](https://ubuntu.com//blog/chiselled-containers-perfect-gift-cloud-applications) - Mon, 19 Dec 2022 09:32:37 
 * [Snapcrafters: 2022 wrap-up](https://ubuntu.com//blog/snapcrafters-2022-wrap-up) - Fri, 16 Dec 2022 12:09:29 
 * [Launch your own micro cloud with one command](https://ubuntu.com//blog/one_command_micro_cloud) - Fri, 16 Dec 2022 10:00:50 
