@@ -31,7 +31,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifests** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
