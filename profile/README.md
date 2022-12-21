@@ -39,10 +39,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Manage Debian, Ubuntu, and derivative Linux distributions with Landscape Scripts](https://ubuntu.com//blog/manage-debian-ubuntu-and-derivative-linux-distributions-with-landscape-scripts) - Wed, 21 Dec 2022 00:00:01 
 * [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Tue, 20 Dec 2022 09:15:52 
 * [Chiselled Ubuntu: the perfect present for your containerised and cloud applications](https://ubuntu.com//blog/chiselled-containers-perfect-gift-cloud-applications) - Mon, 19 Dec 2022 09:32:37 
 * [Snapcrafters: 2022 wrap-up](https://ubuntu.com//blog/snapcrafters-2022-wrap-up) - Fri, 16 Dec 2022 12:09:29 
 * [Launch your own micro cloud with one command](https://ubuntu.com//blog/one_command_micro_cloud) - Fri, 16 Dec 2022 10:00:50 
 * [Ubuntu Summit Memories Live On](https://ubuntu.com//blog/ubuntu-summit-memories-live-on) - Thu, 15 Dec 2022 22:01:06 
-* [Repatriation to reduce public cloud spend &#8211; easier said than done?](https://ubuntu.com//blog/repatriation-to-reduce-public-cloud-spend) - Thu, 15 Dec 2022 12:54:48 
 <!-- blog ends -->
