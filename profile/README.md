@@ -28,8 +28,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add metallb image resources to resource spec (#1150)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1150) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **reduce false error detection when deploying coredns charm...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/736) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/736) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -39,10 +37,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Hybrid cloud infrastructure modernisation](https://ubuntu.com//blog/hybrid-cloud-infrastructure-modernisation) - Mon, 02 Jan 2023 07:00:23 
 * [The State of Robotics &#8211; 2022 news rewind](https://ubuntu.com//blog/the-state-of-robotics-2022-review) - Fri, 23 Dec 2022 04:34:26 
 * [Manage Debian, Ubuntu, and derivative Linux distributions with Landscape Scripts](https://ubuntu.com//blog/manage-debian-ubuntu-and-derivative-linux-distributions-with-landscape-scripts) - Wed, 21 Dec 2022 00:00:01 
 * [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Tue, 20 Dec 2022 09:15:52 
 * [Chiselled Ubuntu: the perfect present for your containerised and cloud applications](https://ubuntu.com//blog/chiselled-containers-perfect-gift-cloud-applications) - Mon, 19 Dec 2022 09:32:37 
 * [Snapcrafters: 2022 wrap-up](https://ubuntu.com//blog/snapcrafters-2022-wrap-up) - Fri, 16 Dec 2022 12:09:29 
-* [Launch your own micro cloud with one command](https://ubuntu.com//blog/one_command_micro_cloud) - Fri, 16 Dec 2022 10:00:50 
 <!-- blog ends -->
