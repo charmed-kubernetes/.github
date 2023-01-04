@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add config parsing and config map creation** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **complete juju action upgrades in integration tests** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add force option to upgrade-packages gpu (#76)  * Add for...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update vSphere Integration docs (#736)  * Update vSphere ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
