@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added instance type determination for eksd tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **blacken** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **Hold nvidia_apt_packages to prevent them from being unins...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/86) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **address lint issues** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add config parsing and config map creation** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **complete juju action upgrades in integration tests** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add force option to upgrade-packages gpu (#76)  * Add for...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Security in the smart home: considerations for device makers](https://ubuntu.com//blog/security-in-the-smart-home-considerations-for-device-makers) - Thu, 05 Jan 2023 10:59:30 
 * [WSL and Ubuntu: 2022 year in review](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review) - Wed, 04 Jan 2023 13:58:55 
 * [Hybrid cloud infrastructure modernisation](https://ubuntu.com//blog/hybrid-cloud-infrastructure-modernisation) - Mon, 02 Jan 2023 07:00:23 
 * [The State of Robotics &#8211; 2022 news rewind](https://ubuntu.com//blog/the-state-of-robotics-2022-review) - Fri, 23 Dec 2022 04:34:26 
 * [Manage Debian, Ubuntu, and derivative Linux distributions with Landscape Scripts](https://ubuntu.com//blog/manage-debian-ubuntu-and-derivative-linux-distributions-with-landscape-scripts) - Wed, 21 Dec 2022 00:00:01 
 * [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Tue, 20 Dec 2022 09:15:52 
-* [Chiselled Ubuntu: the perfect present for your containerised and cloud applications](https://ubuntu.com//blog/chiselled-containers-perfect-gift-cloud-applications) - Mon, 19 Dec 2022 09:32:37 
 <!-- blog ends -->
