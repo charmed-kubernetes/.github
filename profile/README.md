@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **lint issue for py3.7** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **re-introduce containerd no_proxy to include internal subn...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use a default model config for vsphere testing** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **address linting** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests to use vsphere-cloud-provider and it's defa...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Safer containerd restarts (#81)  * use SIGTERM to restart...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added instance type determination for eksd tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **blacken** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **Hold nvidia_apt_packages to prevent them from being unins...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/86) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **use the nagios host refresh api to encourage faster statu...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1155) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add a cautionary statement to gpu_driver option (#85)** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **address lint issues** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add config parsing and config map creation** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **complete juju action upgrades in integration tests** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
