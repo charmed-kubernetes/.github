@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/40) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Use nagios_hostname_type='unit' on nrpe to ensure hostnam...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **lint issue for py3.7** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
  - [@addyess](https://github.com/addyess) has pushed the commit **re-introduce containerd no_proxy to include internal subn...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests to use vsphere-cloud-provider and it's defa...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
  - [@addyess](https://github.com/addyess) has pushed the commit **Safer containerd restarts (#81)  * use SIGTERM to restart...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added instance type determination for eksd tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **blacken** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **Hold nvidia_apt_packages to prevent them from being unins...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Kubescape brings a new level of security to Charmed Kubernetes](https://ubuntu.com//blog/kubescape-brings-a-new-level-of-security-to-charmed-kubernetes) - Fri, 06 Jan 2023 12:27:10 
+* [What changing vehicle ownership habits and mobility trends mean for the future of the automotive industry](https://ubuntu.com//blog/what-changing-vehicle-ownership-habits-and-mobility-trends-mean-for-the-future-of-the-automotive-industry) - Fri, 06 Jan 2023 12:20:22 
 * [Security in the smart home: considerations for device makers](https://ubuntu.com//blog/security-in-the-smart-home-considerations-for-device-makers) - Thu, 05 Jan 2023 10:59:30 
 * [WSL and Ubuntu: 2022 year in review](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review) - Wed, 04 Jan 2023 13:58:55 
 * [Hybrid cloud infrastructure modernisation](https://ubuntu.com//blog/hybrid-cloud-infrastructure-modernisation) - Mon, 02 Jan 2023 07:00:23 
 * [The State of Robotics &#8211; 2022 news rewind](https://ubuntu.com//blog/the-state-of-robotics-2022-review) - Fri, 23 Dec 2022 04:34:26 
-* [Manage Debian, Ubuntu, and derivative Linux distributions with Landscape Scripts](https://ubuntu.com//blog/manage-debian-ubuntu-and-derivative-linux-distributions-with-landscape-scripts) - Wed, 21 Dec 2022 00:00:01 
-* [See for yourself: the benefits of chiselled Ubuntu images in action with an ASP.NET shop demo](https://ubuntu.com//blog/benefits-chiselled-ubuntu-images-aspnet-eshop-demo) - Tue, 20 Dec 2022 09:15:52 
 <!-- blog ends -->
