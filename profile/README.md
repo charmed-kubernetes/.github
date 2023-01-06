@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use nagios_hostname_type='unit' on nrpe to ensure hostnam...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **lint issue for py3.7** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
  - [@addyess](https://github.com/addyess) has pushed the commit **re-introduce containerd no_proxy to include internal subn...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
  - [@addyess](https://github.com/addyess) has pushed the commit **use a default model config for vsphere testing** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added instance type determination for eksd tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **blacken** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **Hold nvidia_apt_packages to prevent them from being unins...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/86) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
