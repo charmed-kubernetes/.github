@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests from multus integration tests into a joined...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1158) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add support for lb_enabled from the openstack relation (#...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/40) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Use nagios_hostname_type='unit' on nrpe to ensure hostnam...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **lint issue for py3.7** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **re-introduce containerd no_proxy to include internal subn...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **use a default model config for vsphere testing** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **address linting** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests to use vsphere-cloud-provider and it's defa...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Safer containerd restarts (#81)  * use SIGTERM to restart...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added instance type determination for eksd tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/40) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ensure return value from lb_enabled is always bool** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
