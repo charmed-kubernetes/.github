@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add lb_enabled config (#67)  * Implement loadbalancer ena...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add lb_enabled to the relation (#13)  * Implement support...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests from multus integration tests into a joined...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1158) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add support for lb_enabled from the openstack relation (#...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
