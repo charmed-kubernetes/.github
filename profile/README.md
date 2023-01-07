@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests from multus integration tests into a joined...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1158) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add support for lb_enabled from the openstack relation (#...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/40) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/40) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ensure return value from lb_enabled is always bool** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
