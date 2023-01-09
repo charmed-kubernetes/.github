@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add missing bash shebang** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add missing region in stack cleanup** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Fix character escape** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added cleanup for CloudFormation stack** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add lb_enabled config (#67)  * Implement loadbalancer ena...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add lb_enabled to the relation (#13)  * Implement support...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **attach network interfaces to both control-planes and work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **migrate tests from multus integration tests into a joined...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Chiselled Ubuntu containers: the benefits of combining Distroless and Ubuntu](https://ubuntu.com//blog/combining-distroless-and-ubuntu-chiselled-containers) - Mon, 09 Jan 2023 09:14:15 
 * [Kubescape brings a new level of security to Charmed Kubernetes](https://ubuntu.com//blog/kubescape-brings-a-new-level-of-security-to-charmed-kubernetes) - Fri, 06 Jan 2023 12:27:10 
 * [What changing vehicle ownership habits and mobility trends mean for the future of the automotive industry](https://ubuntu.com//blog/what-changing-vehicle-ownership-habits-and-mobility-trends-mean-for-the-future-of-the-automotive-industry) - Fri, 06 Jan 2023 12:20:22 
 * [Security in the smart home: considerations for device makers](https://ubuntu.com//blog/security-in-the-smart-home-considerations-for-device-makers) - Thu, 05 Jan 2023 10:59:30 
 * [WSL and Ubuntu: 2022 year in review](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review) - Wed, 04 Jan 2023 13:58:55 
 * [Hybrid cloud infrastructure modernisation](https://ubuntu.com//blog/hybrid-cloud-infrastructure-modernisation) - Mon, 02 Jan 2023 07:00:23 
-* [The State of Robotics &#8211; 2022 news rewind](https://ubuntu.com//blog/the-state-of-robotics-2022-review) - Fri, 23 Dec 2022 04:34:26 
 <!-- blog ends -->
