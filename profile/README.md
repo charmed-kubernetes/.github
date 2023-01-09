@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/19) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Skip cleanup for LXD (#47)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **address test issues, and default the opa `release` to dra...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/47) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add cloud and credential functionality** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add missing bash shebang** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add missing region in stack cleanup** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Fix character escape** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Added cleanup for CloudFormation stack** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add lb_enabled config (#67)  * Implement loadbalancer ena...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add lb_enabled to the relation (#13)  * Implement support...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
- - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
- - [@addyess](https://github.com/addyess) has pushed the commit **include the control-plane toleration in the daemonsets** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure that all nodes have sriov capacity (including cont...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
