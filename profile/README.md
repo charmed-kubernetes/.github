@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Get cloud-related authentication data from secret** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **address testing conflicts when audit and manager operator...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/19) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Skip cleanup for LXD (#47)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **address test issues, and default the opa `release` to dra...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/47) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add cloud and credential functionality** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add model creation** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/opa-gatekeeper-operators/pull/12) in the [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifests** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/22) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/14) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **enable sriov testing following migration to sidecar charm...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1159) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove incorrect comment** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
