@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Get cloud-related authentication data from secret** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@addyess](https://github.com/addyess) has pushed the commit **address testing conflicts when audit and manager operator...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **switch tests to use client.apply rather than client.create** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/19) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **address test issues, and default the opa `release` to dra...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/47) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add cloud and credential functionality** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add missing bash shebang** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add missing region in stack cleanup** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [DIY chiselled Ubuntu: crafting your own chiselled Ubuntu base image](https://ubuntu.com//blog/craft-custom-chiselled-ubuntu-distroless) - Tue, 10 Jan 2023 08:07:01 
 * [Chiselled Ubuntu containers: the benefits of combining Distroless and Ubuntu](https://ubuntu.com//blog/combining-distroless-and-ubuntu-chiselled-containers) - Mon, 09 Jan 2023 09:14:15 
 * [Kubescape brings a new level of security to Charmed Kubernetes](https://ubuntu.com//blog/kubescape-brings-a-new-level-of-security-to-charmed-kubernetes) - Fri, 06 Jan 2023 12:27:10 
 * [What changing vehicle ownership habits and mobility trends mean for the future of the automotive industry](https://ubuntu.com//blog/what-changing-vehicle-ownership-habits-and-mobility-trends-mean-for-the-future-of-the-automotive-industry) - Fri, 06 Jan 2023 12:20:22 
 * [Security in the smart home: considerations for device makers](https://ubuntu.com//blog/security-in-the-smart-home-considerations-for-device-makers) - Thu, 05 Jan 2023 10:59:30 
 * [WSL and Ubuntu: 2022 year in review](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review) - Wed, 04 Jan 2023 13:58:55 
-* [Hybrid cloud infrastructure modernisation](https://ubuntu.com//blog/hybrid-cloud-infrastructure-modernisation) - Mon, 02 Jan 2023 07:00:23 
 <!-- blog ends -->
