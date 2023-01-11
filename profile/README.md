@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/19) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/19) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/91) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Add build_charm() optional parameter bases_index (#94)  *...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove warning filters (#93)  https://github.com/juju/pyt...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump prettytable from 3.5.0 to 3.6.0 (#1160)  * Bump pret...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1999427] retry install-upgrade hook when ManifestClie...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade unit+lint to use callable workflows, upgrade inte...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin ops.lib.manifest version** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/737) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2002186] include the control-plane toleration in the ...** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
+ - [@addyess](https://github.com/addyess) has pushed the commit **resolve lint issues** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin/pull/11) in the [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update src/manifests.py** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin/pull/11) in the [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin/pull/11) in the [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin/pull/11) in the [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add CSIMigration config option** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
