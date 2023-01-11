@@ -25,15 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/19) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/19) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
+ - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/91) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add build_charm() optional parameter bases_index (#94)  *...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove warning filters (#93)  https://github.com/juju/pyt...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump prettytable from 3.5.0 to 3.6.0 (#1160)  * Bump pret...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1999427] retry install-upgrade hook when ManifestClie...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade unit+lint to use callable workflows, upgrade inte...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **simplification of juju_wait return values** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure charms and snaps go through a valid forward upgrade** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/97) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix latest snap tracks get stuck when released rev > desi...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade unit+lint to use callable workflows, upgrade inte...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade unit+lint to use callable workflows, upgrade inte...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Automotive trends at CES Las Vegas](https://ubuntu.com//blog/automotive-trends-at-ces-las-vegas) - Wed, 11 Jan 2023 14:14:48 
 * [DIY chiselled Ubuntu: crafting your own chiselled Ubuntu base image](https://ubuntu.com//blog/craft-custom-chiselled-ubuntu-distroless) - Tue, 10 Jan 2023 08:07:01 
 * [Chiselled Ubuntu containers: the benefits of combining Distroless and Ubuntu](https://ubuntu.com//blog/combining-distroless-and-ubuntu-chiselled-containers) - Mon, 09 Jan 2023 09:14:15 
 * [Kubescape brings a new level of security to Charmed Kubernetes](https://ubuntu.com//blog/kubescape-brings-a-new-level-of-security-to-charmed-kubernetes) - Fri, 06 Jan 2023 12:27:10 
 * [What changing vehicle ownership habits and mobility trends mean for the future of the automotive industry](https://ubuntu.com//blog/what-changing-vehicle-ownership-habits-and-mobility-trends-mean-for-the-future-of-the-automotive-industry) - Fri, 06 Jan 2023 12:20:22 
 * [Security in the smart home: considerations for device makers](https://ubuntu.com//blog/security-in-the-smart-home-considerations-for-device-makers) - Thu, 05 Jan 2023 10:59:30 
-* [WSL and Ubuntu: 2022 year in review](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review) - Wed, 04 Jan 2023 13:58:55 
 <!-- blog ends -->
