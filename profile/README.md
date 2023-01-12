@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update machine controller** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **exclude generated files from the created charm file** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure kubernetes-control-plane has dns-provider=none** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin ops.lib.manifest version** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/737) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/35) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add lb_enabled config (#67)  * Implement loadbalancer ena...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add lb_enabled to the relation (#13)  * Implement support...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add rbd to lxd-profile linux.kernel_modules. (#261)  LP: ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Hold nvidia_apt_packages to prevent them from being unins...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1999427] retry install-upgrade hook when ManifestClie...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **change initial cluster version to 1.24** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1999427] handle ManifestClientErrors which cause hicc...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2002186] include the control-plane toleration in the ...** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
- - [@addyess](https://github.com/addyess) has pushed the commit **resolve lint issues** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin/pull/11) in the [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update src/manifests.py** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin/pull/11) in the [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
