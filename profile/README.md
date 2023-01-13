@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-coredns/pull/35) in the [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add lb_enabled config (#67)  * Implement loadbalancer ena...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add lb_enabled to the relation (#13)  * Implement support...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add rbd to lxd-profile linux.kernel_modules. (#261)  LP: ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Hold nvidia_apt_packages to prevent them from being unins...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1999427] retry install-upgrade hook when ManifestClie...** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **change initial cluster version to 1.24** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1999427] handle ManifestClientErrors which cause hicc...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2002186] include the control-plane toleration in the ...** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add add machine functionality** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@NucciTheBoss](https://github.com/NucciTheBoss) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/98) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@addyess](https://github.com/addyess) has pushed the commit **updating coredns version to 1.10.0, along with test infra...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **updating coredns version to 1.10.0, along with test infra...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **change aws region** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add coredns-image to resource spec (#1166)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1166) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **test coredns with version 1.10.0 resource (#1165)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1165) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -45,9 +45,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- blog starts -->
 * [Automotive trends at CES Las Vegas](https://ubuntu.com//blog/automotive-trends-at-ces-las-vegas) - Wed, 11 Jan 2023 14:14:48 
+* [ASRock Industrial Partners with Canonical for Ubuntu-Certified Industrial Platforms](https://ubuntu.com//blog/asrock-industrial-partners-with-canonical-for-ubuntu-certified-industrial-platforms) - Wed, 11 Jan 2023 02:41:07 
 * [DIY chiselled Ubuntu: crafting your own chiselled Ubuntu base image](https://ubuntu.com//blog/craft-custom-chiselled-ubuntu-distroless) - Tue, 10 Jan 2023 08:07:01 
 * [Chiselled Ubuntu containers: the benefits of combining Distroless and Ubuntu](https://ubuntu.com//blog/combining-distroless-and-ubuntu-chiselled-containers) - Mon, 09 Jan 2023 09:14:15 
 * [Kubescape brings a new level of security to Charmed Kubernetes](https://ubuntu.com//blog/kubescape-brings-a-new-level-of-security-to-charmed-kubernetes) - Fri, 06 Jan 2023 12:27:10 
 * [What changing vehicle ownership habits and mobility trends mean for the future of the automotive industry](https://ubuntu.com//blog/what-changing-vehicle-ownership-habits-and-mobility-trends-mean-for-the-future-of-the-automotive-industry) - Fri, 06 Jan 2023 12:20:22 
-* [Security in the smart home: considerations for device makers](https://ubuntu.com//blog/security-in-the-smart-home-considerations-for-device-makers) - Thu, 05 Jan 2023 10:59:30 
 <!-- blog ends -->
