@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **make initial cluster v1.25.0** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **revert back aws region** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add add machine functionality** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@NucciTheBoss](https://github.com/NucciTheBoss) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/98) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **updating coredns version to 1.10.0, along with test infra...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Add coredns-image to resource spec (#1166)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1166) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **test coredns with version 1.10.0 resource (#1165)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1165) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
