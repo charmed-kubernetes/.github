@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Introduce env variables needed for testing CAPI MicroK8s ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1162) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Update charmcraft.yaml** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **split bases so that build-on/run-on are unique** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Cherry-picking for 1.26+ck1 (#13)  * Update ops.lib.manif...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/opa-gatekeeper-operators/pull/13) in the [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Cloud optimisation: cut your 2023 cloud spending by two-thirds](https://ubuntu.com//blog/cloud-optimisation) - Mon, 16 Jan 2023 07:00:10 
 * [The State of IoT – December 2022](https://ubuntu.com//blog/state-of-iot-december-2022) - Fri, 13 Jan 2023 14:40:42 
 * [Automotive trends at CES Las Vegas](https://ubuntu.com//blog/automotive-trends-at-ces-las-vegas) - Wed, 11 Jan 2023 14:14:48 
 * [ASRock Industrial Partners with Canonical for Ubuntu-Certified Industrial Platforms](https://ubuntu.com//blog/asrock-industrial-partners-with-canonical-for-ubuntu-certified-industrial-platforms) - Wed, 11 Jan 2023 02:41:07 
 * [DIY chiselled Ubuntu: crafting your own chiselled Ubuntu base image](https://ubuntu.com//blog/craft-custom-chiselled-ubuntu-distroless) - Tue, 10 Jan 2023 08:07:01 
 * [Chiselled Ubuntu containers: the benefits of combining Distroless and Ubuntu](https://ubuntu.com//blog/combining-distroless-and-ubuntu-chiselled-containers) - Mon, 09 Jan 2023 09:14:15 
-* [Kubescape brings a new level of security to Charmed Kubernetes](https://ubuntu.com//blog/kubescape-brings-a-new-level-of-security-to-charmed-kubernetes) - Fri, 06 Jan 2023 12:27:10 
 <!-- blog ends -->
