@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **kube-control isn't setup until kubeconfig file shows up** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use asyncio-mode=auto with integration tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **resolve linting issues** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore charm libraries during wokecheck** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions (#1)  * adjus...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **successful integration tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **put the charm into waiting status if kubevirt isn't deployed** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Juju auth (#1)  * obtain controller information from clie...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update machine controller to create machines accurately** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure special juju-wait arguments aren't hyphenated when...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **automatically install qemu on each kubevirt unit** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **build simple integration tests that launch an instance** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update k8s 1.23 and 1.24 to build with golang 1.19 (#1175)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1175) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1175) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensuring kubevirt software emulation can be enabled/disab...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Cloud storage pricing &#8211; how to optimise TCO](https://ubuntu.com//blog/cloud-storage-pricing-how-to-optimise-tco) - Thu, 19 Jan 2023 16:10:58 
 * [Containerization vs. Virtualization : understand the differences](https://ubuntu.com//blog/containerization-vs-virtualization) - Wed, 18 Jan 2023 09:00:02 
 * [Getting started with ROS security scanning](https://ubuntu.com//blog/getting-started-with-ros-security-scanning) - Mon, 16 Jan 2023 13:08:17 
 * [Cloud optimisation: cut your 2023 cloud spending by two-thirds](https://ubuntu.com//blog/cloud-optimisation) - Mon, 16 Jan 2023 07:00:10 
 * [The State of IoT – December 2022](https://ubuntu.com//blog/state-of-iot-december-2022) - Fri, 13 Jan 2023 14:40:42 
 * [Automotive trends at CES Las Vegas](https://ubuntu.com//blog/automotive-trends-at-ces-las-vegas) - Wed, 11 Jan 2023 14:14:48 
-* [ASRock Industrial Partners with Canonical for Ubuntu-Certified Industrial Platforms](https://ubuntu.com//blog/asrock-industrial-partners-with-canonical-for-ubuntu-certified-industrial-platforms) - Wed, 11 Jan 2023 02:41:07 
 <!-- blog ends -->
