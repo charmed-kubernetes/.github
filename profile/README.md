@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **permit access through proxy** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove warning which no longer applies (#738)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update specific version links (#739)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update operations.md (removed 'with' used twice) (#741)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Github Actions** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **switch to use Path.home() rather than /root** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **recheck the event kube_control relation while waiting for...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix linting** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix linting** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **kube-control isn't setup until kubeconfig file shows up** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **use asyncio-mode=auto with integration tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **resolve linting issues** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
