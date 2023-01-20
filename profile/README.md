@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch to use Path.home() rather than /root** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **recheck the event kube_control relation while waiting for...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix linting** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix linting** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **kube-control isn't setup until kubeconfig file shows up** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **use asyncio-mode=auto with integration tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **resolve linting issues** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore charm libraries during wokecheck** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust buildable series and python versions (#1)  * adjus...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **successful integration tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **put the charm into waiting status if kubevirt isn't deployed** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Juju auth (#1)  * obtain controller information from clie...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
