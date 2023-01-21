@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests (#2)  * adjust buildable series and pyt...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Rename to cluster-api-bootstrap-provider-charmed-k8s** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju/pull/1) in the [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **insert missing return statement** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **For KVM installations install corrrect packages and updat...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **require vsphere hw-version 17** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.23.16.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **permit access through proxy** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove warning which no longer applies (#738)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update specific version links (#739)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update operations.md (removed 'with' used twice) (#741)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Github Actions** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
