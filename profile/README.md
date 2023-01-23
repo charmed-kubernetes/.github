@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Github Actions and migrate to V-C-P (#1)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/1) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Removed aws-cli calls since resources are now handled by ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1156) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests (#2)  * adjust buildable series and pyt...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Rename to cluster-api-bootstrap-provider-charmed-k8s** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju/pull/1) in the [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **insert missing return statement** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **For KVM installations install corrrect packages and updat...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **require vsphere hw-version 17** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up cluster reconcile loop** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include kubevirt charm into build ci (#1177)  * include k...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Docs and License Text Updates (#3)  * Docs and License Te...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/3) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **add minimum channel to kubevirt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add icon** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Introduce pre-check scripts for microk8s releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
