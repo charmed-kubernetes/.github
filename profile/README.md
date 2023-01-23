@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Github Actions and migrate to V-C-P (#1)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/1) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Removed aws-cli calls since resources are now handled by ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1156) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests (#2)  * adjust buildable series and pyt...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Rename to cluster-api-bootstrap-provider-charmed-k8s** to [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju/pull/1) in the [cluster-api-bootstrap-provider-juju](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-juju) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **insert missing return statement** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **For KVM installations install corrrect packages and updat...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **require vsphere hw-version 17** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.23.16.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **permit access through proxy** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove warning which no longer applies (#738)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update specific version links (#739)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is MLOps going to look like in 2023?](https://ubuntu.com//blog/mlops-in-2023) - Mon, 23 Jan 2023 09:43:18 
 * [Ubuntu 18.04 LTS End Of Life &#8211; keep your fleet of devices up and running](https://ubuntu.com//blog/ubuntu-18-04-lts-end-of-life-keep-your-fleet-of-devices-up-and-running) - Fri, 20 Jan 2023 16:37:11 
 * [Cloud storage pricing &#8211; how to optimise TCO](https://ubuntu.com//blog/cloud-storage-pricing-how-to-optimise-tco) - Thu, 19 Jan 2023 16:10:58 
 * [Containerization vs. Virtualization : understand the differences](https://ubuntu.com//blog/containerization-vs-virtualization) - Wed, 18 Jan 2023 09:00:02 
 * [Getting started with ROS security scanning](https://ubuntu.com//blog/getting-started-with-ros-security-scanning) - Mon, 16 Jan 2023 13:08:17 
 * [Cloud optimisation: cut your 2023 cloud spending by two-thirds](https://ubuntu.com//blog/cloud-optimisation) - Mon, 16 Jan 2023 07:00:10 
-* [The State of IoT – December 2022](https://ubuntu.com//blog/state-of-iot-december-2022) - Fri, 13 Jan 2023 14:40:42 
 <!-- blog ends -->
