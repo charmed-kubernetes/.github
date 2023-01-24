@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Single check script** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up cluster reconcile loop** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **include kubevirt charm into build ci (#1177)  * include k...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Docs and License Text Updates (#3)  * Docs and License Te...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
@@ -32,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **add minimum channel to kubevirt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **add icon** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Introduce pre-check scripts for microk8s releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
