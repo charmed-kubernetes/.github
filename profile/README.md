@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump python-dotenv from 0.21.0 to 0.21.1 (#1179)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update series upgrade automation (#1178)  * Update series...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1178) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Minor update in comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Single check script** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up cluster reconcile loop** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **include kubevirt charm into build ci (#1177)  * include k...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Docs and License Text Updates (#3)  * Docs and License Te...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cast dirpath to PosixPath** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Refactor the extract logic** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Refactor the extract logic** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Implement multi-arch binaries for resources** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Missing quotes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **update release docs for 1.26+ck1 (#740)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/740) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
