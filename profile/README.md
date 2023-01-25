@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cast dirpath to PosixPath** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Refactor the extract logic** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Refactor the extract logic** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/2) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Implement multi-arch binaries for resources** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Missing quotes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **update release docs for 1.26+ck1 (#740)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/740) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Hubble and Cilium CLI tools (#2)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1181) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1181) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **include kubevirt charm into build ci (#1177)  * include k...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Pre-check for microk8s releases (#1180)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1180) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
