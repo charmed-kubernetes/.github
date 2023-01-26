@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Set provider ID when available** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@addyess](https://github.com/addyess) has pushed the commit **override HTTP*_PROXY with JUJU_CHARM_HTTP*_PROXY if avail...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Remove ubuntu user access to etcd tls cert files (#206)  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add 127.0.0.1 to the tls cert (#204)  This allows using e...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/206) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/204) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Hubble and Cilium CLI tools (#2)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1181) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1181) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
