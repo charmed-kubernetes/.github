@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Set provider ID when available** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **override HTTP*_PROXY with JUJU_CHARM_HTTP*_PROXY if avail...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Remove ubuntu user access to etcd tls cert files (#206)  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add 127.0.0.1 to the tls cert (#204)  This allows using e...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/206) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/204) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Tidy logs** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Hubble and Cilium CLI tools (#2)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Refactoring (#2)  * Refactor juju api calls into separate...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Improve idempotency** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **handle an uninstalled kubectl snap** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **mock out initial loading of the custom resource definitions** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
