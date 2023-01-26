@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Set provider ID when available** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **override HTTP*_PROXY with JUJU_CHARM_HTTP*_PROXY if avail...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Remove ubuntu user access to etcd tls cert files (#206)  ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Tidy logs** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Hubble and Cilium CLI tools (#2)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use a machine with GPU for the microk8s stable releases (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1181) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How Ubuntu Pro delivers enhanced security and manageability for Linux Desktop users](https://ubuntu.com//blog/ubuntu-pro-enhanced-security-and-manageability-for-linux-desktop) - Thu, 26 Jan 2023 13:35:21 
+* [Ubuntu Pro enters general availability](https://ubuntu.com//blog/ubuntu-pro-enters-ga) - Thu, 26 Jan 2023 12:50:25 
 * [How digital twins enable data-driven automotive supply chains](https://ubuntu.com//blog/how-digital-twins-enable-data-driven-automotive-supply-chains) - Tue, 24 Jan 2023 12:00:58 
 * [What is MLOps going to look like in 2023?](https://ubuntu.com//blog/mlops-in-2023) - Mon, 23 Jan 2023 09:43:18 
 * [Ubuntu 18.04 LTS End Of Life &#8211; keep your fleet of devices up and running](https://ubuntu.com//blog/ubuntu-18-04-lts-end-of-life-keep-your-fleet-of-devices-up-and-running) - Fri, 20 Jan 2023 16:37:11 
 * [Cloud storage pricing &#8211; how to optimise TCO](https://ubuntu.com//blog/cloud-storage-pricing-how-to-optimise-tco) - Thu, 19 Jan 2023 16:10:58 
-* [Containerization vs. Virtualization : understand the differences](https://ubuntu.com//blog/containerization-vs-virtualization) - Wed, 18 Jan 2023 09:00:02 
-* [Getting started with ROS security scanning](https://ubuntu.com//blog/getting-started-with-ros-security-scanning) - Mon, 16 Jan 2023 13:08:17 
 <!-- blog ends -->
