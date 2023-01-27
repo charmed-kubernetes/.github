@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Refactoring (#2)  * Refactor juju api calls into separate...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Improve idempotency** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/742) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **handle an uninstalled kubectl snap** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **mock out initial loading of the custom resource definitions** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **list filtered unready conditions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **list filtered unready conditions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Charm Cilium to support matrix (#1186)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1186) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **show violations if the len is unexpected** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **list all violiations, even if the constraint has no status** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore constraint resources without a status object** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore constraint resources without a status object** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [ROS 2 Foxy and ROS Melodic EOL &#8211; Keep your robots up and running](https://ubuntu.com//blog/ros-foxy-ros-melodic-eol) - Fri, 27 Jan 2023 14:04:49 
+* [Jammin&#8217; with Jami &#8211; Freedom, privacy, snaps](https://ubuntu.com//blog/jammin-with-jami-freedom-privacy-snaps) - Fri, 27 Jan 2023 12:51:00 
 * [How Ubuntu Pro delivers enhanced security and manageability for Linux Desktop users](https://ubuntu.com//blog/ubuntu-pro-enhanced-security-and-manageability-for-linux-desktop) - Thu, 26 Jan 2023 13:35:21 
 * [Ubuntu Pro enters general availability](https://ubuntu.com//blog/ubuntu-pro-enters-ga) - Thu, 26 Jan 2023 12:50:25 
 * [How digital twins enable data-driven automotive supply chains](https://ubuntu.com//blog/how-digital-twins-enable-data-driven-automotive-supply-chains) - Tue, 24 Jan 2023 12:00:58 
 * [What is MLOps going to look like in 2023?](https://ubuntu.com//blog/mlops-in-2023) - Mon, 23 Jan 2023 09:43:18 
-* [Ubuntu 18.04 LTS End Of Life &#8211; keep your fleet of devices up and running](https://ubuntu.com//blog/ubuntu-18-04-lts-end-of-life-keep-your-fleet-of-devices-up-and-running) - Fri, 20 Jan 2023 16:37:11 
-* [Cloud storage pricing &#8211; how to optimise TCO](https://ubuntu.com//blog/cloud-storage-pricing-how-to-optimise-tco) - Thu, 19 Jan 2023 16:10:58 
 <!-- blog ends -->
