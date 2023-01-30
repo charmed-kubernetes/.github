@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabilize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
+ - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabilize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove $ nonsense from shell examples** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabilize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabalize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabalize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **update status check will only be ready when the kubevirt ...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **list filtered unready conditions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
