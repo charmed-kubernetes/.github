@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove $ nonsense from shell examples** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabilize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabalize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabalize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
  - [@addyess](https://github.com/addyess) has pushed the commit **update status check will only be ready when the kubevirt ...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **list filtered unready conditions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **list filtered unready conditions** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Charm Cilium to support matrix (#1186)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1186) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **show violations if the len is unexpected** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **list all violiations, even if the constraint has no status** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet Canonical at MWC Barcelona 2023](https://ubuntu.com//blog/canonical-at-mwc) - Mon, 30 Jan 2023 09:18:19 
 * [ROS 2 Foxy and ROS Melodic EOL &#8211; Keep your robots up and running](https://ubuntu.com//blog/ros-foxy-ros-melodic-eol) - Fri, 27 Jan 2023 14:04:49 
 * [Jammin&#8217; with Jami &#8211; Freedom, privacy, snaps](https://ubuntu.com//blog/jammin-with-jami-freedom-privacy-snaps) - Fri, 27 Jan 2023 12:51:00 
 * [How Ubuntu Pro delivers enhanced security and manageability for Linux Desktop users](https://ubuntu.com//blog/ubuntu-pro-enhanced-security-and-manageability-for-linux-desktop) - Thu, 26 Jan 2023 13:35:21 
 * [Ubuntu Pro enters general availability](https://ubuntu.com//blog/ubuntu-pro-enters-ga) - Thu, 26 Jan 2023 12:50:25 
 * [How digital twins enable data-driven automotive supply chains](https://ubuntu.com//blog/how-digital-twins-enable-data-driven-automotive-supply-chains) - Tue, 24 Jan 2023 12:00:58 
-* [What is MLOps going to look like in 2023?](https://ubuntu.com//blog/mlops-in-2023) - Mon, 23 Jan 2023 09:43:18 
 <!-- blog ends -->
