@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#23)  update ops-lib-manifest** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/16) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/7) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-multus/pull/23) in the [charm-multus](https://github.com/charmed-kubernetes/charm-multus) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/20) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/gcp-k8s-storage/pull/6) in the [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/23) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on python 3.8 for focal LTS compat** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **unit test a single failing manifest condition** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
