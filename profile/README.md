@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test on python 3.8 for focal LTS compat** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **unit test a single failing manifest condition** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **use @main commit-id from ops-lib-manifest** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabilize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for opa-manger-operator to stabilize** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove $ nonsense from shell examples** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/4) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
