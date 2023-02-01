@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **switch to etcd v3** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@addyess](https://github.com/addyess) has pushed the commit **building flannel resources required docker** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@addyess](https://github.com/addyess) has pushed the commit **install virtctl into each kubevirt unit (#4)  * install v...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#23)  * update ops-lib-manifest** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#14)  * update ops-lib-manifest...** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#6)  * update ops-lib-manifest** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#16)  * update ops-lib-manifest** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#7)  * update ops-lib-manifest** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.7 to 9.0.9 (#1189)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.7 to 9.0.9  Bumps [mkdocs-m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump black from 22.12.0 to 23.1.0 (#1190)  * Bump black f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump black from 22.12.0 to 23.1.0 (#1190)  * Bump black f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump black from 22.12.0 to 23.1.0  Bumps [black](https://...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove pathos library** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove pathos library** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Multipass 1.11 brings enhanced performance for Linux on Mac and Windows](https://ubuntu.com//blog/multipass-1-11-brings-enhanced-performance-for-ubuntu-on-mac-and-windows) - Wed, 01 Feb 2023 15:35:05 
 * [Meet Canonical at MWC Barcelona 2023](https://ubuntu.com//blog/canonical-at-mwc) - Mon, 30 Jan 2023 09:18:19 
 * [ROS 2 Foxy and ROS Melodic EOL &#8211; Keep your robots up and running](https://ubuntu.com//blog/ros-foxy-ros-melodic-eol) - Fri, 27 Jan 2023 14:04:49 
 * [Jammin&#8217; with Jami &#8211; Freedom, privacy, snaps](https://ubuntu.com//blog/jammin-with-jami-freedom-privacy-snaps) - Fri, 27 Jan 2023 12:51:00 
 * [How Ubuntu Pro delivers enhanced security and manageability for Linux Desktop users](https://ubuntu.com//blog/ubuntu-pro-enhanced-security-and-manageability-for-linux-desktop) - Thu, 26 Jan 2023 13:35:21 
 * [Ubuntu Pro enters general availability](https://ubuntu.com//blog/ubuntu-pro-enters-ga) - Thu, 26 Jan 2023 12:50:25 
-* [How digital twins enable data-driven automotive supply chains](https://ubuntu.com//blog/how-digital-twins-enable-data-driven-automotive-supply-chains) - Tue, 24 Jan 2023 12:00:58 
 <!-- blog ends -->
