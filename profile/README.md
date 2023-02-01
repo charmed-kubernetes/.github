@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch to etcd v3** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
  - [@addyess](https://github.com/addyess) has pushed the commit **building flannel resources required docker** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
  - [@addyess](https://github.com/addyess) has pushed the commit **install virtctl into each kubevirt unit (#4)  * install v...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#23)  * update ops-lib-manifest** to [charm-multus](https://github.com/charmed-kubernetes/charm-multus)
@@ -32,8 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#6)  * update ops-lib-manifest** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#16)  * update ops-lib-manifest** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#7)  * update ops-lib-manifest** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/opa-gatekeeper-operators/pull/14) in the [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **update ops-lib-manifest (#20)  * update ops-lib-manifest** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
