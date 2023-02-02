@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Deploy easyrsa** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.7 to 9.0.9 (#1189)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.7 to 9.0.9  Bumps [mkdocs-m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump black from 22.12.0 to 23.1.0 (#1190)  * Bump black f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove pathos library** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove pathos library** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
