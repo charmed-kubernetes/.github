@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Better subprocess calls.  Co-authored-by: Adam Dyess <ada...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **switch from flannel v0.11.0 to v0.20.2 (#86)  * switch fr...** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Deploy easyrsa** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.7 to 9.0.9 (#1189)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.7 to 9.0.9  Bumps [mkdocs-m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump black from 22.12.0 to 23.1.0 (#1190)  * Bump black f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump black from 22.12.0 to 23.1.0 (#1190)  * Bump black f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump black from 22.12.0 to 23.1.0  Bumps [black](https://...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Remove pathos library (#1185)  * Bump pathos from 0.2.9 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [From model-centric to data-centric MLOps](https://ubuntu.com//blog/data-centric-mlops) - Thu, 02 Feb 2023 18:26:31 
 * [Multipass 1.11 brings enhanced performance for Linux on Mac and Windows](https://ubuntu.com//blog/multipass-1-11-brings-enhanced-performance-for-ubuntu-on-mac-and-windows) - Wed, 01 Feb 2023 15:35:05 
 * [Meet Canonical at MWC Barcelona 2023](https://ubuntu.com//blog/canonical-at-mwc) - Mon, 30 Jan 2023 09:18:19 
 * [ROS 2 Foxy and ROS Melodic EOL &#8211; Keep your robots up and running](https://ubuntu.com//blog/ros-foxy-ros-melodic-eol) - Fri, 27 Jan 2023 14:04:49 
 * [Jammin&#8217; with Jami &#8211; Freedom, privacy, snaps](https://ubuntu.com//blog/jammin-with-jami-freedom-privacy-snaps) - Fri, 27 Jan 2023 12:51:00 
 * [How Ubuntu Pro delivers enhanced security and manageability for Linux Desktop users](https://ubuntu.com//blog/ubuntu-pro-enhanced-security-and-manageability-for-linux-desktop) - Thu, 26 Jan 2023 13:35:21 
-* [Ubuntu Pro enters general availability](https://ubuntu.com//blog/ubuntu-pro-enters-ga) - Thu, 26 Jan 2023 12:50:25 
 <!-- blog ends -->
