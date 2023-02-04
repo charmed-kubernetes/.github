@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 9.0.9 to 9.0.10 (#1192)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix _set_active_status call.** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Switch to event.defer() to retry events.** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Cilium to Validation tests (#1191)  * Add Cilium to V...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update jobs/validate.yaml  Co-authored-by: Adam Dyess <ad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1191) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
