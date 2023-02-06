@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **fix link** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@devops-brain](https://github.com/devops-brain) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/745) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@devops-brain](https://github.com/devops-brain) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/744) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 9.0.9 to 9.0.10 (#1192)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix _set_active_status call.** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Switch to event.defer() to retry events.** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Cilium to Validation tests (#1191)  * Add Cilium to V...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
