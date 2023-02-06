@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has pushed the commit **fix link** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@devops-brain](https://github.com/devops-brain) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/745) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@devops-brain](https://github.com/devops-brain) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/744) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 9.0.9 to 9.0.10 (#1192)  * Bump...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/3) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1193) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Make CNI subordinate optional** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch to pypi distribution of ops-lib-manifest** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch to pypi distribution of ops-lib-manifest** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Implement CharmedK8sConfig spec and bootstrap data with l...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/3) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/3) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/3) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/3) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/3) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical joins the Academy Software Foundation](https://ubuntu.com//blog/canonical-joins-the-academy-software-foundation) - Mon, 06 Feb 2023 17:00:12 
+* [Canonical Experiences Continued Channel Business Growth and Momentum, Regis Paquette Named 2023 CRN Channel Chief](https://ubuntu.com//blog/canonical-continued-channel-business-growth-regis-paquette-2023-crn-channel-chief) - Mon, 06 Feb 2023 15:59:31 
 * [From model-centric to data-centric MLOps](https://ubuntu.com//blog/data-centric-mlops) - Thu, 02 Feb 2023 18:26:31 
 * [Multipass 1.11 brings enhanced performance for Linux on Mac and Windows](https://ubuntu.com//blog/multipass-1-11-brings-enhanced-performance-for-ubuntu-on-mac-and-windows) - Wed, 01 Feb 2023 15:35:05 
 * [Meet Canonical at MWC Barcelona 2023](https://ubuntu.com//blog/canonical-at-mwc) - Mon, 30 Jan 2023 09:18:19 
 * [ROS 2 Foxy and ROS Melodic EOL &#8211; Keep your robots up and running](https://ubuntu.com//blog/ros-foxy-ros-melodic-eol) - Fri, 27 Jan 2023 14:04:49 
-* [Jammin&#8217; with Jami &#8211; Freedom, privacy, snaps](https://ubuntu.com//blog/jammin-with-jami-freedom-privacy-snaps) - Fri, 27 Jan 2023 12:51:00 
-* [How Ubuntu Pro delivers enhanced security and manageability for Linux Desktop users](https://ubuntu.com//blog/ubuntu-pro-enhanced-security-and-manageability-for-linux-desktop) - Thu, 26 Jan 2023 13:35:21 
 <!-- blog ends -->
