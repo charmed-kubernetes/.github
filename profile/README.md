@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **attempt to retry snap commands using ts-retry (#48)  * at...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Refactor application creation/deletion** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/48) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **add tests for handling a flaky snap command (#49)  Adds t...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/49) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/49) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **provide our own exponential backoff algorithm** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/48) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **bump stable releases for validate-ck-upgrade tests (#1193...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1193) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **leave N->N/2 snap channels** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Crash if k8s version is missing from K8S_GO_MAP (#1197)  ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **retry both snap and apt commands** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/48) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
