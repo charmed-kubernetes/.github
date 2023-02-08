@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Hubble feature support (#3)  Co-authored-by: Adam Dye...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **attempt to retry snap commands using ts-retry (#48)  * at...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Refactor application creation/deletion** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
@@ -32,9 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **add tests for handling a flaky snap command (#49)  Adds t...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/49) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/49) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **provide our own exponential backoff algorithm** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/48) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **retry both snap and apt commands** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Is open-source as secure as proprietary software?](https://ubuntu.com//blog/does-open-source-software-have-the-same-safety-as-proprietary-software) - Wed, 08 Feb 2023 15:58:16 
 * [Secure open source MLOps for AI/ML applications in financial services](https://ubuntu.com//blog/secure-open-source-mlops-for-ai-ml-applications-in-financial-services) - Tue, 07 Feb 2023 07:12:19 
 * [Canonical joins the Academy Software Foundation](https://ubuntu.com//blog/canonical-joins-the-academy-software-foundation) - Mon, 06 Feb 2023 17:00:12 
 * [Canonical Experiences Continued Channel Business Growth and Momentum, Regis Paquette Named 2023 CRN Channel Chief](https://ubuntu.com//blog/canonical-continued-channel-business-growth-regis-paquette-2023-crn-channel-chief) - Mon, 06 Feb 2023 15:59:31 
 * [From model-centric to data-centric MLOps](https://ubuntu.com//blog/data-centric-mlops) - Thu, 02 Feb 2023 18:26:31 
 * [Multipass 1.11 brings enhanced performance for Linux on Mac and Windows](https://ubuntu.com//blog/multipass-1-11-brings-enhanced-performance-for-ubuntu-on-mac-and-windows) - Wed, 01 Feb 2023 15:35:05 
-* [Meet Canonical at MWC Barcelona 2023](https://ubuntu.com//blog/canonical-at-mwc) - Mon, 30 Jan 2023 09:18:19 
 <!-- blog ends -->
