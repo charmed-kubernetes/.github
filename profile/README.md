@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **port missing changes from flannel to canal  Prevent remov...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **align tox and gh workflow with current flannel  - tox twe...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **follow ck best practices for integration tests (overlay k...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Switch from flannel v0.11.0 to v0.20.2. (#76)  Bumping Fl...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/76) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
  - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Hubble feature support (#3)  Co-authored-by: Adam Dye...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **attempt to retry snap commands using ts-retry (#48)  * at...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Refactor application creation/deletion** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/48) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **add tests for handling a flaky snap command (#49)  Adds t...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/49) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/49) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **override charmhelpers from layer-basic with charm-helpers...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update wheelhouse.txt  speed up the parser  Co-authored...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [3 ways to apply security patches in Linux](https://ubuntu.com//blog/3-ways-to-apply-security-patches-in-linux) - Thu, 09 Feb 2023 00:28:31 
 * [Is open-source as secure as proprietary software?](https://ubuntu.com//blog/does-open-source-software-have-the-same-safety-as-proprietary-software) - Wed, 08 Feb 2023 15:58:16 
 * [Secure open source MLOps for AI/ML applications in financial services](https://ubuntu.com//blog/secure-open-source-mlops-for-ai-ml-applications-in-financial-services) - Tue, 07 Feb 2023 07:12:19 
 * [Canonical joins the Academy Software Foundation](https://ubuntu.com//blog/canonical-joins-the-academy-software-foundation) - Mon, 06 Feb 2023 17:00:12 
 * [Canonical Experiences Continued Channel Business Growth and Momentum, Regis Paquette Named 2023 CRN Channel Chief](https://ubuntu.com//blog/canonical-continued-channel-business-growth-regis-paquette-2023-crn-channel-chief) - Mon, 06 Feb 2023 15:59:31 
 * [From model-centric to data-centric MLOps](https://ubuntu.com//blog/data-centric-mlops) - Thu, 02 Feb 2023 18:26:31 
-* [Multipass 1.11 brings enhanced performance for Linux on Mac and Windows](https://ubuntu.com//blog/multipass-1-11-brings-enhanced-performance-for-ubuntu-on-mac-and-windows) - Wed, 01 Feb 2023 15:35:05 
 <!-- blog ends -->
