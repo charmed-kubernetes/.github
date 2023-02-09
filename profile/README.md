@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **port missing changes from flannel to canal  Prevent remov...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **align tox and gh workflow with current flannel  - tox twe...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **follow ck best practices for integration tests (overlay k...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Switch from flannel v0.11.0 to v0.20.2. (#76)  Bumping Fl...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/76) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@wolsen](https://github.com/wolsen) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **override charmhelpers from layer-basic with charm-helpers...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update wheelhouse.txt with new `conctl` (#75)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update canal with recent improvements to flannel (#77)  *...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **dont run tests on l33t commits to main** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **align gh workflow and tox with current flannel  - dupe re...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@ca-scribner](https://github.com/ca-scribner) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/747) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
