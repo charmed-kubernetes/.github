@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@alexpearce](https://github.com/alexpearce) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@alexpearce](https://github.com/alexpearce) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blacken this repo (#78)  * unleash the hounds  * blacke...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove unnecessary import** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **blacken (#11)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/78) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **wake up** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **wake up** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test with juju 3.0** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update AWS iam testing to be re-runnable (#1203)  * Updat...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1203) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update aws authentication to use `client.authentication.k...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update templates to remove deprecation (#12)  * update te...** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-iam/pull/12) in the [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/42) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **update hvac by including poetry-core and pinning zipp** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 9.0.11 to 9.0.12 (#1201)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
