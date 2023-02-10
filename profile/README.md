@@ -25,14 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
+ - [@alexpearce](https://github.com/alexpearce) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
+ - [@alexpearce](https://github.com/alexpearce) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blacken this repo (#78)  * unleash the hounds  * blacke...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove unnecessary import** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **blacken (#11)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/78) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **wake up** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **wake up** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update wheelhouse.txt with new `conctl` (#75)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update canal with recent improvements to flannel (#77)  *...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
