@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blacken this repo (#78)  * unleash the hounds  * blacke...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove unnecessary import** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **blacken (#11)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/78) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **wake up** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **wake up** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update wheelhouse.txt with new `conctl` (#75)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update canal with recent improvements to flannel (#77)  *...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **dont run tests on l33t commits to main** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **align gh workflow and tox with current flannel  - dupe re...** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@ca-scribner](https://github.com/ca-scribner) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/747) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/77) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Cloud repatriation drivers](https://ubuntu.com//blog/cloud-repatriation) - Fri, 10 Feb 2023 07:30:15 
 * [3 ways to apply security patches in Linux](https://ubuntu.com//blog/3-ways-to-apply-security-patches-in-linux) - Thu, 09 Feb 2023 00:28:31 
 * [Is open-source as secure as proprietary software?](https://ubuntu.com//blog/does-open-source-software-have-the-same-safety-as-proprietary-software) - Wed, 08 Feb 2023 15:58:16 
 * [Secure open source MLOps for AI/ML applications in financial services](https://ubuntu.com//blog/secure-open-source-mlops-for-ai-ml-applications-in-financial-services) - Tue, 07 Feb 2023 07:12:19 
 * [Canonical joins the Academy Software Foundation](https://ubuntu.com//blog/canonical-joins-the-academy-software-foundation) - Mon, 06 Feb 2023 17:00:12 
 * [Canonical Experiences Continued Channel Business Growth and Momentum, Regis Paquette Named 2023 CRN Channel Chief](https://ubuntu.com//blog/canonical-continued-channel-business-growth-regis-paquette-2023-crn-channel-chief) - Mon, 06 Feb 2023 15:59:31 
-* [From model-centric to data-centric MLOps](https://ubuntu.com//blog/data-centric-mlops) - Thu, 02 Feb 2023 18:26:31 
 <!-- blog ends -->
