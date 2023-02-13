@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [autoscaler](https://github.com/charmed-kubernetes/autoscaler)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1206) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **right the wrong test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **create tests for scale up and scale down of autoscaler (#...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1200) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update image (#21)  * update image  * Remove docker in ...** to [charm-kubernetes-autoscaler](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler/pull/21) in the [charm-kubernetes-autoscaler](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix error when creating manager** to [autoscaler](https://github.com/charmed-kubernetes/autoscaler)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/autoscaler/pull/11) in the [autoscaler](https://github.com/charmed-kubernetes/autoscaler) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **woke** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **improve validation tools.run to give better debug output** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin juju back to 2.9.38 release** to [charm-kubernetes-autoscaler](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove docker in workflow** to [charm-kubernetes-autoscaler](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lolcry, reverse the logic from 762e1429; we only want lea...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
