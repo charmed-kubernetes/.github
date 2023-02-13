@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [autoscaler](https://github.com/charmed-kubernetes/autoscaler)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1206) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/267) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **improve validation tools.run to give better debug output** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pin juju back to 2.9.38 release** to [charm-kubernetes-autoscaler](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove docker in workflow** to [charm-kubernetes-autoscaler](https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore woke check on service** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
