@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/4) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **for github self-hosted runners, use `/home/ubuntu/pytest`...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Modify Pods phases check (#269)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Address issues, add machine template** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **for github self-hosted runners, use `/home/ubuntu/pytest`...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **lint** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **sane perms on file-watcher; stop propagating unused CSVs ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **run simple unit tests on charms** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **work to pass linting, use appropriate sg group** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use strictly confined microk8s** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **testing integration tests on microk8s** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Revert "Revert "let lp infer the series from snapcraft.ya...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Revert "let lp infer the series from snapcraft.yaml (#120...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Include `certgen` certificates  (#4)  * Modify manifests ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
