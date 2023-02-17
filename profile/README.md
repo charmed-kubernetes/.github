@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **build charms before testing** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Use core20 base in k8s 1.27 pre-release builds (#1212)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1212) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **separate charm build from charm test stage** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **attempt to run integration tests without the `sg snap_mic...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **lint** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **sane perms on file-watcher; stop propagating unused CSVs ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **run simple unit tests on charms** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **work to pass linting, use appropriate sg group** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **use strictly confined microk8s** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **testing integration tests on microk8s** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Revert "Revert "let lp infer the series from snapcraft.ya...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Revert "let lp infer the series from snapcraft.yaml (#120...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Include `certgen` certificates  (#4)  * Modify manifests ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/99) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Course for deploying ROS applications now available in The Construct](https://ubuntu.com//blog/course-deploying-ros-applications) - Fri, 17 Feb 2023 01:00:58 
 * [Common misconceptions behind cloud migration failures](https://ubuntu.com//blog/cloud-migration-failures) - Thu, 16 Feb 2023 07:30:03 
 * [Project Sputnik retrospective: 10 years of developer laptops with Dell](https://ubuntu.com//blog/project-sputnik-retrospective-10-years-of-developer-laptops-with-dell) - Wed, 15 Feb 2023 20:39:32 
 * [Real-time Ubuntu is now generally available](https://ubuntu.com//blog/real-time-ubuntu-is-now-generally-available) - Tue, 14 Feb 2023 13:00:56 
 * [Top CIO Challenges in 2023](https://ubuntu.com//blog/top_cios_challenges_2023) - Mon, 13 Feb 2023 10:19:40 
 * [Cloud repatriation drivers](https://ubuntu.com//blog/cloud-repatriation) - Fri, 10 Feb 2023 07:30:15 
-* [3 ways to apply security patches in Linux](https://ubuntu.com//blog/3-ways-to-apply-security-patches-in-linux) - Thu, 09 Feb 2023 00:28:31 
 <!-- blog ends -->
