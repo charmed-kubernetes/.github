@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Gopaddle – A Low-Code Internal Developer Platform for Canonical&#8217;s MicroK8s edge cloud](https://ubuntu.com//blog/gopaddle-a-low-code-internal-developer-platform-for-canonicals-microk8s-edge-cloud) - Mon, 20 Feb 2023 06:00:55 
+* [Cloud computing security and compliance with Ubuntu Pro](https://ubuntu.com//blog/open-source-security-with-ubuntu-pro) - Sun, 19 Feb 2023 22:26:34 
+* [Air gapped network: FIPS 140 compliance with Ubuntu](https://ubuntu.com//blog/enabling-ubuntu-fips-140-in-air-gapped-environments) - Sun, 19 Feb 2023 19:00:15 
 * [Course for deploying ROS applications now available in The Construct](https://ubuntu.com//blog/course-deploying-ros-applications) - Fri, 17 Feb 2023 01:00:58 
 * [Common misconceptions behind cloud migration failures](https://ubuntu.com//blog/cloud-migration-failures) - Thu, 16 Feb 2023 07:30:03 
 * [Project Sputnik retrospective: 10 years of developer laptops with Dell](https://ubuntu.com//blog/project-sputnik-retrospective-10-years-of-developer-laptops-with-dell) - Wed, 15 Feb 2023 20:39:32 
-* [Real-time Ubuntu is now generally available](https://ubuntu.com//blog/real-time-ubuntu-is-now-generally-available) - Tue, 14 Feb 2023 13:00:56 
-* [Top CIO Challenges in 2023](https://ubuntu.com//blog/top_cios_challenges_2023) - Mon, 13 Feb 2023 10:19:40 
-* [Cloud repatriation drivers](https://ubuntu.com//blog/cloud-repatriation) - Fri, 10 Feb 2023 07:30:15 
 <!-- blog ends -->
