@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Added IPv4 CIDR/Mask Patch** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Added IPv4 CIDR/Mask Patch** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **Common name for both the clusters** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **Add UPGRADE_STRATEGY variable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Basdbruijne](https://github.com/Basdbruijne) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1213) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update ops.lib.manifest (#6)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **improvements to sync_all_track_snaps (#1214)  * improveme...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1214) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Added IPv4 CIDR/Mask manifest Patch (#7)  * Added IPv4 CI...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add validation --juju-ssh-proxy option (#1213)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `config.yaml` IPv4 descriptions** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `config.yaml` IPv4 descriptions** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Unit Tests (#5)  * Add unit tests  * Fix @lru_cache...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
