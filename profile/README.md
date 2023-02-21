@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove machine template status and other small fixes** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **woke** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blaken** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Elektrobit and Canonical announce EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/elektrobit-and-canonical-announce-eb-corbos-linux-built-on-ubuntu) - Tue, 21 Feb 2023 08:00:06 
 * [Gopaddle – A Low-Code Internal Developer Platform for Canonical&#8217;s MicroK8s edge cloud](https://ubuntu.com//blog/gopaddle-a-low-code-internal-developer-platform-for-canonicals-microk8s-edge-cloud) - Mon, 20 Feb 2023 06:00:55 
 * [Cloud computing security and compliance with Ubuntu Pro](https://ubuntu.com//blog/open-source-security-with-ubuntu-pro) - Sun, 19 Feb 2023 22:26:34 
 * [Air gapped network: FIPS 140 compliance with Ubuntu](https://ubuntu.com//blog/enabling-ubuntu-fips-140-in-air-gapped-environments) - Sun, 19 Feb 2023 19:00:15 
 * [Course for deploying ROS applications now available in The Construct](https://ubuntu.com//blog/course-deploying-ros-applications) - Fri, 17 Feb 2023 01:00:58 
 * [Common misconceptions behind cloud migration failures](https://ubuntu.com//blog/cloud-migration-failures) - Thu, 16 Feb 2023 07:30:03 
-* [Project Sputnik retrospective: 10 years of developer laptops with Dell](https://ubuntu.com//blog/project-sputnik-retrospective-10-years-of-developer-laptops-with-dell) - Wed, 15 Feb 2023 20:39:32 
 <!-- blog ends -->
