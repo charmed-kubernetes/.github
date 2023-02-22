@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Added IPv4 CIDR/Mask manifest Patch (#7)  * Added IPv4 CI...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add validation --juju-ssh-proxy option (#1213)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `config.yaml` IPv4 descriptions** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `config.yaml` IPv4 descriptions** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Unit Tests (#5)  * Add unit tests  * Fix @lru_cache...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/7) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Set variables to create a new cluster for in-place upgrad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1215) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust templates to force loading of the service account** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix typo building autoscaler overlay (#1217)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Propagate changes in the `/root/cdk/serviceaccount.key` f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **drop testing on push to branches, just tests on pull_requ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1216) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1216) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1216) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **increase timeout to 10m** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
