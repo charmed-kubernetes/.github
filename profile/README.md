@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add replica management and bootstrap config generation** to [cluster-api-control-plane-provider-juju](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-juju/pull/1) in the [cluster-api-control-plane-provider-juju](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **testing integration tests on microk8s** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Deploy kubeapi-load-balancer in order to obtain a apiserv...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/3) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update default channel config to 1.27/edge (#136)  * Upda...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/136) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust templates to force loading of the service account** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust templates to force loading of the service account** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Set variables to create a new cluster for in-place upgrad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1215) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust templates to force loading of the service account** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix typo building autoscaler overlay (#1217)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Propagate changes in the `/root/cdk/serviceaccount.key` f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **drop testing on push to branches, just tests on pull_requ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1216) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1216) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update deepcopy** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
