@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-alpha.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1218) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1218) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use mem and cpu based constraints where possible** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **test control-plane charm on juju 2.9 and 3.0 controllers ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/268) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update snap channel to 1.27/edge (#873)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/873) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update defautl channel config to 1.27/edge (#27)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/27) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **pin juju<3.1 for testing while juju is pinned to 2.9 chan...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add replica management and bootstrap config generation** to [cluster-api-control-plane-provider-juju](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-juju)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-juju/pull/1) in the [cluster-api-control-plane-provider-juju](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-juju) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **testing integration tests on microk8s** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
