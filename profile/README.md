@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Harnessing the potential of 5G with Kubernetes](https://ubuntu.com//blog/harnessing-the-potential-of-5g-with-kubernetes) - Fri, 24 Feb 2023 14:28:47 
+* [What is real-time Linux? Part I](https://ubuntu.com//blog/what-is-real-time-linux-i) - Fri, 24 Feb 2023 09:41:33 
+* [Closed loop architecture and persistent volumes for network functions &#8211; Highlights in OSM release THIRTEEN](https://ubuntu.com//blog/closed-loop-architecture-and-persistent-volumes-for-network-functions-highlights-in-osm-release-thirteen) - Thu, 23 Feb 2023 14:10:52 
+* [Linux security: your questions, answered](https://ubuntu.com//blog/linux-security-frequently-asked-questions) - Wed, 22 Feb 2023 10:00:59 
+* [Elektrobit and Canonical announce EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/elektrobit-and-canonical-announce-eb-corbos-linux-built-on-ubuntu) - Tue, 21 Feb 2023 08:00:06 
+* [Gopaddle – A Low-Code Internal Developer Platform for Canonical&#8217;s MicroK8s edge cloud](https://ubuntu.com//blog/gopaddle-a-low-code-internal-developer-platform-for-canonicals-microk8s-edge-cloud) - Mon, 20 Feb 2023 06:00:55 
 <!-- blog ends -->
