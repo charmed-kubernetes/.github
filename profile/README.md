@@ -25,8 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **fetch kubeconfig in a directory accessible to juju strict...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **first cilium release will be for 1.27** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Updating v1.24.10-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.25.6-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.24.10-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update prev release for main** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update defaults for 1.26** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update defaults for 1.25** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update defaults for 1.24** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **backup to pacific** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **set the application status version** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
