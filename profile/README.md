@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.24/d2iq (#2167)  Signed-off-by...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **handle dockerhub rate limits better (#1220)  * better dh ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1220) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@dragomirp](https://github.com/dragomirp) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/101) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@addyess](https://github.com/addyess) has pushed the commit **backup to pacific** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **woke** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **adding cloud provider storage overlays (#872)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **fail if our limit is <= 50** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **only authn dockerhub (otherwise fails on repos like nvidia)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **better dh rate limit handling** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **fail if our limit is <= 25** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **fail if our limit is <= 25** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **hide token; quote multiline output** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Updating v1.24.10-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical announces support for the 4th Gen Intel Xeon Scalable processors with Intel vRAN Boost](https://ubuntu.com//blog/canonical-announces-support-for-the-4th-gen-intel-xeon-scalable-processors-with-intel-vran-boost) - Mon, 27 Feb 2023 14:23:15 
 * [Rethink your Cloud strategy in 2023](https://ubuntu.com//blog/rethink-your-cloud-strategy-in-2023) - Sun, 26 Feb 2023 01:42:59 
 * [Out with the Old, In with the New](https://ubuntu.com//blog/meet-canonical-at-mwc-barcelona-2023) - Sat, 25 Feb 2023 17:18:22 
 * [Harnessing the potential of 5G with Kubernetes](https://ubuntu.com//blog/harnessing-the-potential-of-5g-with-kubernetes) - Fri, 24 Feb 2023 14:28:47 
 * [What is real-time Linux? Part I](https://ubuntu.com//blog/what-is-real-time-linux-i) - Fri, 24 Feb 2023 09:41:33 
 * [Closed loop architecture and persistent volumes for network functions &#8211; Highlights in OSM release THIRTEEN](https://ubuntu.com//blog/closed-loop-architecture-and-persistent-volumes-for-network-functions-highlights-in-osm-release-thirteen) - Thu, 23 Feb 2023 14:10:52 
-* [Linux security: your questions, answered](https://ubuntu.com//blog/linux-security-frequently-asked-questions) - Wed, 22 Feb 2023 10:00:59 
 <!-- blog ends -->
