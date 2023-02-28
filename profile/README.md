@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@taurus-forever](https://github.com/taurus-forever) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/51) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.26/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove pvc annotation during read/write tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.24/d2iq (#2167)  Signed-off-by...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **handle dockerhub rate limits better (#1220)  * better dh ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1220) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@dragomirp](https://github.com/dragomirp) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/101) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **backup to pacific** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **woke** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **adding cloud provider storage overlays (#872)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add missing contact field** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **let CI handle the autoscaler (#1223)  * let CI handle the...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1223) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1223) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **spell beter** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **refine release docs (#1222)  - use consistent examples an...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1222) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.26/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
