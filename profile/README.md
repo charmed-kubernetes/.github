@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1153) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **parameterize the juju channel** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1221) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **isolate ps5-12 for juju3 CI testing** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Bug fix: identify pre-stable microk8s releases (#1106)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **improve relabile tear-down of ceph test when ceph units a...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1151) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **test 1.26-strict/edge** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@taurus-forever](https://github.com/taurus-forever) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/51) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.26/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add missing contact field** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **let CI handle the autoscaler (#1223)  * let CI handle the...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1223) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1223) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **spell beter** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **refine release docs (#1222)  - use consistent examples an...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1222) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
