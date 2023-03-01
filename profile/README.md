@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1153) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **parameterize the juju channel** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1221) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **isolate ps5-12 for juju3 CI testing** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Bug fix: identify pre-stable microk8s releases (#1106)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **improve relabile tear-down of ceph test when ceph units a...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1151) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **test 1.26-strict/edge** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@taurus-forever](https://github.com/taurus-forever) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/51) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.26/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **test 1.26/edge classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@sed-i](https://github.com/sed-i) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/52) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **reintroduce snap revisions to support in sync-snaps (#118...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1188) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add Charm Cilium to support matrix (#1186)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **rename integration tests** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **lint and formatting** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
