@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **test 1.26/edge classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@sed-i](https://github.com/sed-i) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/52) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **reintroduce snap revisions to support in sync-snaps (#118...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1188) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add Charm Cilium to support matrix (#1186)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **rename integration tests** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **lint and formatting** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure kubeflow crds are available to the client** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure kubeflow crds are available to the client** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch to strict microk8s 1.25/stable snap** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use microk8s group to run tests** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.23.17.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **renamed controller charm** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1153) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1153) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1224) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
