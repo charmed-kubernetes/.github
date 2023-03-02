@@ -25,16 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure kubeflow crds are available to the client** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure kubeflow crds are available to the client** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch to strict microk8s 1.25/stable snap** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **use microk8s group to run tests** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.23.17.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **renamed controller charm** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1153) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1153) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1224) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **test 1.26/stable classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/5) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Address duplicate core import** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@addyess](https://github.com/addyess) has pushed the commit **container.exec(...) must contain list of str** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/874) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **isolate ps5-12 for juju3 CI testing (#1153)  * isolate ps...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet Canonical at Embedded World 2023](https://ubuntu.com//blog/meet-canonical-at-embedded-world-2023) - Thu, 02 Mar 2023 08:23:09 
+* [Setup your own VPN server](https://ubuntu.com//blog/setup-your-own-vpn-server) - Wed, 01 Mar 2023 23:37:36 
 * [Create stop motion animation with Dragonframe on Ubuntu](https://ubuntu.com//blog/create-stop-motion-animation-with-dragonframe-on-ubuntu) - Wed, 01 Mar 2023 12:48:09 
 * [What is real-time Linux? Part II](https://ubuntu.com//blog/what-is-real-time-linux-ii) - Tue, 28 Feb 2023 12:35:57 
 * [Top 10 robotics snaps in the Snap Store &#8211; Part 1](https://ubuntu.com//blog/top-10-robotics-snaps-p1) - Tue, 28 Feb 2023 08:51:07 
 * [Canonical announces support for the 4th Gen Intel Xeon Scalable processors with Intel vRAN Boost](https://ubuntu.com//blog/canonical-announces-support-for-the-4th-gen-intel-xeon-scalable-processors-with-intel-vran-boost) - Mon, 27 Feb 2023 14:23:15 
-* [Rethink your Cloud strategy in 2023](https://ubuntu.com//blog/rethink-your-cloud-strategy-in-2023) - Sun, 26 Feb 2023 01:42:59 
-* [Out with the Old, In with the New [Telco Edition]: A Canonical and Spectro Cloud Collaboration at MWC 2023](https://ubuntu.com//blog/meet-canonical-at-mwc-barcelona-2023) - Sat, 25 Feb 2023 17:18:22 
 <!-- blog ends -->
