@@ -25,12 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@sachinkumarsingh092](https://github.com/sachinkumarsingh092) has pushed the commit **test 1.26/stable classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/5) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Address duplicate core import** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@addyess](https://github.com/addyess) has pushed the commit **container.exec(...) must contain list of str** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/874) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **isolate ps5-12 for juju3 CI testing (#1153)  * isolate ps...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/207) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **pinning juju snap channels (#50)  * pinning snap channels...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/50) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **give each calicoctl command 60s to finish rather than hol...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **continue following latest/stable on all channels except juju** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update integration tests to run with juju 3.x** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update integration tests to run with juju 3.x** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update integration tests to run with juju 3.x** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fetch version by executing command over pebble (#3)  * Fe...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/95) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
