@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add containerd charm** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@addyess](https://github.com/addyess) has pushed the commit **guard all sharing of the `get_ingress_address(db)` value ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/43) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **lint issues** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/50) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **give each calicoctl command 60s to finish rather than hol...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **continue following latest/stable on all channels except juju** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update integration tests to run with juju 3.x** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update integration tests to run with juju 3.x** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
