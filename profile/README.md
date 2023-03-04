@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.26/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **format** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add woke ignore line** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix wheelhouse failures on ops 2.1.0 (#274)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix wheelhouse failures on ops 2.1.0 (#274)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/274) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/274) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
