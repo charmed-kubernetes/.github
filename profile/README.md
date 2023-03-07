@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add config option to ignore missing CNI and enter active ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/275) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update config.yaml  Co-authored-by: George Kraft <george....** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **delay sharing details until etcd is registered (#207)  * ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/207) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/5) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is real-time Linux? Part III](https://ubuntu.com//blog/what-is-real-time-linux-part-iii) - Tue, 07 Mar 2023 08:02:32 
 * [What happens in the Craft team stays in the Craft team … until today](https://ubuntu.com//blog/what-happens-in-the-craft-team-stays-in-the-craft-team-until-today) - Mon, 06 Mar 2023 12:10:07 
 * [Join us at Everything Open 2023 in Melbourne to Learn about Open Source Technologies and Best Practices for Linux Security](https://ubuntu.com//blog/everything-open-2023-in-melbourne) - Mon, 06 Mar 2023 07:35:07 
 * [Join us at Operator Day, hosted by Canonical at KubeCon Europe 2023](https://ubuntu.com//blog/operator-day-kubecon-europe-2023) - Mon, 06 Mar 2023 06:00:59 
 * [Top 5 MLOps challenges](https://ubuntu.com//blog/mlops-challenges) - Fri, 03 Mar 2023 07:30:50 
 * [Meet Canonical at Embedded World 2023](https://ubuntu.com//blog/meet-canonical-at-embedded-world-2023) - Thu, 02 Mar 2023 08:23:09 
-* [Setup your own VPN server](https://ubuntu.com//blog/setup-your-own-vpn-server) - Wed, 01 Mar 2023 23:37:36 
 <!-- blog ends -->
