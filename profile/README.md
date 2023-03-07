@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cjohnston1158](https://github.com/cjohnston1158) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/753) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Also disable kubernetes-dashboard** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ignore missing CNI, disable metrics, disable DNS  Co-auth...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/102) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **delay sharing details until etcd is registered (#207)  * ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/207) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding accessors to expand ci_lxc commands** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/5) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
