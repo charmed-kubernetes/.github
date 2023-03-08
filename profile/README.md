@@ -26,14 +26,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@addyess](https://github.com/addyess) has pushed the commit **allow python juju library to be upgraded, but to pin back...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **allow python juju library to be upgraded, but to pin back...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **allow python juju library to be upgraded, but to pin back...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Consume bootstrap data to add applications to machines (#...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/5) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **evaluate lxc-runner jjb** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Charmed Kubeflow 1.7 Beta is here. Try it now!](https://ubuntu.com//blog/kubeflow-1-7-beta-release) - Wed, 08 Mar 2023 12:39:15 
 * [Canonical joins the Eclipse Foundation’s Software Defined Vehicle working group](https://ubuntu.com//blog/canonical-joins-the-eclipse-foundations-software-defined-vehicle-working-group) - Tue, 07 Mar 2023 13:00:14 
 * [What is real-time Linux? Part III](https://ubuntu.com//blog/what-is-real-time-linux-part-iii) - Tue, 07 Mar 2023 08:02:32 
 * [What happens in the Craft team stays in the Craft team … until today](https://ubuntu.com//blog/what-happens-in-the-craft-team-stays-in-the-craft-team-until-today) - Mon, 06 Mar 2023 12:10:07 
 * [Join us at Everything Open 2023 in Melbourne to Learn about Open Source Technologies and Best Practices for Linux Security](https://ubuntu.com//blog/everything-open-2023-in-melbourne) - Mon, 06 Mar 2023 07:35:07 
 * [Join us at Operator Day, hosted by Canonical at KubeCon Europe 2023](https://ubuntu.com//blog/operator-day-kubecon-europe-2023) - Mon, 06 Mar 2023 06:00:59 
-* [Top 5 MLOps challenges](https://ubuntu.com//blog/mlops-challenges) - Fri, 03 Mar 2023 07:30:50 
 <!-- blog ends -->
