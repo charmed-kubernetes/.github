@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **address lxc snap installs where the snap install arrives ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **update logging docs to align with ncsc (#750)  * update l...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/750) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **rename validation job name so that generated reports are ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add actions related code to juju package** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@kwmonroe](https://github.com/kwmonroe) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/753) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/754) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove deprecation warnings for kube scheduler (#273)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/273) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.27/deprecation (#43)  * Handle 1.27 deprecation and mov...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1227) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up comments** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Use action support from juju wrapper in infra provider** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Unit test configure_kublet and correctly map error string...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/44) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **simplify the container runtime settings in kubelet knowin...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@addyess](https://github.com/addyess) has pushed the commit **don't raise an error for an invalid runtime, rely on kubl...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,7 +44,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [MAAS 3.3 is now available](https://ubuntu.com//blog/maas-3-3) - Thu, 09 Mar 2023 14:14:02 
+* [MAAS 3.3 is now available](https://ubuntu.com//blog/maas-3-3-available) - Thu, 09 Mar 2023 14:14:02 
 * [Canonical enables Ubuntu on Microchip’s PolarFire® SoC FPGA Icicle Kit RISC-V board](https://ubuntu.com//blog/ubuntu-on-microchip-polarfire-risc-v-board) - Wed, 08 Mar 2023 15:00:52 
 * [Charmed Kubeflow 1.7 Beta is here. Try it now!](https://ubuntu.com//blog/kubeflow-1-7-beta-release) - Wed, 08 Mar 2023 12:39:15 
 * [Canonical joins the Eclipse Foundation’s Software Defined Vehicle working group](https://ubuntu.com//blog/canonical-joins-the-eclipse-foundations-software-defined-vehicle-working-group) - Tue, 07 Mar 2023 13:00:14 
