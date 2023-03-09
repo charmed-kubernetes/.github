@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/2) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/2) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/2) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/2) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **switch default model creation to juju 3.1 style** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1225) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1225) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove test job since we're altering the validate-ck and ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert "isolate ps5-12 for juju3 CI testing (#1153)" (#12...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **improve comments and jenkins job definition** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add actions related code to juju package** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@kwmonroe](https://github.com/kwmonroe) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/753) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/754) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove deprecation warnings for kube scheduler (#273)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/273) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.27/deprecation (#43)  * Handle 1.27 deprecation and mov...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/43) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/43) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add kubeconfig reconciliation steps** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/43) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
