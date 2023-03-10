@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor config into its own module** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor config into its own module** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@sed-i](https://github.com/sed-i) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/103) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@sed-i](https://github.com/sed-i) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/103) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1227) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Clean up comments** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Use action support from juju wrapper in infra provider** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Unit test configure_kublet and correctly map error string...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/44) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **simplify the container runtime settings in kubelet knowin...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@addyess](https://github.com/addyess) has pushed the commit **don't raise an error for an invalid runtime, rely on kubl...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
