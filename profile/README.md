@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/755) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.0-alpha.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **refactor lxc launching to be more robust (#1229)  * refac...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **spread out validate-ck jobs by series and charm-version (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **rename job name for validation spec** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **refactor lxc launching to be more robust** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **keep 10 runs worth of job history (#1224)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **improve relabile tear-down of ceph test when ceph units a...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **shrink lxc container name** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Sidecar volcano-scheduler (#2)  * Test running the volcan...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/2) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **start kubernetes-e2e tests in the background** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add-relation -> integrate** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/2) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/2) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Point infra provider dependency to main now that PR has m...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **fix bug where applications would be reported as active/id...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **unit test within_channel_range** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
