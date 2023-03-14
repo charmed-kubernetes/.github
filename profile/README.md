@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Time to prepare for Ubuntu 18.04 LTS End of Standard Support on 31 May 2023](https://ubuntu.com//blog/18-04-end-of-standard-support) - Tue, 14 Mar 2023 11:04:56 
 * [Canonical teams up with MediaTek to optimise Ubuntu for IoT innovations](https://ubuntu.com//blog/canonical-mediatek-iot-innovations) - Tue, 14 Mar 2023 08:00:18 
 * [Canonical announces Ubuntu Core compatible with SystemReady IR Systems, highlights OS security with PSA Certified Level 1 achievement](https://ubuntu.com//blog/systemready-and-psa-certification-for-ubuntu-core) - Tue, 14 Mar 2023 08:00:06 
 * [Functional safety in automotive: contributing to ISO 26262 and ISO 21434 standards](https://ubuntu.com//blog/functional-safety-in-automotive-contributing-to-iso-26262-and-iso-21434-standards) - Mon, 13 Mar 2023 11:23:21 
 * [MAAS 3.3 is now available](https://ubuntu.com//blog/maas-3-3-available) - Thu, 09 Mar 2023 14:14:02 
 * [Canonical enables Ubuntu on Microchip’s PolarFire® SoC FPGA Icicle Kit RISC-V board](https://ubuntu.com//blog/ubuntu-on-microchip-polarfire-risc-v-board) - Wed, 08 Mar 2023 15:00:52 
-* [Charmed Kubeflow 1.7 Beta is here. Try it now!](https://ubuntu.com//blog/kubeflow-1-7-beta-release) - Wed, 08 Mar 2023 12:39:15 
 <!-- blog ends -->
