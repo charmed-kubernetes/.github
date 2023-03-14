@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/2) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/2) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Refactor kubeconfig deletion** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@addyess](https://github.com/addyess) has pushed the commit **Sidecar volcano-scheduler (#2)  * Test running the volcan...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/2) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **start kubernetes-e2e tests in the background** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/2) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/2) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Point infra provider dependency to main now that PR has m...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **fix bug where applications would be reported as active/id...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/7) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **unit test within_channel_range** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical teams up with MediaTek to optimise Ubuntu for IoT innovations](https://ubuntu.com//blog/canonical-mediatek-iot-innovations) - Tue, 14 Mar 2023 08:00:18 
+* [Canonical announces Ubuntu Core compatible with SystemReady IR Systems, highlights OS security with PSA Certified Level 1 achievement](https://ubuntu.com//blog/systemready-and-psa-certification-for-ubuntu-core) - Tue, 14 Mar 2023 08:00:06 
 * [Functional safety in automotive: contributing to ISO 26262 and ISO 21434 standards](https://ubuntu.com//blog/functional-safety-in-automotive-contributing-to-iso-26262-and-iso-21434-standards) - Mon, 13 Mar 2023 11:23:21 
 * [MAAS 3.3 is now available](https://ubuntu.com//blog/maas-3-3-available) - Thu, 09 Mar 2023 14:14:02 
 * [Canonical enables Ubuntu on Microchip’s PolarFire® SoC FPGA Icicle Kit RISC-V board](https://ubuntu.com//blog/ubuntu-on-microchip-polarfire-risc-v-board) - Wed, 08 Mar 2023 15:00:52 
 * [Charmed Kubeflow 1.7 Beta is here. Try it now!](https://ubuntu.com//blog/kubeflow-1-7-beta-release) - Wed, 08 Mar 2023 12:39:15 
-* [Canonical joins the Eclipse Foundation’s Software Defined Vehicle working group](https://ubuntu.com//blog/canonical-joins-the-eclipse-foundations-software-defined-vehicle-working-group) - Tue, 07 Mar 2023 13:00:14 
-* [What is real-time Linux? Part III](https://ubuntu.com//blog/what-is-real-time-linux-part-iii) - Tue, 07 Mar 2023 08:02:32 
 <!-- blog ends -->
