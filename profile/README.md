@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **set snapd-channel for upgrade** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix juju-wait call** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore non-ip addresses when looking for ipv6 addresses** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for router to come up with juju-wait rather than juj...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait for router to come up with juju-wait rather than juj...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure if running in a juju2.0 environment to pin back th...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **test for juju 2.9 controller in test spec** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump attrs from 20.3.0 to 22.2.0 (#1230)  Bumps [attrs](h...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/101) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pass on zero bases_index (#102)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Test that the token data has changed a new secret is retr...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
+ - [@addyess](https://github.com/addyess) has pushed the commit **catch VaultNotReady exceptions for logging and retry (#276)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/276) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **added jinja2 to unit test dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix delete getting stuck when missing model UUID or contr...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/3) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **update for arc-conformnace validation** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update cncf-conformance jobs to run in lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update the release validation jobs to run in lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **look for nics in the router interface before using dhclie...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
