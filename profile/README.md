@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure if running in a juju2.0 environment to pin back th...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test for juju 2.9 controller in test spec** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump attrs from 20.3.0 to 22.2.0 (#1230)  Bumps [attrs](h...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/101) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pass on zero bases_index (#102)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Add `provider` as suffix to controller name (#53)  * Add ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add config template and update samples** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/4) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/4) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update api/v1beta1/charmedk8sconfigtemplate_types.go  Co-...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update api/v1beta1/charmedk8sconfigtemplate_types.go  Co-...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/4) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
