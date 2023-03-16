@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **format connection strings using `build_uri`** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Test that the token data has changed a new secret is retr...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
  - [@addyess](https://github.com/addyess) has pushed the commit **catch VaultNotReady exceptions for logging and retry (#276)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/276) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **added jinja2 to unit test dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix delete getting stuck when missing model UUID or contr...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/3) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **update for arc-conformnace validation** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **update cncf-conformance jobs to run in lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **update the release validation jobs to run in lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **look for nics in the router interface before using dhclie...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Kubernetes vs OpenStack: which one to choose?](https://ubuntu.com//blog/kubernetes-vs-openstack) - Thu, 16 Mar 2023 07:00:13 
 * [The Lunar Lobster has landed ahead of Ubuntu 23.04](https://ubuntu.com//blog/lunar-lobster-has-landed) - Wed, 15 Mar 2023 09:38:04 
 * [Time to prepare for Ubuntu 18.04 LTS End of Standard Support on 31 May 2023](https://ubuntu.com//blog/18-04-end-of-standard-support) - Tue, 14 Mar 2023 11:04:56 
 * [Canonical teams up with MediaTek to optimise Ubuntu for IoT innovations](https://ubuntu.com//blog/canonical-mediatek-iot-innovations) - Tue, 14 Mar 2023 08:00:18 
 * [Canonical announces Ubuntu Core compatible with SystemReady IR Systems, highlights OS security with PSA Certified Level 1 achievement](https://ubuntu.com//blog/systemready-and-psa-certification-for-ubuntu-core) - Tue, 14 Mar 2023 08:00:06 
 * [Functional safety in automotive: contributing to ISO 26262 and ISO 21434 standards](https://ubuntu.com//blog/functional-safety-in-automotive-contributing-to-iso-26262-and-iso-21434-standards) - Mon, 13 Mar 2023 11:23:21 
-* [MAAS 3.3 is now available](https://ubuntu.com//blog/maas-3-3-available) - Thu, 09 Mar 2023 14:14:02 
 <!-- blog ends -->
