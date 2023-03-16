@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **delay sharing details until etcd is registered (#207)  * ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **give each calicoctl command 60s to finish rather than hol...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **give each calicoctl command 60s to finish rather than hol...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use ops lib manifest 1.1.0 in order to use address LP#201...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test `get_bind_address` method from etcd_lib** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **format connection strings using `build_uri`** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Test that the token data has changed a new secret is retr...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
- - [@addyess](https://github.com/addyess) has pushed the commit **catch VaultNotReady exceptions for logging and retry (#276)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/276) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **added jinja2 to unit test dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix delete getting stuck when missing model UUID or contr...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
