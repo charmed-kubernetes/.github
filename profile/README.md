@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Revert juju to 2.9 (#1236)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1236) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix JujuMachine getting stuck after cluster not ready (#8...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/8) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update controllers/jujumachine_controller.go  Co-authored...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **only mount diretories if they exists** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add ignore-missing-cni config (#137)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/137) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Add unit tests coverage reporting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **only mount diretories if they exists** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **apply job spec workaround for 2.9 juju controllers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/8) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/8) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
