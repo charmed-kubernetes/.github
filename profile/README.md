@@ -25,7 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
-
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **only mount diretories if they exists** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add ignore-missing-cni config (#137)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/137) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add unit tests coverage reporting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **only mount diretories if they exists** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **apply job spec workaround for 2.9 juju controllers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/208) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/8) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/8) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -35,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is cloud repatriation?](https://ubuntu.com//blog/what-is-cloud-repatriation) - Fri, 17 Mar 2023 07:00:55 
+* [Help us build better doc](https://ubuntu.com//blog/help-us-build-better-doc) - Fri, 17 Mar 2023 00:00:48 
 * [Kubernetes vs OpenStack: which one to choose?](https://ubuntu.com//blog/kubernetes-vs-openstack) - Thu, 16 Mar 2023 07:00:13 
 * [The Lunar Lobster has landed ahead of Ubuntu 23.04](https://ubuntu.com//blog/lunar-lobster-has-landed) - Wed, 15 Mar 2023 09:38:04 
 * [Time to prepare for Ubuntu 18.04 LTS End of Standard Support on 31 May 2023](https://ubuntu.com//blog/18-04-end-of-standard-support) - Tue, 14 Mar 2023 11:04:56 
 * [Canonical teams up with MediaTek to optimise Ubuntu for IoT innovations](https://ubuntu.com//blog/canonical-mediatek-iot-innovations) - Tue, 14 Mar 2023 08:00:18 
-* [Canonical announces Ubuntu Core compatible with SystemReady IR Systems, highlights OS security with PSA Certified Level 1 achievement](https://ubuntu.com//blog/systemready-and-psa-certification-for-ubuntu-core) - Tue, 14 Mar 2023 08:00:06 
-* [Functional safety in automotive: contributing to ISO 26262 and ISO 21434 standards](https://ubuntu.com//blog/functional-safety-in-automotive-contributing-to-iso-26262-and-iso-21434-standards) - Mon, 13 Mar 2023 11:23:21 
 <!-- blog ends -->
