@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.26/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.26.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update ops manifest and ops library (#6)** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/6) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump platformdirs from 2.5.1 to 3.1.1 (#1233)  Bumps [pla...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **revert all changes to release-microk8s.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **revert all changes to release-microk8s.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/757) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Configure kubernetes-worker to ignore missing CNI and ski...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/9) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **publish 0.26.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add verbosity flag to build_charm (#106)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add cli argument to ensure cleanup_vsphere is only run on...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Validation jobs run in lxc and parameterize through ci-ma...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1232) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1232) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **destroy vsphere instances created by jenkins jobs, but no...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
