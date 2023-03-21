@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **update s3transfer in both requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove unused imports from bin/report and bin/s3** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Charm to support ipv6 addresses in urls within templates ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Release Notes for 1.26+ck3 (#757)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/757) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Configure kubernetes-worker to ignore missing CNI and ski...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/9) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **publish 0.26.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add verbosity flag to build_charm (#106)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **add cli argument to ensure cleanup_vsphere is only run on...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Validation jobs run in lxc and parameterize through ci-ma...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1232) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1232) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **destroy vsphere instances created by jenkins jobs, but no...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical joins the confidential computing consortium](https://ubuntu.com//blog/canonical-joins-the-confidential-computing-consortium) - Tue, 21 Mar 2023 01:00:04 
 * [Automotive consortiums: Setting new standards for safety and cybersecurity](https://ubuntu.com//blog/automotive-consortiums-setting-new-standards-for-safety-and-cybersecurity) - Mon, 20 Mar 2023 12:23:09 
 * [What is cloud repatriation?](https://ubuntu.com//blog/what-is-cloud-repatriation) - Fri, 17 Mar 2023 07:00:55 
 * [Help us build better doc](https://ubuntu.com//blog/help-us-build-better-doc) - Fri, 17 Mar 2023 00:00:48 
 * [Kubernetes vs OpenStack: which one to choose?](https://ubuntu.com//blog/kubernetes-vs-openstack) - Thu, 16 Mar 2023 07:00:13 
 * [The Lunar Lobster has landed ahead of Ubuntu 23.04](https://ubuntu.com//blog/lunar-lobster-has-landed) - Wed, 15 Mar 2023 09:38:04 
-* [Time to prepare for Ubuntu 18.04 LTS End of Standard Support on 31 May 2023](https://ubuntu.com//blog/18-04-end-of-standard-support) - Tue, 14 Mar 2023 11:04:56 
 <!-- blog ends -->
