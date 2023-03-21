@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **fix typo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **autoscaler needs to be scheduled on control-plane nodes, ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1241) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **update s3transfer in both requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove unused imports from bin/report and bin/s3** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Charm to support ipv6 addresses in urls within templates ...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Release Notes for 1.26+ck3 (#757)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/757) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Configure kubernetes-worker to ignore missing CNI and ski...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/9) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **google cloud credentials remapped in lxc containers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **capture logs from journalctl when running juju-crashdump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update ci.bash  Co-authored-by: George Kraft <george.kraf...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 3.4.7 to 39.0.2** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2020.12.5 to 2022.12.7** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Scale Enterprise AI with Canonical and NVIDIA](https://ubuntu.com//blog/scale-enterprise-ai-with-canonical-and-nvidia) - Tue, 21 Mar 2023 17:00:32 
 * [Craft team welcomes you to another episode of its adventures](https://ubuntu.com//blog/craft-team-welcomes-you-to-another-episode-of-its-adventures) - Tue, 21 Mar 2023 12:21:21 
 * [Canonical joins the confidential computing consortium](https://ubuntu.com//blog/canonical-joins-the-confidential-computing-consortium) - Tue, 21 Mar 2023 01:00:04 
 * [Automotive consortiums: Setting new standards for safety and cybersecurity](https://ubuntu.com//blog/automotive-consortiums-setting-new-standards-for-safety-and-cybersecurity) - Mon, 20 Mar 2023 12:23:09 
 * [What is cloud repatriation?](https://ubuntu.com//blog/what-is-cloud-repatriation) - Fri, 17 Mar 2023 07:00:55 
 * [Help us build better doc](https://ubuntu.com//blog/help-us-build-better-doc) - Fri, 17 Mar 2023 00:00:48 
-* [Kubernetes vs OpenStack: which one to choose?](https://ubuntu.com//blog/kubernetes-vs-openstack) - Thu, 16 Mar 2023 07:00:13 
 <!-- blog ends -->
