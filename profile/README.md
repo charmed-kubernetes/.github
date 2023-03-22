@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust pod scaling and timeouts (#1246)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.0-beta.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **google cloud credentials remapped in lxc containers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **capture logs from journalctl when running juju-crashdump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update ci.bash  Co-authored-by: George Kraft <george.kraf...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1244) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 3.4.7 to 39.0.2** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2020.12.5 to 2022.12.7** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet the Canonical Ceph team at Cephalocon 2023](https://ubuntu.com//blog/meet-the-canonical-ceph-team-at-cephalocon-2023) - Wed, 22 Mar 2023 09:00:52 
 * [Scale Enterprise AI with Canonical and NVIDIA](https://ubuntu.com//blog/scale-enterprise-ai-with-canonical-and-nvidia) - Tue, 21 Mar 2023 17:00:32 
 * [Craft team welcomes you to another episode of its adventures](https://ubuntu.com//blog/craft-team-welcomes-you-to-another-episode-of-its-adventures) - Tue, 21 Mar 2023 12:21:21 
 * [Canonical joins the confidential computing consortium](https://ubuntu.com//blog/canonical-joins-the-confidential-computing-consortium) - Tue, 21 Mar 2023 01:00:04 
 * [Automotive consortiums: Setting new standards for safety and cybersecurity](https://ubuntu.com//blog/automotive-consortiums-setting-new-standards-for-safety-and-cybersecurity) - Mon, 20 Mar 2023 12:23:09 
 * [What is cloud repatriation?](https://ubuntu.com//blog/what-is-cloud-repatriation) - Fri, 17 Mar 2023 07:00:55 
-* [Help us build better doc](https://ubuntu.com//blog/help-us-build-better-doc) - Fri, 17 Mar 2023 00:00:48 
 <!-- blog ends -->
