@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **providing warning for missing cloud-provider** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **document configure_kubelet and warn that an external-clou...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **formatting** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **document configure_kubelet and warn that an external-clou...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **make changes to shrinkwrap docs** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add wokeignore** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump certifi from 2020.12.5 to 2022.12.7** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Bump sh from 1.14.3 to 2.0.3 (#1240)  Bumps [sh](https://...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1240) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/4) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/4) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Apply suggestions from code review  Co-authored-by: Georg...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/4) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjust pod scaling and timeouts (#1246)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical collaborates with NVIDIA to unlock advanced capabilities for IoT industry](https://ubuntu.com//blog/canonical-collaborates-with-nvidia-to-unlock-advanced-capabilities-for-iot-industry) - Thu, 23 Mar 2023 13:00:26 
 * [이제 실시간 우분투를 일반적으로 사용 가능](https://ubuntu.com//blog/real-time-ubuntu-is-now-generally-available-kr) - Thu, 23 Mar 2023 07:58:49 
 * [Meet the Canonical Ceph team at Cephalocon 2023](https://ubuntu.com//blog/meet-the-canonical-ceph-team-at-cephalocon-2023) - Wed, 22 Mar 2023 09:00:52 
 * [Scale Enterprise AI with Canonical and NVIDIA](https://ubuntu.com//blog/scale-enterprise-ai-with-canonical-and-nvidia) - Tue, 21 Mar 2023 17:00:32 
 * [Craft team welcomes you to another episode of its adventures](https://ubuntu.com//blog/craft-team-welcomes-you-to-another-episode-of-its-adventures) - Tue, 21 Mar 2023 12:21:21 
 * [Canonical joins the confidential computing consortium](https://ubuntu.com//blog/canonical-joins-the-confidential-computing-consortium) - Tue, 21 Mar 2023 01:00:04 
-* [Automotive consortiums: Setting new standards for safety and cybersecurity](https://ubuntu.com//blog/automotive-consortiums-setting-new-standards-for-safety-and-cybersecurity) - Mon, 20 Mar 2023 12:23:09 
 <!-- blog ends -->
