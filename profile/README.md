@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **tidy go.mod** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix issue with setting model constraints** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add configuration as json to avoid interface types** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/756) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/756) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/1) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **use new interface kube-control from draft branch** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/278) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **tweak ansible reqs > py38** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add py-specifics in case reqs are used on a different bas...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use IMDSv2 (#14)  * Use IMDSv2 to get instance ID  Co-a...** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **request extra policies from aws integrator** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Implement O11y integration (#8)  * Add O11y integration ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@evilnick](https://github.com/evilnick) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/759) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **switch command syntax from juju 2.x to juju 3.x styles (#...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update quickstart.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Prefer channels for installing different versions (#758) ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is System Hardening? Definition and Best practices](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices) - Mon, 27 Mar 2023 13:40:07 
 * [MicroK8s is now on AWS marketplace](https://ubuntu.com//blog/microk8s-is-now-on-aws-marketplace) - Fri, 24 Mar 2023 11:01:35 
 * [The Indico software operator is now available to optimise event management](https://ubuntu.com//blog/indico-software-operator) - Fri, 24 Mar 2023 06:00:01 
 * [Snapping out of Docker: a robotics guide for migrating Docker to Snap](https://ubuntu.com//blog/snapping-out-of-docker) - Thu, 23 Mar 2023 14:53:42 
 * [Canonical collaborates with NVIDIA to unlock advanced capabilities for IoT industry](https://ubuntu.com//blog/canonical-collaborates-with-nvidia-to-unlock-advanced-capabilities-for-iot-industry) - Thu, 23 Mar 2023 13:00:26 
 * [이제 실시간 우분투를 일반적으로 사용 가능](https://ubuntu.com//blog/real-time-ubuntu-is-now-generally-available-kr) - Thu, 23 Mar 2023 07:58:49 
-* [Meet the Canonical Ceph team at Cephalocon 2023](https://ubuntu.com//blog/meet-the-canonical-ceph-team-at-cephalocon-2023) - Wed, 22 Mar 2023 09:00:52 
 <!-- blog ends -->
