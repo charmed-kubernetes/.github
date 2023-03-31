@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **pass the relation event through when running install_or_u...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **mypy and urllib fixes for upstream syncer** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **parse the version string from the admionssion binary** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **sync-resources action should mark charm deployed (#8)  * ...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **build reactive charms with charmcraft if a charmcraft.yam...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@alexpearce](https://github.com/alexpearce) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/8) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/90) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **more linting** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/28) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
