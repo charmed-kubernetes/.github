@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **pass the relation event through when running install_or_u...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **mypy and urllib fixes for upstream syncer** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **parse the version string from the admionssion binary** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **sync-resources action should mark charm deployed (#8)  * ...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **build reactive charms with charmcraft if a charmcraft.yam...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@alexpearce](https://github.com/alexpearce) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/86) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/8) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/90) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **more linting** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **Black, linting, and use of ops.interface_tls_certificates...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove dependency on naming the model `volcano-system`** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **strip away unnecessary templating which the charms provid...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **super janky, but the admissions service starts** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/10) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Automotive industry trends for 2023 and beyond](https://ubuntu.com//blog/automotive-industry-trends-for-2023-and-beyond) - Fri, 31 Mar 2023 12:09:03 
 * [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for AWS users.](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-aws-users) - Thu, 30 Mar 2023 13:43:04 
 * [3 reasons why OTA updates are important [Part II]](https://ubuntu.com//blog/3-reasons-why-ota-updates-are-important-part-ii) - Wed, 29 Mar 2023 14:16:30 
 * [Charmed Kubeflow 1.7 is now available](https://ubuntu.com//blog/kubeflow-1-7-available) - Wed, 29 Mar 2023 12:22:27 
 * [How to create a VSCode Linux remote environment](https://ubuntu.com//blog/how-to-create-a-vscode-linux-remote-environment) - Tue, 28 Mar 2023 11:04:54 
 * [What is System Hardening? Definition and Best practices](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices) - Mon, 27 Mar 2023 13:40:07 
-* [MicroK8s is now on AWS marketplace](https://ubuntu.com//blog/microk8s-is-now-on-aws-marketplace) - Fri, 24 Mar 2023 11:01:35 
 <!-- blog ends -->
