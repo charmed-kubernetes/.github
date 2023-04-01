@@ -25,14 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **git debugging** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/28) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@addyess](https://github.com/addyess) has pushed the commit **refactor github job to pack charms more quickly** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
 <!-- activity ends -->
