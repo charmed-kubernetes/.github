@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Closing the digital divide with Compudopt and Ubuntu Desktop](https://ubuntu.com//blog/closing-the-digital-divide-compudopt-and-ubuntu-desktop) - Mon, 03 Apr 2023 10:00:31 
 * [Automotive industry trends for 2023 and beyond](https://ubuntu.com//blog/automotive-industry-trends-for-2023-and-beyond) - Fri, 31 Mar 2023 12:09:03 
 * [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for AWS users.](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-aws-users) - Thu, 30 Mar 2023 13:43:04 
 * [3 reasons why OTA updates are important [Part II]](https://ubuntu.com//blog/3-reasons-why-ota-updates-are-important-part-ii) - Wed, 29 Mar 2023 14:16:30 
 * [Charmed Kubeflow 1.7 is now available](https://ubuntu.com//blog/kubeflow-1-7-available) - Wed, 29 Mar 2023 12:22:27 
 * [How to create a VSCode Linux remote environment](https://ubuntu.com//blog/how-to-create-a-vscode-linux-remote-environment) - Tue, 28 Mar 2023 11:04:54 
-* [What is System Hardening? Definition and Best practices](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices) - Mon, 27 Mar 2023 13:40:07 
 <!-- blog ends -->
