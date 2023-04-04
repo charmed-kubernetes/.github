@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **...or blacken the kraken** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **AI still cant add my missing colons** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/138) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **and trigger restart-needed flag when has-xcp changes in k...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Basic draft of charm (#1)  * Basic draft of charm  * wo...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use extended interface-aws-integration to apply more aws ...** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **add new requestable policies for cloud-provider-aws (#15)...** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/1) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **build volcano bundle** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.27 kubernetes dropped support for aws cloud-provider (#...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/45) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/45) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.27 kubernetes dropped support for aws cloud-provider (#...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/278) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update AWS overlay to include the aws-cloud-provider (#876)** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [IBM LinuxONE Rockhopper 4 brings sustainability and efficiency to the business-class server landscape, fully supported by Ubuntu 22.04](https://ubuntu.com//blog/ibm-linuxone-rockhopper-4-brings-sustainability-and-efficiency-to-the-business-class-server-landscape-fully-supported-by-ubuntu-22-04) - Tue, 04 Apr 2023 08:00:39 
 * [Closing the digital divide with Compudopt and Ubuntu Desktop](https://ubuntu.com//blog/closing-the-digital-divide-compudopt-and-ubuntu-desktop) - Mon, 03 Apr 2023 10:00:31 
 * [Automotive industry trends for 2023 and beyond](https://ubuntu.com//blog/automotive-industry-trends-for-2023-and-beyond) - Fri, 31 Mar 2023 12:09:03 
 * [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for AWS users.](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-aws-users) - Thu, 30 Mar 2023 13:43:04 
 * [3 reasons why OTA updates are important [Part II]](https://ubuntu.com//blog/3-reasons-why-ota-updates-are-important-part-ii) - Wed, 29 Mar 2023 14:16:30 
 * [Charmed Kubeflow 1.7 is now available](https://ubuntu.com//blog/kubeflow-1-7-available) - Wed, 29 Mar 2023 12:22:27 
-* [How to create a VSCode Linux remote environment](https://ubuntu.com//blog/how-to-create-a-vscode-linux-remote-environment) - Tue, 28 Mar 2023 11:04:54 
 <!-- blog ends -->
