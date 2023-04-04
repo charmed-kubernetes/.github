@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **...or blacken the kraken** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **AI still cant add my missing colons** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/138) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **and trigger restart-needed flag when has-xcp changes in k...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Basic draft of charm (#1)  * Basic draft of charm  * wo...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use extended interface-aws-integration to apply more aws ...** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **add new requestable policies for cloud-provider-aws (#15)...** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/1) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **build volcano bundle** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.27 kubernetes dropped support for aws cloud-provider (#...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure focal is a listed in the build-on bases** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **charm builds on focal, runs on focal + jammy (#2)** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/2) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix incorrect charm directory for aws-cloud-provider (#1258)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1258) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix incorrect charm directory for aws-cloud-provider** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix incorrect charm directory for aws-cloud-provider** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Create integration tests for aws-cloud-provider starting ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1250) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Do not modify permissions of cert parent directory if it ...** to [layer-tls-client](https://github.com/charmed-kubernetes/layer-tls-client)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
