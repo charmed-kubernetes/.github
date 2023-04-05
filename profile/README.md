@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Admission and Controller Charms (#5)  * begin work on adm...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/5) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add charm build jobs for volcano charms (#1257)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1257) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **create reactive handler for changes to the default-storag...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/260) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **adds deployment replica set configuration** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/7) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **use the right endpoint flag name (#138)  * use the right ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **reconfigure kubelet if our external cloud provider presen...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/281) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ignore Cluster API CRDs in woke check** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Increase wait for idle in COS lite** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **if the runner home has moved, update the gce credentials ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Appropriately parse secondary network interfaces (#1261)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1261) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Increase both timeouts** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/6) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Increase timeout** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address code review comments** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
