@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure focal is a listed in the build-on bases** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **charm builds on focal, runs on focal + jammy (#2)** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/2) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **fix incorrect charm directory for aws-cloud-provider (#1258)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1258) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **fix incorrect charm directory for aws-cloud-provider** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix incorrect charm directory for aws-cloud-provider** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Create integration tests for aws-cloud-provider starting ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1250) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Do not modify permissions of cert parent directory if it ...** to [layer-tls-client](https://github.com/charmed-kubernetes/layer-tls-client)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Admission and Controller Charms (#5)  * begin work on adm...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/5) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add charm build jobs for volcano charms (#1257)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1257) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **create reactive handler for changes to the default-storag...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/260) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **adds deployment replica set configuration** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/7) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **use the right endpoint flag name (#138)  * use the right ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **reconfigure kubelet if our external cloud provider presen...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
