@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu compliance monitoring with Microsoft Intune](https://ubuntu.com//blog/ubuntu-compliance-monitoring-with-microsoft-intune) - Wed, 05 Apr 2023 12:21:00 
+* [Canonical at HPE APAC Outcome-Based Solutions 2023](https://ubuntu.com//blog/canonical-at-hpe-apac-outcome-based-solutions-2023) - Wed, 05 Apr 2023 09:00:05 
 * [Canonical releases Landscape 23.03, delivering simplified licensing through Ubuntu Pro](https://ubuntu.com//blog/canonical-releases-landscape-23-03-delivering-simplified-licensing-through-ubuntu-pro) - Tue, 04 Apr 2023 13:00:25 
 * [IBM LinuxONE Rockhopper 4 brings sustainability and efficiency to the business-class server landscape, fully supported by Ubuntu 22.04](https://ubuntu.com//blog/ibm-linuxone-rockhopper-4-brings-sustainability-and-efficiency-to-the-business-class-server-landscape-fully-supported-by-ubuntu-22-04) - Tue, 04 Apr 2023 08:00:39 
 * [Closing the digital divide with Compudopt and Ubuntu Desktop](https://ubuntu.com//blog/closing-the-digital-divide-compudopt-and-ubuntu-desktop) - Mon, 03 Apr 2023 10:00:31 
 * [Automotive industry trends for 2023 and beyond](https://ubuntu.com//blog/automotive-industry-trends-for-2023-and-beyond) - Fri, 31 Mar 2023 12:09:03 
-* [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for AWS users.](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-aws-users) - Thu, 30 Mar 2023 13:43:04 
-* [3 reasons why OTA updates are important [Part II]](https://ubuntu.com//blog/3-reasons-why-ota-updates-are-important-part-ii) - Wed, 29 Mar 2023 14:16:30 
 <!-- blog ends -->
