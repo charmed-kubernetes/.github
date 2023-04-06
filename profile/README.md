@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/281) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ignore Cluster API CRDs in woke check** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Increase wait for idle in COS lite** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@addyess](https://github.com/addyess) has pushed the commit **if the runner home has moved, update the gce credentials ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Appropriately parse secondary network interfaces (#1261)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1261) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Increase both timeouts** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **bump golang and script name to match upstream** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **bump golang and script name to match upstream** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **revert sh,platformdirs, and exceptiongroup when testing a...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/6) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Increase timeout** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address code review comments** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add/remove relations only if there are changes to be made** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change model alias in O11y tests** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Refresh upstream (#28)  * bump default version  * mypy ...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **description tweaks** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore gce cloud-provider until one is necessary** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **document juju-crashdump args** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Expanding the Spice Rack](https://ubuntu.com//blog/expanding-the-spice-rack) - Thu, 06 Apr 2023 05:13:14 
 * [Ubuntu compliance monitoring with Microsoft Intune](https://ubuntu.com//blog/ubuntu-compliance-monitoring-with-microsoft-intune) - Wed, 05 Apr 2023 12:21:00 
 * [Canonical at HPE APAC Outcome-Based Solutions 2023](https://ubuntu.com//blog/canonical-at-hpe-apac-outcome-based-solutions-2023) - Wed, 05 Apr 2023 09:00:05 
 * [Canonical releases Landscape 23.03, delivering simplified licensing through Ubuntu Pro](https://ubuntu.com//blog/canonical-releases-landscape-23-03-delivering-simplified-licensing-through-ubuntu-pro) - Tue, 04 Apr 2023 13:00:25 
 * [IBM LinuxONE Rockhopper 4 brings sustainability and efficiency to the business-class server landscape, fully supported by Ubuntu 22.04](https://ubuntu.com//blog/ibm-linuxone-rockhopper-4-brings-sustainability-and-efficiency-to-the-business-class-server-landscape-fully-supported-by-ubuntu-22-04) - Tue, 04 Apr 2023 08:00:39 
 * [Closing the digital divide with Compudopt and Ubuntu Desktop](https://ubuntu.com//blog/closing-the-digital-divide-compudopt-and-ubuntu-desktop) - Mon, 03 Apr 2023 10:00:31 
-* [Automotive industry trends for 2023 and beyond](https://ubuntu.com//blog/automotive-industry-trends-for-2023-and-beyond) - Fri, 31 Mar 2023 12:09:03 
 <!-- blog ends -->
