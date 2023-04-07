@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **revert unnecessary changes** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.0-rc.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Passing functional tests locally** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **resolve unit tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **lint and formatting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **include new ConfigMap ceph-conf** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use ops.manifest==1.1.1 from pypi (#7)  * use ops.manifes...** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/gcp-k8s-storage/pull/7) in the [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **update charm build action to artifact the correct charm** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Cloud Provider Integration Testing (#1262)  * Handle situ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/139) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1262) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Build the foundation for you zero trust strategy with Ubuntu confidential computing](https://ubuntu.com//blog/build-foundation-zero-trust-strategy-ubuntu-confidential-computing) - Fri, 07 Apr 2023 01:00:09 
 * [Canonical presence at KubeCon + CloudNativeCon Europe 2023](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-europe-2023) - Thu, 06 Apr 2023 16:34:22 
 * [Optimise your ROS snap – Part 1](https://ubuntu.com//blog/optimise-your-ros-snap-part-1) - Thu, 06 Apr 2023 09:09:16 
 * [Expanding the Spice Rack](https://ubuntu.com//blog/expanding-the-spice-rack) - Thu, 06 Apr 2023 05:13:14 
 * [Ubuntu compliance monitoring with Microsoft Intune](https://ubuntu.com//blog/ubuntu-compliance-monitoring-with-microsoft-intune) - Wed, 05 Apr 2023 12:21:00 
 * [Canonical at HPE APAC Outcome-Based Solutions 2023](https://ubuntu.com//blog/canonical-at-hpe-apac-outcome-based-solutions-2023) - Wed, 05 Apr 2023 09:00:05 
-* [Canonical releases Landscape 23.03, delivering simplified licensing through Ubuntu Pro](https://ubuntu.com//blog/canonical-releases-landscape-23-03-delivering-simplified-licensing-through-ubuntu-pro) - Tue, 04 Apr 2023 13:00:25 
 <!-- blog ends -->
