@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/223) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **revert unnecessary changes** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.0-rc.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **include new ConfigMap ceph-conf** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use ops.manifest==1.1.1 from pypi (#7)  * use ops.manifes...** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/gcp-k8s-storage/pull/7) in the [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **update charm build action to artifact the correct charm** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
