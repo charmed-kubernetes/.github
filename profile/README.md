@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/223) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **revert unnecessary changes** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.0-rc.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Passing functional tests locally** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **resolve unit tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **lint and formatting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **include new ConfigMap ceph-conf** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use ops.manifest==1.1.1 from pypi (#7)  * use ops.manifes...** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/gcp-k8s-storage/pull/7) in the [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **treat filter_by_tag as a csv** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix incorrect pointer ref** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **install, upgrade, config change hooks all should ensure m...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/7) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **install, upgrade, config change hooks all should ensure m...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/11) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/11) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **install, upgrade, config change hooks all should ensure m...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **install, upgrade, config change hooks all should ensure m...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **install, upgrade, config change hooks all should ensure m...** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
