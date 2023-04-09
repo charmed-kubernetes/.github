@@ -25,13 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Revert "provide an ops version for the requirer side of t...** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **temp set to 1.27/candidate for rc testing** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Revert "provide an ops version for the requirer side of t...** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#28)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#141)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#283)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update charms and badges for 1.27/stable (#879)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove unmaintained layers and interfaces from layer-inde...** to [layer-index](https://github.com/charmed-kubernetes/layer-index)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
