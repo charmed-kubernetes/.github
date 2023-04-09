@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#283)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update charms and badges for 1.27/stable (#879)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove unmaintained layers and interfaces from layer-inde...** to [layer-index](https://github.com/charmed-kubernetes/layer-index)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Four Challenges for ML data pipeline](https://ubuntu.com//blog/four-challenges-for-ml-data-pipeline) - Sun, 09 Apr 2023 13:24:06 
 * [Build the foundation for you zero trust strategy with Ubuntu confidential computing](https://ubuntu.com//blog/build-foundation-zero-trust-strategy-ubuntu-confidential-computing) - Fri, 07 Apr 2023 01:00:09 
 * [Canonical presence at KubeCon + CloudNativeCon Europe 2023](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-europe-2023) - Thu, 06 Apr 2023 16:34:22 
 * [Optimise your ROS snap – Part 1](https://ubuntu.com//blog/optimise-your-ros-snap-part-1) - Thu, 06 Apr 2023 09:09:16 
 * [Expanding the Spice Rack](https://ubuntu.com//blog/expanding-the-spice-rack) - Thu, 06 Apr 2023 05:13:14 
 * [Ubuntu compliance monitoring with Microsoft Intune](https://ubuntu.com//blog/ubuntu-compliance-monitoring-with-microsoft-intune) - Wed, 05 Apr 2023 12:21:00 
-* [Canonical at HPE APAC Outcome-Based Solutions 2023](https://ubuntu.com//blog/canonical-at-hpe-apac-outcome-based-solutions-2023) - Wed, 05 Apr 2023 09:00:05 
 <!-- blog ends -->
