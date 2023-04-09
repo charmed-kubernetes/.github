@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#141)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#283)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update charms and badges for 1.27/stable (#879)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove unmaintained layers and interfaces from layer-inde...** to [layer-index](https://github.com/charmed-kubernetes/layer-index)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
