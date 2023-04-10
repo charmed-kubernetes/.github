@@ -25,13 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Revert "provide an ops version for the requirer side of t...** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **temp set to 1.27/candidate for rc testing** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Revert "provide an ops version for the requirer side of t...** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#28)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#141)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update to 1.27/stable for release (#283)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update charms and badges for 1.27/stable (#879)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add filter_by_tag to sync jobs (#1263)  * add filter_by_t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin back to using juju < 3.1** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **blacken** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **upgrade to call actions command with appropriate group pe...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **upgrade to call actions command with appropriate group pe...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **upgrade to call actions command with appropriate group pe...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,7 +47,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 * [Open source MLOps at Kubecon with Canonical](https://ubuntu.com//blog/mlops-kubecon-europe-2023) - Mon, 10 Apr 2023 09:04:43 
 * [이제는 2023년 5월 31일에 종료되는 Ubuntu 18.04 LTS 표준 지원에 대비할 때](https://ubuntu.com//blog/18-04-end-of-standard-support-kr) - Mon, 10 Apr 2023 05:51:23 
 * [Four Challenges for ML data pipeline](https://ubuntu.com//blog/four-challenges-for-ml-data-pipeline) - Sun, 09 Apr 2023 13:24:06 
-* [Build the foundation for you zero trust strategy with Ubuntu confidential computing](https://ubuntu.com//blog/build-foundation-zero-trust-strategy-ubuntu-confidential-computing) - Fri, 07 Apr 2023 01:00:09 
+* [Build the foundation for your zero trust strategy with Ubuntu confidential computing](https://ubuntu.com//blog/build-foundation-zero-trust-strategy-ubuntu-confidential-computing) - Fri, 07 Apr 2023 01:00:09 
 * [Canonical presence at KubeCon + CloudNativeCon Europe 2023](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-europe-2023) - Thu, 06 Apr 2023 16:34:22 
 * [Optimise your ROS snap – Part 1](https://ubuntu.com//blog/optimise-your-ros-snap-part-1) - Thu, 06 Apr 2023 09:09:16 
 <!-- blog ends -->
