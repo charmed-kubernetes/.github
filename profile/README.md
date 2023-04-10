@@ -41,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [이제는 2023년 5월 31일에 종료되는 Ubuntu 18.04 LTS 표준 지원에 대비할 때](https://ubuntu.com//blog/18-04-end-of-standard-support-kr) - Mon, 10 Apr 2023 05:51:23 
 * [Four Challenges for ML data pipeline](https://ubuntu.com//blog/four-challenges-for-ml-data-pipeline) - Sun, 09 Apr 2023 13:24:06 
 * [Build the foundation for you zero trust strategy with Ubuntu confidential computing](https://ubuntu.com//blog/build-foundation-zero-trust-strategy-ubuntu-confidential-computing) - Fri, 07 Apr 2023 01:00:09 
 * [Canonical presence at KubeCon + CloudNativeCon Europe 2023](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-europe-2023) - Thu, 06 Apr 2023 16:34:22 
 * [Optimise your ROS snap – Part 1](https://ubuntu.com//blog/optimise-your-ros-snap-part-1) - Thu, 06 Apr 2023 09:09:16 
 * [Expanding the Spice Rack](https://ubuntu.com//blog/expanding-the-spice-rack) - Thu, 06 Apr 2023 05:13:14 
-* [Ubuntu compliance monitoring with Microsoft Intune](https://ubuntu.com//blog/ubuntu-compliance-monitoring-with-microsoft-intune) - Wed, 05 Apr 2023 12:21:00 
 <!-- blog ends -->
