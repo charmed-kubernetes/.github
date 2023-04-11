@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **switch upstream-source for the container image to pull fr...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **add filter_by_tag to sync jobs (#1263)  * add filter_by_t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **pin back to using juju < 3.1** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **blacken** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **upgrade to call actions command with appropriate group pe...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **upgrade to call actions command with appropriate group pe...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **upgrade to call actions command with appropriate group pe...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure the templates are referenced no matter where the s...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/11) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update spec to be more bundle-like** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update spec to be more bundle-like** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/5) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/11) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/11) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Dell and Canonical at KubeCon + CloudNativeCon Europe](https://ubuntu.com//blog/dell-and-canonical-at-kubecon-cloudnativecon-europe) - Tue, 11 Apr 2023 08:00:17 
 * [Open source MLOps at Kubecon with Canonical](https://ubuntu.com//blog/mlops-kubecon-europe-2023) - Mon, 10 Apr 2023 09:04:43 
 * [이제는 2023년 5월 31일에 종료되는 Ubuntu 18.04 LTS 표준 지원에 대비할 때](https://ubuntu.com//blog/18-04-end-of-standard-support-kr) - Mon, 10 Apr 2023 05:51:23 
 * [Four Challenges for ML data pipeline](https://ubuntu.com//blog/four-challenges-for-ml-data-pipeline) - Sun, 09 Apr 2023 13:24:06 
 * [Build the foundation for your zero trust strategy with Ubuntu confidential computing](https://ubuntu.com//blog/build-foundation-zero-trust-strategy-ubuntu-confidential-computing) - Fri, 07 Apr 2023 01:00:09 
 * [Canonical presence at KubeCon + CloudNativeCon Europe 2023](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-europe-2023) - Thu, 06 Apr 2023 16:34:22 
-* [Optimise your ROS snap – Part 1](https://ubuntu.com//blog/optimise-your-ros-snap-part-1) - Thu, 06 Apr 2023 09:09:16 
 <!-- blog ends -->
