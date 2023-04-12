@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Quick Install: overlays operate with latest/stable bundle...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/762) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/762) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/764) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/764) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/764) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update defaults for 1.28** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **stop disabling gpu healthchecks (#224)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **stop disabling gpu healthchecks (#224)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/8) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/8) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/764) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/765) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **stop pretending to clean up /tmp on the infra nodes (#1267)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1267) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/764) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/764) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix test not verifying secret garbage collection** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/6) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Phoenix Systems sets a new standard for secure cloud services with Canonical and IBM](https://ubuntu.com//blog/phoenix-systems-sets-a-new-standard-for-secure-cloud-services-with-canonical-and-ibm) - Wed, 12 Apr 2023 20:08:52 
+* [Canonical Kubernetes 1.27 announcement](https://ubuntu.com//blog/canonical-kubernetes-1-27-announcement) - Wed, 12 Apr 2023 16:28:25 
 * [Charmed Kubeflow is now available on AWS Marketplace](https://ubuntu.com//blog/kubeflow-appliance-aws) - Wed, 12 Apr 2023 12:11:17 
 * [Optimise your ROS snap – Part 2](https://ubuntu.com//blog/optimise-your-ros-snap-part-2) - Tue, 11 Apr 2023 16:05:47 
 * [Dell and Canonical at KubeCon + CloudNativeCon Europe](https://ubuntu.com//blog/dell-and-canonical-at-kubecon-cloudnativecon-europe) - Tue, 11 Apr 2023 08:00:17 
 * [Open source MLOps at Kubecon with Canonical](https://ubuntu.com//blog/mlops-kubecon-europe-2023) - Mon, 10 Apr 2023 09:04:43 
-* [이제는 2023년 5월 31일에 종료되는 Ubuntu 18.04 LTS 표준 지원에 대비할 때](https://ubuntu.com//blog/18-04-end-of-standard-support-kr) - Mon, 10 Apr 2023 05:51:23 
-* [Four Challenges for ML data pipeline](https://ubuntu.com//blog/four-challenges-for-ml-data-pipeline) - Sun, 09 Apr 2023 13:24:06 
 <!-- blog ends -->
