@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Livepatch has a new 13-month sliding support window &#8211;  What does it mean for you?](https://ubuntu.com//blog/canonical-announces-new-ubuntu-livepatch-13-months-sliding-support-window) - Thu, 13 Apr 2023 11:18:50 
+* [Canonical Livepatch gets even better    &#8211;                        Now supporting Hardware Enablement Kernels](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels) - Thu, 13 Apr 2023 10:47:16 
 * [Phoenix Systems sets a new standard for secure cloud services with Canonical and IBM](https://ubuntu.com//blog/phoenix-systems-sets-a-new-standard-for-secure-cloud-services-with-canonical-and-ibm) - Wed, 12 Apr 2023 20:08:52 
 * [Canonical Kubernetes 1.27 announcement](https://ubuntu.com//blog/canonical-kubernetes-1-27-announcement) - Wed, 12 Apr 2023 16:28:25 
 * [Charmed Kubeflow is now available on AWS Marketplace](https://ubuntu.com//blog/kubeflow-appliance-aws) - Wed, 12 Apr 2023 12:11:17 
 * [Optimise your ROS snap – Part 2](https://ubuntu.com//blog/optimise-your-ros-snap-part-2) - Tue, 11 Apr 2023 16:05:47 
-* [Dell and Canonical at KubeCon + CloudNativeCon Europe](https://ubuntu.com//blog/dell-and-canonical-at-kubecon-cloudnativecon-europe) - Tue, 11 Apr 2023 08:00:17 
-* [Open source MLOps at Kubecon with Canonical](https://ubuntu.com//blog/mlops-kubecon-europe-2023) - Mon, 10 Apr 2023 09:04:43 
 <!-- blog ends -->
