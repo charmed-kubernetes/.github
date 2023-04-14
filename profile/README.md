@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **bump validate-charm-release-upgrade job for 1.27** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **build volcano bundle (#1265)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Apply `topologySpreadConstraints` to control-plane Deploy...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/18) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1265) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/6) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Address the use of force in application/machine removals** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **refresh gpu docs; add azure types, update oci/examples/li...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/593) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Cloud storage at the edge with MicroCeph](https://ubuntu.com//blog/cloud-storage-at-the-edge-with-microceph) - Fri, 14 Apr 2023 07:26:48 
 * [Livepatch has a new 13-month sliding support window &#8211;  What does it mean for you?](https://ubuntu.com//blog/canonical-announces-new-ubuntu-livepatch-13-months-sliding-support-window) - Thu, 13 Apr 2023 11:18:50 
 * [Canonical Livepatch gets even better    &#8211;                        Now supporting Hardware Enablement Kernels](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels) - Thu, 13 Apr 2023 10:47:16 
 * [Phoenix Systems sets a new standard for secure cloud services with Canonical and IBM](https://ubuntu.com//blog/phoenix-systems-sets-a-new-standard-for-secure-cloud-services-with-canonical-and-ibm) - Wed, 12 Apr 2023 20:08:52 
 * [Canonical Kubernetes 1.27 announcement](https://ubuntu.com//blog/canonical-kubernetes-1-27-announcement) - Wed, 12 Apr 2023 16:28:25 
 * [Charmed Kubeflow is now available on AWS Marketplace](https://ubuntu.com//blog/kubeflow-appliance-aws) - Wed, 12 Apr 2023 12:11:17 
-* [Optimise your ROS snap – Part 2](https://ubuntu.com//blog/optimise-your-ros-snap-part-2) - Tue, 11 Apr 2023 16:05:47 
 <!-- blog ends -->
