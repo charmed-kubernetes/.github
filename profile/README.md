@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **initial layout for nvidia operators** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add model status updates** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **fix getting kubeconfig** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **no longer necessary to update a bundle table, remove this...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **no longer necessary to update a bundle table, remove this...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Optimise your ROS snap – Part 3](https://ubuntu.com//blog/optimise-your-ros-snap-part-3) - Mon, 17 Apr 2023 08:48:26 
 * [Cloud storage at the edge with MicroCeph](https://ubuntu.com//blog/cloud-storage-at-the-edge-with-microceph) - Fri, 14 Apr 2023 07:26:48 
 * [Livepatch has a new 13-month sliding support window &#8211;  What does it mean for you?](https://ubuntu.com//blog/canonical-announces-new-ubuntu-livepatch-13-months-sliding-support-window) - Thu, 13 Apr 2023 11:18:50 
 * [Canonical Livepatch gets even better    &#8211;                        Now supporting Hardware Enablement Kernels](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels) - Thu, 13 Apr 2023 10:47:16 
 * [Phoenix Systems sets a new standard for secure cloud services with Canonical and IBM](https://ubuntu.com//blog/phoenix-systems-sets-a-new-standard-for-secure-cloud-services-with-canonical-and-ibm) - Wed, 12 Apr 2023 20:08:52 
 * [Canonical Kubernetes 1.27 announcement](https://ubuntu.com//blog/canonical-kubernetes-1-27-announcement) - Wed, 12 Apr 2023 16:28:25 
-* [Charmed Kubeflow is now available on AWS Marketplace](https://ubuntu.com//blog/kubeflow-appliance-aws) - Wed, 12 Apr 2023 12:11:17 
 <!-- blog ends -->
