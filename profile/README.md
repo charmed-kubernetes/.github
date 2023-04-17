@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure component summary has no linefeeds** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@beliaev-maksim](https://github.com/beliaev-maksim) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/55) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.25/inspur-cnp-amd64 (#2425)  S...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The Firefox snap: Updates and Upgrades](https://ubuntu.com//blog/firefox-snap-updates-and-upgrades) - Mon, 17 Apr 2023 16:29:31 
 * [Optimise your ROS snap – Part 3](https://ubuntu.com//blog/optimise-your-ros-snap-part-3) - Mon, 17 Apr 2023 08:48:26 
 * [Cloud storage at the edge with MicroCeph](https://ubuntu.com//blog/cloud-storage-at-the-edge-with-microceph) - Fri, 14 Apr 2023 07:26:48 
 * [Livepatch has a new 13-month sliding support window &#8211;  What does it mean for you?](https://ubuntu.com//blog/canonical-announces-new-ubuntu-livepatch-13-months-sliding-support-window) - Thu, 13 Apr 2023 11:18:50 
 * [Canonical Livepatch gets even better    &#8211;                        Now supporting Hardware Enablement Kernels](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels) - Thu, 13 Apr 2023 10:47:16 
 * [Phoenix Systems sets a new standard for secure cloud services with Canonical and IBM](https://ubuntu.com//blog/phoenix-systems-sets-a-new-standard-for-secure-cloud-services-with-canonical-and-ibm) - Wed, 12 Apr 2023 20:08:52 
-* [Canonical Kubernetes 1.27 announcement](https://ubuntu.com//blog/canonical-kubernetes-1-27-announcement) - Wed, 12 Apr 2023 16:28:25 
 <!-- blog ends -->
