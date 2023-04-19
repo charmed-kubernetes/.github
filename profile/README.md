@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Unit Testing and Linting** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **adjust workflow** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **move env declaration** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **just try using secret data** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use env var** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **adjust test** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/79) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/79) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **initial layout for nvidia operators** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1273) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1273) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure html comments are followed by a blankline if the n...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Addition of kubevirt documentation (#767)  * Addition of ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update kubevirt.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/767) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update aws-integration.md  re-org version info** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu 23.04 출시를 앞두고 루나 랍스터가 도착했다](https://ubuntu.com//blog/lunar-lobster-has-landed-kr) - Wed, 19 Apr 2023 05:10:19 
 * [PostgreSQL high availability made charmingly easy](https://ubuntu.com//blog/postgresql-high-availability) - Tue, 18 Apr 2023 07:37:15 
 * [The Firefox snap: Updates and Upgrades](https://ubuntu.com//blog/firefox-snap-updates-and-upgrades) - Mon, 17 Apr 2023 16:29:31 
 * [Optimise your ROS snap – Part 3](https://ubuntu.com//blog/optimise-your-ros-snap-part-3) - Mon, 17 Apr 2023 08:48:26 
 * [Cloud storage at the edge with MicroCeph](https://ubuntu.com//blog/cloud-storage-at-the-edge-with-microceph) - Fri, 14 Apr 2023 07:26:48 
 * [Livepatch has a new 13-month sliding support window &#8211;  What does it mean for you?](https://ubuntu.com//blog/canonical-announces-new-ubuntu-livepatch-13-months-sliding-support-window) - Thu, 13 Apr 2023 11:18:50 
-* [Canonical Livepatch gets even better    &#8211;                        Now supporting Hardware Enablement Kernels](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels) - Thu, 13 Apr 2023 10:47:16 
 <!-- blog ends -->
