@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/54) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Unit Testing and Linting** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **adjust workflow** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **move env declaration** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **just try using secret data** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use env var** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **adjust test** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/79) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/79) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **initial layout for nvidia operators** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update workflow** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Try deploying cluster** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Cilium hiccups on AWS and Openstack** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add scripts back in** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try run script with secret** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **switch back to correct secret** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add ck8s boilerplate** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use quotes** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try with new secret** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **ignore new line** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
