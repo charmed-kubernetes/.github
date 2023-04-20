@@ -44,7 +44,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu 23.04 출시를 앞두고 루나 랍스터가 도착했다](https://ubuntu.com//blog/lunar-lobster-has-landed-kr) - Wed, 19 Apr 2023 05:10:19 
+* [Azure AD authentication comes to Ubuntu Desktop 23.04](https://ubuntu.com//blog/azure-ad-authentication-comes-to-ubuntu-desktop-23-04) - Thu, 20 Apr 2023 13:15:20 
 * [PostgreSQL high availability made charmingly easy](https://ubuntu.com//blog/postgresql-high-availability) - Tue, 18 Apr 2023 07:37:15 
 * [The Firefox snap: Updates and Upgrades](https://ubuntu.com//blog/firefox-snap-updates-and-upgrades) - Mon, 17 Apr 2023 16:29:31 
 * [Optimise your ROS snap – Part 3](https://ubuntu.com//blog/optimise-your-ros-snap-part-3) - Mon, 17 Apr 2023 08:48:26 
