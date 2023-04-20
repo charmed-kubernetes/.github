@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update workflow** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Try deploying cluster** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Cilium hiccups on AWS and Openstack** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add scripts back in** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try run script with secret** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **switch back to correct secret** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add ck8s boilerplate** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use quotes** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try with new secret** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **ignore new line** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix path** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use dummy data** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use tee** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add dockerhub auth** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix yaml formatting** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update config/samples/infrastructure_v1beta1_jujucluster....** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Copy Cilium Notes to main release-notes page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Kubeconfig** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **wait for mk8s** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/6) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
