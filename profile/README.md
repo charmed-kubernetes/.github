@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **cncf-conformance job needs help (#1273)  * fail before te...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **stop with the creds** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update jobs/cncf-conformance/conformance-spec  Co-authore...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix invalid variable in test-teardown** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **move temporary directory for integrration tests** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pipe to cat to get buffered output** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use variable for credential namespace as well** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Get Provisioner logs only** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove dependecy on cryptography library by generating a ...** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/79) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **set min version of support to kubernetes dashboard (#1275)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1275) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **1.27 stable work: adjust enums, start building 1.28 (#1271)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1271) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments to enhance debug logs when running validation...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1274) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
