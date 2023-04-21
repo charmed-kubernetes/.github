@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use exec instead of unit.run** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix unit name** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **install microk8s on ubuntu unit** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **switch to using pytest operator to deploy ubuntu charm** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Cleanup and fixes (#12)  * Address the use of force in ap...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update jujucontroller data name and update samples to use...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/6) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/12) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix path** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use dummy data** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/768) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **drop silly apiserver snap info** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **reword taglines, add feedback links, adjust spacing** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add RBD debug logs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **network-op: update logo** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **fix copy command** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **network-op: add manifest fetcher and latest manifest** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test with juju 3.1** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try using temp path** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
