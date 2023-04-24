@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **using lightkube 0.13.0, this work-around is no longer nee...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/19) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.27/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **extract the 1.27/stable channel bundle (#880)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/880) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **network-op: validate nfd config** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **add upgrade info** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **spaces etc** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **fix formatting** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Submitting k8s conformance results for v1.25 for windrive...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **updated recipe based on the 1.27 stable release (#1276)  ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1276) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Optimise your ROS snap – Part 5](https://ubuntu.com//blog/optimise-your-ros-snap-part-5) - Mon, 24 Apr 2023 09:13:42 
 * [US Public Sector regulatory compliance with Ubuntu Pro and AWS GovCloud](https://ubuntu.com//blog/us-public-sector-regulatory-compliance-with-ubuntu-pro-and-aws-govcloud) - Sat, 22 Apr 2023 10:00:12 
 * [How we designed the new Ubuntu Desktop installer](https://ubuntu.com//blog/how-we-designed-the-new-ubuntu-desktop-installer) - Fri, 21 Apr 2023 10:50:43 
 * [Optimise your ROS snap – Part 4](https://ubuntu.com//blog/optimise-your-ros-snap-part-4) - Fri, 21 Apr 2023 09:40:02 
 * [Ubuntu Desktop 23.04 release roundup](https://ubuntu.com//blog/ubuntu-desktop-23-04-release-roundup) - Thu, 20 Apr 2023 15:16:29 
 * [Canonical releases Ubuntu 23.04 Lunar Lobster](https://ubuntu.com//blog/canonical-releases-ubuntu-23-04-lunar-lobster) - Thu, 20 Apr 2023 15:15:32 
-* [Azure AD authentication comes to Ubuntu Desktop 23.04](https://ubuntu.com//blog/azure-ad-authentication-comes-to-ubuntu-desktop-23-04) - Thu, 20 Apr 2023 13:15:20 
 <!-- blog ends -->
