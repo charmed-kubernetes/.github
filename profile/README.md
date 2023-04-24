@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **using lightkube 0.13.0, this work-around is no longer nee...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/19) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.27/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **extract the 1.27/stable channel bundle (#880)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/880) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **network-op: validate nfd config** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Beginning the 1.27 release notes (#768)  * Beginning the ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **add upgrade info** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **spaces etc** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **fix formatting** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change assertion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include pytest to reference skip markers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update components to use the deploy img tag when creating...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update components make rule to use deploy img in componen...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update makefile to use deploy img tag when creating compo...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/8) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/8) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/15) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Sync all juju operator versions available in snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add vsphere template and rc file (#14)  * add vsphere tem...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
