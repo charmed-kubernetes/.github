@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Move up Ceph test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Move Ceph test back to ooriginal position** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change assertion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -32,9 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update components to use the deploy img tag when creating...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update components make rule to use deploy img in componen...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update makefile to use deploy img tag when creating compo...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/8) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/8) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/15) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
