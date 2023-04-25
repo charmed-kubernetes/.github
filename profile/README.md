@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu Pro is now part of the AWS EC2 console](https://ubuntu.com//blog/ubuntu-pro-is-now-part-of-the-aws-ec2-console) - Tue, 25 Apr 2023 10:30:46 
+* [Try Ubuntu confidential VMs with Intel TDX today: limited preview now available on Azure](https://ubuntu.com//blog/ubuntu-confidential-vms-intel-tdx-microsoft-azure-confidential-computing) - Tue, 25 Apr 2023 08:44:29 
 * [Optimise your ROS snap – Part 5](https://ubuntu.com//blog/optimise-your-ros-snap-part-5) - Mon, 24 Apr 2023 09:13:42 
 * [US Public Sector regulatory compliance with Ubuntu Pro and AWS GovCloud](https://ubuntu.com//blog/us-public-sector-regulatory-compliance-with-ubuntu-pro-and-aws-govcloud) - Sat, 22 Apr 2023 10:00:12 
 * [How we designed the new Ubuntu Desktop installer](https://ubuntu.com//blog/how-we-designed-the-new-ubuntu-desktop-installer) - Fri, 21 Apr 2023 10:50:43 
 * [Optimise your ROS snap – Part 4](https://ubuntu.com//blog/optimise-your-ros-snap-part-4) - Fri, 21 Apr 2023 09:40:02 
-* [Ubuntu Desktop 23.04 release roundup](https://ubuntu.com//blog/ubuntu-desktop-23-04-release-roundup) - Thu, 20 Apr 2023 15:16:29 
-* [Canonical releases Ubuntu 23.04 Lunar Lobster](https://ubuntu.com//blog/canonical-releases-ubuntu-23-04-lunar-lobster) - Thu, 20 Apr 2023 15:15:32 
 <!-- blog ends -->
