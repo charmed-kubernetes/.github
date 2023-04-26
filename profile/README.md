@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Move up Ceph test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Move Ceph test back to ooriginal position** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change assertion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **include pytest to reference skip markers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update components to use the deploy img tag when creating...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update components make rule to use deploy img in componen...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update makefile to use deploy img tag when creating compo...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **network-op: config updates  - remove unused config - more...** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump snaps and charm revisions since 1.27/stable release ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add 1.28/beta and candidate snap enooms** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1279) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/9) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README.md  Co-authored-by: George Kraft <george.kr...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/9) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s/pull/9) in the [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/9) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [ChatGPT uncertain about the future of cloud computing](https://ubuntu.com//blog/chatgpt) - Wed, 26 Apr 2023 07:00:26 
 * [Ubuntu Pro is now part of the AWS EC2 console](https://ubuntu.com//blog/ubuntu-pro-is-now-part-of-the-aws-ec2-console) - Tue, 25 Apr 2023 10:30:46 
 * [Try Ubuntu confidential VMs with Intel TDX today: limited preview now available on Azure](https://ubuntu.com//blog/ubuntu-confidential-vms-intel-tdx-microsoft-azure-confidential-computing) - Tue, 25 Apr 2023 08:44:29 
 * [Optimise your ROS snap – Part 5](https://ubuntu.com//blog/optimise-your-ros-snap-part-5) - Mon, 24 Apr 2023 09:13:42 
 * [US Public Sector regulatory compliance with Ubuntu Pro and AWS GovCloud](https://ubuntu.com//blog/us-public-sector-regulatory-compliance-with-ubuntu-pro-and-aws-govcloud) - Sat, 22 Apr 2023 10:00:12 
 * [How we designed the new Ubuntu Desktop installer](https://ubuntu.com//blog/how-we-designed-the-new-ubuntu-desktop-installer) - Fri, 21 Apr 2023 10:50:43 
-* [Optimise your ROS snap – Part 4](https://ubuntu.com//blog/optimise-your-ros-snap-part-4) - Fri, 21 Apr 2023 09:40:02 
 <!-- blog ends -->
