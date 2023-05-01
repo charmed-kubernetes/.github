@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust ceph testing logging** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Readme updates, use stable channels (#16)  * Readme updat...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Accelerating the adoption of AI in banking with MLOps](https://ubuntu.com//blog/accelerating-the-adoption-of-ai-in-banking-with-mlops) - Mon, 01 May 2023 09:07:53 
 * [Upgrade your existing Ubuntu LTS instances to Ubuntu Pro in AWS](https://ubuntu.com//blog/upgrade-your-existing-ubuntu-lts-instances-to-ubuntu-pro-in-aws) - Fri, 28 Apr 2023 20:30:24 
 * [Optimise your ROS snap – Part 6](https://ubuntu.com//blog/optimise-your-ros-snap-part-6) - Thu, 27 Apr 2023 09:39:28 
 * [No more DHCP(d)](https://ubuntu.com//blog/no-more-dhcpd) - Wed, 26 Apr 2023 19:18:15 
 * [ChatGPT uncertain about the future of cloud computing](https://ubuntu.com//blog/chatgpt) - Wed, 26 Apr 2023 07:00:26 
 * [Ubuntu Pro is now part of the AWS EC2 console](https://ubuntu.com//blog/ubuntu-pro-is-now-part-of-the-aws-ec2-console) - Tue, 25 Apr 2023 10:30:46 
-* [Try Ubuntu confidential VMs with Intel TDX today: limited preview now available on Azure](https://ubuntu.com//blog/ubuntu-confidential-vms-intel-tdx-microsoft-azure-confidential-computing) - Tue, 25 Apr 2023 08:44:29 
 <!-- blog ends -->
