@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **revert** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test_audit_* tests should cleanup on failures, and simpli...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update README (#9)  * update README  * Update README.md...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Readme updates (#9)  * Update README  * use stable chan...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Actually use python 3.10** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix unit test failures and related bugs** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix unit tests** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn v1.11.3** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust ceph testing logging** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu Pro is now part of the Amazon EC2 console](https://ubuntu.com//blog/ubuntu-pro-is-now-part-of-the-amazon-ec2-console) - Tue, 02 May 2023 13:00:09 
 * [Accelerating the adoption of AI in banking with MLOps](https://ubuntu.com//blog/accelerating-the-adoption-of-ai-in-banking-with-mlops) - Mon, 01 May 2023 09:07:53 
 * [Upgrade your existing Ubuntu LTS instances to Ubuntu Pro in AWS](https://ubuntu.com//blog/upgrade-your-existing-ubuntu-lts-instances-to-ubuntu-pro-in-aws) - Fri, 28 Apr 2023 20:30:24 
 * [Optimise your ROS snap – Part 6](https://ubuntu.com//blog/optimise-your-ros-snap-part-6) - Thu, 27 Apr 2023 09:39:28 
 * [No more DHCP(d)](https://ubuntu.com//blog/no-more-dhcpd) - Wed, 26 Apr 2023 19:18:15 
 * [ChatGPT uncertain about the future of cloud computing](https://ubuntu.com//blog/chatgpt) - Wed, 26 Apr 2023 07:00:26 
-* [Ubuntu Pro is now part of the AWS EC2 console](https://ubuntu.com//blog/ubuntu-pro-is-now-part-of-the-aws-ec2-console) - Tue, 25 Apr 2023 10:30:46 
 <!-- blog ends -->
