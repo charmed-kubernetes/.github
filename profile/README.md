@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update README (#9)  * update README  * Update README.md...** to [cluster-api-bootstrap-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-bootstrap-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Readme updates (#9)  * Update README  * use stable chan...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Actually use python 3.10** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update integration workflow to juju 3.1 and python 3.10** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Remove python 3.7 from test matrix** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn v1.11.3** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust ceph testing logging** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Readme updates, use stable channels (#16)  * Readme updat...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/16) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
