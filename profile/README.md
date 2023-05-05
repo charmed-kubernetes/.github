@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **test_multi_nic_ipam: delete pod and subnet before net-att...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Revert "Clean up logging-config arg"  This reverts commit...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **swapping juju pip requirements should use pip-sync** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **build bundle fix** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Charm builds with updated sh library** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **parse semver like thing with one another** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump s3transfer from 0.3.6 to 0.6.0 (#1238)  Bumps [s3tra...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2020.6.20 to 2022.12.7 in /jobs/microk8...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 3.4.6 to 39.0.1 in /jobs/microk8s ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump decorator from 4.4.2 to 5.1.1 (#1245)  Bumps [decora...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements-2.9.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump ansible from 7.3.0 to 7.5.0 (#1288)  * Bump ansible ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1288) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1288) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements-2.9.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [ROS development on Linux, Windows and macOS](https://ubuntu.com//blog/ros-development-on-linux-windows-and-macos) - Fri, 05 May 2023 08:06:20 
 * [Big data security foundations in five steps](https://ubuntu.com//blog/big-data-security-foundations-in-five-steps) - Wed, 03 May 2023 16:45:42 
 * [Ubuntu Pro is now part of the Amazon EC2 console](https://ubuntu.com//blog/ubuntu-pro-is-now-part-of-the-amazon-ec2-console) - Tue, 02 May 2023 13:00:09 
 * [Accelerating the adoption of AI in banking with MLOps](https://ubuntu.com//blog/accelerating-the-adoption-of-ai-in-banking-with-mlops) - Mon, 01 May 2023 09:07:53 
 * [Upgrade your existing Ubuntu LTS instances to Ubuntu Pro in AWS](https://ubuntu.com//blog/upgrade-your-existing-ubuntu-lts-instances-to-ubuntu-pro-in-aws) - Fri, 28 Apr 2023 20:30:24 
 * [Optimise your ROS snap – Part 6](https://ubuntu.com//blog/optimise-your-ros-snap-part-6) - Thu, 27 Apr 2023 09:39:28 
-* [No more DHCP(d)](https://ubuntu.com//blog/no-more-dhcpd) - Wed, 26 Apr 2023 19:18:15 
 <!-- blog ends -->
