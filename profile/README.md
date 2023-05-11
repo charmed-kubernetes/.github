@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump attrs from 22.2.0 to 23.1.0 (#1302)  * Bump attrs fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest from 7.2.2 to 7.3.1 (#1300)  * Bump pytest fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn 1.11.5** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **add links for preview (#770)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix Prometheus.is_ready exception when connection refused** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix PV stuck due to VM hardware revision** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **and remove here...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1292) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Replace install-mode with "disable" for kubelet-eks (#129...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1297) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump packaging from 23.0 to 23.1 (#1296)  * Bump packagin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Matter on Ubuntu: getting started with the standard for smart home devices](https://ubuntu.com//blog/matter-on-ubuntu-getting-started) - Thu, 11 May 2023 14:17:08 
 * [Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://ubuntu.com//blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board) - Wed, 10 May 2023 15:00:43 
 * [OpenInfra Summit Vancouver 2023 is coming](https://ubuntu.com//blog/openinfra-summit-vancouver-2023) - Wed, 10 May 2023 14:21:26 
 * [Kubecon EU 2023: Operator Day hosted by Canonical &#8211; recordings available](https://ubuntu.com//blog/operator-day-eu-2023-recordings) - Tue, 09 May 2023 06:00:21 
 * [Spring news from the LXD team](https://ubuntu.com//blog/spring-news-from-the-lxd-team) - Mon, 08 May 2023 10:00:06 
 * [ROS development on Linux, Windows and macOS](https://ubuntu.com//blog/ros-development-on-linux-windows-and-macos) - Fri, 05 May 2023 08:06:20 
-* [Big data security foundations in five steps](https://ubuntu.com//blog/big-data-security-foundations-in-five-steps) - Wed, 03 May 2023 16:45:42 
 <!-- blog ends -->
