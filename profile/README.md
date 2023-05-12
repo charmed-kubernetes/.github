@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/20) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/20) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add test_pod_mirror workaround, sleep 20 seconds** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust microk8s executors to remove `sh` deprecations (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump attrs from 22.2.0 to 23.1.0 (#1302)  * Bump attrs fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest from 7.2.2 to 7.3.1 (#1300)  * Bump pytest fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
