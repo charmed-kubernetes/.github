@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add base.bootstrapped decorator to integration test  whic...** to [python-libjuju](https://github.com/charmed-kubernetes/python-libjuju)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn v1.11.5 (#44)  * Update to kube-ovn v1...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Have etcd provide certs to prometheus upon relation. Fixe...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add client_file/key_file along with client_cert/client_ke...** to [interface-prometheus-manual](https://github.com/charmed-kubernetes/interface-prometheus-manual)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Sync prometheus-manual interface from upstream source (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
