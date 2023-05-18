@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Add base.bootstrapped decorator to integration test  whic...** to [python-libjuju](https://github.com/charmed-kubernetes/python-libjuju)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump sh from 2.0.3 to 2.0.4 (#1314)  * Bump sh from 2.0.3...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **raise build_exception from sh exception** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve documentation regarding building bugfix charm rel...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1316) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn v1.11.5 (#44)  * Update to kube-ovn v1...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/44) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Have etcd provide certs to prometheus upon relation. Fixe...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add base.bootstrapped decorator to integration test  whic...** to [python-libjuju](https://github.com/charmed-kubernetes/python-libjuju)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
