@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **refactor to remove pydantic and just use dataclasses** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/21) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/21) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.5.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ensure install-mode enable for kubelet-eks (#1319)  This ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1319) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@JessicaJang](https://github.com/JessicaJang) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1319) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@rthill91](https://github.com/rthill91) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1319) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump sh from 2.0.3 to 2.0.4 (#1314)  * Bump sh from 2.0.3...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **raise build_exception from sh exception** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Improve documentation regarding building bugfix charm rel...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1316) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn v1.11.5 (#44)  * Update to kube-ovn v1...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add base.bootstrapped decorator to integration test  whic...** to [python-libjuju](https://github.com/charmed-kubernetes/python-libjuju)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
