@@ -25,16 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/21) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop python 3.7 support** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure that follower perms are set before reading endpoin...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **updated typing for older python** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure that follower perms are set before reading endpoin...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **updated typing for older python** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **updated typing for older python** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **timeout PVC and VMI instantiation within 60 seconds** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/21) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Set kubelet-eks service install-mode to disable (#1320)  ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust report template to create an accordian style card ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1321) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2022.12.7 to 2023.5.7 (#1313)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pygments from 2.14.0 to 2.15.1 (#1317)  * Bump pygme...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry) - Fri, 19 May 2023 15:46:47 
 * [AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai) - Thu, 18 May 2023 11:53:45 
 * [Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison) - Wed, 17 May 2023 09:53:00 
 * [A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack) - Wed, 17 May 2023 07:00:09 
 * [Canonical at Dell Technologies World 2023](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2023) - Thu, 11 May 2023 20:38:10 
 * [Matter on Ubuntu: getting started with the standard for smart home devices](https://ubuntu.com//blog/matter-on-ubuntu-getting-started) - Thu, 11 May 2023 14:17:08 
-* [Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://ubuntu.com//blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board) - Wed, 10 May 2023 15:00:43 
 <!-- blog ends -->
