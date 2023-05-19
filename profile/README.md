@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/21) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **ensure that follower perms are set before reading endpoin...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **updated typing for older python** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **updated typing for older python** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust charm metadata (#83)** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
