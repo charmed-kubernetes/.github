@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Try setting multiple env vars** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Try decoding with quotes** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Try decoding** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **configure to use multiline env var** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try encoding by itself** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add test directory** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix submodules checkout** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add submodule and workflow** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Remove .kube dirctory** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add namespace deletion fix** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update infra branch** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **add workflow file for tests** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update submodule** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **more action fixes** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **update submodule** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **wait for the action** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Pull in updated e2e files** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **use juju 3 return-code instead of juju 2.9 Code** to [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **try workflow for real** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
