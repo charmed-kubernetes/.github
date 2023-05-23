@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **1.25 ck4 cherries (#23)  * adjust charm metadata (#18) ...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure 1.26-ck4 tests on juju 2.9 and jammy (#24)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **1.24 ck2 cherries (#22)  * Blacken code and upgrade test-...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **Blacken code and upgrade test-ability (#19)  * Blacken co...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure 1.25-ck4 tests on juju 2.9 and jammy** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **give vm 5 minutes to start in tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure 1.24-ck2 tests on juju 2.9 and focal** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure 1.24-ck2 tests on juju 2.9 and focal** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **give vm 5 minutes to start in tests** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **optionally use vsphere overlay, and extra debugging for f...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit ** [LP#1949913] Use a layer configurable option to change t...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/284) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/18) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/18) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/10) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s/pull/10) in the [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e/pull/2) in the [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e/pull/2) in the [cluster-api-charmed-k8s-e2e](https://github.com/charmed-kubernetes/cluster-api-charmed-k8s-e2e) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **1.26 ck4 cherries (#25)  * Blacken code and upgrade test-...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
