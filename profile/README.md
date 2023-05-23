@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit ** [LP#1949913] Use a layer configurable option to change t...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/284) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/cluster-api-provider-juju/pull/18) in the [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju) repository.
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education) - Tue, 23 May 2023 11:38:06 
 * [Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023) - Mon, 22 May 2023 10:57:56 
 * [Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry) - Fri, 19 May 2023 15:46:47 
 * [AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai) - Thu, 18 May 2023 11:53:45 
 * [Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison) - Wed, 17 May 2023 09:53:00 
 * [A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack) - Wed, 17 May 2023 07:00:09 
-* [Canonical at Dell Technologies World 2023](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2023) - Thu, 11 May 2023 20:38:10 
 <!-- blog ends -->
