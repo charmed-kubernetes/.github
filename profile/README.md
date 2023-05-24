@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump black from 23.1.0 to 23.3.0 (#1323)  * Bump black fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **restore other dependancies with python markers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **give ovn validation model more time to deploy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add an extra kubernetes-worker unit to test functional de...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fall back to main branch default for infra provider (#11)** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **fall back to main branch default for control plane branch...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Parsing fix and integration tests (#10)  * Add parsing fi...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Parsing fix for microk8s clouds and integration tests (#1...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update env var to be single line** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023) - Wed, 24 May 2023 19:50:12 
+* [Collaboration, openness and partnership: key themes from this year’s WomenTech Global Conference](https://ubuntu.com//blog/collaboration-openness-and-partnership-key-themes-from-this-years-womentech-global-conference) - Wed, 24 May 2023 17:13:45 
 * [Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education) - Tue, 23 May 2023 11:38:06 
 * [Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023) - Mon, 22 May 2023 10:57:56 
 * [Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry) - Fri, 19 May 2023 15:46:47 
 * [AI in the public sector: practical applications and use cases](https://ubuntu.com//blog/public-sector-ai) - Thu, 18 May 2023 11:53:45 
-* [Docker vs Snaps: a side by side comparison](https://ubuntu.com//blog/docker-vs-snaps-a-side-by-side-comparison) - Wed, 17 May 2023 09:53:00 
-* [A brief history of MicroStack](https://ubuntu.com//blog/k8s-native-microstack) - Wed, 17 May 2023 07:00:09 
 <!-- blog ends -->
