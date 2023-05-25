@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump black from 23.1.0 to 23.3.0 (#1323)  * Bump black fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **restore other dependancies with python markers** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **give ovn validation model more time to deploy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **add an extra kubernetes-worker unit to test functional de...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fall back to main branch default for infra provider (#11)** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **fall back to main branch default for control plane branch...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address ceph-rbd-provisioner being able to use hostNetwor...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Parsing fix and integration tests (#10)  * Add parsing fi...** to [cluster-api-control-plane-provider-charmed-k8s](https://github.com/charmed-kubernetes/cluster-api-control-plane-provider-charmed-k8s)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Parsing fix for microk8s clouds and integration tests (#1...** to [cluster-api-provider-juju](https://github.com/charmed-kubernetes/cluster-api-provider-juju)
+ - [@addyess](https://github.com/addyess) has pushed the commit **requires side states its unit_name as {model-uuid}-{local...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **requires side states its unit_name as {model-uuid}-{local...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/285) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/143) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/46) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/7) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Skip test_service_cidr_expansion when testing kubeovn and...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump requests from 2.24.0 to 2.31.0 in /jobs/microk8s (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix tox.ini formatting issues** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **give ovn validation model more time to deploy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
