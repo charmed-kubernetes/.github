@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **requires side states its unit_name as {model-uuid}-{local...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **requires side states its unit_name as {model-uuid}-{local...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/285) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/143) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/46) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/7) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Skip test_service_cidr_expansion when testing kubeovn and...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump requests from 2.24.0 to 2.31.0 in /jobs/microk8s (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix tox.ini formatting issues** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **give ovn validation model more time to deploy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Revert use of the colon back to a hyphen so vault url pat...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump typing-extensions from 4.5.0 to 4.6.1 (#1330)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix pep8 issue, and update unit_name delimiter to colon. ...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Merge pull request #5 from simondeziel/tls_cert_key  Clie...** to [interface-prometheus-manual](https://github.com/charmed-kubernetes/interface-prometheus-manual)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Have etcd provide certs to prometheus upon relation. Fixe...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add proxy-extra-config option, support ipvs proxy mode (#...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **configure_kube_proxy: use proxy-extra-config option (#46)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Restart kube-proxy if proxy-extra-config changes (#143)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Restart kube-proxy if proxy-extra-config changes (#285)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Apply `topologySpreadConstraints` to control-plane Deploy...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
