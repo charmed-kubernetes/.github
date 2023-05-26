@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **the _VaultBaseKV._read_path(...) method ignored the argum...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **the _VaultBaseKV._read_path(...) method ignored the argum...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
  - [@addyess](https://github.com/addyess) has pushed the commit **Revert use of the colon back to a hyphen so vault url pat...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump typing-extensions from 4.5.0 to 4.6.1 (#1330)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix pep8 issue, and update unit_name delimiter to colon. ...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add proxy-extra-config option, support ipvs proxy mode (#...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **configure_kube_proxy: use proxy-extra-config option (#46)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Restart kube-proxy if proxy-extra-config changes (#143)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Restart kube-proxy if proxy-extra-config changes (#285)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Apply `topologySpreadConstraints` to control-plane Deploy...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
