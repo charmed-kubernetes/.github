@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **the _VaultBaseKV._read_path(...) method ignored the argum...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **the _VaultBaseKV._read_path(...) method ignored the argum...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert use of the colon back to a hyphen so vault url pat...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump typing-extensions from 4.5.0 to 4.6.1 (#1330)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix pep8 issue, and update unit_name delimiter to colon. ...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Merge pull request #5 from simondeziel/tls_cert_key  Clie...** to [interface-prometheus-manual](https://github.com/charmed-kubernetes/interface-prometheus-manual)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Have etcd provide certs to prometheus upon relation. Fixe...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2007423] Address ceph-rbd-provisioner being able to u...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2007423] Address ceph-rbd-provisioner being able to u...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add 1.28-static (#881)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/881) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/9) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update Calico to v3.25.1 (#96)** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1331) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1331) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1331) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/96) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users) - Fri, 26 May 2023 16:43:36 
 * [How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling) - Fri, 26 May 2023 10:09:35 
 * [Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images) - Thu, 25 May 2023 09:09:54 
 * [Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023) - Wed, 24 May 2023 19:50:12 
 * [Collaboration, openness and partnership: key themes from this year’s WomenTech Global Conference](https://ubuntu.com//blog/collaboration-openness-and-partnership-key-themes-from-this-years-womentech-global-conference) - Wed, 24 May 2023 17:13:45 
 * [Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education) - Tue, 23 May 2023 11:38:06 
-* [Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023) - Mon, 22 May 2023 10:57:56 
 <!-- blog ends -->
