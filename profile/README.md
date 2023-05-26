@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **the _VaultBaseKV._read_path(...) method ignored the argum...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **the _VaultBaseKV._read_path(...) method ignored the argum...** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
  - [@addyess](https://github.com/addyess) has pushed the commit **Revert use of the colon back to a hyphen so vault url pat...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix pep8 issue, and update unit_name delimiter to colon. ...** to [charm-interface-vault-kv](https://github.com/charmed-kubernetes/charm-interface-vault-kv)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Merge pull request #5 from simondeziel/tls_cert_key  Clie...** to [interface-prometheus-manual](https://github.com/charmed-kubernetes/interface-prometheus-manual)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Have etcd provide certs to prometheus upon relation. Fixe...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add proxy-extra-config option, support ipvs proxy mode (#...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **configure_kube_proxy: use proxy-extra-config option (#46)** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Restart kube-proxy if proxy-extra-config changes (#143)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling) - Fri, 26 May 2023 10:09:35 
 * [Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images) - Thu, 25 May 2023 09:09:54 
 * [Ubuntu at OSCAfest 2023](https://ubuntu.com//blog/ubuntu-at-oscafest-2023) - Wed, 24 May 2023 19:50:12 
 * [Collaboration, openness and partnership: key themes from this year’s WomenTech Global Conference](https://ubuntu.com//blog/collaboration-openness-and-partnership-key-themes-from-this-years-womentech-global-conference) - Wed, 24 May 2023 17:13:45 
 * [Linux for schools: why use Ubuntu for education](https://ubuntu.com//blog/linux-for-schools-why-use-ubuntu-for-education) - Tue, 23 May 2023 11:38:06 
 * [Canonical at AWS Summit Washington, DC 2023](https://ubuntu.com//blog/canonical-at-aws-summit-washington-dc-2023) - Mon, 22 May 2023 10:57:56 
-* [Unravelling complexity in software-defined vehicles](https://ubuntu.com//blog/unravelling-complexity-in-a-software-defined-vehicles-industry) - Fri, 19 May 2023 15:46:47 
 <!-- blog ends -->
