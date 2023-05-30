@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Pin pyaml<23.0.0 (#216)  Fixes error when installing pyam...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use ubuntu 20.04 to run microk8s tests on (#1338)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use series because we run an old juju** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Proper comment** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2007423] Address ceph-rbd-provisioner being able to u...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add 1.28-static (#881)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/881) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/9) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
