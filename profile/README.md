@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@lathiat](https://github.com/lathiat) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/773) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **test_gpu_support fixes (#1331)  * Loop through all kubern...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1331) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Pin pyaml<23.0.0 (#216)  Fixes error when installing pyam...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use ubuntu 20.04 to run microk8s tests on (#1338)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use series because we run an old juju** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Proper comment** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2007423] Address ceph-rbd-provisioner being able to u...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2007423] Address ceph-rbd-provisioner being able to u...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add 1.28-static (#881)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/881) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Business benefits of artificial intelligence in retail](https://ubuntu.com//blog/business-benefits-of-artificial-intelligence-in-retail) - Thu, 01 Jun 2023 07:50:13 
 * [Ubuntu Core as an immutable Linux Desktop base](https://ubuntu.com//blog/ubuntu-core-an-immutable-linux-desktop) - Wed, 31 May 2023 17:37:01 
 * [Join the Ubuntu crew at GUADEC 2023](https://ubuntu.com//blog/join-the-ubuntu-crew-at-guadec-2023) - Tue, 30 May 2023 10:00:21 
 * [Ubuntu Summit 2023](https://ubuntu.com//blog/ubuntu-summit-2023) - Sat, 27 May 2023 02:59:57 
 * [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users) - Fri, 26 May 2023 16:43:36 
 * [How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling) - Fri, 26 May 2023 10:09:35 
-* [Secure containerised Ceph with Ubuntu container images](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images) - Thu, 25 May 2023 09:09:54 
 <!-- blog ends -->
