@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **etcd updates (#774)  * etcd updates  * fix local nav ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/774) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@lathiat](https://github.com/lathiat) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/773) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **test_gpu_support fixes (#1331)  * Loop through all kubern...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1331) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Docker container security: demystifying FIPS-enabled containers with Ubuntu Pro](https://ubuntu.com//blog/docker-container-security-demystifying-fips-enabled-containers-with-ubuntu-pro) - Fri, 02 Jun 2023 11:05:06 
 * [Business benefits of artificial intelligence in retail](https://ubuntu.com//blog/business-benefits-of-artificial-intelligence-in-retail) - Thu, 01 Jun 2023 07:50:13 
 * [Ubuntu Core as an immutable Linux Desktop base](https://ubuntu.com//blog/ubuntu-core-an-immutable-linux-desktop) - Wed, 31 May 2023 17:37:01 
 * [Join the Ubuntu crew at GUADEC 2023](https://ubuntu.com//blog/join-the-ubuntu-crew-at-guadec-2023) - Tue, 30 May 2023 10:00:21 
 * [Ubuntu Summit 2023](https://ubuntu.com//blog/ubuntu-summit-2023) - Sat, 27 May 2023 02:59:57 
 * [Time to prepare for Ubuntu 18.04 LTS end of standard support on 31 May 2023 – Options for Google Cloud users](https://ubuntu.com//blog/time-to-prepare-for-ubuntu-18-04-lts-end-of-standard-support-on-31-may-2023-options-for-google-cloud-users) - Fri, 26 May 2023 16:43:36 
-* [How to secure your MLOps tooling?](https://ubuntu.com//blog/secure-mlops-tooling) - Fri, 26 May 2023 10:09:35 
 <!-- blog ends -->
