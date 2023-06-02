@@ -33,8 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use series because we run an old juju** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Proper comment** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Proper comment** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2007423] Address ceph-rbd-provisioner being able to u...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
