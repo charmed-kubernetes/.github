@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1331) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Pin pyaml<23.0.0 (#216)  Fixes error when installing pyam...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use ubuntu 20.04 to run microk8s tests on (#1338)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use series because we run an old juju** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
