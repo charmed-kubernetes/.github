@@ -25,10 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Sync various fixes already applied on u.com (#776) (#777)...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Sync various fixes already applied on u.com (#776)  * etc...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **etcd updates (#774) (#775)  * etcd updates  * fix local...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **etcd updates (#774)  * etcd updates  * fix local nav ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/774) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
