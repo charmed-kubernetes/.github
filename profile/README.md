@@ -25,7 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
-
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
