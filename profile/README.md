@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Fix endpoint url regex to parse trailing slash (#68)  The...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **correct input types** to [workflows](https://github.com/charmed-kubernetes/workflows)
