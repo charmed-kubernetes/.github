@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use github actions to build charm** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Redirect nagios cron output to tee (#210)  If etcd is run...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/210) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
