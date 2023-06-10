@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use github actions to build charm** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Redirect nagios cron output to tee (#210)  If etcd is run...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
@@ -32,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
