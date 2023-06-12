@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm version file if it doesn't exist** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm version file if it doesn't exist** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **re-release existing charm uploads** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **re-release existing charm uploads** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Optionally build a charm for a certiain list of bases** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish charm with github action** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Optionally build a charm for a certiain list of bases** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Back out 1.28/candidate from from k8s track list (#1342)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1342) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use github actions to build charm** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Redirect nagios cron output to tee (#210)  If etcd is run...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/210) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical at HPE Discover 2023](https://ubuntu.com//blog/canonical-at-hpe-discover-2023) - Mon, 12 Jun 2023 15:55:34 
 * [Minimising latency in your edge cloud with real-time kernel](https://ubuntu.com//blog/minimising-latency-in-your-edge-cloud-with-real-time-kernel) - Mon, 12 Jun 2023 09:25:19 
 * [Release management for snaps made simpler](https://ubuntu.com//blog/release-management-for-snaps-made-simpler) - Fri, 09 Jun 2023 07:55:19 
 * [Technical deep-dive into a real-time kernel](https://ubuntu.com//blog/real-time-kernel-technical) - Thu, 08 Jun 2023 09:09:53 
 * [Charmed MLFlow Beta is here. Try it out now!](https://ubuntu.com//blog/charmed-mlflow-beta) - Wed, 07 Jun 2023 09:00:50 
 * [How telco companies can reduce 5G infrastructure costs with open source](https://ubuntu.com//blog/how-telco-companies-can-reduce-5g-infrastructure-costs-with-open-source) - Tue, 06 Jun 2023 19:40:29 
-* [Meet Canonical at SmartNICs Summit 2023](https://ubuntu.com//blog/join-canonical-at-smartnics-summit-2023) - Tue, 06 Jun 2023 15:03:23 
 <!-- blog ends -->
