@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Minimising latency in your edge cloud with real-time kernel](https://ubuntu.com//blog/minimising-latency-in-your-edge-cloud-with-real-time-kernel) - Mon, 12 Jun 2023 09:25:19 
 * [Release management for snaps made simpler](https://ubuntu.com//blog/release-management-for-snaps-made-simpler) - Fri, 09 Jun 2023 07:55:19 
 * [Technical deep-dive into a real-time kernel](https://ubuntu.com//blog/real-time-kernel-technical) - Thu, 08 Jun 2023 09:09:53 
 * [Charmed MLFlow Beta is here. Try it out now!](https://ubuntu.com//blog/charmed-mlflow-beta) - Wed, 07 Jun 2023 09:00:50 
 * [How telco companies can reduce 5G infrastructure costs with open source](https://ubuntu.com//blog/how-telco-companies-can-reduce-5g-infrastructure-costs-with-open-source) - Tue, 06 Jun 2023 19:40:29 
 * [Meet Canonical at SmartNICs Summit 2023](https://ubuntu.com//blog/join-canonical-at-smartnics-summit-2023) - Tue, 06 Jun 2023 15:03:23 
-* [Ubuntu Summit 2023 &#8211; Call for Proposals](https://ubuntu.com//blog/ubuntu-summit-2023-call-for-proposals) - Mon, 05 Jun 2023 05:07:28 
 <!-- blog ends -->
