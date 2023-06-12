@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Back out 1.28/candidate from from k8s track list (#1342)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1342) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use github actions to build charm** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clean up workflow readability** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **add upload and upload resources** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
