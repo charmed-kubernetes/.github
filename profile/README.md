@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How we improved testing Ubuntu on WSL &#8211; and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl) - Wed, 14 Jun 2023 08:30:20 
 * [Canonical solutions reduce SmartNIC time-to-market and drive efficiency in enterprise data centres](https://ubuntu.com//blog/ubuntu-on-smartnics-drive-data-centre-efficiency) - Tue, 13 Jun 2023 15:36:20 
 * [Canonical extends its commercial OpenStack offering to small-scale cloud environments with project Sunbeam](https://ubuntu.com//blog/canonical-extends-commercial-openstack-offering-to-small-scale-cloud-environments-with-project-sunbeam) - Tue, 13 Jun 2023 13:13:49 
 * [Canonical at HPE Discover 2023](https://ubuntu.com//blog/canonical-at-hpe-discover-2023) - Mon, 12 Jun 2023 15:55:34 
 * [Minimising latency in your edge cloud with real-time kernel](https://ubuntu.com//blog/minimising-latency-in-your-edge-cloud-with-real-time-kernel) - Mon, 12 Jun 2023 09:25:19 
 * [Release management for snaps made simpler](https://ubuntu.com//blog/release-management-for-snaps-made-simpler) - Fri, 09 Jun 2023 07:55:19 
-* [Technical deep-dive into a real-time kernel](https://ubuntu.com//blog/real-time-kernel-technical) - Thu, 08 Jun 2023 09:09:53 
 <!-- blog ends -->
