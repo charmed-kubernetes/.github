@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Create charm version file if it doesn't exist** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **re-release existing charm uploads** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@addyess](https://github.com/addyess) has pushed the commit **re-release existing charm uploads** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **Optionally build a charm for a certiain list of bases** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
