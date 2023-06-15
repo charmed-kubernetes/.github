@@ -25,12 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.15.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Retry `git ls-remote` calls (#1344)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Retry `git ls-remote` calls** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Log traceback for _semvers_from_point (#1343)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/771) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Simplify resource upload** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create charm version file if it doesn't exist** to [workflows](https://github.com/charmed-kubernetes/workflows)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [ROS architectures with snaps](https://ubuntu.com//blog/ros-architectures-with-snaps) - Thu, 15 Jun 2023 08:23:52 
 * [How we improved testing Ubuntu on WSL &#8211; and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl) - Wed, 14 Jun 2023 08:30:20 
 * [Canonical solutions reduce SmartNIC time-to-market and drive efficiency in enterprise data centres](https://ubuntu.com//blog/ubuntu-on-smartnics-drive-data-centre-effieciency) - Tue, 13 Jun 2023 15:36:20 
 * [Canonical extends its commercial OpenStack offering to small-scale cloud environments with project Sunbeam](https://ubuntu.com//blog/canonical-extends-commercial-openstack-offering-to-small-scale-cloud-environments-with-project-sunbeam) - Tue, 13 Jun 2023 13:13:49 
 * [Canonical at HPE Discover 2023](https://ubuntu.com//blog/canonical-at-hpe-discover-2023) - Mon, 12 Jun 2023 15:55:34 
 * [Minimising latency in your edge cloud with real-time kernel](https://ubuntu.com//blog/minimising-latency-in-your-edge-cloud-with-real-time-kernel) - Mon, 12 Jun 2023 09:25:19 
-* [Release management for snaps made simpler](https://ubuntu.com//blog/release-management-for-snaps-made-simpler) - Fri, 09 Jun 2023 07:55:19 
 <!-- blog ends -->
