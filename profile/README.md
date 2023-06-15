@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Retry `git ls-remote` calls (#1344)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Retry `git ls-remote` calls** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Log traceback for _semvers_from_point (#1343)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/771) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [KDE, Ubuntu, and a Million Reasons Why Snaps are Important: Akademy 2023](https://ubuntu.com//blog/kde-ubuntu-and-a-million-reasons-why-snaps-are-important-akademy-2023) - Thu, 15 Jun 2023 10:56:39 
 * [ROS architectures with snaps](https://ubuntu.com//blog/ros-architectures-with-snaps) - Thu, 15 Jun 2023 08:23:52 
 * [How we improved testing Ubuntu on WSL &#8211; and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl) - Wed, 14 Jun 2023 08:30:20 
 * [Canonical solutions reduce SmartNIC time-to-market and drive efficiency in enterprise data centres](https://ubuntu.com//blog/ubuntu-on-smartnics-drive-data-centre-effieciency) - Tue, 13 Jun 2023 15:36:20 
 * [Canonical extends its commercial OpenStack offering to small-scale cloud environments with project Sunbeam](https://ubuntu.com//blog/canonical-extends-commercial-openstack-offering-to-small-scale-cloud-environments-with-project-sunbeam) - Tue, 13 Jun 2023 13:13:49 
 * [Canonical at HPE Discover 2023](https://ubuntu.com//blog/canonical-at-hpe-discover-2023) - Mon, 12 Jun 2023 15:55:34 
-* [Minimising latency in your edge cloud with real-time kernel](https://ubuntu.com//blog/minimising-latency-in-your-edge-cloud-with-real-time-kernel) - Mon, 12 Jun 2023 09:25:19 
 <!-- blog ends -->
