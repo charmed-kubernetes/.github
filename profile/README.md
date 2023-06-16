@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove mentions of deb packages (#779)  - removes referen...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/57) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/779) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Retry `git ls-remote` calls (#1344)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Retry `git ls-remote` calls** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Log traceback for _semvers_from_point (#1343)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
