@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18) - Fri, 16 Jun 2023 13:25:43 
+* [Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference) - Fri, 16 Jun 2023 11:20:24 
+* [Simplifying software-defined vehicles (SDVs) with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/simplifying-software-defined-vehicles-sdvs-with-eb-corbos-linux-built-on-ubuntu) - Fri, 16 Jun 2023 08:40:20 
 * [KDE, Ubuntu, and a Million Reasons Why Snaps are Important: Akademy 2023](https://ubuntu.com//blog/kde-ubuntu-and-a-million-reasons-why-snaps-are-important-akademy-2023) - Thu, 15 Jun 2023 10:56:39 
 * [ROS architectures with snaps](https://ubuntu.com//blog/ros-architectures-with-snaps) - Thu, 15 Jun 2023 08:23:52 
 * [How we improved testing Ubuntu on WSL &#8211; and how you can too!](https://ubuntu.com//blog/improved-testing-ubuntu-wsl) - Wed, 14 Jun 2023 08:30:20 
-* [Canonical solutions reduce SmartNIC time-to-market and drive efficiency in enterprise data centres](https://ubuntu.com//blog/ubuntu-on-smartnics-drive-data-centre-effieciency) - Tue, 13 Jun 2023 15:36:20 
-* [Canonical extends its commercial OpenStack offering to small-scale cloud environments with project Sunbeam](https://ubuntu.com//blog/canonical-extends-commercial-openstack-offering-to-small-scale-cloud-environments-with-project-sunbeam) - Tue, 13 Jun 2023 13:13:49 
-* [Canonical at HPE Discover 2023](https://ubuntu.com//blog/canonical-at-hpe-discover-2023) - Mon, 12 Jun 2023 15:55:34 
 <!-- blog ends -->
