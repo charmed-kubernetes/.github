@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove unused get_flags import** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Just black (#70)  * Deprecate using snaps as resources in...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update README.md (#771)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/778) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has pushed the commit **rel notes for 1.27+ck1 (#778)  * Sync various fixes alrea...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add 1.24-26 relnotes for fixes that were backported from ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove mentions of deb packages (#779)  - removes referen...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/57) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/779) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
