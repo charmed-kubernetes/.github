@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.0-alpha.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/45) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/225) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1345) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **split ceph tests into parameterized class-based tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Publishing 0.28.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **support destroy_storage when forgetting models (#109)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/109) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1345) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove unused get_flags import** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Just black (#70)  * Deprecate using snaps as resources in...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update README.md (#771)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/778) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Why you should attend the Ubuntu Summit](https://ubuntu.com//blog/why-you-should-attend-the-ubuntu-summit) - Wed, 21 Jun 2023 19:22:54 
 * [Tuning a real-time kernel](https://ubuntu.com//blog/real-time-kernel-tuning) - Mon, 19 Jun 2023 10:46:10 
 * [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Sat, 17 Jun 2023 15:04:28 
 * [Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18) - Fri, 16 Jun 2023 13:25:43 
 * [Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference) - Fri, 16 Jun 2023 11:20:24 
 * [Simplifying software-defined vehicles (SDVs) with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/simplifying-software-defined-vehicles-sdvs-with-eb-corbos-linux-built-on-ubuntu) - Fri, 16 Jun 2023 08:40:20 
-* [KDE, Ubuntu, and a Million Reasons Why Snaps are Important: Akademy 2023](https://ubuntu.com//blog/kde-ubuntu-and-a-million-reasons-why-snaps-are-important-akademy-2023) - Thu, 15 Jun 2023 10:56:39 
 <!-- blog ends -->
