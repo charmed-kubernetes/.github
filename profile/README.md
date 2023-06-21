@@ -25,14 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1345) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **remove unused get_flags import** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Just black (#70)  * Deprecate using snaps as resources in...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update README.md (#771)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/778) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has pushed the commit **rel notes for 1.27+ck1 (#778)  * Sync various fixes alrea...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add 1.24-26 relnotes for fixes that were backported from ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove mentions of deb packages (#779)  - removes referen...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +41,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Tuning a real-time kernel](https://ubuntu.com//blog/real-time-kernel-tuning) - Mon, 19 Jun 2023 10:46:10 
-* [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Sat, 17 Jun 2023 15:04:28 
-* [Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18) - Fri, 16 Jun 2023 13:25:43 
-* [Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference) - Fri, 16 Jun 2023 11:20:24 
-* [Simplifying software-defined vehicles (SDVs) with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/simplifying-software-defined-vehicles-sdvs-with-eb-corbos-linux-built-on-ubuntu) - Fri, 16 Jun 2023 08:40:20 
-* [KDE, Ubuntu, and a Million Reasons Why Snaps are Important: Akademy 2023](https://ubuntu.com//blog/kde-ubuntu-and-a-million-reasons-why-snaps-are-important-akademy-2023) - Thu, 15 Jun 2023 10:56:39 
+
 <!-- blog ends -->
