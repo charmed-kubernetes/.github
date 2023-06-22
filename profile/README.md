@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Publishing 0.28.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **support destroy_storage when forgetting models (#109)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/109) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1345) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators) - Thu, 22 Jun 2023 08:31:42 
 * [Why you should attend the Ubuntu Summit](https://ubuntu.com//blog/why-you-should-attend-the-ubuntu-summit) - Wed, 21 Jun 2023 19:22:54 
 * [Tuning a real-time kernel](https://ubuntu.com//blog/real-time-kernel-tuning) - Mon, 19 Jun 2023 10:46:10 
 * [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Sat, 17 Jun 2023 15:04:28 
 * [Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18) - Fri, 16 Jun 2023 13:25:43 
 * [Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference) - Fri, 16 Jun 2023 11:20:24 
-* [Simplifying software-defined vehicles (SDVs) with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/simplifying-software-defined-vehicles-sdvs-with-eb-corbos-linux-built-on-ubuntu) - Fri, 16 Jun 2023 08:40:20 
 <!-- blog ends -->
