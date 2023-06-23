@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/289) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.0-alpha.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/45) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/225) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1345) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **split ceph tests into parameterized class-based tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Publishing 0.28.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **support destroy_storage when forgetting models (#109)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/109) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/287) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn 1.11.8 (#45)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn 1.11.8 (#45)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
