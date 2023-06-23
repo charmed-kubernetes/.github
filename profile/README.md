@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Kubeflow vs MLFlow: which one to choose?](https://ubuntu.com//blog/kubeflow-vs-mlflow) - Fri, 23 Jun 2023 12:39:13 
 * [Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators) - Thu, 22 Jun 2023 08:31:42 
 * [Why you should attend the Ubuntu Summit](https://ubuntu.com//blog/why-you-should-attend-the-ubuntu-summit) - Wed, 21 Jun 2023 19:22:54 
 * [Tuning a real-time kernel](https://ubuntu.com//blog/real-time-kernel-tuning) - Mon, 19 Jun 2023 10:46:10 
 * [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Sat, 17 Jun 2023 15:04:28 
 * [Snapcraft 8.0 and the respectable end of core18](https://ubuntu.com//blog/snapcraft-8-0-and-the-respectable-end-of-core18) - Fri, 16 Jun 2023 13:25:43 
-* [Security maintenance vs support: what’s the difference?](https://ubuntu.com//blog/security-maintenance-vs-support-whats-the-difference) - Fri, 16 Jun 2023 11:20:24 
 <!-- blog ends -->
