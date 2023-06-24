@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/287) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn 1.11.8 (#45)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn 1.11.8 (#45)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
