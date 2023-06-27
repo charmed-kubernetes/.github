@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **run bgp check protocols in parallel with async** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **run bgp check protocols in parallel with async** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **move temp directories under self-hosted users home** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add ops style interface for interactive with requires sid...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/287) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update to kube-ovn 1.11.8 (#45)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#225)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Improving snap maintenance with automation](https://ubuntu.com//blog/improving-snap-maintenance-with-automation) - Tue, 27 Jun 2023 20:00:46 
+* [Canonical Joins Eclipse Adoptium Working Group to Strengthen Commitment to Open Source Java Runtimes](https://ubuntu.com//blog/canonical-joins-eclipse-adoptium-working-group-to-strengthen-commitment-to-open-source-java-runtimes) - Tue, 27 Jun 2023 17:25:59 
 * [Early access to the LXD graphical user interface](https://ubuntu.com//blog/lxd_ui) - Tue, 27 Jun 2023 08:30:29 
 * [Kubeflow vs MLFlow: which one to choose?](https://ubuntu.com//blog/kubeflow-vs-mlflow) - Fri, 23 Jun 2023 12:39:13 
 * [Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators) - Thu, 22 Jun 2023 08:31:42 
 * [Why you should attend the Ubuntu Summit](https://ubuntu.com//blog/why-you-should-attend-the-ubuntu-summit) - Wed, 21 Jun 2023 19:22:54 
-* [Tuning a real-time kernel](https://ubuntu.com//blog/real-time-kernel-tuning) - Mon, 19 Jun 2023 10:46:10 
-* [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Sat, 17 Jun 2023 15:04:28 
 <!-- blog ends -->
