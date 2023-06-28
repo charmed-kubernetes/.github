@@ -25,13 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **run bgp check protocols in parallel with async** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **run bgp check protocols in parallel with async** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **move temp directories under self-hosted users home** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add ops style interface for interactive with requires sid...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add ops style interface for interactive with requires sid...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove reactive flags checks that should no longer exist ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove reactive flags checks that should no longer exist ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/288) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/144) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Updated testing and linting (#4)** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/bird-operator/pull/4) in the [bird-operator](https://github.com/charmed-kubernetes/bird-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
