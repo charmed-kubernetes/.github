@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **move temp directories under self-hosted users home** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add ops style interface for interactive with requires sid...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update README** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
