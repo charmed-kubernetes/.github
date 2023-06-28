@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **run bgp check protocols in parallel with async** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **move temp directories under self-hosted users home** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add ops style interface for interactive with requires sid...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms) - Wed, 28 Jun 2023 09:30:11 
 * [Improving snap maintenance with automation](https://ubuntu.com//blog/improving-snap-maintenance-with-automation) - Tue, 27 Jun 2023 20:00:46 
 * [Canonical Joins Eclipse Adoptium Working Group to Strengthen Commitment to Open Source Java Runtimes](https://ubuntu.com//blog/canonical-joins-eclipse-adoptium-working-group-to-strengthen-commitment-to-open-source-java-runtimes) - Tue, 27 Jun 2023 17:25:59 
 * [Early access to the LXD graphical user interface](https://ubuntu.com//blog/lxd_ui) - Tue, 27 Jun 2023 08:30:29 
 * [Kubeflow vs MLFlow: which one to choose?](https://ubuntu.com//blog/kubeflow-vs-mlflow) - Fri, 23 Jun 2023 12:39:13 
 * [Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators) - Thu, 22 Jun 2023 08:31:42 
-* [Why you should attend the Ubuntu Summit](https://ubuntu.com//blog/why-you-should-attend-the-ubuntu-summit) - Wed, 21 Jun 2023 19:22:54 
 <!-- blog ends -->
