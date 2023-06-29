@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rewrite Calico using the ops framework** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rewrite Calico using the ops framework** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **remove reactive flags checks that should no longer exist ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/288) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/144) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Updated testing and linting (#4)** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/bird-operator/pull/4) in the [bird-operator](https://github.com/charmed-kubernetes/bird-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing) - Thu, 29 Jun 2023 09:21:21 
+* [Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro) - Thu, 29 Jun 2023 08:41:49 
 * [Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms) - Wed, 28 Jun 2023 09:30:11 
 * [Improving snap maintenance with automation](https://ubuntu.com//blog/improving-snap-maintenance-with-automation) - Tue, 27 Jun 2023 20:00:46 
 * [Canonical Joins Eclipse Adoptium Working Group to Strengthen Commitment to Open Source Java Runtimes](https://ubuntu.com//blog/canonical-joins-eclipse-adoptium-working-group-to-strengthen-commitment-to-open-source-java-runtimes) - Tue, 27 Jun 2023 17:25:59 
 * [Early access to the LXD graphical user interface](https://ubuntu.com//blog/lxd_ui) - Tue, 27 Jun 2023 08:30:29 
-* [Kubeflow vs MLFlow: which one to choose?](https://ubuntu.com//blog/kubeflow-vs-mlflow) - Fri, 23 Jun 2023 12:39:13 
-* [Adopting a low-ops approach with software operators](https://ubuntu.com//blog/low-ops-with-software-operators) - Thu, 22 Jun 2023 08:31:42 
 <!-- blog ends -->
