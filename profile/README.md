@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Modify `wokeignore`** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address some comments, 50% tested** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **ignore the ops directory when building the reactive layer** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore the ops directory when building the reactive layer** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
 <!-- activity ends -->
 
