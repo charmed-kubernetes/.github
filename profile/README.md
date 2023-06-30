@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Modify `wokeignore`** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Modify `wokeignore`** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Modify `wokeignore`** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address some comments, 50% tested** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **ignore the ops directory when building the reactive layer** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore the ops directory when building the reactive layer** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rewrite Calico using the ops framework** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rewrite Calico using the ops framework** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel) - Fri, 30 Jun 2023 08:19:57 
+* [EV charging infrastructure: overcome the challenges with open source](https://ubuntu.com//blog/ev-charging-infrastructure-overcome-the-challenges-with-open-source) - Fri, 30 Jun 2023 08:00:27 
 * [The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing) - Thu, 29 Jun 2023 09:21:21 
 * [Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro) - Thu, 29 Jun 2023 08:41:49 
 * [Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms) - Wed, 28 Jun 2023 09:30:11 
 * [Improving snap maintenance with automation](https://ubuntu.com//blog/improving-snap-maintenance-with-automation) - Tue, 27 Jun 2023 20:00:46 
-* [Canonical Joins Eclipse Adoptium Working Group to Strengthen Commitment to Open Source Java Runtimes](https://ubuntu.com//blog/canonical-joins-eclipse-adoptium-working-group-to-strengthen-commitment-to-open-source-java-runtimes) - Tue, 27 Jun 2023 17:25:59 
-* [Early access to the LXD graphical user interface](https://ubuntu.com//blog/lxd_ui) - Tue, 27 Jun 2023 08:30:29 
 <!-- blog ends -->
