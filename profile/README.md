@@ -25,13 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix some methods, 60% covered** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tests** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix typos** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
