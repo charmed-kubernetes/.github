@@ -30,7 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix some methods, 60% covered** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
