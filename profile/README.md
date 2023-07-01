@@ -25,14 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix some methods, 60% covered** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix tests** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix typos** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove manifest** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Debug woke action** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
