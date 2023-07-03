@@ -25,11 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove pytest.mark.asyncio in conftest** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Sync prometheus-manual interface from upstream source (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 40.0.2 to 41.0.1 (#1341)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 40.0.2 to 41.0.1** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include kubernetes-wraper to integration tests deps** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump jmespath from 0.10.0 to 1.0.1 (#1337)  Bumps [jmespa...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pluggy from 0.13.1 to 1.2.0 (#1346)  * Bump pluggy f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **bumps pluggy from 1.0.0 to 1.2.0** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump websockets from 8.1 to 11.0.3 (#1335)  * Bump websoc...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
