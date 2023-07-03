@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **write etcd credentials to the filesystem for calicoctl** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **splitting journalctl crashdump speeds up the crash genera...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include calicoctl script to install at /usr/local/bin/cal...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove pydantic and catch charmcraft build errors** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin pydantic==1.* and catch charmcraft build errors** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump jenkins-job-builder from 4.3.0 to 5.0.2 (#1292)  * B...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **integration tests run with asyncio-mode=auto** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove pytest.mark.asyncio in conftest** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Sync prometheus-manual interface from upstream source (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 40.0.2 to 41.0.1 (#1341)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 40.0.2 to 41.0.1** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **include kubernetes-wraper to integration tests deps** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump jmespath from 0.10.0 to 1.0.1 (#1337)  Bumps [jmespa...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump pluggy from 0.13.1 to 1.2.0 (#1346)  * Bump pluggy f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **bumps pluggy from 1.0.0 to 1.2.0** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump websockets from 8.1 to 11.0.3 (#1335)  * Bump websoc...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Charmed Spark beta release is out &#8211; try it today](https://ubuntu.com//blog/charmed-spark-beta-release) - Mon, 03 Jul 2023 17:00:20 
 * [Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel) - Fri, 30 Jun 2023 08:19:57 
 * [EV charging infrastructure: overcome the challenges with open source](https://ubuntu.com//blog/ev-charging-infrastructure-overcome-the-challenges-with-open-source) - Fri, 30 Jun 2023 08:00:27 
 * [The founding moments: Tracing the origins of confidential computing](https://ubuntu.com//blog/tracing-origins-confidential-computing) - Thu, 29 Jun 2023 09:21:21 
 * [Managing security vulnerabilities and compliance for U.S. Government with Ubuntu Pro](https://ubuntu.com//blog/managing-security-vulnerabilities-and-compliance-within-the-us-government-with-ubuntu-pro) - Thu, 29 Jun 2023 08:41:49 
 * [Strengthen your cloud cyber security with Ubuntu Pro and confidential VMs](https://ubuntu.com//blog/cloud-cyber-security-with-ubuntu-pro-confidential-vms) - Wed, 28 Jun 2023 09:30:11 
-* [Improving snap maintenance with automation](https://ubuntu.com//blog/improving-snap-maintenance-with-automation) - Tue, 27 Jun 2023 20:00:46 
 <!-- blog ends -->
