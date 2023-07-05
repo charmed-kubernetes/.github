@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add remaining patches, fix MTU patch** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-metadata from 2.0.4 to 3.0.0 (#1353)  Bumps [...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump markupsafe from 2.1.2 to 2.1.3 (#1351)  * Bump marku...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytz from 2023.2 to 2023.3 (#1349)  * Bump pytz from...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Handle fail cases where a k8s resource used in ceph tests...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add RBAC info to debug artifacts** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Tweak docs URL for clarity** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Use old metadata docs link for now** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **tox -e format** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix unit/test_update_status** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change etcd `LIBID`** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Handle Kubernetes API errors gracefully** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update charmcraft.yaml  Co-authored-by: Adam Dyess <adam....** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
