@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix patches** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-calico/pull/97) in the [layer-calico](https://github.com/charmed-kubernetes/layer-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Unit tests, addressed comments and misc fixes.** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **write etcd credentials to the filesystem for calicoctl** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **splitting journalctl crashdump speeds up the crash genera...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **include calicoctl script to install at /usr/local/bin/cal...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove pydantic and catch charmcraft build errors** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **pin pydantic==1.* and catch charmcraft build errors** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump jenkins-job-builder from 4.3.0 to 5.0.2 (#1292)  * B...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **integration tests run with asyncio-mode=auto** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove pytest.mark.asyncio in conftest** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Sync prometheus-manual interface from upstream source (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 40.0.2 to 41.0.1 (#1341)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
