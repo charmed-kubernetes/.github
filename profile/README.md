@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Raise timeout for COS lite model** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **charm passes previous functional tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Determine version with ca cert (#69)  * Deprecate using s...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add pylinting to catch future unused-arguments** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Adjust builds-on base for building on CI (#33)** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/33) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Convert Calico to the ops framework (#97)  * Rewrite Cali...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove calico-node-image (#1355)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Build the metallb unified ops charm starting in 1.28 (#1347)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert to Ops (#32)  * complete ops conversion  * igno...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/32) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update renamed metrics to fix grafana dashboard. Fixes: L...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/287) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1355) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Prevent machine model deployments** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
