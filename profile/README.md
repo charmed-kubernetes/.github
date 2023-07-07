@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Convert Calico to the ops framework (#97)  * Rewrite Cali...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove calico-node-image (#1355)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Build the metallb unified ops charm starting in 1.28 (#1347)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/287) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1355) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Prevent machine model deployments** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix metadata.series value making this a pod spec charm** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
