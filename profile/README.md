@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Raise timeout for COS lite model** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **charm passes previous functional tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Determine version with ca cert (#69)  * Deprecate using s...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Convert Calico to the ops framework (#97)  * Rewrite Cali...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove calico-node-image (#1355)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Build the metallb unified ops charm starting in 1.28 (#1347)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
