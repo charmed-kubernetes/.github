@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **unit tests passing (not at 100%)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Raise timeout for COS lite model** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **charm passes previous functional tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/33) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Convert Calico to the ops framework (#97)  * Rewrite Cali...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove calico-node-image (#1355)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models) - Mon, 10 Jul 2023 14:19:06 
 * [ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability) - Thu, 06 Jul 2023 09:02:33 
 * [Comparing Ubuntu vs macOS for enterprise developers](https://ubuntu.com//blog/ubuntu-vs-macos-for-development) - Thu, 06 Jul 2023 08:31:17 
 * [Meet Canonical at PEARC23](https://ubuntu.com//blog/meet-canonical-at-pearc23) - Tue, 04 Jul 2023 15:33:24 
 * [Charmed Spark beta release is out &#8211; try it today](https://ubuntu.com//blog/charmed-spark-beta-release) - Mon, 03 Jul 2023 17:00:20 
 * [Snapcraft.io reloaded: check out the new look and feel](https://ubuntu.com//blog/snapcraft-io-reloaded-check-out-the-new-look-and-feel) - Fri, 30 Jun 2023 08:19:57 
-* [EV charging infrastructure: overcome the challenges with open source](https://ubuntu.com//blog/ev-charging-infrastructure-overcome-the-challenges-with-open-source) - Fri, 30 Jun 2023 08:00:27 
 <!-- blog ends -->
