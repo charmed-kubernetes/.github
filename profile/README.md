@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/46) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/9) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Lower the unit coverage threshold to 97%** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **100% coverage of manifest_* modules** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1268) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Linting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **unit tests passing (not at 100%)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Raise timeout for COS lite model** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **charm passes previous functional tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Determine version with ca cert (#69)  * Deprecate using s...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add pylinting to catch future unused-arguments** to [layer-vault-kv](https://github.com/charmed-kubernetes/layer-vault-kv)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Adjust builds-on base for building on CI (#33)** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/33) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Convert Calico to the ops framework (#97)  * Rewrite Cali...** to [layer-calico](https://github.com/charmed-kubernetes/layer-calico)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-alpha.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
