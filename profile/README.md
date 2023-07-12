@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Only create the namespace for ceph-csi if it's not default** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Bump integration tests timeout** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change remove offer target endpoints** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add configuration option to set the ceph-csi namespace** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **include cephfs integration tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump invoke from 2.1.2 to 2.1.3 (#1359)  * Bump invoke fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump exceptiongroup from 1.1.1 to 1.1.2 (#1356)  * Bump e...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 9.1.14 to 9.1.18 (#1360)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement) - Wed, 12 Jul 2023 11:28:24 
+* [Large language models (LLMs): what, why, how?](https://ubuntu.com//blog/what-are-large-language-models-llms) - Wed, 12 Jul 2023 10:37:52 
+* [How to choose an OS for software development in automotive](https://ubuntu.com//blog/how-to-choose-an-os-for-software-development-in-automotive) - Wed, 12 Jul 2023 09:00:32 
 * [Why you need to protect your confidential virtual machine from itself](https://ubuntu.com//blog/why-you-need-to-protect-your-confidential-virtual-machine-from-itself) - Tue, 11 Jul 2023 09:01:20 
 * [An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models) - Mon, 10 Jul 2023 14:19:06 
 * [ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability) - Thu, 06 Jul 2023 09:02:33 
-* [Comparing Ubuntu vs macOS for enterprise developers](https://ubuntu.com//blog/ubuntu-vs-macos-for-development) - Thu, 06 Jul 2023 08:31:17 
-* [Meet Canonical at PEARC23](https://ubuntu.com//blog/meet-canonical-at-pearc23) - Tue, 04 Jul 2023 15:33:24 
-* [Charmed Spark beta release is out &#8211; try it today](https://ubuntu.com//blog/charmed-spark-beta-release) - Mon, 03 Jul 2023 17:00:20 
 <!-- blog ends -->
