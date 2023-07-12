@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Bump integration tests timeout** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change remove offer target endpoints** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add configuration option to set the ceph-csi namespace** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Linting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Build the metallb unified ops charm starting in 1.28 (#1347)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -32,9 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump invoke from 2.1.2 to 2.1.3 (#1359)  * Bump invoke fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump exceptiongroup from 1.1.1 to 1.1.2 (#1356)  * Bump e...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 9.1.14 to 9.1.18 (#1360)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Change Calico upstream repo (#1362)  * Change Calico upst...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove nightly builds of metallb-speaker/controller charm...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
