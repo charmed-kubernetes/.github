@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments made to facilitate upgrades (#99)  * manifest...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **allow the calico-node daemonset to update the binaries** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/99) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Blank out KubeController ENV values with <space> rather t...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **leave responsibility of creating ceph-csi namespace to th...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix Offer URL** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Only create the namespace for ceph-csi if it's not default** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Bump integration tests timeout** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change remove offer target endpoints** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
