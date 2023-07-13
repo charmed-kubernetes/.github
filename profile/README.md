@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/bird-operator/pull/5) in the [bird-operator](https://github.com/charmed-kubernetes/bird-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments made to facilitate upgrades (#99)  * manifest...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **allow the calico-node daemonset to update the binaries** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/99) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
