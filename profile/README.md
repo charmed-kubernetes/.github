@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest from 7.3.1 to 7.4.0 (#1366)  * Bump pytest fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **add cnis that require privileged containers to the auto l...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/291) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **resolve issue were cni relation may not cni-conf-file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **add cnis which no require privileged containers to the au...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **add cnis which no require privileged containers to the au...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update docs.yml** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Create docs.yml (#5)** to [bird-operator](https://github.com/charmed-kubernetes/bird-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/bird-operator/pull/5) in the [bird-operator](https://github.com/charmed-kubernetes/bird-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments made to facilitate upgrades (#99)  * manifest...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **allow the calico-node daemonset to update the binaries** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
