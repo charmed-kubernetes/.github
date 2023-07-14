@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add cdk-restart-on-ca-change label** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest from 7.3.1 to 7.4.0 (#1366)  * Bump pytest fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **add cnis that require privileged containers to the auto l...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/291) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **resolve issue were cni relation may not cni-conf-file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **add cnis which no require privileged containers to the au...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **add cnis which no require privileged containers to the au...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu Pro is now available on Arm VMs on Google Cloud](https://ubuntu.com//blog/ubuntu-pro-is-now-available-on-arm-vms-on-google-cloud) - Fri, 14 Jul 2023 14:25:39 
 * [Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement) - Wed, 12 Jul 2023 11:28:24 
 * [Large language models (LLMs): what, why, how?](https://ubuntu.com//blog/what-are-large-language-models-llms) - Wed, 12 Jul 2023 10:37:52 
 * [How to choose an OS for software development in automotive](https://ubuntu.com//blog/how-to-choose-an-os-for-software-development-in-automotive) - Wed, 12 Jul 2023 09:00:32 
 * [Why you need to protect your confidential virtual machine from itself](https://ubuntu.com//blog/why-you-need-to-protect-your-confidential-virtual-machine-from-itself) - Tue, 11 Jul 2023 09:01:20 
 * [An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models) - Mon, 10 Jul 2023 14:19:06 
-* [ML Observability: what, why, how](https://ubuntu.com//blog/ml-observability) - Thu, 06 Jul 2023 09:02:33 
 <!-- blog ends -->
