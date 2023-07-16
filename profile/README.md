@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What does the future of AI hold in store?](https://ubuntu.com//blog/future-of-ai-2023) - Sun, 16 Jul 2023 05:30:58 
 * [Ubuntu Pro is now available on Arm VMs on Google Cloud](https://ubuntu.com//blog/ubuntu-pro-is-now-available-on-arm-vms-on-google-cloud) - Fri, 14 Jul 2023 14:25:39 
 * [Canonical Kubernetes 1.28 pre-announcement](https://ubuntu.com//blog/canonical-kubernetes-1-28-pre-announcement) - Wed, 12 Jul 2023 11:28:24 
 * [Large language models (LLMs): what, why, how?](https://ubuntu.com//blog/what-are-large-language-models-llms) - Wed, 12 Jul 2023 10:37:52 
 * [How to choose an OS for software development in automotive](https://ubuntu.com//blog/how-to-choose-an-os-for-software-development-in-automotive) - Wed, 12 Jul 2023 09:00:32 
 * [Why you need to protect your confidential virtual machine from itself](https://ubuntu.com//blog/why-you-need-to-protect-your-confidential-virtual-machine-from-itself) - Tue, 11 Jul 2023 09:01:20 
-* [An introduction to smart home business models](https://ubuntu.com//blog/an-introduction-to-smart-home-business-models) - Mon, 10 Jul 2023 14:19:06 
 <!-- blog ends -->
