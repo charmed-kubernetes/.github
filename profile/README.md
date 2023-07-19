@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1371) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **calico ops charm needs aws-cloud-provider to appropriatel...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1373) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **revert changing snap versions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **add the json report to each validation spec** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pinning back cython and removing pip-sync from tox (#1372...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pinning back cython and removing pip-sync from tox (#1372...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1372) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
