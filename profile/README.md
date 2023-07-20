@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/101) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add risklevel and confinement variables (#1221)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Start building 1.28 microk8s (#1268)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.16.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.4-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements links** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **a failed juju bootstrap should identify as a deployment f...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update validation.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add write_certificates and related helpers** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1374) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update release-microk8s.groovy  activate nested tox envir...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Put cffi back in** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use microk8s tox for microk8s jobs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **load the arm64 resource on arm64 machines (#101)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **covert to spray manifests with ops.manifest** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/10) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Introducing Ubuntu’s new HPC community team](https://ubuntu.com//blog/introducing-ubuntus-new-hpc-community-team) - Thu, 20 Jul 2023 16:12:42 
 * [Securing open source through CVE prioritisation](https://ubuntu.com//blog/securing-open-source-through-cve-prioritisation) - Thu, 20 Jul 2023 11:12:42 
 * [MySQL high availability made charmingly easy](https://ubuntu.com//blog/mysql-high-availability) - Tue, 18 Jul 2023 10:05:01 
 * [Vanilla 4.0 release](https://ubuntu.com//blog/vanilla-4-0-release) - Tue, 18 Jul 2023 09:11:32 
 * [A declarative approach to Linux networking with Netplan](https://ubuntu.com//blog/a-declarative-approach-to-linux-networking-with-netplan) - Tue, 18 Jul 2023 09:04:09 
 * [What does the future of AI hold in store?](https://ubuntu.com//blog/future-of-ai-2023) - Sun, 16 Jul 2023 05:30:58 
-* [Ubuntu Pro is now available on Arm VMs on Google Cloud](https://ubuntu.com//blog/ubuntu-pro-is-now-available-on-arm-vms-on-google-cloud) - Fri, 14 Jul 2023 14:25:39 
 <!-- blog ends -->
