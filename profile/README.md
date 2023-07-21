@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove cffi dependency from microk8s (#1374)   ---------...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove the library dependency** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update validation.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add write_certificates and related helpers** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Put cffi back in** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use microk8s tox for microk8s jobs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **load the arm64 resource on arm64 machines (#101)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **covert to spray manifests with ops.manifest** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
