@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Don't use StrEnum since it's not supported until python 3.11** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update unit tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Handle certificates relation** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test multiarch builds with LP recipe** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments to enable building on launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Pin Cython < 3.0 and the rest of the unpinned wheelhouse....** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove cffi dependency from microk8s (#1374)   ---------...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove the library dependency** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update validation.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add write_certificates and related helpers** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1374) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update release-microk8s.groovy  activate nested tox envir...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Put cffi back in** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Use microk8s tox for microk8s jobs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **load the arm64 resource on arm64 machines (#101)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Start your SNP VMs on Google Cloud](https://ubuntu.com//blog/start-your-snp-vms-on-google-cloud) - Fri, 21 Jul 2023 15:27:40 
 * [Introducing Ubuntu’s new HPC community team](https://ubuntu.com//blog/introducing-ubuntus-new-hpc-community-team) - Thu, 20 Jul 2023 16:12:42 
 * [Securing open source through CVE prioritisation](https://ubuntu.com//blog/securing-open-source-through-cve-prioritisation) - Thu, 20 Jul 2023 11:12:42 
 * [MySQL high availability made charmingly easy](https://ubuntu.com//blog/mysql-high-availability) - Tue, 18 Jul 2023 10:05:01 
 * [Vanilla 4.0 release](https://ubuntu.com//blog/vanilla-4-0-release) - Tue, 18 Jul 2023 09:11:32 
 * [A declarative approach to Linux networking with Netplan](https://ubuntu.com//blog/a-declarative-approach-to-linux-networking-with-netplan) - Tue, 18 Jul 2023 09:04:09 
-* [What does the future of AI hold in store?](https://ubuntu.com//blog/future-of-ai-2023) - Sun, 16 Jul 2023 05:30:58 
 <!-- blog ends -->
