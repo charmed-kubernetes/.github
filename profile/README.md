@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test with juju 3.1** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test with juju 3.1** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **tested successfully with reactive charm** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **apply new black formatting** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **Don't use StrEnum since it's not supported until python 3.11** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update unit tests** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Handle certificates relation** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test multiarch builds with LP recipe** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments to enable building on launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Pin Cython < 3.0 and the rest of the unpinned wheelhouse....** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove cffi dependency from microk8s (#1374)   ---------...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove the library dependency** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update validation.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add write_certificates and related helpers** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
