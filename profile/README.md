@@ -32,9 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Add timeouts to cleanup of the addon juju model (#1379)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1379) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **include xfail_if_open_bugs as pytest marker** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Pinning back cython and removing pip-sync from tox (#1372...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 41.0.1 to 41.0.2 (#1370)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create a pytest marker to xfail unresolved bugs add skip ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Reaching for the stars, creating the Ubuntu Summit 2023 Logo](https://ubuntu.com//blog/reaching-for-the-stars-creating-the-ubuntu-summit-2023-logo) - Tue, 25 Jul 2023 22:04:01 
 * [Why and how to use Rust on Ubuntu](https://ubuntu.com//blog/why-and-how-to-use-rust-on-ubuntu) - Tue, 25 Jul 2023 04:30:03 
 * [Why do you also need confidential computing for your private datacenter?](https://ubuntu.com//blog/why-do-you-also-need-confidential-computing-for-your-private-datacenter) - Mon, 24 Jul 2023 01:01:03 
 * [Start your SNP VMs on Google Cloud](https://ubuntu.com//blog/start-your-snp-vms-on-google-cloud) - Fri, 21 Jul 2023 15:27:40 
 * [Introducing Ubuntu’s new HPC community team](https://ubuntu.com//blog/introducing-ubuntus-new-hpc-community-team) - Thu, 20 Jul 2023 16:12:42 
 * [Securing open source through CVE prioritisation](https://ubuntu.com//blog/securing-open-source-through-cve-prioritisation) - Thu, 20 Jul 2023 11:12:42 
-* [MySQL high availability made charmingly easy](https://ubuntu.com//blog/mysql-high-availability) - Tue, 18 Jul 2023 10:05:01 
 <!-- blog ends -->
