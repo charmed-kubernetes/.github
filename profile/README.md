@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1383) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump google-auth from 2.18.0 to 2.22.0 (#1365)  * Bump go...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump google-auth from 2.18.0 to 2.22.0 (#1365)  * Bump go...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **include xfail_if_open_bugs as pytest marker** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump typing-extensions from 4.6.1 to 4.7.1 (#1364)  * Bum...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2022.12.7 to 2023.7.22 in /jobs/microk8...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2023.5.7 to 2023.7.22 (#1381)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ignore LP Creds when they are invalid** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **protect credentials in sync-oci-images.groovy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [University of Alabama at Birmingham accelerates research with Canonical and Dell](https://ubuntu.com//blog/university-of-alabama-at-birmingham-accelerates-research-with-canonical-and-dell) - Thu, 27 Jul 2023 20:04:08 
 * [Ubuntu AI podcast](https://ubuntu.com//blog/ubuntu-ai-podcast) - Thu, 27 Jul 2023 11:20:22 
 * [Optimised Real-time Ubuntu is now generally available on Intel SoCs](https://ubuntu.com//blog/optimised-real-time-ubuntu-is-now-generally-available-on-intel-socs) - Wed, 26 Jul 2023 09:00:40 
 * [Reaching for the stars, creating the Ubuntu Summit 2023 Logo](https://ubuntu.com//blog/reaching-for-the-stars-creating-the-ubuntu-summit-2023-logo) - Tue, 25 Jul 2023 22:04:01 
 * [Why and how to use Rust on Ubuntu](https://ubuntu.com//blog/why-and-how-to-use-rust-on-ubuntu) - Tue, 25 Jul 2023 04:30:03 
 * [Why do you also need confidential computing for your private datacenter?](https://ubuntu.com//blog/why-do-you-also-need-confidential-computing-for-your-private-datacenter) - Mon, 24 Jul 2023 01:01:03 
-* [Start your SNP VMs on Google Cloud](https://ubuntu.com//blog/start-your-snp-vms-on-google-cloud) - Fri, 21 Jul 2023 15:27:40 
 <!-- blog ends -->
