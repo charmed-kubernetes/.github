@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **base64 encode CA in kubeconfig** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add create_kubeconfig** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add create_kubeconfig** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Confirm certificate details** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Confirm certificate details** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix incorrect etcd cert/key paths** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix exception on service restart** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/80) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/80) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/80) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **reduce metadata docs to only list the correct docs source** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/80) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/80) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **builds require access to git to pull pip deps** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **simplify discovery of dropped TLS relation** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure charmcraft logs directory exists (#1387)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add service account key handling** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Better separate legacy and telo relations** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
