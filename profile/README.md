@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **integrate with the tls certificates relation** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments to enable building on launchpad (#1376)  * Ad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1376) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Start building 1.28 microk8s (#1268)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **base64 encode CA in kubeconfig** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add create_kubeconfig** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add create_kubeconfig** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Confirm certificate details** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Confirm certificate details** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix incorrect etcd cert/key paths** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix exception on service restart** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/80) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add service account key handling** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Better separate legacy and telo relations** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Reducing latency in industrial systems with real-time Ubuntu on Intel SoCs](https://ubuntu.com//blog/real-time-industrial-systems) - Tue, 01 Aug 2023 08:00:18 
 * [Explore the future of storytelling with Ubuntu. Meet us at Siggraph 2023](https://ubuntu.com//blog/explore-the-future-of-storytelling-with-ubuntu-meet-us-at-siggraph-2023) - Mon, 31 Jul 2023 04:26:29 
 * [University of Alabama at Birmingham accelerates research with Canonical and Dell](https://ubuntu.com//blog/university-of-alabama-at-birmingham-accelerates-research-with-canonical-and-dell) - Thu, 27 Jul 2023 20:04:08 
 * [Ubuntu AI podcast](https://ubuntu.com//blog/ubuntu-ai-podcast) - Thu, 27 Jul 2023 11:20:22 
 * [Optimised Real-time Ubuntu is now generally available on Intel SoCs](https://ubuntu.com//blog/optimised-real-time-ubuntu-is-now-generally-available-on-intel-socs) - Wed, 26 Jul 2023 09:00:40 
 * [Reaching for the stars, creating the Ubuntu Summit 2023 Logo](https://ubuntu.com//blog/reaching-for-the-stars-creating-the-ubuntu-summit-2023-logo) - Tue, 25 Jul 2023 22:04:01 
-* [Why and how to use Rust on Ubuntu](https://ubuntu.com//blog/why-and-how-to-use-rust-on-ubuntu) - Tue, 25 Jul 2023 04:30:03 
 <!-- blog ends -->
