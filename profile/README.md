@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet the Canonical team at stackconf 2023](https://ubuntu.com//blog/canonical-at-stackconf) - Wed, 02 Aug 2023 08:14:44 
 * [Enhancing the Ubuntu Experience on Azure: Introducing Ubuntu Pro Updates Awareness](https://ubuntu.com//blog/enhancing-the-ubuntu-experience-on-azure-introducing-ubuntu-pro-updates-awareness) - Tue, 01 Aug 2023 14:59:38 
-* [Reducing latency in industrial systems with real-time Ubuntu on Intel SoCs](https://ubuntu.com//blog/real-time-industrial-systems) - Tue, 01 Aug 2023 08:00:18 
+* [Reducing latency in industrial systems with Real-time Ubuntu on Intel SoCs](https://ubuntu.com//blog/real-time-industrial-systems) - Tue, 01 Aug 2023 08:00:18 
 * [Explore the future of storytelling with Ubuntu. Meet us at Siggraph 2023](https://ubuntu.com//blog/explore-the-future-of-storytelling-with-ubuntu-meet-us-at-siggraph-2023) - Mon, 31 Jul 2023 04:26:29 
 * [University of Alabama at Birmingham accelerates research with Canonical and Dell](https://ubuntu.com//blog/university-of-alabama-at-birmingham-accelerates-research-with-canonical-and-dell) - Thu, 27 Jul 2023 20:04:08 
 * [Ubuntu AI podcast](https://ubuntu.com//blog/ubuntu-ai-podcast) - Thu, 27 Jul 2023 11:20:22 
-* [Optimised Real-time Ubuntu is now generally available on Intel SoCs](https://ubuntu.com//blog/optimised-real-time-ubuntu-is-now-generally-available-on-intel-socs) - Wed, 26 Jul 2023 09:00:40 
 <!-- blog ends -->
