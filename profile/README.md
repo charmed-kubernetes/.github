@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Add easy to find message regarding moving to launchpad bu...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix lint** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add .wokeignore** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump regex from 2023.5.5 to 2023.6.3 (#1385)  * Bump rege...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
