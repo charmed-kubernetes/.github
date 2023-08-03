@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **integrate with the tls certificates relation** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/783) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Update config.yaml** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove node12 deprecation warning in gh action** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove node12 deprecation warning in gh action** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove node12 deprecation warning in gh action** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove node12 deprecation warning in gh action** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump cryptography from 41.0.2 to 41.0.3 (#1392)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 41.0.2 to 41.0.3 (#1392)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **stop pre-release snaps and open the stable channel for 1....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1395) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update cilib/enums.py  Co-authored-by: Mateo Florido <328...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1395) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1395) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1395) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **adjust charm metadata (#43)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
