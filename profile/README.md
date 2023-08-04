@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix kubectl snap refresh failure due to hung processes** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Map the snap base core to the eks version number (#1393) ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@toabctl](https://github.com/toabctl) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1393) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove node12 warnings in gh** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **swap to stable charms for prometheus-k8s and grafana-k8s** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **quiet the progress bars from curl** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **updated badges** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **address tox updates which break GH actions** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix failure on CNI 1.2.0 due to subnet with host bits** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **bump ingress image for 1.27 (#140)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit ** [LP#1949913] Use a layer configurable option to change t...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Limit pydantic such that rust builds of pydantic deps are...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
