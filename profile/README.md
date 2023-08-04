@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@toabctl](https://github.com/toabctl) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1393) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **remove node12 warnings in gh** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **swap to stable charms for prometheus-k8s and grafana-k8s** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **quiet the progress bars from curl** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -32,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **stop pre-release snaps and open the stable channel for 1....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1395) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
