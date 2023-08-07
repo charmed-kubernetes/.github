@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update fragments to point to 1.28/edge snap channels (#88...** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/883) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix test failure when using pre-built resources** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix test failure when using pre-built resources** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use `kubernetes-core` bundle in integration tests** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
+ - [@addyess](https://github.com/addyess) has pushed the commit **edge charms should use 1.28/edge snaps (#296)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **edge charms should use 1.28/edge snaps (#148)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use upgraded juju action** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **1.28 release branch (#29)  * Updating for 1.28 release pr...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/29) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/296) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/148) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/30) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **1.28 release prep (#295)  * Update config.yaml to use 1.2...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **1.28 release prep (#147)  * Update config.yaml  * Updat...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
