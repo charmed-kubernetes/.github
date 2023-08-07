@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update fragments to point to 1.28/edge snap channels (#88...** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/883) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix test failure when using pre-built resources** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix test failure when using pre-built resources** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Test with juju 3.1 and python 3.10** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **address tox updates which break GH actions** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
