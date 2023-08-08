@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Quick fix MetalLB links for 1.27 (#785)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/785) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@al3jandrosg](https://github.com/al3jandrosg) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/784) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade tests to use juju 3.1 (#30)  * Upgrade tests to u...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update build-canal-resources.sh (#81)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/82) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/81) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **edge charms should use 1.28/edge snaps (#296)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **edge charms should use 1.28/edge snaps (#148)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use upgraded juju action** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has pushed the commit **1.28 release branch (#29)  * Updating for 1.28 release pr...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/29) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/296) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/148) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
