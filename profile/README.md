@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Quick fix MetalLB links for 1.27 (#785)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/785) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Reenable grafana (#42)  * Reenable grafana  * Move graf...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Reenable grafana (#42)  * Reenable grafana  * Move graf...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/20) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@goldstar611](https://github.com/goldstar611) has opened this [issue](https://github.com/charmed-kubernetes/cdk-offline/issues/1) in [charmed-kubernetes/cdk-offline](https://api.github.com/repos/charmed-kubernetes/cdk-offline).
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/42) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@al3jandrosg](https://github.com/al3jandrosg) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/784) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade tests to use juju 3.1 (#30)  * Upgrade tests to u...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update build-canal-resources.sh (#81)** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/82) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-canal/pull/81) in the [layer-canal](https://github.com/charmed-kubernetes/layer-canal) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Announcing In-Place Upgrade from Ubuntu Server to Ubuntu Pro on Azure](https://ubuntu.com//blog/announcing-in-place-upgrade-from-ubuntu-server-to-ubuntu-pro-on-azure) - Tue, 08 Aug 2023 18:53:23 
 * [Making a move: How migrating to Ubuntu saved a life insurance company 60% in costs](https://ubuntu.com//blog/making-a-move-how-migrating-to-ubuntu-saved-a-life-insurance-company-60-in-costs) - Mon, 07 Aug 2023 07:32:50 
 * [Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset) - Thu, 03 Aug 2023 07:00:54 
 * [Meet the Canonical team at stackconf 2023](https://ubuntu.com//blog/canonical-at-stackconf) - Wed, 02 Aug 2023 08:14:44 
 * [Enhancing the Ubuntu Experience on Azure: Introducing Ubuntu Pro Updates Awareness](https://ubuntu.com//blog/enhancing-the-ubuntu-experience-on-azure-introducing-ubuntu-pro-updates-awareness) - Tue, 01 Aug 2023 14:59:38 
 * [Reducing latency in industrial systems with Real-time Ubuntu on Intel SoCs](https://ubuntu.com//blog/real-time-industrial-systems) - Tue, 01 Aug 2023 08:00:18 
-* [Explore the future of storytelling with Ubuntu. Meet us at Siggraph 2023](https://ubuntu.com//blog/explore-the-future-of-storytelling-with-ubuntu-meet-us-at-siggraph-2023) - Mon, 31 Jul 2023 04:26:29 
 <!-- blog ends -->
