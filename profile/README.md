@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **volcano charms require an lpbuilder** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **LXC containers running on the build host may need a proxy...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1397) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **fix web links to point to appropriate jenkins** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@natalian98](https://github.com/natalian98) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/111) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow prereleases of 1.28 builds in sync snaps until 1.28...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **parse the architecture and series from the filename rathe...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address code review comments** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **link to the weblink, not the self link of the recipe** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Do no truncate stdout/stderr when there is a shell exception** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **treat arm like armhf, handle unknown arch and series** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add link to LP Recipe when starting the lb builder for a ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change certificate structure** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 41.0.2 to 41.0.3 (#1392)  * Bump c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove github-runner charm from lp builders** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove github-runner charm from lp builders** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use str in args to srt.startswith(...)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
