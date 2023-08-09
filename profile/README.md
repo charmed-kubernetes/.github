@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow prereleases of 1.28 builds in sync snaps until 1.28...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **parse the architecture and series from the filename rathe...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address code review comments** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Reenable grafana (#42)  * Reenable grafana  * Move graf...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/20) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
  - [@goldstar611](https://github.com/goldstar611) has opened this [issue](https://github.com/charmed-kubernetes/cdk-offline/issues/1) in [charmed-kubernetes/cdk-offline](https://api.github.com/repos/charmed-kubernetes/cdk-offline).
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/42) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **avoid jsonschema and switch to pydantic==1.* to avoid rus...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/26) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is virtualization? A beginners&#8217; guide.](https://ubuntu.com//blog/virtualization) - Wed, 09 Aug 2023 07:00:26 
 * [Announcing In-Place Upgrade from Ubuntu Server to Ubuntu Pro on Azure](https://ubuntu.com//blog/announcing-in-place-upgrade-from-ubuntu-server-to-ubuntu-pro-on-azure) - Tue, 08 Aug 2023 18:53:23 
 * [Making a move: How migrating to Ubuntu saved a life insurance company 60% in costs](https://ubuntu.com//blog/making-a-move-how-migrating-to-ubuntu-saved-a-life-insurance-company-60-in-costs) - Mon, 07 Aug 2023 07:32:50 
 * [Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset) - Thu, 03 Aug 2023 07:00:54 
 * [Meet the Canonical team at stackconf 2023](https://ubuntu.com//blog/canonical-at-stackconf) - Wed, 02 Aug 2023 08:14:44 
 * [Enhancing the Ubuntu Experience on Azure: Introducing Ubuntu Pro Updates Awareness](https://ubuntu.com//blog/enhancing-the-ubuntu-experience-on-azure-introducing-ubuntu-pro-updates-awareness) - Tue, 01 Aug 2023 14:59:38 
-* [Reducing latency in industrial systems with Real-time Ubuntu on Intel SoCs](https://ubuntu.com//blog/real-time-industrial-systems) - Tue, 01 Aug 2023 08:00:18 
 <!-- blog ends -->
