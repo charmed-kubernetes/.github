@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Integration test** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cilium fragments (#882)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cilium fragments (#882)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cilium fragments (#882)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/882) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add lightkube to the list of forks kept in sync by cdkbot...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1398) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-metadata from 2.0.4 to 3.0.0 (#1384)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump typing-inspect from 0.8.0 to 0.9.0 (#1391)  * Bump t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove layer.yaml (#27)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/27) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/786) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
