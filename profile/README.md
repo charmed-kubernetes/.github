@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add lightkube to the list of forks kept in sync by cdkbot...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1398) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-metadata from 2.0.4 to 3.0.0 (#1384)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/27) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/786) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/786) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add strip prefix** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change fqdns** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How to ensure business continuity with IT infrastructure support](https://ubuntu.com//blog/how-to-ensure-business-continuity-with-it-infrastructure-support) - Mon, 14 Aug 2023 07:00:55 
 * [Write a Spark big data job with ChatGPT](https://ubuntu.com//blog/write-a-spark-big-data-job-with-chatgpt) - Thu, 10 Aug 2023 13:53:52 
 * [Not just an annoying list of questions](https://ubuntu.com//blog/written-interviews) - Wed, 09 Aug 2023 09:27:24 
 * [What is virtualization? A beginners&#8217; guide.](https://ubuntu.com//blog/virtualization) - Wed, 09 Aug 2023 07:00:26 
 * [Announcing In-Place Upgrade from Ubuntu Server to Ubuntu Pro on Azure](https://ubuntu.com//blog/announcing-in-place-upgrade-from-ubuntu-server-to-ubuntu-pro-on-azure) - Tue, 08 Aug 2023 18:53:23 
 * [Making a move: How migrating to Ubuntu saved a life insurance company 60% in costs](https://ubuntu.com//blog/making-a-move-how-migrating-to-ubuntu-saved-a-life-insurance-company-60-in-costs) - Mon, 07 Aug 2023 07:32:50 
-* [Do more with Vulcanexus snaps; your all-in-one ROS 2 toolset](https://ubuntu.com//blog/vulcanexus-snaps-ros-2-toolset) - Thu, 03 Aug 2023 07:00:54 
 <!-- blog ends -->
