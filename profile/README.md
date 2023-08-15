@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py (#1401)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1401) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s jobs to handle 1.28-strict (#1402)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1402) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Implement configuration of control plane services** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/81) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rollback Port changes** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix FMT** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Assert Value for both possible fqdns** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change ClusterIP test port** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change ClusterIP test port** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change ClusterIP test port** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Unit test the what's new generator** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **update the generate to automatically build a what's new s...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Refine the What's New and Fixes section of the release notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet Canonical at Andicom 2023](https://ubuntu.com//blog/meet-canonical-at-andicom-2023) - Tue, 15 Aug 2023 17:49:10 
 * [Docker on Mac &#8211; a lightweight option with Multipass](https://ubuntu.com//blog/docker-on-mac-a-lightweight-option-with-multipass) - Tue, 15 Aug 2023 12:32:14 
 * [How to ensure business continuity with IT infrastructure support](https://ubuntu.com//blog/how-to-ensure-business-continuity-with-it-infrastructure-support) - Mon, 14 Aug 2023 07:00:55 
 * [Write a Spark big data job with ChatGPT](https://ubuntu.com//blog/write-a-spark-big-data-job-with-chatgpt) - Thu, 10 Aug 2023 13:53:52 
 * [Not just an annoying list of questions](https://ubuntu.com//blog/written-interviews) - Wed, 09 Aug 2023 09:27:24 
 * [What is virtualization? A beginners&#8217; guide.](https://ubuntu.com//blog/virtualization) - Wed, 09 Aug 2023 07:00:26 
-* [Announcing In-Place Upgrade from Ubuntu Server to Ubuntu Pro on Azure](https://ubuntu.com//blog/announcing-in-place-upgrade-from-ubuntu-server-to-ubuntu-pro-on-azure) - Tue, 08 Aug 2023 18:53:23 
 <!-- blog ends -->
