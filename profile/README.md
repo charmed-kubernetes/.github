@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Integration test** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cilium fragments (#882)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cilium fragments (#882)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cilium fragments (#882)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/882) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add lightkube to the list of forks kept in sync by cdkbot...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1398) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-metadata from 2.0.4 to 3.0.0 (#1384)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rollback Port changes** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix FMT** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Assert Value for both possible fqdns** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change ClusterIP test port** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change ClusterIP test port** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Change ClusterIP test port** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Unit test the what's new generator** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update the generate to automatically build a what's new s...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Refine the What's New and Fixes section of the release notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add MetalLB addon** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
