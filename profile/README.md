@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/28) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Integrate Ingress v2** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
  - [@shipperizer](https://github.com/shipperizer) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/112) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1401) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s jobs to handle 1.28-strict (#1402)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1402) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
