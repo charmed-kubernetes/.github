@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update utils.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py (#1401)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1401) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s jobs to handle 1.28-strict (#1402)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Implement configuration of control plane services** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/81) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical﻿ Kubernetes 1.28 is now generally available](https://ubuntu.com//blog/canonical%ef%bb%bf-kubernetes-1-28-is-now-generally-available) - Wed, 16 Aug 2023 08:33:07 
 * [Meet Canonical at Andicom 2023](https://ubuntu.com//blog/meet-canonical-at-andicom-2023) - Tue, 15 Aug 2023 17:49:10 
 * [Docker on Mac &#8211; a lightweight option with Multipass](https://ubuntu.com//blog/docker-on-mac-a-lightweight-option-with-multipass) - Tue, 15 Aug 2023 12:32:14 
 * [How to ensure business continuity with IT infrastructure support](https://ubuntu.com//blog/how-to-ensure-business-continuity-with-it-infrastructure-support) - Mon, 14 Aug 2023 07:00:55 
 * [Write a Spark big data job with ChatGPT](https://ubuntu.com//blog/write-a-spark-big-data-job-with-chatgpt) - Thu, 10 Aug 2023 13:53:52 
 * [Not just an annoying list of questions](https://ubuntu.com//blog/written-interviews) - Wed, 09 Aug 2023 09:27:24 
-* [What is virtualization? A beginners&#8217; guide.](https://ubuntu.com//blog/virtualization) - Wed, 09 Aug 2023 07:00:26 
 <!-- blog ends -->
