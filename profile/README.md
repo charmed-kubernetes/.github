@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update playbook-jenkins.yml  Upgrade infra nodes to use c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Improve --model switch documentation** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust testing to remove juju 3.0, but add 3.2** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust testing to remove juju 3.0, but add 3.2** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/782) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has reopened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/110) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/110) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Only pin tenacity to < 5.0.4 for trusty  Ubuntu Lunar use...** to [layer-snap](https://github.com/charmed-kubernetes/layer-snap)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix LoadBalancer addresses (#29)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update playbook-jenkins.yml (#1406)  Upgrade infra nodes ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add notes about first syncing the k8s-conformance repo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix instruction typo (#2546)  Signed-off-by: Steven Powel...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix instruction typo (#2546)  Signed-off-by: Steven Powel...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add Conformance test suite documentation for v1.28.0  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **update metallb docs** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **bump main prev_release to 1.28** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update charms for 1.28/stable (#885)** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
