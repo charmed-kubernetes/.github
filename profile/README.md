@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update playbook-jenkins.yml  Upgrade infra nodes to use c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve --model switch documentation** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust testing to remove juju 3.0, but add 3.2** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust testing to remove juju 3.0, but add 3.2** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/110) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Only pin tenacity to < 5.0.4 for trusty  Ubuntu Lunar use...** to [layer-snap](https://github.com/charmed-kubernetes/layer-snap)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix LoadBalancer addresses (#29)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/29) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2031564]Use conctl to kill calico-node with fire (#10...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How to secure your database](https://ubuntu.com//blog/secure-database) - Fri, 18 Aug 2023 09:21:26 
 * [Ubuntu in education: A K-12 IT Director’s experience](https://ubuntu.com//blog/ubuntu-in-education-a-k-12-it-directors-experience) - Thu, 17 Aug 2023 07:00:37 
 * [Canonical﻿ Kubernetes 1.28 is now generally available](https://ubuntu.com//blog/canonical%ef%bb%bf-kubernetes-1-28-is-now-generally-available) - Wed, 16 Aug 2023 08:33:07 
 * [Meet Canonical at Andicom 2023](https://ubuntu.com//blog/meet-canonical-at-andicom-2023) - Tue, 15 Aug 2023 17:49:10 
 * [Docker on Mac &#8211; a lightweight option with Multipass](https://ubuntu.com//blog/docker-on-mac-a-lightweight-option-with-multipass) - Tue, 15 Aug 2023 12:32:14 
 * [How to ensure business continuity with IT infrastructure support](https://ubuntu.com//blog/how-to-ensure-business-continuity-with-it-infrastructure-support) - Mon, 14 Aug 2023 07:00:55 
-* [Write a Spark big data job with ChatGPT](https://ubuntu.com//blog/write-a-spark-big-data-job-with-chatgpt) - Thu, 10 Aug 2023 13:53:52 
 <!-- blog ends -->
