@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Addressed the component versioning and began the What's n...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **link fixes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **adjust stable release doc to match the process used for 1.28** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **adjust sync-oci job to run against 1.28 by default** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update playbook-jenkins.yml (#1406)  Upgrade infra nodes ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add notes about first syncing the k8s-conformance repo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix instruction typo (#2546)  Signed-off-by: Steven Powel...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix instruction typo (#2546)  Signed-off-by: Steven Powel...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
