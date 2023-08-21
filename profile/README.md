@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **build with 3.x charm snap** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Addressed the component versioning and began the What's n...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **link fixes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.27/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **1.28 stable work: adjust enums, start building 1.29 (#1403)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1403) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update playbook-jenkins.yml (#1406)  Upgrade infra nodes ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add notes about first syncing the k8s-conformance repo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is a hypervisor? A beginners’ guide.](https://ubuntu.com//blog/hypervisor) - Mon, 21 Aug 2023 07:00:51 
 * [How to secure your database](https://ubuntu.com//blog/secure-database) - Fri, 18 Aug 2023 09:21:26 
 * [Ubuntu in education: A K-12 IT Director’s experience](https://ubuntu.com//blog/ubuntu-in-education-a-k-12-it-directors-experience) - Thu, 17 Aug 2023 07:00:37 
 * [Canonical﻿ Kubernetes 1.28 is now generally available](https://ubuntu.com//blog/canonical%ef%bb%bf-kubernetes-1-28-is-now-generally-available) - Wed, 16 Aug 2023 08:33:07 
 * [Meet Canonical at Andicom 2023](https://ubuntu.com//blog/meet-canonical-at-andicom-2023) - Tue, 15 Aug 2023 17:49:10 
 * [Docker on Mac &#8211; a lightweight option with Multipass](https://ubuntu.com//blog/docker-on-mac-a-lightweight-option-with-multipass) - Tue, 15 Aug 2023 12:32:14 
-* [How to ensure business continuity with IT infrastructure support](https://ubuntu.com//blog/how-to-ensure-business-continuity-with-it-infrastructure-support) - Mon, 14 Aug 2023 07:00:55 
 <!-- blog ends -->
