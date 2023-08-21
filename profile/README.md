@@ -43,7 +43,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [What is a hypervisor? A beginners’ guide.](https://ubuntu.com//blog/hypervisor) - Mon, 21 Aug 2023 07:00:51 
+* [What is a hypervisor? A beginner’s guide](https://ubuntu.com//blog/hypervisor) - Mon, 21 Aug 2023 07:00:51 
 * [How to secure your database](https://ubuntu.com//blog/secure-database) - Fri, 18 Aug 2023 09:21:26 
 * [Ubuntu in education: A K-12 IT Director’s experience](https://ubuntu.com//blog/ubuntu-in-education-a-k-12-it-directors-experience) - Thu, 17 Aug 2023 07:00:37 
 * [Canonical﻿ Kubernetes 1.28 is now generally available](https://ubuntu.com//blog/canonical%ef%bb%bf-kubernetes-1-28-is-now-generally-available) - Wed, 16 Aug 2023 08:33:07 
