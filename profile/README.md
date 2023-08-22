@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **updated meaning of DRY_RUN now that it's using global-params** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
