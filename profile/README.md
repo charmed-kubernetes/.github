@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.28/cdk  Signed-off-by: Adam Dy...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.28/cdk Signed-off-by: Adam K D...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use `charmcraft status <charm> --format json` to better d...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Configure control plane services** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **updated meaning of DRY_RUN now that it's using global-params** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
@@ -36,10 +39,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Machine learning in finance: history, technologies and outlook](https://ubuntu.com//blog/machine-learning-in-finance-history-technologies-and-outlook) - Wed, 23 Aug 2023 08:22:08 
 * [What is a hypervisor? A beginner’s guide](https://ubuntu.com//blog/hypervisor) - Mon, 21 Aug 2023 07:00:51 
 * [How to secure your database](https://ubuntu.com//blog/secure-database) - Fri, 18 Aug 2023 09:21:26 
 * [Ubuntu in education: A K-12 IT Director’s experience](https://ubuntu.com//blog/ubuntu-in-education-a-k-12-it-directors-experience) - Thu, 17 Aug 2023 07:00:37 
 * [Canonical﻿ Kubernetes 1.28 is now generally available](https://ubuntu.com//blog/canonical%ef%bb%bf-kubernetes-1-28-is-now-generally-available) - Wed, 16 Aug 2023 08:33:07 
 * [Meet Canonical at Andicom 2023](https://ubuntu.com//blog/meet-canonical-at-andicom-2023) - Tue, 15 Aug 2023 17:49:10 
-* [Docker on Mac &#8211; a lightweight option with Multipass](https://ubuntu.com//blog/docker-on-mac-a-lightweight-option-with-multipass) - Tue, 15 Aug 2023 12:32:14 
 <!-- blog ends -->
