@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/784) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/110) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **publish 0.29.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **When model switch is used, reuse or create and keep that ...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **fix misspelling** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/build-charms/builder_local.py  Co-authored-by...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/build-charms/builder_local.py  Co-authored-by...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1396) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1396) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
