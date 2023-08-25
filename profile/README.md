@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Disallow charm from being deployed to non-k8s models (#37)** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Disallow charm from being deployed to non-k8s models (#37)** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@addyess](https://github.com/addyess) has pushed the commit **map any channel to its potential numerical track** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-alpha.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.5.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.24.17.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update to kube-ovn v1.12.0 (#48)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add get_sandbox_image** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
