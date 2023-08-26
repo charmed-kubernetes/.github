@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **move charms edge to 1.29/edge** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update to kube-ovn v1.12.0 (#48)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add get_sandbox_image** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
