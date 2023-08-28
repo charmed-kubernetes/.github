@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ensure that lp builders are insync with upstream sources ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1413) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Echo which build step the lp builder is on** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add kubespray 2.21 conformance for kubernetes 1.25 (#2450...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **stop remapping TMPDIR inside lxc containers (#1412)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **move charms edge to 1.29/edge** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update to kube-ovn v1.12.0 (#48)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add get_sandbox_image** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
