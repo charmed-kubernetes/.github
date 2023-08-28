@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **stop remapping TMPDIR inside lxc containers (#1412)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **move charms edge to 1.29/edge** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update to kube-ovn v1.12.0 (#48)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **use yaml.safe_load when loading a str** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/48) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Telecom security: How to safeguard your open source telco infrastructure](https://ubuntu.com//blog/telecom-security-how-to-safeguard-your-open-source-telco-infrastructure) - Mon, 28 Aug 2023 12:00:59 
 * [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future) - Fri, 25 Aug 2023 13:02:51 
 * [Machine learning in finance: history, technologies and outlook](https://ubuntu.com//blog/machine-learning-in-finance-history-technologies-and-outlook) - Wed, 23 Aug 2023 08:22:08 
 * [What is a hypervisor? A beginner’s guide](https://ubuntu.com//blog/hypervisor) - Mon, 21 Aug 2023 07:00:51 
 * [How to secure your database](https://ubuntu.com//blog/secure-database) - Fri, 18 Aug 2023 09:21:26 
 * [Ubuntu in education: A K-12 IT Director’s experience](https://ubuntu.com//blog/ubuntu-in-education-a-k-12-it-directors-experience) - Thu, 17 Aug 2023 07:00:37 
-* [Canonical﻿ Kubernetes 1.28 is now generally available](https://ubuntu.com//blog/canonical%ef%bb%bf-kubernetes-1-28-is-now-generally-available) - Wed, 16 Aug 2023 08:33:07 
 <!-- blog ends -->
