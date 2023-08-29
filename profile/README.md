@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **MetalLB: recommend IPVS proxy mode (#772)  Co-authored-by...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add  to reconfigure cni** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add kubespray 2.21 conformance for kubernetes 1.25 (#2450...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/787) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/772) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **etcd updates (#774) (#775)  * etcd updates  * fix local...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Ensure that lp builders are insync with upstream sources ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1413) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Echo which build step the lp builder is on** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add kubespray 2.21 conformance for kubernetes 1.25 (#2450...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How New Mexico State University accelerates compliant federal research with Ubuntu](https://ubuntu.com//blog/how-new-mexico-state-university-accelerates-compliant-federal-research-with-ubuntu) - Tue, 29 Aug 2023 08:48:32 
 * [Telecom security: How to safeguard your open source telco infrastructure](https://ubuntu.com//blog/telecom-security-how-to-safeguard-your-open-source-telco-infrastructure) - Mon, 28 Aug 2023 12:00:59 
 * [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future) - Fri, 25 Aug 2023 13:02:51 
 * [Machine learning in finance: history, technologies and outlook](https://ubuntu.com//blog/machine-learning-in-finance-history-technologies-and-outlook) - Wed, 23 Aug 2023 08:22:08 
 * [What is a hypervisor? A beginner’s guide](https://ubuntu.com//blog/hypervisor) - Mon, 21 Aug 2023 07:00:51 
 * [How to secure your database](https://ubuntu.com//blog/secure-database) - Fri, 18 Aug 2023 09:21:26 
-* [Ubuntu in education: A K-12 IT Director’s experience](https://ubuntu.com//blog/ubuntu-in-education-a-k-12-it-directors-experience) - Thu, 17 Aug 2023 07:00:37 
 <!-- blog ends -->
