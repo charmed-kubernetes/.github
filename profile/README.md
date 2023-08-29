@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add kubespray 2.21 conformance for kubernetes 1.25 (#2450...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/787) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/772) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/772) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **etcd updates (#774) (#775)  * etcd updates  * fix local...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Ensure that lp builders are insync with upstream sources ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1413) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Echo which build step the lp builder is on** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add kubespray 2.21 conformance for kubernetes 1.25 (#2450...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@DanielArndt](https://github.com/DanielArndt) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/59) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
