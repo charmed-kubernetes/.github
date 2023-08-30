@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1414) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1414) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1414) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1414) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Just Blacken** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Test storage and provider-id via integration testing** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **black** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **MetalLB: recommend IPVS proxy mode (#772)  Co-authored-by...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add  to reconfigure cni** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cni interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cni interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cni interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-kubernetes-cni](https://github.com/charmed-kubernetes/charm-lib-interface-kubernetes-cni)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-kubernetes-cni](https://github.com/charmed-kubernetes/charm-lib-interface-kubernetes-cni)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Simplify unit tests** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add set_default_cni_conf_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add set_default_cni_conf_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add set_default_cni_conf_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **clean up the deployment before destroying the namespace (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
