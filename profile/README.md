@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1414) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1414) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Just Blacken** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Test storage and provider-id via integration testing** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **black** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add  to reconfigure cni** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add kubespray 2.21 conformance for kubernetes 1.25 (#2450...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/787) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/772) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/772) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
