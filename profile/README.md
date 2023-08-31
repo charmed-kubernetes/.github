@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **foom** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **pre-bootstrap steps are no longer required** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **pre-bootstrap steps are no longer required** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **template arch correctly for resource_fmt string** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove unused vendored arc bits** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cni interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cni interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cni interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-kubernetes-cni](https://github.com/charmed-kubernetes/charm-lib-interface-kubernetes-cni)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-kubernetes-cni](https://github.com/charmed-kubernetes/charm-lib-interface-kubernetes-cni)
- - [@addyess](https://github.com/addyess) has pushed the commit **Simplify unit tests** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add set_default_cni_conf_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add set_default_cni_conf_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add set_default_cni_conf_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **clean up the deployment before destroying the namespace (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Get familiar with “Rusty” kernel programming in Ubuntu Lunar Lobster](https://ubuntu.com//blog/get-familiar-with-rusty-kernel-programming-in-ubuntu-lunar-lobster) - Thu, 31 Aug 2023 07:15:58 
+* [Meet Canonical and OpenSearch.org at Open Source Summit Europe 2023](https://ubuntu.com//blog/meet-canonical-and-opensearch-oss2023) - Thu, 31 Aug 2023 00:01:01 
 * [LLMs explained: how to build your own private ChatGPT](https://ubuntu.com//blog/llms-explained) - Wed, 30 Aug 2023 11:59:17 
 * [Closing the Gap: Ubuntu Pro in the AWS Shared Responsibility Model](https://ubuntu.com//blog/ubuntu-pro-in-the-aws-shared-responsibility-model) - Tue, 29 Aug 2023 17:23:15 
 * [How New Mexico State University accelerates compliant federal research with Ubuntu](https://ubuntu.com//blog/how-new-mexico-state-university-accelerates-compliant-federal-research-with-ubuntu) - Tue, 29 Aug 2023 08:48:32 
 * [Telecom security: How to safeguard your open source telco infrastructure](https://ubuntu.com//blog/telecom-security-how-to-safeguard-your-open-source-telco-infrastructure) - Mon, 28 Aug 2023 12:00:59 
-* [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future) - Fri, 25 Aug 2023 13:02:51 
-* [Machine learning in finance: history, technologies and outlook](https://ubuntu.com//blog/machine-learning-in-finance-history-technologies-and-outlook) - Wed, 23 Aug 2023 08:22:08 
 <!-- blog ends -->
