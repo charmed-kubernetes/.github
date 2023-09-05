@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/11) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **09 maintenance (#791)  * etcd updates  * fix local nav...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix coverage and lint** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix coverage** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **ignore missing kubelet-dir** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/299) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
