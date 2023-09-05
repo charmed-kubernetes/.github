@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix coverage and lint** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix coverage** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **ignore missing kubelet-dir** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix VETH_MTU cast** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/299) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add configure_kernel_parameters** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Allow any tox env name to run positional argument command...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1418) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@asbalderson](https://github.com/asbalderson) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1418) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Empowering government innovation: a secure path to open source excellence](https://ubuntu.com//blog/empowering-government-innovation-a-secure-path-to-open-source-excellence) - Tue, 05 Sep 2023 01:00:15 
 * [Efficiency redefined: Discover the power of software operators during Operator Day, co-located at KubeCon North America 2023](https://ubuntu.com//blog/operator-day-kubecon-na-2023) - Mon, 04 Sep 2023 15:24:31 
 * [LXD 5.17 is now available](https://ubuntu.com//blog/lxd-5-17-is-now-available) - Fri, 01 Sep 2023 07:55:30 
 * [Get familiar with “Rusty” kernel programming in Ubuntu Lunar Lobster](https://ubuntu.com//blog/get-familiar-with-rusty-kernel-programming-in-ubuntu-lunar-lobster) - Thu, 31 Aug 2023 07:15:58 
 * [Meet Canonical and OpenSearch.org at Open Source Summit Europe 2023](https://ubuntu.com//blog/meet-canonical-and-opensearch-oss2023) - Thu, 31 Aug 2023 00:01:01 
 * [LLMs explained: how to build your own private ChatGPT](https://ubuntu.com//blog/llms-explained) - Wed, 30 Aug 2023 11:59:17 
-* [Closing the Gap: Ubuntu Pro in the AWS Shared Responsibility Model](https://ubuntu.com//blog/ubuntu-pro-in-the-aws-shared-responsibility-model) - Tue, 29 Aug 2023 17:23:15 
 <!-- blog ends -->
