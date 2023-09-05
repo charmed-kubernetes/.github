@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/792) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Install `nginx-prometheus-exporter`  and export metrics o...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/32) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/32) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **include another pending launchpad build state** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support custom kubelet_dir over kubernetes-info interface...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Support custom kubelet_dir over kubernetes-info interface** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/11) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **09 maintenance (#791)  * etcd updates  * fix local nav...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix coverage and lint** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix coverage** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **ignore missing kubelet-dir** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix VETH_MTU cast** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add ConfigurationContext class** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Support custom kubelet_dir over kubernetes-info interface** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Support custom kubelet_dir over kubernetes-info interface** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
