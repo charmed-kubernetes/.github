@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Black fixes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **More work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Introduce the release python script** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `ConfigurationContext` class (#32)  * Add Configurati...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/32) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix oddities** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix `assign_ipv4` and `assign_ipv6` (#103)  * Fix `assign...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/103) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **resolve permissions issue when writing to bird.conf** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/32) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/32) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add socket property** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03) - Fri, 08 Sep 2023 00:00:24 
 * [Ubuntu at DebConf 2023](https://ubuntu.com//blog/ubuntu-at-debconf-2023) - Thu, 07 Sep 2023 18:58:29 
 * [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com//blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu) - Thu, 07 Sep 2023 09:18:03 
 * [OpenSearchCon 2023 is coming, meet us in Seattle](https://ubuntu.com//blog/opensearchcon-canonical-2023) - Thu, 07 Sep 2023 06:36:13 
 * [Canonical launches AI roadshow](https://ubuntu.com//blog/canonical-launches-ai-roadshow) - Wed, 06 Sep 2023 09:00:06 
 * [Cloud storage for enterprises](https://ubuntu.com//blog/cloud-storage-for-enterprises) - Wed, 06 Sep 2023 07:20:24 
-* [Into the Labyrinth: Revealing the Mantic Minotaur](https://ubuntu.com//blog/into-the-labyrinth) - Wed, 06 Sep 2023 00:30:04 
 <!-- blog ends -->
