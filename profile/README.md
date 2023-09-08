@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/301) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/33) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/793) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/789) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/789) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove old bug warning for kubelet on lxd (#790)  https:/...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/790) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Black updates** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Cleanup** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Last update** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Minor changes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Some more work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Black fixes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **More work...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Introduce the release python script** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How telcos are building carrier-grade infrastructure using open source](https://ubuntu.com//blog/how-telcos-are-building-carrier-grade-infrastructure-using-open-source) - Fri, 08 Sep 2023 18:09:40 
+* [Meet Canonical at Intel® Innovation 2023](https://ubuntu.com//blog/meet-canonical-at-intel-innovation-2023) - Fri, 08 Sep 2023 17:50:25 
 * [Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03) - Fri, 08 Sep 2023 00:00:24 
 * [Ubuntu at DebConf 2023](https://ubuntu.com//blog/ubuntu-at-debconf-2023) - Thu, 07 Sep 2023 18:58:29 
 * [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com//blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu) - Thu, 07 Sep 2023 09:18:03 
 * [OpenSearchCon 2023 is coming, meet us in Seattle](https://ubuntu.com//blog/opensearchcon-canonical-2023) - Thu, 07 Sep 2023 06:36:13 
-* [Canonical launches AI roadshow](https://ubuntu.com//blog/canonical-launches-ai-roadshow) - Wed, 06 Sep 2023 09:00:06 
-* [Cloud storage for enterprises](https://ubuntu.com//blog/cloud-storage-for-enterprises) - Wed, 06 Sep 2023 07:20:24 
 <!-- blog ends -->
