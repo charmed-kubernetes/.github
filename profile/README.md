@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **use kubectl apply to start ipv6 test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Introduce the release python script for charmed microk8s ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1420) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1420) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Black fixes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Fix JUJU message** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.28 - 1.26 for stable validation (#1421)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1421) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/301) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/33) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/793) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/789) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/789) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Remove old bug warning for kubelet on lxd (#790)  https:/...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/790) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
