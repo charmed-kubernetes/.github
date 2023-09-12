@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Update the job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Can i upgrade tox?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Successful unit testing and linting (#1)** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix routing on ToRs and add dynamic rendering of netplan ...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/302) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add favicon to report site (#1424)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/149) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/149) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **LXD profile for Calico required mount point /sys/fs/bpf (...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump pygments from 2.15.1 to 2.16.1 (#1399)  * Bump pygme...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump regex from 2023.6.3 to 2023.8.8 (#1400)  * Bump rege...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Facilitate writing bird.conf with juju > 3.1 (#1419)  * F...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1419) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Can i upgrade tox?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Can i upgrade tox?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Lets try this...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Lets try this...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu updates, releases and repositories explained](https://ubuntu.com//blog/ubuntu-updates-releases-and-repositories-explained) - Tue, 12 Sep 2023 16:59:52 
 * [Real-time Ubuntu is now available in AWS Marketplace](https://ubuntu.com//blog/real-time-ubuntu-aws) - Tue, 12 Sep 2023 14:00:35 
 * [How telcos are building carrier-grade infrastructure using open source](https://ubuntu.com//blog/how-telcos-are-building-carrier-grade-infrastructure-using-open-source) - Fri, 08 Sep 2023 18:09:40 
 * [Meet Canonical at Intel® Innovation 2023](https://ubuntu.com//blog/meet-canonical-at-intel-innovation-2023) - Fri, 08 Sep 2023 17:50:25 
 * [Manage FIPS-enabled Linux machines at scale with Landscape 23.03](https://ubuntu.com//blog/manage-fips-enabled-linux-machines-at-scale-with-landscape-23-03) - Fri, 08 Sep 2023 00:00:24 
 * [Ubuntu at DebConf 2023](https://ubuntu.com//blog/ubuntu-at-debconf-2023) - Thu, 07 Sep 2023 18:58:29 
-* [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com//blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu) - Thu, 07 Sep 2023 09:18:03 
 <!-- blog ends -->
