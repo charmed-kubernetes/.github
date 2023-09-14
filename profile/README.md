@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust no_proxy subnets** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **http proxy config** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix TypeError when constructing default CNI symlink dest** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **fix mkdir args** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix broken import and type hint** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map manual machines into the the overlay** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add nagios checks, interfaces. Using kwargs for website.c...** to [nrpe-external-master-interface](https://github.com/charmed-kubernetes/nrpe-external-master-interface)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update juju.bash  Debug controller bootstrapping to ident...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **stop at 1 failure** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **specify controller in pytest operator args** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Blocking....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@jat-canonical](https://github.com/jat-canonical) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/114) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Exports...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu AI Podcast: Episode 4](https://ubuntu.com//blog/ubuntu-ai-podcast-episode-4) - Thu, 14 Sep 2023 15:56:00 
 * [How a real-time kernel reduces latency in telco edge clouds](https://ubuntu.com//blog/how-a-real-time-kernel-reduces-latency-in-telco-edge-clouds) - Thu, 14 Sep 2023 12:00:45 
 * [Meet us at World AI Summit 2023](https://ubuntu.com//blog/world-ai-summit-2023) - Thu, 14 Sep 2023 08:13:22 
 * [Deploy fully configured VMs in minutes on Google Cloud, using gcloud CLI and cloud-init](https://ubuntu.com//blog/deploy-fully-configured-vms-in-minutes-on-google-cloud-using-gcloud-cli-and-cloud-init) - Wed, 13 Sep 2023 00:01:16 
 * [Faster AI application development with Canonical and NVIDIA AI Enterprise](https://ubuntu.com//blog/ubuntu-kvm-supports-nvidia-ai-enterprise) - Tue, 12 Sep 2023 23:43:24 
 * [Ubuntu updates, releases and repositories explained](https://ubuntu.com//blog/ubuntu-updates-releases-and-repositories-explained) - Tue, 12 Sep 2023 16:59:52 
-* [Real-time Ubuntu is now available in AWS Marketplace](https://ubuntu.com//blog/real-time-ubuntu-aws) - Tue, 12 Sep 2023 14:00:35 
 <!-- blog ends -->
