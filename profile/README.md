@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add model defaults** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix constraints** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **faster vsphere bootstrap** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix vsphere controller** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust no_proxy subnets** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **http proxy config** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix TypeError when constructing default CNI symlink dest** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **fix mkdir args** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix broken import and type hint** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix woke check failure** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add container-runtime and cni endpoints (#299)  * Add con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add helper methods for cni and containerd support (#5)  *...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add container-runtime and cni endpoints (#299)  * Add con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Uc sync (#795)   * fix lxd link  * fix notification ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation (#1)  * Initial implementation  ...** to [charm-lib-interface-kubernetes-cni](https://github.com/charmed-kubernetes/charm-lib-interface-kubernetes-cni)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation (#1)  * Initial implementation  ...** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add helper methods for cni and containerd support (#5)  *...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply the registry secret during terraform apply** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
