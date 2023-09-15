@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix constraints** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **faster vsphere bootstrap** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix vsphere controller** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust no_proxy subnets** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **http proxy config** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix TypeError when constructing default CNI symlink dest** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix broken import and type hint** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
  - [@addyess](https://github.com/addyess) has pushed the commit **Map manual machines into the the overlay** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Add nagios checks, interfaces. Using kwargs for website.c...** to [nrpe-external-master-interface](https://github.com/charmed-kubernetes/nrpe-external-master-interface)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update juju.bash  Debug controller bootstrapping to ident...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **stop at 1 failure** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
