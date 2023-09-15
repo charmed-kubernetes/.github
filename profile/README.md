@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add model defaults** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix constraints** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **faster vsphere bootstrap** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **fix vsphere controller** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **fix mkdir args** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix broken import and type hint** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
- - [@addyess](https://github.com/addyess) has pushed the commit **Map manual machines into the the overlay** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
