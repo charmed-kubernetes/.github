@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clean up the release microk8s charm job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clean some more** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Cleanup** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix woke check failure** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Uc sync (#795)   * fix lxd link  * fix notification ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation (#1)  * Initial implementation  ...** to [charm-lib-interface-kubernetes-cni](https://github.com/charmed-kubernetes/charm-lib-interface-kubernetes-cni)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation (#1)  * Initial implementation  ...** to [charm-lib-interface-container-runtime](https://github.com/charmed-kubernetes/charm-lib-interface-container-runtime)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
