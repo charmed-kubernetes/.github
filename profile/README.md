@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Display graphs for WebRTC Statistics API data using ChartJS and React](https://ubuntu.com//blog/display-graphs-for-webrtc-statistics-api-data-using-chartjs-and-react) - Mon, 18 Sep 2023 14:01:03 
+* [Fast SDV prototyping in automotive with real-time kernel](https://ubuntu.com//blog/fast-sdv-prototyping-in-automotive-with-real-time-kernel) - Mon, 18 Sep 2023 12:38:08 
 * [Ubuntu AI Podcast: Episode 4](https://ubuntu.com//blog/ubuntu-ai-podcast-episode-4) - Thu, 14 Sep 2023 15:56:00 
 * [How a real-time kernel reduces latency in telco edge clouds](https://ubuntu.com//blog/how-a-real-time-kernel-reduces-latency-in-telco-edge-clouds) - Thu, 14 Sep 2023 12:00:45 
 * [Meet us at World AI Summit 2023](https://ubuntu.com//blog/world-ai-summit-2023) - Thu, 14 Sep 2023 08:13:22 
 * [Deploy fully configured VMs in minutes on Google Cloud, using gcloud CLI and cloud-init](https://ubuntu.com//blog/deploy-fully-configured-vms-in-minutes-on-google-cloud-using-gcloud-cli-and-cloud-init) - Wed, 13 Sep 2023 00:01:16 
-* [Faster AI application development with Canonical and NVIDIA AI Enterprise](https://ubuntu.com//blog/ubuntu-kvm-supports-nvidia-ai-enterprise) - Tue, 12 Sep 2023 23:43:24 
-* [Ubuntu updates, releases and repositories explained](https://ubuntu.com//blog/ubuntu-updates-releases-and-repositories-explained) - Tue, 12 Sep 2023 16:59:52 
 <!-- blog ends -->
