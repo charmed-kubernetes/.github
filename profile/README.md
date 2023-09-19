@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix subnet issue, use sshuttle to map client to controlle...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.28/upgrading.md  Co-authored-by: Kevin...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.27/upgrading.md  Co-authored-by: Kevin...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/797) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clean some more** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Cleanup** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix woke check failure** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add container-runtime and cni endpoints (#299)  * Add con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
