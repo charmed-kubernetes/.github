@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **verify_ready in verifcation.utils better describes not re...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add jenkins workers 12 and 13 while removing agent 8 and ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove the release microk8s charm jobs (#1423)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1423) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade tests to juju 3.1** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade tests to juju 3.1** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/796) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Set charm upgrade channels during the upgrade steps (#797...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/797) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
