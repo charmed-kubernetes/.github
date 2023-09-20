@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove the release microk8s charm jobs (#1423)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1423) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Ensure the restore action uses the secure endpoint as well** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update test_etcd.py  use model destroy_unit()** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/796) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Set charm upgrade channels during the upgrade steps (#797...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/797) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **fix subnet issue, use sshuttle to map client to controlle...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.28/upgrading.md  Co-authored-by: Kevin...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Start your Ubuntu Confidential VM with Intel® TDX on Google Cloud](https://ubuntu.com//blog/start-your-ubuntu-confidential-vm-with-intel-tdx-on-google-cloud) - Wed, 20 Sep 2023 00:51:07 
 * [Canonical partners with AMD to enable Ubuntu on AMD Kria&#x2122; K24 SOMs](https://ubuntu.com//blog/ubuntu-is-enabled-on-amd-kria-kd240) - Tue, 19 Sep 2023 20:16:18 
 * [Display graphs for WebRTC Statistics API data using ChartJS and React](https://ubuntu.com//blog/display-graphs-for-webrtc-statistics-api-data-using-chartjs-and-react) - Mon, 18 Sep 2023 14:01:03 
 * [Fast SDV prototyping in automotive with real-time kernel](https://ubuntu.com//blog/fast-sdv-prototyping-in-automotive-with-real-time-kernel) - Mon, 18 Sep 2023 12:38:08 
 * [Ubuntu AI Podcast: Episode 4](https://ubuntu.com//blog/ubuntu-ai-podcast-episode-4) - Thu, 14 Sep 2023 15:56:00 
 * [How a real-time kernel reduces latency in telco edge clouds](https://ubuntu.com//blog/how-a-real-time-kernel-reduces-latency-in-telco-edge-clouds) - Thu, 14 Sep 2023 12:00:45 
-* [Meet us at World AI Summit 2023](https://ubuntu.com//blog/world-ai-summit-2023) - Thu, 14 Sep 2023 08:13:22 
 <!-- blog ends -->
