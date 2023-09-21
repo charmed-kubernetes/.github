@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **adjust indentation of the shell script** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **improve the bash script to look the units** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **verify_ready in verifcation.utils better describes not re...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **add jenkins workers 12 and 13 while removing agent 8 and ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove the release microk8s charm jobs (#1423)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1423) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure the restore action uses the secure endpoint as well** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update test_etcd.py  use model destroy_unit()** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade tests to juju 3.1** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update config.yaml  Co-authored-by: Kevin W Monroe <kevin...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use yaml.safe_load when loading a str** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use yaml.safe_load when loading a str** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use yaml.safe_load when loading a str** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support custom kubelet_dir over kubernetes-info interface...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Convert KubeAPI Load Balancer to the ops framework (#26) ...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix `assign_ipv4` and `assign_ipv6` (#103)  * Fix `assign...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Draft of Diataxis version of MetalLB docs (#36)  * Starti...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/212) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
