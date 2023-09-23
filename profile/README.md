@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add unit tests** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Help visually spot bad charm build dates** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **fix the jenkins job links** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
