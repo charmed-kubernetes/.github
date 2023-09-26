@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/799) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **blacken reactive** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **handle reactive code as well** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **just black** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Add /sys/fs/bpf note for cnis on lxd which require a prof...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-alpha.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **iterate nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **fix links** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **prevent charm revision=None during charm promotion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **prevent charm revision=None during charm promotion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/304) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Apply suggestions from code review  Co-authored-by: Adam ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update config.yaml** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
