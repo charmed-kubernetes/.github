@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Implement kube-control and loadbalancer relations (#304) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **blacken reactive** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Implement provides side of relation for ops (#40)  * Add ...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update docs on how to perform bugfix release (#1432)  * U...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1432) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Instruct releease manager to only release changed charms** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fast fail and cancel other arch builds when one arch enco...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Adding release notes based on comments from Launchpad iss...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/799) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **blacken reactive** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **handle reactive code as well** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **just black** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add /sys/fs/bpf note for cnis on lxd which require a prof...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-alpha.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **iterate nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **fix links** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **prevent charm revision=None during charm promotion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **prevent charm revision=None during charm promotion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
