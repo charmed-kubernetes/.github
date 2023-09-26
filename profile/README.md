@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **prevent charm revision=None during charm promotion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **prevent charm revision=None during charm promotion** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/304) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Apply suggestions from code review  Co-authored-by: Adam ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update config.yaml** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **correct typing of juju action stdout and stderr** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **correct typing of juju action stdout and stderr** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix bug in no-loadbalancer case** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow) - Tue, 26 Sep 2023 08:12:30 
 * [Meet Canonical at India Mobile Congress 2023](https://ubuntu.com//blog/meet-canonical-at-india-mobile-congress-2023) - Fri, 22 Sep 2023 12:00:27 
 * [Join Canonical and the Ubuntu Community at UbuCon LA](https://ubuntu.com//blog/ubucon-la-2023) - Thu, 21 Sep 2023 22:34:20 
 * [Open source tooling at GITEX Global](https://ubuntu.com//blog/open-source-tooling-at-gitex-global) - Thu, 21 Sep 2023 13:10:58 
 * [Start your Ubuntu Confidential VM with Intel® TDX on Google Cloud](https://ubuntu.com//blog/start-your-ubuntu-confidential-vm-with-intel-tdx-on-google-cloud) - Wed, 20 Sep 2023 00:51:07 
 * [Canonical partners with AMD to enable Ubuntu on AMD Kria&#x2122; K24 SOMs](https://ubuntu.com//blog/ubuntu-is-enabled-on-amd-kria-kd240) - Tue, 19 Sep 2023 20:16:18 
-* [Display graphs for WebRTC Statistics API data using ChartJS and React](https://ubuntu.com//blog/display-graphs-for-webrtc-statistics-api-data-using-chartjs-and-react) - Mon, 18 Sep 2023 14:01:03 
 <!-- blog ends -->
