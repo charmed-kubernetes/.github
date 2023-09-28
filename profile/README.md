@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Populate the deploy stage failure into the report** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pull from functional Diataxis Discourse posts back to sou...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **add nav tools** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **update nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **update nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **reorg nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/38) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Updated color options of the ci report, and include boots...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1430) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Synchronize `Kubernetes Worker` with `Kubernetes Control ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/150) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Implement kube-control and loadbalancer relations (#304) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **blacken reactive** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Implement provides side of relation for ops (#40)  * Add ...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update docs on how to perform bugfix release (#1432)  * U...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet Canonical at MLOps World 2023](https://ubuntu.com//blog/mlops-world-2023) - Thu, 28 Sep 2023 09:01:07 
 * [Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow) - Tue, 26 Sep 2023 08:12:30 
 * [Meet Canonical at India Mobile Congress 2023](https://ubuntu.com//blog/meet-canonical-at-india-mobile-congress-2023) - Fri, 22 Sep 2023 12:00:27 
 * [Join Canonical and the Ubuntu Community at UbuCon LA](https://ubuntu.com//blog/ubucon-la-2023) - Thu, 21 Sep 2023 22:34:20 
 * [Open source tooling at GITEX Global](https://ubuntu.com//blog/open-source-tooling-at-gitex-global) - Thu, 21 Sep 2023 13:10:58 
 * [Start your Ubuntu Confidential VM with Intel® TDX on Google Cloud](https://ubuntu.com//blog/start-your-ubuntu-confidential-vm-with-intel-tdx-on-google-cloud) - Wed, 20 Sep 2023 00:51:07 
-* [Canonical partners with AMD to enable Ubuntu on AMD Kria&#x2122; K24 SOMs](https://ubuntu.com//blog/ubuntu-is-enabled-on-amd-kria-kd240) - Tue, 19 Sep 2023 20:16:18 
 <!-- blog ends -->
