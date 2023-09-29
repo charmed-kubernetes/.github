@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **formatting** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **add howto nav pages** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Populate the deploy stage failure into the report** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pull from functional Diataxis Discourse posts back to sou...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **add nav tools** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **reorg nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/38) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Updated color options of the ci report, and include boots...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1430) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Synchronize `Kubernetes Worker` with `Kubernetes Control ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu AI podcast: Understanding MLOps and Observability](https://ubuntu.com//blog/ubuntu-ai-podcast-understanding-mlops-and-observability) - Fri, 29 Sep 2023 11:16:51 
+* [Digital innovation in finance &#8211; the open source imperative](https://ubuntu.com//blog/digital-innovation-in-finance-the-open-source-imperative) - Fri, 29 Sep 2023 08:49:24 
 * [Meet Canonical at MLOps World 2023](https://ubuntu.com//blog/mlops-world-2023) - Thu, 28 Sep 2023 09:01:07 
 * [Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow) - Tue, 26 Sep 2023 08:12:30 
 * [Meet Canonical at India Mobile Congress 2023](https://ubuntu.com//blog/meet-canonical-at-india-mobile-congress-2023) - Fri, 22 Sep 2023 12:00:27 
 * [Join Canonical and the Ubuntu Community at UbuCon LA](https://ubuntu.com//blog/ubucon-la-2023) - Thu, 21 Sep 2023 22:34:20 
-* [Open source tooling at GITEX Global](https://ubuntu.com//blog/open-source-tooling-at-gitex-global) - Thu, 21 Sep 2023 13:10:58 
-* [Start your Ubuntu Confidential VM with Intel® TDX on Google Cloud](https://ubuntu.com//blog/start-your-ubuntu-confidential-vm-with-intel-tdx-on-google-cloud) - Wed, 20 Sep 2023 00:51:07 
 <!-- blog ends -->
