@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **update main nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **new howto pages** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove unnecessary package** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **bury sensative data into GITHUB_ENV** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust cloud credentials** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **Corret spelling mistakes and noproxy config** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust to manual cloud with 3 nics on each of the k8s VMS** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **add install and operated topics** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **formatting** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Zenbleed vulnerability fix for Ubuntu](https://ubuntu.com//blog/ubuntu-zenbleed-security-fix) - Tue, 03 Oct 2023 09:49:06 
 * [Ubuntu AI podcast: Understanding MLOps and Observability](https://ubuntu.com//blog/ubuntu-ai-podcast-understanding-mlops-and-observability) - Fri, 29 Sep 2023 11:16:51 
 * [Digital innovation in finance &#8211; the open source imperative](https://ubuntu.com//blog/digital-innovation-in-finance-the-open-source-imperative) - Fri, 29 Sep 2023 08:49:24 
 * [Meet Canonical at MLOps World 2023](https://ubuntu.com//blog/mlops-world-2023) - Thu, 28 Sep 2023 09:01:07 
 * [Canonical releases Charmed MLFlow](https://ubuntu.com//blog/canonical-releases-charmed-mlflow) - Tue, 26 Sep 2023 08:12:30 
 * [Meet Canonical at India Mobile Congress 2023](https://ubuntu.com//blog/meet-canonical-at-india-mobile-congress-2023) - Fri, 22 Sep 2023 12:00:27 
-* [Join Canonical and the Ubuntu Community at UbuCon LA](https://ubuntu.com//blog/ubucon-la-2023) - Thu, 21 Sep 2023 22:34:20 
 <!-- blog ends -->
