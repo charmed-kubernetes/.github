@@ -42,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Restricted unprivileged user namespaces are coming to Ubuntu 23.10](https://ubuntu.com//blog/ubuntu-23-10-restricted-unprivileged-user-namespaces) - Mon, 09 Oct 2023 13:08:31 
 * [What is a smartNIC and how is the technology shaping modern data centres?](https://ubuntu.com//blog/what-is-a-smartnic-and-how-is-the-technology-shaping-modern-data-centres) - Fri, 06 Oct 2023 12:01:56 
 * [Learn about all things Kubeflow at Kubeflow Summit 2023](https://ubuntu.com//blog/kubeflow-summit-2023) - Thu, 05 Oct 2023 12:19:46 
 * [Securing open source software dependencies in the public cloud](https://ubuntu.com//blog/securing-open-source-software-dependencies-in-the-public-cloud) - Thu, 05 Oct 2023 12:00:00 
 * [Charmed Kubeflow 1.8 Beta is here](https://ubuntu.com//blog/kubeflow-1-8-beta) - Wed, 04 Oct 2023 16:35:40 
 * [Zenbleed vulnerability fix for Ubuntu](https://ubuntu.com//blog/ubuntu-zenbleed-security-fix) - Tue, 03 Oct 2023 09:49:06 
-* [Ubuntu AI podcast: Understanding MLOps and Observability](https://ubuntu.com//blog/ubuntu-ai-podcast-understanding-mlops-and-observability) - Fri, 29 Sep 2023 11:16:51 
 <!-- blog ends -->
