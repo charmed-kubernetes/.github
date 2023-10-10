@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has pushed the commit **add new nav (#800)  * add new nav * add nav tools * add...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/800) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **remove docker ref** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/800) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **update nav** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **update navigation** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update _data/sidebars/k8smain-sidebar.yml  Co-authored-by...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/how-to-security.md  Co-authored-by: Geor...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **fix cni/networking** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add /sys/fs/bpf note for cnis on lxd which require a prof...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **better debug issue with juju spaces** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **better debug issue with juju spaces** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **env.K8S_IPS contain spaces, must escape** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **env.K8S_IPS contain spaces, must escape** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **completely move secrets out of GHA control** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **completely move secrets out of GHA control** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation** to [charm-lib-interface-kube-dns](https://github.com/charmed-kubernetes/charm-lib-interface-kube-dns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **move TF_VAR secrets to its own file** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **address misspelling** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Quote GHA environment variables** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [MAAS Outside the Lines](https://ubuntu.com//blog/maas-outside-the-lines) - Tue, 10 Oct 2023 16:52:44 
 * [Restricted unprivileged user namespaces are coming to Ubuntu 23.10](https://ubuntu.com//blog/ubuntu-23-10-restricted-unprivileged-user-namespaces) - Mon, 09 Oct 2023 13:08:31 
 * [What is a smartNIC and how is the technology shaping modern data centres?](https://ubuntu.com//blog/what-is-a-smartnic-and-how-is-the-technology-shaping-modern-data-centres) - Fri, 06 Oct 2023 12:01:56 
 * [Learn about all things Kubeflow at Kubeflow Summit 2023](https://ubuntu.com//blog/kubeflow-summit-2023) - Thu, 05 Oct 2023 12:19:46 
 * [Securing open source software dependencies in the public cloud](https://ubuntu.com//blog/securing-open-source-software-dependencies-in-the-public-cloud) - Thu, 05 Oct 2023 12:00:00 
 * [Charmed Kubeflow 1.8 Beta is here](https://ubuntu.com//blog/kubeflow-1-8-beta) - Wed, 04 Oct 2023 16:35:40 
-* [Zenbleed vulnerability fix for Ubuntu](https://ubuntu.com//blog/ubuntu-zenbleed-security-fix) - Tue, 03 Oct 2023 09:49:06 
 <!-- blog ends -->
