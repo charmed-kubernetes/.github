@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **don't log the bundles to the action artifacts** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ensure that cloud-init configuration completes successful...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **wait 5m for appearance of the calico-enterprise charm** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **wait 5m for appearance of the calico-enterprise charm** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **wait 5m for appearance of the calico-enterprise charm** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Add docs regarding WHY someone needs cloud-provider charm...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Add docs regarding WHY someone needs cloud-provider charm...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **respect posargs when running integration tests** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **better debug issue with juju spaces** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/805) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **edits on explain-cloud.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **better debug issue with juju spaces** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **better debug issue with juju spaces** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **env.K8S_IPS contain spaces, must escape** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **env.K8S_IPS contain spaces, must escape** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
