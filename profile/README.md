@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add kube-dns relation** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/305) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move tigera manifests into the charm, rather than as atta...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move tigera manifests into the charm, rather than as atta...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move tigera manifests into the charm, rather than as atta...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-alpha.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **don't log the bundles to the action artifacts** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **Ensure that cloud-init configuration completes successful...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **wait 5m for appearance of the calico-enterprise charm** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **wait 5m for appearance of the calico-enterprise charm** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **wait 5m for appearance of the calico-enterprise charm** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add docs regarding WHY someone needs cloud-provider charm...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add docs regarding WHY someone needs cloud-provider charm...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **respect posargs when running integration tests** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **better debug issue with juju spaces** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical releases Ubuntu 23.10 Mantic Minotaur](https://ubuntu.com//blog/canonical-releases-ubuntu-23-10-mantic-minotaur) - Thu, 12 Oct 2023 16:32:40 
+* [Ubuntu Desktop 23.10: Mantic Minotaur deep dive](https://ubuntu.com//blog/ubuntu-desktop-23-10-mantic-minotaur-deep-dive) - Thu, 12 Oct 2023 16:31:28 
 * [AMD Kria&#x2122; KR260 Robotics Starter Kit and Ubuntu: An exploration into future robotics development](https://ubuntu.com//blog/ubuntu-core-on-amd-kr260) - Wed, 11 Oct 2023 14:00:52 
 * [SmartNICs in telco: benefits and use cases](https://ubuntu.com//blog/smartnics-in-telco-benefits-and-use-cases) - Wed, 11 Oct 2023 12:00:01 
 * [MAAS Outside the Lines](https://ubuntu.com//blog/maas-outside-the-lines) - Tue, 10 Oct 2023 16:52:44 
 * [Restricted unprivileged user namespaces are coming to Ubuntu 23.10](https://ubuntu.com//blog/ubuntu-23-10-restricted-unprivileged-user-namespaces) - Mon, 09 Oct 2023 13:08:31 
-* [What is a smartNIC and how is the technology shaping modern data centres?](https://ubuntu.com//blog/what-is-a-smartnic-and-how-is-the-technology-shaping-modern-data-centres) - Fri, 06 Oct 2023 12:01:56 
-* [Learn about all things Kubeflow at Kubeflow Summit 2023](https://ubuntu.com//blog/kubeflow-summit-2023) - Thu, 05 Oct 2023 12:19:46 
 <!-- blog ends -->
