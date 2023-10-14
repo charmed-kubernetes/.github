@@ -25,14 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@zhanglei-mao](https://github.com/zhanglei-mao) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/807) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve status condition of the unit** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Split gh actions into a separate shell script** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Split gh actions into a separate shell script** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **Split gh actions into a separate shell script** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **Split gh actions into a separate shell script** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix token aggregation loop** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@addyess](https://github.com/addyess) has pushed the commit **Split gh actions into a separate shell script** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **rearrange distribution of proxy environment settings appr...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **rearrange distribution of proxy environment settings appr...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **rearrange distribution of proxy environment settings appr...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@addyess](https://github.com/addyess) has pushed the commit **rearrange distribution of proxy environment settings appr...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **rearrange distribution of proxy environment settings appr...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **rearrange distribution of proxy environment settings appr...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
 <!-- activity ends -->
