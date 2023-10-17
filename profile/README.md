@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical announces supported solution for Apache Spark® on Kubernetes](https://ubuntu.com//blog/canonical-releases-charmed-spark) - Tue, 17 Oct 2023 07:00:41 
+* [Discover the future of Autonomous Mobile Robots (AMR) with Canonical and Husarion at ROSCon 2023](https://ubuntu.com//blog/amr-with-canonical-and-husarion) - Tue, 17 Oct 2023 07:00:37 
+* [A call for community](https://ubuntu.com//blog/a-call-for-community) - Mon, 16 Oct 2023 21:28:35 
 * [Ubuntu AI podcast: What is Generative AI?](https://ubuntu.com//blog/ubuntu-ai-podcast-what-is-generative-ai) - Mon, 16 Oct 2023 08:36:21 
 * [Canonical releases Ubuntu 23.10 Mantic Minotaur](https://ubuntu.com//blog/canonical-releases-ubuntu-23-10-mantic-minotaur) - Thu, 12 Oct 2023 16:32:40 
 * [Ubuntu Desktop 23.10: Mantic Minotaur deep dive](https://ubuntu.com//blog/ubuntu-desktop-23-10-mantic-minotaur-deep-dive) - Thu, 12 Oct 2023 16:31:28 
-* [AMD Kria&#x2122; KR260 Robotics Starter Kit and Ubuntu: An exploration into future robotics development](https://ubuntu.com//blog/ubuntu-core-on-amd-kr260) - Wed, 11 Oct 2023 14:00:52 
-* [SmartNICs in telco: benefits and use cases](https://ubuntu.com//blog/smartnics-in-telco-benefits-and-use-cases) - Wed, 11 Oct 2023 12:00:01 
-* [MAAS Outside the Lines](https://ubuntu.com//blog/maas-outside-the-lines) - Tue, 10 Oct 2023 16:52:44 
 <!-- blog ends -->
