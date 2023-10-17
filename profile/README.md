@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Add cdk-addons and kube-dns relation (#305)  * Add cdk-ad...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Clean up per review  Co-authored-by: Adam Dyess <adam.dye...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Initial implementation (#1)** to [charm-lib-interface-kube-dns](https://github.com/charmed-kubernetes/charm-lib-interface-kube-dns)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/305) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/305) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-kube-dns/pull/1) in the [charm-lib-interface-kube-dns](https://github.com/charmed-kubernetes/charm-lib-interface-kube-dns) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Address misspelling in the reactive based provider side** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
- - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/808) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Akd/integration tests on vsphere (#2)  * use vsphere cred...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/2) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove DevicePlugins from feature_gate on 1.28+ (#47)  * ...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/47) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@cjohnston1158](https://github.com/cjohnston1158) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/47) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/47) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Why we built a Spark solution for Kubernetes](https://ubuntu.com//blog/why-we-built-a-spark-solution-for-kubernetes) - Tue, 17 Oct 2023 17:00:37 
+* [Canonical at DjangoCon Africa](https://ubuntu.com//blog/canonical-at-djangocon-africa) - Tue, 17 Oct 2023 15:49:29 
 * [Canonical announces supported solution for Apache Spark® on Kubernetes](https://ubuntu.com//blog/canonical-releases-charmed-spark) - Tue, 17 Oct 2023 07:00:41 
 * [Discover the future of Autonomous Mobile Robots (AMR) with Canonical and Husarion at ROSCon 2023](https://ubuntu.com//blog/amr-with-canonical-and-husarion) - Tue, 17 Oct 2023 07:00:37 
 * [A call for community](https://ubuntu.com//blog/a-call-for-community) - Mon, 16 Oct 2023 21:28:35 
 * [Ubuntu AI podcast: What is Generative AI?](https://ubuntu.com//blog/ubuntu-ai-podcast-what-is-generative-ai) - Mon, 16 Oct 2023 08:36:21 
-* [Canonical releases Ubuntu 23.10 Mantic Minotaur](https://ubuntu.com//blog/canonical-releases-ubuntu-23-10-mantic-minotaur) - Thu, 12 Oct 2023 16:32:40 
-* [Ubuntu Desktop 23.10: Mantic Minotaur deep dive](https://ubuntu.com//blog/ubuntu-desktop-23-10-mantic-minotaur-deep-dive) - Thu, 12 Oct 2023 16:31:28 
 <!-- blog ends -->
