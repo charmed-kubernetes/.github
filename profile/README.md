@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add cdk-addons and kube-dns relation (#305)  * Add cdk-ad...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@addyess](https://github.com/addyess) has pushed the commit **Akd/integration tests on vsphere (#2)  * use vsphere cred...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/2) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove DevicePlugins from feature_gate on 1.28+ (#47)  * ...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/47) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@cjohnston1158](https://github.com/cjohnston1158) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/47) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/47) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
