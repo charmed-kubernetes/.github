@@ -25,13 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **py38 linting** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use the calico-enteprise peer relation to compute bpg_par...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/808) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `cosl` to `requirements.txt`** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `cosl` to `requirements.txt`** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/807) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Cleanup** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add cdk-addons and kube-dns relation (#305)  * Add cdk-ad...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add README.md file** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The soul of open source](https://ubuntu.com//blog/the-soul-of-open-source) - Wed, 18 Oct 2023 18:04:00 
+* [Canonical brings Ubuntu and ROS to NVIDIA Jetson Orin, providing stability to robotics and AI Development](https://ubuntu.com//blog/ubuntu-and-ros-to-nvidia-jetson-orin) - Wed, 18 Oct 2023 14:58:39 
 * [Why we built a Spark solution for Kubernetes](https://ubuntu.com//blog/why-we-built-a-spark-solution-for-kubernetes) - Tue, 17 Oct 2023 17:00:37 
 * [Canonical at DjangoCon Africa](https://ubuntu.com//blog/canonical-at-djangocon-africa) - Tue, 17 Oct 2023 15:49:29 
 * [Canonical announces supported solution for Apache Spark® on Kubernetes](https://ubuntu.com//blog/canonical-releases-charmed-spark) - Tue, 17 Oct 2023 07:00:41 
 * [Discover the future of Autonomous Mobile Robots (AMR) with Canonical and Husarion at ROSCon 2023](https://ubuntu.com//blog/amr-with-canonical-and-husarion) - Tue, 17 Oct 2023 07:00:37 
-* [A call for community](https://ubuntu.com//blog/a-call-for-community) - Mon, 16 Oct 2023 21:28:35 
-* [Ubuntu AI podcast: What is Generative AI?](https://ubuntu.com//blog/ubuntu-ai-podcast-what-is-generative-ai) - Mon, 16 Oct 2023 08:36:21 
 <!-- blog ends -->
