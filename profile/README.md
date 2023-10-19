@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.15.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix lint** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix unit tests** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **py38 linting** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@addyess](https://github.com/addyess) has pushed the commit **use the calico-enteprise peer relation to compute bpg_par...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/808) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `cosl` to `requirements.txt`** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `cosl` to `requirements.txt`** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/807) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
