@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ceph storage for Kubernetes](https://ubuntu.com//blog/storage-for-kubernetes) - Thu, 19 Oct 2023 09:18:02 
 * [The soul of open source](https://ubuntu.com//blog/the-soul-of-open-source) - Wed, 18 Oct 2023 18:04:00 
 * [Canonical brings Ubuntu and ROS to NVIDIA Jetson Orin, providing stability to robotics and AI Development](https://ubuntu.com//blog/ubuntu-and-ros-to-nvidia-jetson-orin) - Wed, 18 Oct 2023 14:58:39 
 * [Why we built a Spark solution for Kubernetes](https://ubuntu.com//blog/why-we-built-a-spark-solution-for-kubernetes) - Tue, 17 Oct 2023 17:00:37 
 * [Canonical at DjangoCon Africa](https://ubuntu.com//blog/canonical-at-djangocon-africa) - Tue, 17 Oct 2023 15:49:29 
 * [Canonical announces supported solution for Apache Spark® on Kubernetes](https://ubuntu.com//blog/canonical-releases-charmed-spark) - Tue, 17 Oct 2023 07:00:41 
-* [Discover the future of Autonomous Mobile Robots (AMR) with Canonical and Husarion at ROSCon 2023](https://ubuntu.com//blog/amr-with-canonical-and-husarion) - Tue, 17 Oct 2023 07:00:37 
 <!-- blog ends -->
