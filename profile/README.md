@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/117) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/104) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/104) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix failure in hacluster integration** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/783) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/781) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.25.15.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix lint** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix unit tests** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
