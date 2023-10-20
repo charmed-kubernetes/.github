@@ -32,8 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/783) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/781) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Unleash the power of GPU: Ubuntu WorkSpaces now support Graphics G4dn bundles](https://ubuntu.com//blog/unleash-the-power-of-gpu-ubuntu-desktop-on-amazon-workspaces-supports-graphics-g4dn-bundles) - Fri, 20 Oct 2023 11:55:05 
 * [Ceph storage for Kubernetes](https://ubuntu.com//blog/storage-for-kubernetes) - Thu, 19 Oct 2023 09:18:02 
 * [The soul of open source](https://ubuntu.com//blog/the-soul-of-open-source) - Wed, 18 Oct 2023 18:04:00 
 * [Canonical brings Ubuntu and ROS to NVIDIA Jetson Orin, providing stability to robotics and AI Development](https://ubuntu.com//blog/ubuntu-and-ros-to-nvidia-jetson-orin) - Wed, 18 Oct 2023 14:58:39 
 * [Why we built a Spark solution for Kubernetes](https://ubuntu.com//blog/why-we-built-a-spark-solution-for-kubernetes) - Tue, 17 Oct 2023 17:00:37 
 * [Canonical at DjangoCon Africa](https://ubuntu.com//blog/canonical-at-djangocon-africa) - Tue, 17 Oct 2023 15:49:29 
-* [Canonical announces supported solution for Apache Spark® on Kubernetes](https://ubuntu.com//blog/canonical-releases-charmed-spark) - Tue, 17 Oct 2023 07:00:41 
 <!-- blog ends -->
