@@ -25,15 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/812) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/812) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Multiple tokens** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Provides** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/104) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/117) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/104) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/104) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix failure in hacluster integration** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
