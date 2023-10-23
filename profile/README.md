@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add page for backups (#812) (#813)  * Add page for backup...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add page for backups (#812)  * Add page for backups  * ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/104) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update supported-versions.md (#811)  Adds links to releas...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/812) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/812) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Multiple tokens** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Provides** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Produces a tox env to update the charm's image resource** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use new COS RBAC group** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Improve CR/CRB** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add tox and CI** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add relation_id** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add contributing page (#815)  * Add contributing page  ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/815) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use rocks.canonical.com for k8s model images** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Meet Canonical at SC23](https://ubuntu.com//blog/meet-canonical-at-sc23) - Mon, 23 Oct 2023 17:26:50 
+* [The winter is coming, and so is the Ubuntu Summit](https://ubuntu.com//blog/the-winter-is-coming-and-so-is-the-ubuntu-summit) - Mon, 23 Oct 2023 14:50:43 
 * [Unleash the power of GPU: Ubuntu WorkSpaces now support Graphics G4dn bundles](https://ubuntu.com//blog/unleash-the-power-of-gpu-ubuntu-desktop-on-amazon-workspaces-supports-graphics-g4dn-bundles) - Fri, 20 Oct 2023 11:55:05 
 * [Ceph storage for Kubernetes](https://ubuntu.com//blog/storage-for-kubernetes) - Thu, 19 Oct 2023 09:18:02 
 * [The soul of open source](https://ubuntu.com//blog/the-soul-of-open-source) - Wed, 18 Oct 2023 18:04:00 
 * [Canonical brings Ubuntu and ROS to NVIDIA Jetson Orin, providing stability to robotics and AI Development](https://ubuntu.com//blog/ubuntu-and-ros-to-nvidia-jetson-orin) - Wed, 18 Oct 2023 14:58:39 
-* [Why we built a Spark solution for Kubernetes](https://ubuntu.com//blog/why-we-built-a-spark-solution-for-kubernetes) - Tue, 17 Oct 2023 17:00:37 
-* [Canonical at DjangoCon Africa](https://ubuntu.com//blog/canonical-at-djangocon-africa) - Tue, 17 Oct 2023 15:49:29 
 <!-- blog ends -->
