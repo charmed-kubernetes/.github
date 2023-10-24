@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Better handle `tokens` integration** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove unused tokens** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial implementation (#1)  * Initial implementation  ...** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Dump the correct structure** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Dump the correct structure** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix lint** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update charms/interface_tokens/requires.py  Co-authored-b...** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add remove_stale_tokens** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **re-write the CLUSTER_NAME env variable in the o7k ccm dae...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/227) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Make `tokens` integration optional** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Improve exception tracing when setting up a k8s-cloud (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1404) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **LP#2037236 Calico is ignoring juju network binding for cn...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Make `tokens` integration optional** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Compute the bgp_layout rather than relying on charm-confi...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/3) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Charm Builds: Suspend tigera-ee charm, begin calico-enter...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [AI Day in Latin America: Meet us in São Paulo](https://ubuntu.com//blog/ai-day-brazil-2023) - Tue, 24 Oct 2023 14:04:46 
+* [Canonical at RISC-V Summit 2023](https://ubuntu.com//blog/canonical-at-risc-v-summit-2023) - Tue, 24 Oct 2023 12:36:01 
+* [Canonical reaffirms 10 year LTS of Linux kernel and Ubuntu](https://ubuntu.com//blog/linux-kernel-lts) - Tue, 24 Oct 2023 11:30:48 
 * [Meet Canonical at SC23](https://ubuntu.com//blog/meet-canonical-at-sc23) - Mon, 23 Oct 2023 17:26:50 
 * [The winter is coming, and so is the Ubuntu Summit](https://ubuntu.com//blog/the-winter-is-coming-and-so-is-the-ubuntu-summit) - Mon, 23 Oct 2023 14:50:43 
 * [Unleash the power of GPU: Ubuntu WorkSpaces now support Graphics G4dn bundles](https://ubuntu.com//blog/unleash-the-power-of-gpu-ubuntu-desktop-on-amazon-workspaces-supports-graphics-g4dn-bundles) - Fri, 20 Oct 2023 11:55:05 
-* [Ceph storage for Kubernetes](https://ubuntu.com//blog/storage-for-kubernetes) - Thu, 19 Oct 2023 09:18:02 
-* [The soul of open source](https://ubuntu.com//blog/the-soul-of-open-source) - Wed, 18 Oct 2023 18:04:00 
-* [Canonical brings Ubuntu and ROS to NVIDIA Jetson Orin, providing stability to robotics and AI Development](https://ubuntu.com//blog/ubuntu-and-ros-to-nvidia-jetson-orin) - Wed, 18 Oct 2023 14:58:39 
 <!-- blog ends -->
