@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Better handle `tokens` integration** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove unused tokens** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial implementation (#1)  * Initial implementation  ...** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Dump the correct structure** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Dump the correct structure** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix lint** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-tokens/pull/1) in the [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Produces a tox env to update the charm's image resource** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use new COS RBAC group** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Improve CR/CRB** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add tox and CI** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add relation_id** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add contributing page (#815)  * Add contributing page  ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/815) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Use rocks.canonical.com for k8s model images** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update charms/interface_tokens/requires.py  Co-authored-b...** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add remove_stale_tokens** to [charm-lib-interface-tokens](https://github.com/charmed-kubernetes/charm-lib-interface-tokens)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
