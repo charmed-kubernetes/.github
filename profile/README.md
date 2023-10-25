@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Change deprecated `load_all` to `safe_load_all` (#229)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/229) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **CephFS storage class should leave mountOption unset** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **CephFS storage class should set the default mountOption t...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **CephFS storage class should set the default mountOption t...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **set the default cephfs mounter to be fuse** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/50) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Upgrade kube-ovn via update script (and tox env) (#49)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/49) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **remove needless utils package, and replaced with single m...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address linting issues** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update images to be backported to 1.28 (#228)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/228) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **re-write the CLUSTER_NAME env variable in the o7k ccm dae...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **re-write the CLUSTER_NAME env variable in the o7k ccm dae...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **re-write the CLUSTER_NAME env variable in the o7k ccm dae...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **default image uploads to rocks.canonical.com using local ...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **LP#2037236 Calico is ignoring juju network binding for cn...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/105) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
