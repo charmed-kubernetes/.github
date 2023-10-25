@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove needless utils package, and replaced with single m...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address linting issues** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update images to be backported to 1.28 (#228)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/228) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **default image uploads to rocks.canonical.com using local ...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **LP#2037236 Calico is ignoring juju network binding for cn...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/105) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **default image uploads to rocks.canonical.com using local ...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
