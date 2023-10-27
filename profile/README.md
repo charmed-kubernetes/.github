@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Initial Implementation** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update libnvidia-container apt repo url (#91)** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Build the snap using tox, allows for python linting (#230)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/230) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/230) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/230) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to kube-ovn v1.12.2 (#50)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **Change deprecated `load_all` to `safe_load_all` (#229)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/306) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/306) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/151) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/151) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/307) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use isort, codespell, and ruff for linting (#39)  * Use i...** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
+ - [@addyess](https://github.com/addyess) has pushed the commit **use latest charm-lib-kubernetes-snaps** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Starting cloud integration changes to kubelet (#7)  * Sta...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/7) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove `cloud-config` and `in-tree` provider references** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
