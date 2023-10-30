@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Support for external-cloud-providers (#152)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **purge nvidia packages vigorously** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **purge nvidia packages vigorously** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add docstrings** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add docstrings** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **provide support for the external-cloud-provider relation ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Support for external-cloud-providers (#152)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **provide support for the external-cloud-provider relation ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Provide scope for each cred via the ops.provider** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **have containerd ignore all juju proxy config during testing** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **publish 0.31.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Keep all packed charms, if there are more than one (#115)...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/117) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Remove the need for the requests library entirely (#145) ...** to [layer-docker](https://github.com/charmed-kubernetes/layer-docker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Re-introduce model-config (#118)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Implement COS integration (#151)  * Implement COS integra...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Implement COS integration (#306)  * Implement Observabili...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/306) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/151) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [How environmental parity accelerates automotive software development](https://ubuntu.com//blog/how-environmental-parity-accelerates-automotive-software-development) - Mon, 30 Oct 2023 08:00:46 
+* [Microsoft Azure&#8217;s Ubuntu Server 20.04 LTS Deprecation Notice](https://ubuntu.com//blog/microsoft-azures-ubuntu-server-20-04-lts-deprecation-notice) - Fri, 27 Oct 2023 22:36:50 
+* [Introducing Confidential VMs on Ubuntu Pro for Azure](https://ubuntu.com//blog/introducing-confidential-vms-on-ubuntu-pro-for-azure) - Thu, 26 Oct 2023 23:45:27 
+* [Running OpenSSL 1.1.1 after EOL? Stay secure with Ubuntu Pro.](https://ubuntu.com//blog/running-openssl-1-1-1-after-eol-with-ubuntu-pro) - Thu, 26 Oct 2023 16:47:31 
+* [Implementing FOTA updates for vehicles using a Dedicated Snap Store](https://ubuntu.com//blog/implementing-fota-updates-for-vehicles-using-a-dedicated-snap-store) - Thu, 26 Oct 2023 09:00:42 
+* [Web team &#8211; hack week 2023](https://ubuntu.com//blog/web-team-hack-week-2023) - Wed, 25 Oct 2023 13:57:56 
 <!-- blog ends -->
