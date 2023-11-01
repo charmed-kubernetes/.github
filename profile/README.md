@@ -25,16 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Remove `prime`** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/153) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add `cni-plugins` resource (#309)  * Add `cni-plugins` re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address code review** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Address code review** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix overlay** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/153) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/153) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/309) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert adjusting the runs-on parameter of the workflow jobs** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update charm-support-matrix.inc  Calico-Enterprise charm ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update charm-support-matrix.inc  Update ceph-csi charm do...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +36,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Running MongoDB on Kubernetes](https://ubuntu.com//blog/mongodb-on-kubernetes) - Tue, 31 Oct 2023 12:57:00 
-* [How environmental parity accelerates automotive software development](https://ubuntu.com//blog/how-environmental-parity-accelerates-automotive-software-development) - Mon, 30 Oct 2023 08:00:46 
-* [Microsoft Azure&#8217;s Ubuntu Server 20.04 LTS Deprecation Notice](https://ubuntu.com//blog/microsoft-azures-ubuntu-server-20-04-lts-deprecation-notice) - Fri, 27 Oct 2023 22:36:50 
-* [Introducing Confidential VMs on Ubuntu Pro for Azure](https://ubuntu.com//blog/introducing-confidential-vms-on-ubuntu-pro-for-azure) - Thu, 26 Oct 2023 23:45:27 
-* [Running OpenSSL 1.1.1 after EOL? Stay secure with Ubuntu Pro.](https://ubuntu.com//blog/running-openssl-1-1-1-after-eol-with-ubuntu-pro) - Thu, 26 Oct 2023 16:47:31 
-* [Implementing FOTA updates for vehicles using a Dedicated Snap Store](https://ubuntu.com//blog/implementing-fota-updates-for-vehicles-using-a-dedicated-snap-store) - Thu, 26 Oct 2023 09:00:42 
+
 <!-- blog ends -->
