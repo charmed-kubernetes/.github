@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Prevent automatic upgrades** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Prevent automatic upgrades** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Unit tests should be agnostic from which cloud they are run** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Unit tests should be agnostic from which cloud they are run** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support node labelling by an ops version of this layer** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Support node labelling by an ops version of this layer** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support node labelling by an ops version of this layer** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update images to be backported to 1.28 (#228)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Build GCP cloud-provider with CI (#1443)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Meet the Canonical Federal and DOD team at Alamo Ace 2023](https://ubuntu.com//blog/meet-the-canonical-federal-and-dod-team-at-alamo-ace-2023) - Thu, 02 Nov 2023 16:22:40 
+* [Ubuntu Snapshots on Azure: Ensuring predictability and consistency in cloud deployments](https://ubuntu.com//blog/ubuntu-snapshots-on-azure-ensuring-predictability-and-consistency-in-cloud-deployments) - Thu, 02 Nov 2023 00:43:42 
+* [Adopting open-source Industrial IoT software](https://ubuntu.com//blog/adopting-open-source-industrial-iot) - Wed, 01 Nov 2023 11:13:00 
+* [Running MongoDB on Kubernetes](https://ubuntu.com//blog/mongodb-on-kubernetes) - Tue, 31 Oct 2023 12:57:00 
+* [How environmental parity accelerates automotive software development](https://ubuntu.com//blog/how-environmental-parity-accelerates-automotive-software-development) - Mon, 30 Oct 2023 08:00:46 
+* [Microsoft Azure&#8217;s Ubuntu Server 20.04 LTS Deprecation Notice](https://ubuntu.com//blog/microsoft-azures-ubuntu-server-20-04-lts-deprecation-notice) - Fri, 27 Oct 2023 22:36:50 
 <!-- blog ends -->
