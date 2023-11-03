@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Unit tests should be agnostic from which cloud they are run** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Unit tests should be agnostic from which cloud they are run** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support node labelling by an ops version of this layer** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply node-labels to the control-plane nodes** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support node labelling by an ops version of this layer** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update images to be backported to 1.28 (#228)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Build GCP cloud-provider with CI (#1443)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1443) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Capitalization of Calico, the default CNI** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
