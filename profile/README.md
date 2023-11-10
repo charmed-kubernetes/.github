@@ -30,8 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **python subprocess.run doesn't need ticks to escape a brac...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update AlertManager rules (#312)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/312) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to kube-ovn v1.12.3 (#51)** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/51) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,5 +39,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical Kubernetes enhances AI/ML development capabilities with NVIDIA integrations](https://ubuntu.com//blog/canonical-kubernetes-enhances-ai-ml-development-capabilities-with-nvidia-integrations) - Thu, 09 Nov 2023 14:03:17 
+* [Turbocharge your API and microservice delivery on MicroK8s with Microcks](https://ubuntu.com//blog/microk8s-addon-microcks) - Thu, 09 Nov 2023 06:00:00 
+* [Canonical joins Open Networking Foundation](https://ubuntu.com//blog/canonical-joins-open-networking-foundation) - Wed, 08 Nov 2023 21:27:40 
+* [Podcast: Data in AI](https://ubuntu.com//blog/podcast-data-in-ai) - Mon, 06 Nov 2023 10:13:20 
+* [Intel® TDX 1.0 technology preview available on Ubuntu 23.10](https://ubuntu.com//blog/intel-tdx-1-0-preview-on-ubuntu-23-10) - Fri, 03 Nov 2023 13:09:00 
+* [Meet Cyber Essentials requirements with Ubuntu Pro](https://ubuntu.com//blog/meet-cyber-essentials-requirements-with-ubuntu-pro) - Fri, 03 Nov 2023 08:45:00 
 <!-- blog ends -->
