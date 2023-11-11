@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Update src/charm.py** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update src/charm.py** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/155) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Use Go 1.21 for the 1.29 builds (#1449)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical Kubernetes enhances AI/ML development capabilities with NVIDIA integrations](https://ubuntu.com//blog/canonical-kubernetes-enhances-ai-ml-development-capabilities-with-nvidia-integrations) - Thu, 09 Nov 2023 14:03:17 
-* [Turbocharge your API and microservice delivery on MicroK8s with Microcks](https://ubuntu.com//blog/microk8s-addon-microcks) - Thu, 09 Nov 2023 06:00:00 
-* [Canonical joins Open Networking Foundation](https://ubuntu.com//blog/canonical-joins-open-networking-foundation) - Wed, 08 Nov 2023 21:27:40 
-* [Podcast: Data in AI](https://ubuntu.com//blog/podcast-data-in-ai) - Mon, 06 Nov 2023 10:13:20 
-* [Intel® TDX 1.0 technology preview available on Ubuntu 23.10](https://ubuntu.com//blog/intel-tdx-1-0-preview-on-ubuntu-23-10) - Fri, 03 Nov 2023 13:09:00 
-* [Meet Cyber Essentials requirements with Ubuntu Pro](https://ubuntu.com//blog/meet-cyber-essentials-requirements-with-ubuntu-pro) - Fri, 03 Nov 2023 08:45:00 
+
 <!-- blog ends -->
