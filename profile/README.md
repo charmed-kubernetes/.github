@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@IbraAoad](https://github.com/IbraAoad) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/818) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/313) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `cluster` name label (#156)  * Fix metrics labels  ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Rollback `kubernetes-snaps` pin** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add Kubeconfig Auth to scheduler opts (#9)** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Implementing edge computing for V2X use cases in automotive](https://ubuntu.com//blog/implementing-edge-computing-for-v2x-use-cases-in-automotive) - Thu, 16 Nov 2023 08:30:00 
+* [Bringing automation to telco edge clouds at scale](https://ubuntu.com//blog/bringing-automation-to-telco-edge-clouds-at-scale) - Tue, 14 Nov 2023 15:01:00 
+* [Netplan brings consistent network configuration across Desktop, Server, Cloud and IoT](https://ubuntu.com//blog/netplan-configuration-across-desktop-server-cloud-and-iot) - Tue, 14 Nov 2023 13:12:16 
+* [Join Canonical at Open Source Experience Paris 2023￼](https://ubuntu.com//blog/join-canonical-at-open-source-experience-paris-2023%ef%bf%bc) - Tue, 14 Nov 2023 09:32:52 
+* [Canonical releases MicroCloud: a low-touch private cloud within everyone&#8217;s reach](https://ubuntu.com//blog/canonical_releases_microcloud) - Tue, 14 Nov 2023 03:45:00 
+* [InoNet and Canonical partner for seamless Edge AI deployment](https://ubuntu.com//blog/inonet-and-canonical-partner-for-seamless-edge-ai-deployment) - Mon, 13 Nov 2023 09:00:00 
 <!-- blog ends -->
