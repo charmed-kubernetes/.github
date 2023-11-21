@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical at AWS re:Invent &#8211; What you need to know!￼](https://ubuntu.com//blog/canonical-at-aws-reinvent-what-you-need-to-know) - Mon, 20 Nov 2023 19:23:00 
+* [Implementing edge computing for V2X use cases in automotive](https://ubuntu.com//blog/implementing-edge-computing-for-v2x-use-cases-in-automotive) - Thu, 16 Nov 2023 08:30:00 
+* [Bringing automation to telco edge clouds at scale](https://ubuntu.com//blog/bringing-automation-to-telco-edge-clouds-at-scale) - Tue, 14 Nov 2023 15:01:00 
+* [Netplan brings consistent network configuration across Desktop, Server, Cloud and IoT](https://ubuntu.com//blog/netplan-configuration-across-desktop-server-cloud-and-iot) - Tue, 14 Nov 2023 13:12:16 
+* [Join Canonical at Open Source Experience Paris 2023￼](https://ubuntu.com//blog/join-canonical-at-open-source-experience-paris-2023%ef%bf%bc) - Tue, 14 Nov 2023 09:32:52 
+* [Canonical releases MicroCloud: a low-touch private cloud within everyone&#8217;s reach](https://ubuntu.com//blog/canonical_releases_microcloud) - Tue, 14 Nov 2023 03:45:00 
 <!-- blog ends -->
