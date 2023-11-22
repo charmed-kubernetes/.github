@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix apiserver forbidden to access kubelet API (#315)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/315) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Implement controlled upgrades (#154)  * Implement control...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Implement controlled upgrades (#311)  * Implement control...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix apiserver forbidden to access kubelet API** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Ensure config_addrs values are never falsey  Co-authored-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/308) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Use interface-hacluster from fork  Co-authored-by: Adam D...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical announces the general availability of chiselled Ubuntu containers](https://ubuntu.com//blog/chiselled-ubuntu-ga) - Tue, 21 Nov 2023 13:45:58 
-* [Ubuntu Explained: How to ensure security and stability in cloud instances—part 2](https://ubuntu.com//blog/ubuntu-updates-best-practices-for-updating-your-instance) - Tue, 21 Nov 2023 12:15:53 
-* [Cloud backup: improve your disaster recovery plans](https://ubuntu.com//blog/cloud-backup) - Tue, 21 Nov 2023 08:21:00 
-* [Canonical at AWS re:Invent &#8211; What you need to know!￼](https://ubuntu.com//blog/canonical-at-aws-reinvent-what-you-need-to-know) - Mon, 20 Nov 2023 19:23:00 
-* [Implementing edge computing for V2X use cases in automotive](https://ubuntu.com//blog/implementing-edge-computing-for-v2x-use-cases-in-automotive) - Thu, 16 Nov 2023 08:30:00 
-* [Bringing automation to telco edge clouds at scale](https://ubuntu.com//blog/bringing-automation-to-telco-edge-clouds-at-scale) - Tue, 14 Nov 2023 15:01:00 
+
 <!-- blog ends -->
