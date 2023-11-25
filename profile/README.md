@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Implement controlled upgrades (#311)  * Implement control...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Prevent automatic snap upgrades (#8)  * Prevent automatic...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,5 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Ubuntu Explained: How to ensure security and stability in cloud instances—part 3](https://ubuntu.com//blog/securing-multiple-ubuntu-instances-while-maximising-uptime) - Fri, 24 Nov 2023 12:00:00 
+* [Canonical releases Charmed Kubeflow 1.8](https://ubuntu.com//blog/kubeflow-1-8-available) - Wed, 22 Nov 2023 12:39:11 
+* [Canonical announces the general availability of chiselled Ubuntu containers](https://ubuntu.com//blog/chiselled-ubuntu-ga) - Tue, 21 Nov 2023 13:45:58 
+* [Ubuntu Explained: How to ensure security and stability in cloud instances—part 2](https://ubuntu.com//blog/ubuntu-updates-best-practices-for-updating-your-instance) - Tue, 21 Nov 2023 12:15:53 
+* [Cloud backup: improve your disaster recovery plans](https://ubuntu.com//blog/cloud-backup) - Tue, 21 Nov 2023 08:21:00 
+* [Canonical at AWS re:Invent &#8211; What you need to know!](https://ubuntu.com//blog/canonical-at-aws-reinvent-what-you-need-to-know) - Mon, 20 Nov 2023 19:23:00 
 <!-- blog ends -->
