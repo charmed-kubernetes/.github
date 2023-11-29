@@ -25,6 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix AlertManager expr (#316)  * Fix AlertManager expr  ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/316) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add hacluster integration (#308)  * Add hacluster integra...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/308) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/308) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Create Diff Patch** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@hazem-soussi](https://github.com/hazem-soussi) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/820) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
@@ -35,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Real-time Linux: a comprehensive guide](https://ubuntu.com//blog/real-time-linux-whitepaper) - Tue, 28 Nov 2023 14:00:00 
-* [Ubuntu Explained: How to ensure security and stability in cloud instances—part 3](https://ubuntu.com//blog/securing-multiple-ubuntu-instances-while-maximising-uptime) - Fri, 24 Nov 2023 12:00:00 
-* [Building a comprehensive toolkit for machine learning](https://ubuntu.com//blog/machine-learning-toolkit) - Fri, 24 Nov 2023 00:03:00 
-* [Canonical releases Charmed Kubeflow 1.8](https://ubuntu.com//blog/kubeflow-1-8-available) - Wed, 22 Nov 2023 12:39:11 
-* [Canonical announces the general availability of chiselled Ubuntu containers](https://ubuntu.com//blog/chiselled-ubuntu-ga) - Tue, 21 Nov 2023 13:45:58 
-* [Ubuntu Explained: How to ensure security and stability in cloud instances—part 2](https://ubuntu.com//blog/ubuntu-updates-best-practices-for-updating-your-instance) - Tue, 21 Nov 2023 12:15:53 
+
 <!-- blog ends -->
