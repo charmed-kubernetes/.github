@@ -26,8 +26,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@hazem-soussi](https://github.com/hazem-soussi) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/820) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix apiserver forbidden to access kubelet API (#315)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -37,10 +35,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Real-time Linux: a comprehensive guide](https://ubuntu.com//blog/real-time-linux-whitepaper) - Tue, 28 Nov 2023 14:00:00 
 * [Ubuntu Explained: How to ensure security and stability in cloud instances—part 3](https://ubuntu.com//blog/securing-multiple-ubuntu-instances-while-maximising-uptime) - Fri, 24 Nov 2023 12:00:00 
 * [Building a comprehensive toolkit for machine learning](https://ubuntu.com//blog/machine-learning-toolkit) - Fri, 24 Nov 2023 00:03:00 
 * [Canonical releases Charmed Kubeflow 1.8](https://ubuntu.com//blog/kubeflow-1-8-available) - Wed, 22 Nov 2023 12:39:11 
 * [Canonical announces the general availability of chiselled Ubuntu containers](https://ubuntu.com//blog/chiselled-ubuntu-ga) - Tue, 21 Nov 2023 13:45:58 
 * [Ubuntu Explained: How to ensure security and stability in cloud instances—part 2](https://ubuntu.com//blog/ubuntu-updates-best-practices-for-updating-your-instance) - Tue, 21 Nov 2023 12:15:53 
-* [Cloud backup: improve your disaster recovery plans](https://ubuntu.com//blog/cloud-backup) - Tue, 21 Nov 2023 08:21:00 
 <!-- blog ends -->
