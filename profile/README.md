@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Add hacluster integration (#308)  * Add hacluster integra...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/308) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/308) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Create Diff Patch** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Ubuntu Summit 2023 Reflections](https://ubuntu.com//blog/ubuntu-summit-2023-reflections) - Fri, 01 Dec 2023 22:19:55 
+* [MOTL: Minis Forum N33 NUC](https://ubuntu.com//blog/motl-minis-forum-n33-nuc) - Thu, 30 Nov 2023 22:20:59 
+* [Fast and reliable telco edge clouds with Intel FlexRAN and Real-time Ubuntu for 5G URLLC scenarios](https://ubuntu.com//blog/intel-flexran-and-real-time-ubuntu-for-5g-urllc) - Thu, 30 Nov 2023 11:59:00 
+* [Meet Canonical at CES 2024](https://ubuntu.com//blog/meet-canonical-at-ces-2024) - Wed, 29 Nov 2023 16:00:00 
+* [Canonical joins the RISC-V Software Ecosystem (RISE)](https://ubuntu.com//blog/canonical-joins-rise) - Wed, 29 Nov 2023 14:57:49 
+* [Generative AI explained](https://ubuntu.com//blog/generative-ai-explained) - Wed, 29 Nov 2023 13:54:39 
 <!-- blog ends -->
