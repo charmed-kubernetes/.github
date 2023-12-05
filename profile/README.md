@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@hmlanigan](https://github.com/hmlanigan) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/61) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Add ingress and labels configs (#157)  * Add nginx-ingres...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/157) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **fix: pin pytest-asyncio<0.23 (#120)  * pin pytest-asyncio...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **bump package version to 0.31.1** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2045432] pin yarl<1.9.3 (#318)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
