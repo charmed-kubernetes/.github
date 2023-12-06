@@ -25,11 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **lint** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix version parse errors due to missing workload-version** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/61) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@hmlanigan](https://github.com/hmlanigan) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/61) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Add ingress and labels configs (#157)  * Add nginx-ingres...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/157) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **fix: pin pytest-asyncio<0.23 (#120)  * pin pytest-asyncio...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **bump package version to 0.31.1** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
