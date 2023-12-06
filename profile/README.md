@@ -30,7 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/157) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **fix: pin pytest-asyncio<0.23 (#120)  * pin pytest-asyncio...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **bump package version to 0.31.1** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,10 +39,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical joins the Sylva project](https://ubuntu.com//blog/canonical-joins-the-sylva-project) - Tue, 05 Dec 2023 10:00:00 
+* [Edge storage with MicroCeph](https://ubuntu.com//blog/edge-storage-with-microceph) - Tue, 05 Dec 2023 08:39:00 
 * [Ubuntu Summit 2023 Reflections](https://ubuntu.com//blog/ubuntu-summit-2023-reflections) - Fri, 01 Dec 2023 22:19:55 
 * [MOTL: Minis Forum N33 NUC](https://ubuntu.com//blog/motl-minis-forum-n33-nuc) - Thu, 30 Nov 2023 22:20:59 
 * [Fast and reliable telco edge clouds with Intel FlexRAN and Real-time Ubuntu for 5G URLLC scenarios](https://ubuntu.com//blog/intel-flexran-and-real-time-ubuntu-for-5g-urllc) - Thu, 30 Nov 2023 11:59:00 
 * [Meet Canonical at CES 2024](https://ubuntu.com//blog/meet-canonical-at-ces-2024) - Wed, 29 Nov 2023 16:00:00 
-* [Canonical joins the RISC-V Software Ecosystem (RISE)](https://ubuntu.com//blog/canonical-joins-rise) - Wed, 29 Nov 2023 14:57:49 
-* [Generative AI explained](https://ubuntu.com//blog/generative-ai-explained) - Wed, 29 Nov 2023 13:54:39 
 <!-- blog ends -->
