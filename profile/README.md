@@ -25,13 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Make sdn-ip field optional (#42)** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix validation to work with ops charms (#1457)  * Skip te...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1457) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1457) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1457) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix test_cloud_node_labels** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **lint** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Fix version parse errors due to missing workload-version** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/61) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@hmlanigan](https://github.com/hmlanigan) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/61) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Highlights of the Canonical AI Roadshow 2023](https://ubuntu.com//blog/highlights-canonical-ai-roadshow-2023) - Wed, 06 Dec 2023 11:10:00 
-* [Charmed MongoDB: the operator you need for managing your document database](https://ubuntu.com//blog/charmed-mongodb-beta) - Wed, 06 Dec 2023 07:00:00 
-* [How to use Ubuntu in GKE on nodes and in containers](https://ubuntu.com//blog/how-to-use-ubuntu-in-gke-on-nodes-and-in-containers) - Tue, 05 Dec 2023 17:19:20 
-* [Canonical joins the Sylva project](https://ubuntu.com//blog/canonical-joins-the-sylva-project) - Tue, 05 Dec 2023 10:00:00 
-* [Edge storage with MicroCeph](https://ubuntu.com//blog/edge-storage-with-microceph) - Tue, 05 Dec 2023 08:39:00 
-* [Ubuntu Summit 2023 Reflections](https://ubuntu.com//blog/ubuntu-summit-2023-reflections) - Fri, 01 Dec 2023 22:19:55 
+
 <!-- blog ends -->
