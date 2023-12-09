@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/818) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py (#1459)  bump 1.29 enums to pick up candi...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1459) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -32,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Make sdn-ip field optional (#42)** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Fix validation to work with ops charms (#1457)  * Skip te...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1457) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1457) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1457) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
