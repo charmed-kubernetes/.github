@@ -25,13 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@yhaliaw](https://github.com/yhaliaw) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/62) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@evilnick](https://github.com/evilnick) has pushed the commit **404 updates and associated nonsense from u.c (#821)  * 40...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/818) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py (#1459)  bump 1.29 enums to pick up candi...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1459) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0-rc.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Make sdn-ip field optional (#42)** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Ubuntu 22.04 FIPS 140-3 modules available for preview](https://ubuntu.com//blog/ubuntu-22-04-fips-140-3-modules-available-for-preview) - Thu, 07 Dec 2023 17:56:00 
+* [Highlights of the Canonical AI Roadshow 2023](https://ubuntu.com//blog/highlights-canonical-ai-roadshow-2023) - Wed, 06 Dec 2023 11:10:00 
+* [Charmed MongoDB: the operator you need for managing your document database](https://ubuntu.com//blog/charmed-mongodb-beta) - Wed, 06 Dec 2023 07:00:00 
+* [How to use Ubuntu in GKE on nodes and in containers](https://ubuntu.com//blog/how-to-use-ubuntu-in-gke-on-nodes-and-in-containers) - Tue, 05 Dec 2023 17:19:20 
+* [Canonical joins the Sylva project](https://ubuntu.com//blog/canonical-joins-the-sylva-project) - Tue, 05 Dec 2023 10:00:00 
+* [Edge storage with MicroCeph](https://ubuntu.com//blog/edge-storage-with-microceph) - Tue, 05 Dec 2023 08:39:00 
 <!-- blog ends -->
