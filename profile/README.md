@@ -25,13 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@jdkandersson](https://github.com/jdkandersson) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **use latest/stable charmcraft for charm building** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update node label validation for juju.io/cloud (#1460)  *...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fixed linting issue** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix assertion statement** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@yhaliaw](https://github.com/yhaliaw) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/62) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@evilnick](https://github.com/evilnick) has pushed the commit **404 updates and associated nonsense from u.c (#821)  * 40...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.28/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/818) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
