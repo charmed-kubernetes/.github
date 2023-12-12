@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/820) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@jdkandersson](https://github.com/jdkandersson) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@tonyandrewmeyer](https://github.com/tonyandrewmeyer) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/121) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@jdkandersson](https://github.com/jdkandersson) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **use latest/stable charmcraft for charm building** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update node label validation for juju.io/cloud (#1460)  *...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fixed linting issue** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix assertion statement** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Prepare for building ops charmed-k8s from launchpad (#1461)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Throw it all away** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Throw it all away** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/65) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **snap install juju without classic on versions above 2.9** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **snap install juju without classic on versions above 2.9** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **snap install juju without classic on versions above 2.9** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support juju 3 dropping '-y' from destroy-controller comm...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **rename 2.9 and 3.x tests, help vsphere using a jammy temp...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu confidential VMs with Intel TDX are now in public preview on Azure](https://ubuntu.com//blog/ubuntu-confidential-vms-intel-tdx-azure-public-preview) - Tue, 12 Dec 2023 09:29:00 
-* [Announcing the Charmed Kafka beta](https://ubuntu.com//blog/charmed-kafka-beta) - Tue, 12 Dec 2023 06:00:00 
-* [End of year review: Ubuntu Desktop in 2023](https://ubuntu.com//blog/end-of-year-review-ubuntu-desktop-in-2023) - Mon, 11 Dec 2023 12:03:15 
-* [Introducing Canonical’s new open source support portal](https://ubuntu.com//blog/introducing-canonicals-new-open-source-support-portal) - Mon, 11 Dec 2023 08:30:00 
-* [Ubuntu 22.04 FIPS 140-3 modules available for preview](https://ubuntu.com//blog/ubuntu-22-04-fips-140-3-modules-available-for-preview) - Thu, 07 Dec 2023 17:56:00 
-* [Highlights of the Canonical AI Roadshow 2023](https://ubuntu.com//blog/highlights-canonical-ai-roadshow-2023) - Wed, 06 Dec 2023 11:10:00 
+
 <!-- blog ends -->
