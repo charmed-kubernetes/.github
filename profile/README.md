@@ -25,13 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure tests are run from 1.29/edge charms and snaps (#14...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1463) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Gracefully ignore snap trackss with no matching branches** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **update fragments to point to 1.29/edge snap channels (#88...** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/887) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update README badges** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@jneo8](https://github.com/jneo8) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/66) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@jdkandersson](https://github.com/jdkandersson) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@yhaliaw](https://github.com/yhaliaw) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/31) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/158) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/319) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **use click log.error rather than log.exception** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
