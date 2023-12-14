@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update juju-channel=`latest/stable` (#65)  * Update juju-...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@jneo8](https://github.com/jneo8) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/66) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@jdkandersson](https://github.com/jdkandersson) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@yhaliaw](https://github.com/yhaliaw) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/63) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/31) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/158) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/319) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Check channel boundaries before checking out charm code (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1465) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Don't call snap list on the machine running unit tests (#...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/323) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin requirements to release_1.29 branches** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Don't call snap list on the machine running unit tests** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Update pyproject.toml (#10)  requires release_1.29 branch** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Performance engineering on Ubuntu leaps forward with frame pointers by default in Ubuntu 24.04 LTS](https://ubuntu.com//blog/ubuntu-performance-engineering-with-frame-pointers-by-default) - Wed, 13 Dec 2023 16:07:13 
-* [Canonical joins the OpenAirInterface<br>Software Alliance](https://ubuntu.com//blog/canonical-joins-the-openairinterfacesoftware-alliance) - Wed, 13 Dec 2023 15:00:00 
-* [Optimising Ubuntu performance on amd64 architecture](https://ubuntu.com//blog/optimising-ubuntu-performance-on-amd64-architecture) - Tue, 12 Dec 2023 18:44:18 
-* [Ubuntu confidential VMs with Intel® TDX are now in public preview on Azure](https://ubuntu.com//blog/ubuntu-confidential-vms-intel-tdx-azure-public-preview) - Tue, 12 Dec 2023 09:29:00 
-* [Announcing the Charmed Kafka beta](https://ubuntu.com//blog/charmed-kafka-beta) - Tue, 12 Dec 2023 06:00:00 
-* [End of year review: Ubuntu Desktop in 2023](https://ubuntu.com//blog/end-of-year-review-ubuntu-desktop-in-2023) - Mon, 11 Dec 2023 12:03:15 
+
 <!-- blog ends -->
