@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Set application workload version based on the version of ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix vsphere cloud name (#3)** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix vsphere cloud name (#3)** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider/pull/3) in the [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Check channel boundaries before checking out charm code (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1465) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Don't call snap list on the machine running unit tests (#...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/323) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin requirements to release_1.29 branches** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't call snap list on the machine running unit tests** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Update pyproject.toml (#10)  requires release_1.29 branch** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
