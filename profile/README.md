@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **bump release testing snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2039667] Provide charm config parameters on the defau...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[LP#2039667] Provide charm config parameters on the defau...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2046508] Set application workload version based on th...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2046508]  Set application workload version based on t...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin requirements to release_1.29 branches** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **update the unit's workload version on update status (#160)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu Confidential VMs on Azure: Introducing Ephemeral OS disks &#038; vTPMs](https://ubuntu.com//blog/ephemeral-ubuntu-confidential-vms-azure) - Tue, 19 Dec 2023 08:27:00 
-* [Still running SQL Server on Ubuntu 16.04 LTS or 18.04 LTS ?](https://ubuntu.com//blog/sql-server-on-ubuntu) - Tue, 19 Dec 2023 07:30:00 
-* [Canonical and Intel&#8217;s strategic collaboration brings you confidential computing with Intel® TDX on Ubuntu](https://ubuntu.com//blog/confidential-computing-intel-tdx-ubuntu) - Thu, 14 Dec 2023 15:00:00 
-* [Canonical Kubernetes 1.29 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-29-is-now-generally-available) - Thu, 14 Dec 2023 09:00:00 
-* [Performance engineering on Ubuntu leaps forward with frame pointers by default in Ubuntu 24.04 LTS](https://ubuntu.com//blog/ubuntu-performance-engineering-with-frame-pointers-by-default) - Wed, 13 Dec 2023 16:07:13 
-* [Canonical joins the OpenAirInterface<br>Software Alliance](https://ubuntu.com//blog/canonical-joins-the-openairinterfacesoftware-alliance) - Wed, 13 Dec 2023 15:00:00 
+
 <!-- blog ends -->
