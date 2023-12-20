@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu Confidential VMs on Azure: Introducing Ephemeral OS disks &#038; vTPMs](https://ubuntu.com//blog/ephemeral-ubuntu-confidential-vms-azure) - Tue, 19 Dec 2023 08:27:00 
-* [Still running SQL Server on Ubuntu 16.04 LTS or 18.04 LTS ?](https://ubuntu.com//blog/sql-server-on-ubuntu) - Tue, 19 Dec 2023 07:30:00 
-* [Canonical and Intel&#8217;s strategic collaboration brings you confidential computing with Intel® TDX on Ubuntu](https://ubuntu.com//blog/confidential-computing-intel-tdx-ubuntu) - Thu, 14 Dec 2023 15:00:00 
-* [Canonical Kubernetes 1.29 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-29-is-now-generally-available) - Thu, 14 Dec 2023 09:00:00 
-* [Performance engineering on Ubuntu leaps forward with frame pointers by default in Ubuntu 24.04 LTS](https://ubuntu.com//blog/ubuntu-performance-engineering-with-frame-pointers-by-default) - Wed, 13 Dec 2023 16:07:13 
-* [Canonical joins the OpenAirInterface<br>Software Alliance](https://ubuntu.com//blog/canonical-joins-the-openairinterfacesoftware-alliance) - Wed, 13 Dec 2023 15:00:00 
+
 <!-- blog ends -->
