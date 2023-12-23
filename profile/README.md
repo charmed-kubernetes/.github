@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[LP#2039667] Provide charm config parameters on the defau...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/31) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **re-add asyncio_mode=auto for integration tests** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **update the unit's workload version on update status (#160)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [We wish you RISC-V holidays!](https://ubuntu.com//blog/we-wish-you-risc-v-holidays) - Thu, 21 Dec 2023 11:42:00 
+* [Missed Operator Day at KubeCon NA 2023? &#8211; Catch the Replay!](https://ubuntu.com//blog/missed-operator-day-at-kubecon-na-2023-catch-the-replay) - Thu, 21 Dec 2023 06:00:00 
+* [Ubuntu Confidential VMs on Azure: Introducing Ephemeral OS disks &#038; vTPMs](https://ubuntu.com//blog/ephemeral-ubuntu-confidential-vms-azure) - Tue, 19 Dec 2023 08:27:00 
+* [Still running SQL Server on Ubuntu 16.04 LTS or 18.04 LTS ?](https://ubuntu.com//blog/sql-server-on-ubuntu) - Tue, 19 Dec 2023 07:30:00 
+* [Canonical and Intel&#8217;s strategic collaboration brings you confidential computing with Intel® TDX on Ubuntu](https://ubuntu.com//blog/confidential-computing-intel-tdx-ubuntu) - Thu, 14 Dec 2023 15:00:00 
+* [Canonical Kubernetes 1.29 is now generally available](https://ubuntu.com//blog/canonical-kubernetes-1-29-is-now-generally-available) - Thu, 14 Dec 2023 09:00:00 
 <!-- blog ends -->
