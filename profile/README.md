@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2039667] Provide charm config parameters on the defau...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[LP#2039667] Provide charm config parameters on the defau...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/31) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **re-add asyncio_mode=auto for integration tests** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
