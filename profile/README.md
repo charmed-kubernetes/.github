@@ -25,7 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@tonyandrewmeyer](https://github.com/tonyandrewmeyer) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/121) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/8) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
@@ -36,10 +37,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [MOTL: N33 NUC](https://ubuntu.com//blog/motl-n33-nuc) - Wed, 03 Jan 2024 18:15:16 
 * [OpenStack with Sunbeam for small-scale private cloud infrastructure](https://ubuntu.com//blog/openstack-with-sunbeam-for-small-scale-private-cloud-infrastructure) - Tue, 02 Jan 2024 07:00:00 
 * [We wish you RISC-V holidays!](https://ubuntu.com//blog/we-wish-you-risc-v-holidays) - Thu, 21 Dec 2023 11:42:00 
 * [Missed Operator Day at KubeCon NA 2023? &#8211; Catch the Replay!](https://ubuntu.com//blog/missed-operator-day-at-kubecon-na-2023-catch-the-replay) - Thu, 21 Dec 2023 06:00:00 
 * [Ubuntu Confidential VMs on Azure: Introducing Ephemeral OS disks &#038; vTPMs](https://ubuntu.com//blog/ephemeral-ubuntu-confidential-vms-azure) - Tue, 19 Dec 2023 08:27:00 
 * [Still running SQL Server on Ubuntu 16.04 LTS or 18.04 LTS ?](https://ubuntu.com//blog/sql-server-on-ubuntu) - Tue, 19 Dec 2023 07:30:00 
-* [Canonical and Intel&#8217;s strategic collaboration brings you confidential computing with Intel® TDX on Ubuntu](https://ubuntu.com//blog/confidential-computing-intel-tdx-ubuntu) - Thu, 14 Dec 2023 15:00:00 
 <!-- blog ends -->
