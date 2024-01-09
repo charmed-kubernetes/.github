@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Only use FQDN node names on AWS when using its cloud-prov...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/14) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add deprecated aws integration, can be unrelated after up...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add deprecated aws integration, can be unrelated after up...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/326) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/13) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/161) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Only use FQDN node names on AWS when using its cloud-prov...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/13) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Only use FQDN node names on AWS when using its cloud-prov...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adds kube-system unit status when the unit is stable (#32...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Adds kube-system unit status when the unit is stable (#32...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [AI in 2024 – What does the future hold?](https://ubuntu.com//blog/ai-in-2024) - Fri, 05 Jan 2024 15:06:26 
-* [Automotive at CES 2024: What to expect](https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect) - Thu, 04 Jan 2024 08:00:00 
-* [MOTL: N33 NUC, Part 2](https://ubuntu.com//blog/motl-n33-nuc) - Wed, 03 Jan 2024 18:15:16 
-* [OpenStack with Sunbeam for small-scale private cloud infrastructure](https://ubuntu.com//blog/openstack-with-sunbeam-for-small-scale-private-cloud-infrastructure) - Tue, 02 Jan 2024 07:00:00 
-* [We wish you RISC-V holidays!](https://ubuntu.com//blog/we-wish-you-risc-v-holidays) - Thu, 21 Dec 2023 11:42:00 
-* [Missed Operator Day at KubeCon NA 2023? &#8211; Catch the Replay!](https://ubuntu.com//blog/missed-operator-day-at-kubecon-na-2023-catch-the-replay) - Thu, 21 Dec 2023 06:00:00 
+
 <!-- blog ends -->
