@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Give models a bit longer to setup until we can speed up d...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Report deployment failures in cloud-integrator validation...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2048683] Only use FQDN node names on AWS when using i...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add deprecated aws integration, can be unrelated after up...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add deprecated aws integration, can be unrelated after up...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/326) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [High Performance Computing – It’s all about the bottleneck](https://ubuntu.com//blog/high-performance-computing-its-all-about-the-bottleneck) - Wed, 10 Jan 2024 12:50:08 
-* [What is a sovereign cloud?](https://ubuntu.com//blog/sovereign-cloud) - Wed, 10 Jan 2024 07:00:00 
-* [Understanding roles in software operators](https://ubuntu.com//blog/the-software-operator-design-pattern-part-6) - Tue, 09 Jan 2024 11:50:00 
-* [AI in 2024 – What does the future hold?](https://ubuntu.com//blog/ai-in-2024) - Fri, 05 Jan 2024 15:06:26 
-* [Automotive at CES 2024: What to expect](https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect) - Thu, 04 Jan 2024 08:00:00 
-* [MOTL: N33 NUC, Part 2](https://ubuntu.com//blog/motl-n33-nuc) - Wed, 03 Jan 2024 18:15:16 
+
 <!-- blog ends -->
