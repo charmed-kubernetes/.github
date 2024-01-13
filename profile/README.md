@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Manage OCI resource of nvidia charms** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **make gpu-operator charm.py executable** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include nvidia-operator charms to builds, excluding the n...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@rgildein](https://github.com/rgildein) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/122) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Give models a bit longer to setup until we can speed up d...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Report deployment failures in cloud-integrator validation...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Cloud-native infrastructure &#8211; When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure) - Fri, 12 Jan 2024 07:00:00 
+* [High Performance Computing – It’s all about the bottleneck](https://ubuntu.com//blog/high-performance-computing-its-all-about-the-bottleneck) - Wed, 10 Jan 2024 12:50:08 
+* [What is a sovereign cloud?](https://ubuntu.com//blog/sovereign-cloud) - Wed, 10 Jan 2024 07:00:00 
+* [Understanding roles in software operators](https://ubuntu.com//blog/the-software-operator-design-pattern-part-6) - Tue, 09 Jan 2024 11:50:00 
+* [AI in 2024 – What does the future hold?](https://ubuntu.com//blog/ai-in-2024) - Fri, 05 Jan 2024 15:06:26 
+* [Automotive at CES 2024: What to expect](https://ubuntu.com//blog/automotive-at-ces-2024-what-to-expect) - Thu, 04 Jan 2024 08:00:00 
 <!-- blog ends -->
