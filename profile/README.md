@@ -40,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy) - Mon, 15 Jan 2024 17:46:51 
+* [Cloud-native infrastructure &#8211; When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure) - Fri, 12 Jan 2024 07:00:00 
+* [High Performance Computing – It’s all about the bottleneck](https://ubuntu.com//blog/high-performance-computing-its-all-about-the-bottleneck) - Wed, 10 Jan 2024 12:50:08 
+* [What is a sovereign cloud?](https://ubuntu.com//blog/sovereign-cloud) - Wed, 10 Jan 2024 07:00:00 
+* [Understanding roles in software operators](https://ubuntu.com//blog/the-software-operator-design-pattern-part-6) - Tue, 09 Jan 2024 11:50:00 
+* [AI in 2024 – What does the future hold?](https://ubuntu.com//blog/ai-in-2024) - Fri, 05 Jan 2024 15:06:26 
 <!-- blog ends -->
