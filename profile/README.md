@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **make gpu-operator charm.py executable** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include nvidia-operator charms to builds, excluding the n...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@rgildein](https://github.com/rgildein) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/122) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Give models a bit longer to setup until we can speed up d...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
