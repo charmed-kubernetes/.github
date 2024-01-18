@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.13.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **updated charmhub docs link** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply review comments** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/327) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/327) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Successfully testing loadbalancers on serverstack** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Resolve linting issues** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
