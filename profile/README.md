@@ -25,16 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **fixes from u.c. (#825)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lint fix; refactor peer interfaces** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.13.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **updated charmhub docs link** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **instrument better logs for a reconciled control-plane tha...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply review comments** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +41,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy) - Mon, 15 Jan 2024 17:46:51 
-* [Cloud-native infrastructure &#8211; When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure) - Fri, 12 Jan 2024 07:00:00 
-* [High Performance Computing – It’s all about the bottleneck](https://ubuntu.com//blog/high-performance-computing-its-all-about-the-bottleneck) - Wed, 10 Jan 2024 12:50:08 
-* [What is a sovereign cloud?](https://ubuntu.com//blog/sovereign-cloud) - Wed, 10 Jan 2024 07:00:00 
-* [Understanding roles in software operators](https://ubuntu.com//blog/the-software-operator-design-pattern-part-6) - Tue, 09 Jan 2024 11:50:00 
-* [AI in 2024 – What does the future hold?](https://ubuntu.com//blog/ai-in-2024) - Fri, 05 Jan 2024 15:06:26 
+
 <!-- blog ends -->
