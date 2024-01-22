@@ -25,13 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **adding coordinator peer interface (#162)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **LP 2049953: adding coordinator peer interface (#328)  * a...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **fixes from u.c. (#825)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lint fix; refactor peer interfaces** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.13.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **updated charmhub docs link** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
