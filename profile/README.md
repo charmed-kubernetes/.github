@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix linting issue** to [charm-interface-hacluster](https://github.com/charmed-kubernetes/charm-interface-hacluster)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1940328] Add loadbalancer relation named lb-consumers...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[LP#1940328] Add loadbalancer relation named lb-consumers...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **[LP#1940328] openstack-integrator 1.29 release adjustment...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **adding coordinator peer interface (#162)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **LP 2049953: adding coordinator peer interface (#328)  * a...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust docs to clarify return type** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/openstack-integration.md  Co-authored-by...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
