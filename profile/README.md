@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **feat: enable timeout on microk8s wait ready (#69)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/69) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix linting issue** to [charm-interface-hacluster](https://github.com/charmed-kubernetes/charm-interface-hacluster)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1940328] Add loadbalancer relation named lb-consumers...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/824) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **remove mention of edge channels** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating container-images/v1.26.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **adding coordinator peer interface (#162)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **LP 2049953: adding coordinator peer interface (#328)  * a...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Real-time Linux vs RTOS &#8211; Part I￼](https://ubuntu.com//blog/real-time-linux-vs-rtos) - Thu, 25 Jan 2024 13:52:00 
-* [Ubuntu AI podcast: AI for day-to-day tasks](https://ubuntu.com//blog/ubuntu-ai-podcast-ai-for-day-to-day-tasks) - Thu, 25 Jan 2024 07:57:59 
-* [Canonical’s recipe for High Performance Computing](https://ubuntu.com//blog/canonicals-recipe-for-high-performance-computing) - Wed, 24 Jan 2024 11:57:27 
-* [The kernel of open source: community](https://ubuntu.com//blog/the-kernel-of-open-source-community) - Tue, 23 Jan 2024 17:36:07 
-* [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy) - Mon, 15 Jan 2024 17:46:51 
-* [Cloud-native infrastructure &#8211; When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure) - Fri, 12 Jan 2024 07:00:00 
+
 <!-- blog ends -->
