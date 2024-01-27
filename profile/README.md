@@ -25,13 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **feat: enable timeout on microk8s wait ready (#69)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/69) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix linting issue** to [charm-interface-hacluster](https://github.com/charmed-kubernetes/charm-interface-hacluster)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#1940328] Add loadbalancer relation named lb-consumers...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[LP#1940328] Add loadbalancer relation named lb-consumers...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **[LP#1940328] openstack-integrator 1.29 release adjustment...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/824) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
