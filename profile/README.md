@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[LP#1940328] Add loadbalancer relation named lb-consumers...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **[LP#1940328] openstack-integrator 1.29 release adjustment...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/824) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove mention of edge channels** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +41,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Meet Canonical at Mobile World Congress Barcelona 2024](https://ubuntu.com//blog/canonical-at-mwc-barcelona-2024) - Fri, 26 Jan 2024 09:01:00 
-* [Real-time Linux vs RTOS &#8211; Part I￼](https://ubuntu.com//blog/real-time-linux-vs-rtos) - Thu, 25 Jan 2024 13:52:00 
-* [Ubuntu AI podcast: AI for day-to-day tasks](https://ubuntu.com//blog/ubuntu-ai-podcast-ai-for-day-to-day-tasks) - Thu, 25 Jan 2024 07:57:59 
-* [Canonical’s recipe for High Performance Computing](https://ubuntu.com//blog/canonicals-recipe-for-high-performance-computing) - Wed, 24 Jan 2024 11:57:27 
-* [The kernel of open source: community](https://ubuntu.com//blog/the-kernel-of-open-source-community) - Tue, 23 Jan 2024 17:36:07 
-* [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy) - Mon, 15 Jan 2024 17:46:51 
+
 <!-- blog ends -->
