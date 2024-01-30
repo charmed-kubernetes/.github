@@ -25,11 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update charms/contextual_status.py  Co-authored-by: Adam ...** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/2) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **feat: enable timeout on microk8s wait ready (#69)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/69) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix linting issue** to [charm-interface-hacluster](https://github.com/charmed-kubernetes/charm-interface-hacluster)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Remove references to reactive in tox.init, include all sc...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Fix test failures caused by Conftest.py mocking charms** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -39,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [AI on-prem: what should you know?](https://ubuntu.com//blog/ai-on-prem) - Tue, 30 Jan 2024 13:11:24 
-* [Meet Canonical at Mobile World Congress Barcelona 2024](https://ubuntu.com//blog/canonical-at-mwc-barcelona-2024) - Fri, 26 Jan 2024 09:01:00 
-* [Real-time Linux vs RTOS &#8211; Part I](https://ubuntu.com//blog/real-time-linux-vs-rtos) - Thu, 25 Jan 2024 13:52:00 
-* [Ubuntu AI podcast: AI for day-to-day tasks](https://ubuntu.com//blog/ubuntu-ai-podcast-ai-for-day-to-day-tasks) - Thu, 25 Jan 2024 07:57:59 
-* [Canonical’s recipe for High Performance Computing](https://ubuntu.com//blog/canonicals-recipe-for-high-performance-computing) - Wed, 24 Jan 2024 11:57:27 
-* [The kernel of open source: community](https://ubuntu.com//blog/the-kernel-of-open-source-community) - Tue, 23 Jan 2024 17:36:07 
+
 <!-- blog ends -->
