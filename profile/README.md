@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/164) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/164) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/164) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **use ops.$status vs importing from other modules** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **enforce juju >= 3.1** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blacken src** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status (#2)** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add custom exit status and status exceptions (#2)  * Add ...** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/2) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/2) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/2) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/2) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/2) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Apply suggestions from code review  Co-authored-by: Adam ...** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/2) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/2) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [AI on-prem: what should you know?](https://ubuntu.com//blog/ai-on-prem) - Tue, 30 Jan 2024 13:11:24 
-* [Meet Canonical at Mobile World Congress Barcelona 2024](https://ubuntu.com//blog/canonical-at-mwc-barcelona-2024) - Fri, 26 Jan 2024 09:01:00 
-* [Real-time Linux vs RTOS &#8211; Part I](https://ubuntu.com//blog/real-time-linux-vs-rtos) - Thu, 25 Jan 2024 13:52:00 
-* [Ubuntu AI podcast: AI for day-to-day tasks](https://ubuntu.com//blog/ubuntu-ai-podcast-ai-for-day-to-day-tasks) - Thu, 25 Jan 2024 07:57:59 
-* [Canonical’s recipe for High Performance Computing](https://ubuntu.com//blog/canonicals-recipe-for-high-performance-computing) - Wed, 24 Jan 2024 11:57:27 
-* [The kernel of open source: community](https://ubuntu.com//blog/the-kernel-of-open-source-community) - Tue, 23 Jan 2024 17:36:07 
+
 <!-- blog ends -->
