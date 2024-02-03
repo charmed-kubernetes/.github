@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Generative AI on a GPU-Instance with Ubuntu on AWS: Part 1 &#8211; Image Generation](https://ubuntu.com//blog/genai-on-ubuntu-on-aws-image-generation) - Fri, 02 Feb 2024 21:16:28 
+* [Real-time Linux vs RTOS &#8211; Part II](https://ubuntu.com//blog/real-time-linux-vs-rtos-2) - Fri, 02 Feb 2024 14:34:00 
+* [Driving into 2024 – The automotive trends to look out for in the year ahead](https://ubuntu.com//blog/driving-into-2024-the-automotive-trends-to-look-out-for-in-the-year-ahead) - Wed, 31 Jan 2024 10:17:37 
+* [AI on-prem: what should you know?](https://ubuntu.com//blog/ai-on-prem) - Tue, 30 Jan 2024 13:11:24 
+* [Meet Canonical at Mobile World Congress Barcelona 2024](https://ubuntu.com//blog/canonical-at-mwc-barcelona-2024) - Fri, 26 Jan 2024 09:01:00 
+* [Real-time Linux vs RTOS &#8211; Part I](https://ubuntu.com//blog/real-time-linux-vs-rtos) - Thu, 25 Jan 2024 13:52:00 
 <!-- blog ends -->
