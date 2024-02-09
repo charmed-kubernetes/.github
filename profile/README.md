@@ -28,12 +28,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **apply credentials outside the lxc env** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **apply credentials outside the lxc env** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **apply credentials outside the lxc env** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **apply credentials outside the lxc env** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **pull CI and K8S images through proxy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **pull CI and K8S images through proxy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **filter image sync only by nvcr.io** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1476) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **filter image sync only by nvcr.io** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pull all images through the proxy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pull all images through the proxy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Cloud storage security](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
+* [Driving towards Environmental Parity and Software-Defined Vehicles with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/driving-towards-environmental-parity-and-software-defined-vehicles-with-eb-corbos-linux-built-on-ubuntu) - Wed, 07 Feb 2024 09:00:00 
+* [IBM LinuxONE 4 Express and Ubuntu Server drive data centre performance and economics](https://ubuntu.com//blog/ibm-linuxone-4-express-and-ubuntu-server-drive-data-centre-performance-and-economics) - Tue, 06 Feb 2024 09:16:00 
+* [Operate popular open source on Kubernetes – Attend Operator Day at KubeCon EU 2024](https://ubuntu.com//blog/operate-popular-open-source-on-kubernetes-attend-operator-day-at-kubecon-eu-2024) - Tue, 06 Feb 2024 07:00:00 
+* [Generative AI on a GPU-Instance with Ubuntu on AWS: Part 1 &#8211; Image Generation](https://ubuntu.com//blog/genai-on-ubuntu-on-aws-image-generation) - Fri, 02 Feb 2024 21:16:28 
+* [Real-time Linux vs RTOS &#8211; Part II](https://ubuntu.com//blog/real-time-linux-vs-rtos-2) - Fri, 02 Feb 2024 14:34:00 
 <!-- blog ends -->
