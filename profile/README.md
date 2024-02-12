@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update supported-versions.md (#826)  * Update supported-v...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/826) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/826) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **clarify requirements** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update validation jobs to 3.1/stable (and some to 3.3/sta...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1473) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Pull oci-images through proxy on the lxd (#1476)  * Pull ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1476) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Again try to pull all images through the proxy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update supported-versions.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update fragments to 1.29/stable; remove juju 2.9 badge** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **restore k-e2e builder** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Pin config to 1.29/stable snaps and tests to 1.29/stable ...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.27.10-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.28.6-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
+* [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
+* [Driving towards Environmental Parity and Software-Defined Vehicles with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/driving-towards-environmental-parity-and-software-defined-vehicles-with-eb-corbos-linux-built-on-ubuntu) - Wed, 07 Feb 2024 09:00:00 
+* [IBM LinuxONE 4 Express and Ubuntu Server drive data centre performance and economics](https://ubuntu.com//blog/ibm-linuxone-4-express-and-ubuntu-server-drive-data-centre-performance-and-economics) - Tue, 06 Feb 2024 09:16:00 
+* [Operate popular open source on Kubernetes – Attend Operator Day at KubeCon EU 2024](https://ubuntu.com//blog/operate-popular-open-source-on-kubernetes-attend-operator-day-at-kubecon-eu-2024) - Tue, 06 Feb 2024 07:00:00 
+* [Generative AI on a GPU-Instance with Ubuntu on AWS: Part 1 &#8211; Image Generation](https://ubuntu.com//blog/genai-on-ubuntu-on-aws-image-generation) - Fri, 02 Feb 2024 21:16:28 
 <!-- blog ends -->
