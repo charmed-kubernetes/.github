@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **open the apiserver port** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update with latest best practice scaffolding; fix lint is...** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **gpu-op: lint fixes** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **gpu-op: pin jsonschema to avoid rpds** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **run unit tests without access to kubectl snap** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **run unit tests without access to kubectl snap** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **run without access to kubectl snap** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting issues** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
 * [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
 * [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
 * [Driving towards Environmental Parity and Software-Defined Vehicles with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/driving-towards-environmental-parity-and-software-defined-vehicles-with-eb-corbos-linux-built-on-ubuntu) - Wed, 07 Feb 2024 09:00:00 
 * [IBM LinuxONE 4 Express and Ubuntu Server drive data centre performance and economics](https://ubuntu.com//blog/ibm-linuxone-4-express-and-ubuntu-server-drive-data-centre-performance-and-economics) - Tue, 06 Feb 2024 09:16:00 
 * [Operate popular open source on Kubernetes – Attend Operator Day at KubeCon EU 2024](https://ubuntu.com//blog/operate-popular-open-source-on-kubernetes-attend-operator-day-at-kubecon-eu-2024) - Tue, 06 Feb 2024 07:00:00 
-* [Generative AI on a GPU-Instance with Ubuntu on AWS: Part 1 &#8211; Image Generation](https://ubuntu.com//blog/genai-on-ubuntu-on-aws-image-generation) - Fri, 02 Feb 2024 21:16:28 
 <!-- blog ends -->
