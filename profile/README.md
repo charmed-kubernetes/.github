@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **v1.29/cdk is now our cncf gold standard template** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update release documentation based on recent 1.29 activit...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add blurb about extracting the bundle to our bundle repo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Conformance results for v1.29/cdk  Signed-off-by: Kevin W...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1477) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **close ports that we opened if our apiserver gets unwell** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/334) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/334) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/334) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/829) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Extract the 1.29/stable channel bundle (#891)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/891) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **refresh our gpu worker docs (#829)  * refresh our gpu wor...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/gpu-workers.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/gpu-workers.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/gpu-workers.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
 * [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
 * [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
 * [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
 * [Driving towards Environmental Parity and Software-Defined Vehicles with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/driving-towards-environmental-parity-and-software-defined-vehicles-with-eb-corbos-linux-built-on-ubuntu) - Wed, 07 Feb 2024 09:00:00 
 * [IBM LinuxONE 4 Express and Ubuntu Server drive data centre performance and economics](https://ubuntu.com//blog/ibm-linuxone-4-express-and-ubuntu-server-drive-data-centre-performance-and-economics) - Tue, 06 Feb 2024 09:16:00 
-* [Operate popular open source on Kubernetes – Attend Operator Day at KubeCon EU 2024](https://ubuntu.com//blog/operate-popular-open-source-on-kubernetes-attend-operator-day-at-kubecon-eu-2024) - Tue, 06 Feb 2024 07:00:00 
 <!-- blog ends -->
