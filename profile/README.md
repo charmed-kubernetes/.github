@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **gpu-op: workaround collector.unready (#2)** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/nvidia/pull/2) in the [nvidia](https://github.com/charmed-kubernetes/nvidia) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove sudo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@patriziobassi](https://github.com/patriziobassi) has opened this [issue](https://github.com/charmed-kubernetes/charm-kube-ovn/issues/52) in [charmed-kubernetes/charm-kube-ovn](https://api.github.com/repos/charmed-kubernetes/charm-kube-ovn).
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **open the apiserver port (#334)  * open the apiserver port...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Set homedir to fix microk8s jobs on juju 3** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/829) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Extract the 1.29/stable channel bundle (#891)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/891) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **refresh our gpu worker docs (#829)  * refresh our gpu wor...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/gpu-workers.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/gpu-workers.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/gpu-workers.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
-* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
-* [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
-* [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
-* [Driving towards Environmental Parity and Software-Defined Vehicles with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/driving-towards-environmental-parity-and-software-defined-vehicles-with-eb-corbos-linux-built-on-ubuntu) - Wed, 07 Feb 2024 09:00:00 
-* [IBM LinuxONE 4 Express and Ubuntu Server drive data centre performance and economics](https://ubuntu.com//blog/ibm-linuxone-4-express-and-ubuntu-server-drive-data-centre-performance-and-economics) - Tue, 06 Feb 2024 09:16:00 
+
 <!-- blog ends -->
