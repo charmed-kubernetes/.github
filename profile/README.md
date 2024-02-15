@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Just black** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/822) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@iiot-architect](https://github.com/iiot-architect) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/830) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Update jobs to support juju 3 from jenkins home dir  (#1478)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **gpu-op: workaround collector.unready (#2)** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/nvidia/pull/2) in the [nvidia](https://github.com/charmed-kubernetes/nvidia) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove sudo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@patriziobassi](https://github.com/patriziobassi) has opened this [issue](https://github.com/charmed-kubernetes/charm-kube-ovn/issues/52) in [charmed-kubernetes/charm-kube-ovn](https://api.github.com/repos/charmed-kubernetes/charm-kube-ovn).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
