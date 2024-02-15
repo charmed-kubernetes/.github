@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **gpu-op: workaround collector.unready (#2)** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/nvidia/pull/2) in the [nvidia](https://github.com/charmed-kubernetes/nvidia) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove sudo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Set homedir to fix microk8s jobs on juju 3** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/829) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Extract the 1.29/stable channel bundle (#891)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play with lxc** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
