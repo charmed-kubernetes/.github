@@ -25,15 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **additional tweak after a run-through** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **get the spelling right** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Just black** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/822) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@iiot-architect](https://github.com/iiot-architect) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/830) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Update jobs to support juju 3 from jenkins home dir  (#1478)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,5 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [5 Edge Computing Examples You Should Know](https://ubuntu.com//blog/edge-computing-examples) - Thu, 15 Feb 2024 09:44:26 
+* [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
+* [Firecell and Canonical to demonstrate 5G private mobile network (PMN) solution running on Ubuntu at MWC Barcelona](https://ubuntu.com//blog/firecell-and-canonical-to-demonstrate-5g-private-mobile-network-pmn-solution-running-on-ubuntu-at-mwc-barcelona) - Wed, 14 Feb 2024 09:01:00 
+* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
+* [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
+* [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
 <!-- blog ends -->
