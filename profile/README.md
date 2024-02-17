@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove status.on_error decorator  The previous commit pul...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Stop removing /var/log/* -- it's a foot gun to prevent de...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **open the apiserver port (#334)  * open the apiserver port...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add get-kubeconfig action (#335)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -43,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [5 Edge Computing Examples You Should Know](https://ubuntu.com//blog/edge-computing-examples) - Thu, 15 Feb 2024 09:44:26 
-* [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
-* [Firecell and Canonical to demonstrate 5G private mobile network (PMN) solution running on Ubuntu at MWC Barcelona](https://ubuntu.com//blog/firecell-and-canonical-to-demonstrate-5g-private-mobile-network-pmn-solution-running-on-ubuntu-at-mwc-barcelona) - Wed, 14 Feb 2024 09:01:00 
-* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
-* [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
-* [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
+
 <!-- blog ends -->
