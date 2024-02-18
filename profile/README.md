@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **drop mention of lxd apt, add post-deploy notes for calico...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **`LabelMaker` provides a path to alternate optional kubect...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/11) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s on runner 5** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/336) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **unit test kubectl** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update src/kubectl.py  Co-authored-by: Angelos Kolaitis <...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@neoaggelos](https://github.com/neoaggelos) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/336) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [5 Edge Computing Examples You Should Know](https://ubuntu.com//blog/edge-computing-examples) - Thu, 15 Feb 2024 09:44:26 
-* [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
-* [Firecell and Canonical to demonstrate 5G private mobile network (PMN) solution running on Ubuntu at MWC Barcelona](https://ubuntu.com//blog/firecell-and-canonical-to-demonstrate-5g-private-mobile-network-pmn-solution-running-on-ubuntu-at-mwc-barcelona) - Wed, 14 Feb 2024 09:01:00 
-* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
-* [Charmed MongoDB®: use cases for financial services](https://ubuntu.com//blog/mongodb-usecase-financialservices) - Mon, 12 Feb 2024 06:00:00 
-* [Cloud storage security best practices](https://ubuntu.com//blog/cloud-storage-security) - Thu, 08 Feb 2024 08:30:00 
+
 <!-- blog ends -->
