@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@dashmage](https://github.com/dashmage) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/124) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@dashmage](https://github.com/dashmage) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/123) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **more details in post-deploy requirements; update troubles...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add lxc config to the juju-$MODEL profile** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **drop mention of lxd apt, add post-deploy notes for calico...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s on runner 5** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Do not setup lxd** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add choice betwee root and ubuntu config in kubectl helpe...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add choice betwee root and ubuntu config in kubectl helpe...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/336) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
