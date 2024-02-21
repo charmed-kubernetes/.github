@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **readme refresh (#14)  * formatting, update cli callouts, ...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **spell the letters right** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **soooo slow! bump timeout to 5m like the other tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update docs for juju 3 (#13)  Co-authored-by: Alex Balder...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/13) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **refresh lxd docs based on current lxd/juju/k8s best pract...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/832) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@dashmage](https://github.com/dashmage) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/124) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@dashmage](https://github.com/dashmage) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/123) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **more details in post-deploy requirements; update troubles...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/828) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update upgrading page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update the other rel-notes page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update rel-notes page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **use beta bundle until 1.29 goes GA** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **good unit, why not** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Preview Confidential AI with Ubuntu Confidential VMs and Nvidia H100 GPUs on Microsoft Azure](https://ubuntu.com//blog/preview-confidential-ai-azure) - Wed, 21 Feb 2024 12:32:37 
+* [Edge AI: what, why and how with open source](https://ubuntu.com//blog/edge-ai) - Mon, 19 Feb 2024 09:55:27 
+* [5 Edge Computing Examples You Should Know](https://ubuntu.com//blog/edge-computing-examples) - Thu, 15 Feb 2024 09:44:26 
+* [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
+* [Firecell and Canonical to demonstrate 5G private mobile network (PMN) solution running on Ubuntu at MWC Barcelona](https://ubuntu.com//blog/firecell-and-canonical-to-demonstrate-5g-private-mobile-network-pmn-solution-running-on-ubuntu-at-mwc-barcelona) - Wed, 14 Feb 2024 09:01:00 
+* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
 <!-- blog ends -->
