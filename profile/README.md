@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Migrating from Cloudera to a modern data hub architecture](https://ubuntu.com//blog/cloudera-migration) - Thu, 22 Feb 2024 07:40:14 
 * [Preview Confidential AI with Ubuntu Confidential VMs and Nvidia H100 GPUs on Microsoft Azure](https://ubuntu.com//blog/preview-confidential-ai-azure) - Wed, 21 Feb 2024 12:32:37 
 * [Edge AI: what, why and how with open source](https://ubuntu.com//blog/edge-ai) - Mon, 19 Feb 2024 09:55:27 
 * [5 Edge Computing Examples You Should Know](https://ubuntu.com//blog/edge-computing-examples) - Thu, 15 Feb 2024 09:44:26 
 * [Auto-scaling of Intel FlexRAN components based on MicroK8s and Ubuntu real-time kernel support](https://ubuntu.com//blog/auto-scaling-of-intel-flexran-components-based-on-microk8s-and-ubuntu-real-time-kernel-support) - Wed, 14 Feb 2024 09:59:28 
 * [Firecell and Canonical to demonstrate 5G private mobile network (PMN) solution running on Ubuntu at MWC Barcelona](https://ubuntu.com//blog/firecell-and-canonical-to-demonstrate-5g-private-mobile-network-pmn-solution-running-on-ubuntu-at-mwc-barcelona) - Wed, 14 Feb 2024 09:01:00 
-* [Simplify IoT device management: How to add Ubuntu Core devices to Landscape](https://ubuntu.com//blog/simplify-iot-device-management-how-to-add-ubuntu-core-devices-to-landscape) - Tue, 13 Feb 2024 10:00:00 
 <!-- blog ends -->
