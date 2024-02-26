@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ceph Storage for AI](https://ubuntu.com//blog/storage-for-ai) - Mon, 26 Feb 2024 08:06:00 
-* [Bringing automation to telco edge clouds at scale](https://ubuntu.com//blog/bringing-automation-to-telco-edge-clouds-at-scale) - Fri, 23 Feb 2024 17:45:48 
-* [What is a Kubernetes operator?](https://ubuntu.com//blog/what-is-a-kubernetes-operator) - Fri, 23 Feb 2024 06:00:00 
-* [Migrating from Cloudera to a modern data hub architecture](https://ubuntu.com//blog/cloudera-migration) - Thu, 22 Feb 2024 07:40:14 
-* [Preview Confidential AI with Ubuntu Confidential VMs and Nvidia H100 GPUs on Microsoft Azure](https://ubuntu.com//blog/preview-confidential-ai-azure) - Wed, 21 Feb 2024 12:32:37 
-* [Edge AI: what, why and how with open source](https://ubuntu.com//blog/edge-ai) - Mon, 19 Feb 2024 09:55:27 
+
 <!-- blog ends -->
