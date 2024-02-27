@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve testing and documentation** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve testing and documentation** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update index.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Log exceptions at debug level, rather than error (#3)** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
