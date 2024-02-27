@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Remove some more dependencies** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address changes to linter and wokecheck** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@bobadair](https://github.com/bobadair) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/70) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@goldstar611](https://github.com/goldstar611) has closed this [issue](https://github.com/charmed-kubernetes/cdk-offline/issues/1) in [charmed-kubernetes/cdk-offline](https://api.github.com/repos/charmed-kubernetes/cdk-offline).
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/125) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve testing and documentation** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve testing and documentation** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update index.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical announces the general availability of Charmed Kafka](https://ubuntu.com//blog/charmed-kafka-general-availability) - Tue, 27 Feb 2024 14:10:57 
+* [VMware alternatives: discover open source](https://ubuntu.com//blog/vmware-alternatives) - Tue, 27 Feb 2024 09:54:28 
+* [Introducing Canonical’s Open Documentation Academy](https://ubuntu.com//blog/introducing-canonicals-open-documentation-academy) - Mon, 26 Feb 2024 18:03:59 
+* [Crafting new Linux schedulers with sched-ext, Rust and Ubuntu](https://ubuntu.com//blog/crafting-new-linux-schedulers-with-sched-ext-rust-and-ubuntu) - Mon, 26 Feb 2024 16:50:03 
+* [Ceph Storage for AI](https://ubuntu.com//blog/storage-for-ai) - Mon, 26 Feb 2024 08:06:00 
+* [Bringing automation to telco edge clouds at scale](https://ubuntu.com//blog/bringing-automation-to-telco-edge-clouds-at-scale) - Fri, 23 Feb 2024 17:45:48 
 <!-- blog ends -->
