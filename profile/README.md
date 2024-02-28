@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/834) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/834) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/834) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/834) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/834) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clear the homedir setting (#1480)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Series** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Series** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clear** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/125) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/125) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blurb about o7k and cloud integrators in the main release...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Move integration tests to juju 2.9, 3.1, and 3.3 (#128)  ...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical announces the availability of Real-time Ubuntu for Amazon EKS Anywhere](https://ubuntu.com//blog/real-time-ubuntu-for-amazon-eks-anywhere) - Wed, 28 Feb 2024 06:31:15 
+* [Canonical announces the general availability of Charmed Kafka](https://ubuntu.com//blog/charmed-kafka-general-availability) - Tue, 27 Feb 2024 14:10:57 
+* [Introducing Canonical’s Open Documentation Academy](https://ubuntu.com//blog/introducing-canonicals-open-documentation-academy) - Mon, 26 Feb 2024 18:03:59 
+* [Crafting new Linux schedulers with sched-ext, Rust and Ubuntu](https://ubuntu.com//blog/crafting-new-linux-schedulers-with-sched-ext-rust-and-ubuntu) - Mon, 26 Feb 2024 16:50:03 
+* [Ceph Storage for AI](https://ubuntu.com//blog/storage-for-ai) - Mon, 26 Feb 2024 08:06:00 
+* [Bringing automation to telco edge clouds at scale](https://ubuntu.com//blog/bringing-automation-to-telco-edge-clouds-at-scale) - Fri, 23 Feb 2024 17:45:48 
 <!-- blog ends -->
