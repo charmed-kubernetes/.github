@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Rename artifacts** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Archive the built charms** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Improvements in keeping or destroying models (#127)  * Im...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/127) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Play** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/127) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/127) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **IF_EXISTS should respect the global flag** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/127) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/127) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clear the homedir setting (#1480)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Series** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Series** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Classic** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Clear** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/125) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/125) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **blurb about o7k and cloud integrators in the main release...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Move integration tests to juju 2.9, 3.1, and 3.3 (#128)  ...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
