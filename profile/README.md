@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Successfully tested with storage** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **LP#2052140 Fix Worker ScrapeJobs databag refresh process ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/167) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix ScrapeJobs databag refresh process (#338)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **1.29 upgrade notes (#834)  * refresh generic upgrade page...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix ScrapeJobs databag refresh process** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **LP #2054819 Add AlertRules for Worker's Core Components (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **LP #2054819 Add AlertRules for Worker's Core Components (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Telco-grade Sylva-compliant Canonical platforms](https://ubuntu.com//blog/telco-grade-sylva-compliant-canonical-platforms) - Thu, 29 Feb 2024 07:00:00 
-* [Canonical announces the availability of Real-time Ubuntu for Amazon EKS Anywhere](https://ubuntu.com//blog/real-time-ubuntu-for-amazon-eks-anywhere) - Wed, 28 Feb 2024 06:31:15 
-* [Canonical announces the general availability of Charmed Kafka](https://ubuntu.com//blog/charmed-kafka-general-availability) - Tue, 27 Feb 2024 14:10:57 
-* [Introducing Canonical’s Open Documentation Academy](https://ubuntu.com//blog/introducing-canonicals-open-documentation-academy) - Mon, 26 Feb 2024 18:03:59 
-* [Crafting new Linux schedulers with sched-ext, Rust and Ubuntu](https://ubuntu.com//blog/crafting-new-linux-schedulers-with-sched-ext-rust-and-ubuntu) - Mon, 26 Feb 2024 16:50:03 
-* [Ceph Storage for AI](https://ubuntu.com//blog/storage-for-ai) - Mon, 26 Feb 2024 08:06:00 
+
 <!-- blog ends -->
