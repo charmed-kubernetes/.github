@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Integrate with AWS cloud to appropriately tag worker inst...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/165) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/165) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Integrate with AWS cloud to appropriately tag control-pla...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update src/cloud_integration.py** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/337) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/337) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Implementation of ops requires side of aws interface** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **use default-branch of interface-aws-integration** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **use default-branch of interface-aws-integration** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Resolve merge lint issue** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **LP #2054819 Add AlertRules for Worker's Core Components (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use library from main branch** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use library from main branch** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Wait on the cloud integration if integrated with a cloud ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Wait on the cloud integration if integrated with a cloud ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/337) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
