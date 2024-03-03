@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Join Canonical at 2024 GTC AI Conference](https://ubuntu.com//blog/nvidia-gtc-24) - Thu, 29 Feb 2024 23:02:23 
+* [Telco-grade Sylva-compliant Canonical platforms](https://ubuntu.com//blog/telco-grade-sylva-compliant-canonical-platforms) - Thu, 29 Feb 2024 07:00:00 
+* [Canonical announces the availability of Real-time Ubuntu for Amazon EKS Anywhere](https://ubuntu.com//blog/real-time-ubuntu-for-amazon-eks-anywhere) - Wed, 28 Feb 2024 06:31:15 
+* [Canonical announces the general availability of Charmed Kafka](https://ubuntu.com//blog/charmed-kafka-general-availability) - Tue, 27 Feb 2024 14:10:57 
+* [Introducing Canonical’s Open Documentation Academy](https://ubuntu.com//blog/introducing-canonicals-open-documentation-academy) - Mon, 26 Feb 2024 18:03:59 
+* [Crafting new Linux schedulers with sched-ext, Rust and Ubuntu](https://ubuntu.com//blog/crafting-new-linux-schedulers-with-sched-ext-rust-and-ubuntu) - Mon, 26 Feb 2024 16:50:03 
 <!-- blog ends -->
