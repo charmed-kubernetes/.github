@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Maybe give jenkins ownership?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Maybe try with sudo?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove warning aboug GCP cloud-provider, added unit tests** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
@@ -32,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump kube-ovn to 1.12.6 (#53)  * Bump kube-ovn to 1.12.6...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/165) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Integrate with AWS cloud to appropriately tag worker inst...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
