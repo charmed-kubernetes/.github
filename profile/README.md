@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address comments from the charm review (#40)** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/40) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Maybe give jenkins ownership?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Maybe try with sudo?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
@@ -33,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump kube-ovn to 1.12.6 (#53)  * Bump kube-ovn to 1.12.6...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
