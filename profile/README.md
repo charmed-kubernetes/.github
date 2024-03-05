@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove warning aboug GCP cloud-provider, added unit tests** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump kube-ovn to 1.12.6 (#53)  * Bump kube-ovn to 1.12.6...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/165) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Integrate with AWS cloud to appropriately tag worker inst...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/165) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/165) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Integrate with AWS cloud to appropriately tag control-pla...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update src/cloud_integration.py** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/337) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/337) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Implementation of ops requires side of aws interface** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Join Canonical at 2024 GTC AI Conference](https://ubuntu.com//blog/nvidia-gtc-24) - Thu, 29 Feb 2024 23:02:23 
-* [Telco-grade Sylva-compliant Canonical platforms](https://ubuntu.com//blog/telco-grade-sylva-compliant-canonical-platforms) - Thu, 29 Feb 2024 07:00:00 
-* [Canonical announces the availability of Real-time Ubuntu for Amazon EKS Anywhere](https://ubuntu.com//blog/real-time-ubuntu-for-amazon-eks-anywhere) - Wed, 28 Feb 2024 06:31:15 
-* [Canonical announces the general availability of Charmed Kafka](https://ubuntu.com//blog/charmed-kafka-general-availability) - Tue, 27 Feb 2024 14:10:57 
-* [Introducing Canonical’s Open Documentation Academy](https://ubuntu.com//blog/introducing-canonicals-open-documentation-academy) - Mon, 26 Feb 2024 18:03:59 
-* [Crafting new Linux schedulers with sched-ext, Rust and Ubuntu](https://ubuntu.com//blog/crafting-new-linux-schedulers-with-sched-ext-rust-and-ubuntu) - Mon, 26 Feb 2024 16:50:03 
+
 <!-- blog ends -->
