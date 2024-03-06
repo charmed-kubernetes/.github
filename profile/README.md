@@ -25,16 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Address comments from the charm review (#40)** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/40) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Maybe give jenkins ownership?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Maybe try with sudo?** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove warning aboug GCP cloud-provider, added unit tests** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore the requested field when calculating sha** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ignore the requested field when calculating the expected ...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Adjustments to interface with gcp and external-cloud-prov...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/15) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/15) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **KU-439/gcp ops integration (#1)  * Ops version of the req...** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-gcp-integration/pull/1) in the [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update stable release doc based on 1.29 GA** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Create an Ubuntu Core image with Landscape Client included](https://ubuntu.com//blog/create-an-ubuntu-core-image-with-landscape-client-included) - Tue, 05 Mar 2024 13:53:01 
+* [PostgreSQL for AI applications](https://ubuntu.com//blog/postgresql-ai-application) - Tue, 05 Mar 2024 10:10:48 
+* [ESXi Alternative: try open source LXD](https://ubuntu.com//blog/esxi-alternative) - Tue, 05 Mar 2024 08:30:00 
+* [Join Canonical at 2024 GTC AI Conference](https://ubuntu.com//blog/nvidia-gtc-24) - Thu, 29 Feb 2024 23:02:23 
+* [Telco-grade Sylva-compliant Canonical platforms](https://ubuntu.com//blog/telco-grade-sylva-compliant-canonical-platforms) - Thu, 29 Feb 2024 07:00:00 
+* [Canonical announces the availability of Real-time Ubuntu for Amazon EKS Anywhere](https://ubuntu.com//blog/real-time-ubuntu-for-amazon-eks-anywhere) - Wed, 28 Feb 2024 06:31:15 
 <!-- blog ends -->
