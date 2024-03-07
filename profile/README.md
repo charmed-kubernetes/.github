@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lint** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **black formatting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **black formatting** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump iso8601 from 1.1.0 to 2.1.0 (#1445)  Bumps [iso8601]...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump packaging from 23.1 to 23.2 (#1447)  Bumps [packagin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump jinja2 from 3.1.2 to 3.1.3 (#1485)  Bumps [jinja2](h...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump cachetools from 5.3.0 to 5.3.3 (#1486)  Bumps [cache...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Speed up cidr_expansion by firing the update-status hooks...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Correct property name aad_client to aad_client_id** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop python 3.6 and 3.7 support** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **A change in the az CLI has forces this change to assign_role** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply workaround from LP#1964067 to provide tenant-id if ...** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lint** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
