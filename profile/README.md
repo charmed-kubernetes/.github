@@ -42,5 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Meet Canonical at KubeCon + CloudNativeCon](https://ubuntu.com//blog/meet-canonical-at-kubecon-eu) - Wed, 06 Mar 2024 09:47:29 
+* [Create an Ubuntu Core image with Landscape Client included](https://ubuntu.com//blog/create-an-ubuntu-core-image-with-landscape-client-included) - Tue, 05 Mar 2024 13:53:01 
+* [PostgreSQL for AI applications](https://ubuntu.com//blog/postgresql-ai-application) - Tue, 05 Mar 2024 10:10:48 
+* [ESXi Alternative: try open source LXD](https://ubuntu.com//blog/esxi-alternative) - Tue, 05 Mar 2024 08:30:00 
+* [Join Canonical at 2024 GTC AI Conference](https://ubuntu.com//blog/nvidia-gtc-24) - Thu, 29 Feb 2024 23:02:23 
+* [Telco-grade Sylva-compliant Canonical platforms](https://ubuntu.com//blog/telco-grade-sylva-compliant-canonical-platforms) - Thu, 29 Feb 2024 07:00:00 
 <!-- blog ends -->
