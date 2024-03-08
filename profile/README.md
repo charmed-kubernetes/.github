@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **new defaults in test env to facilitate bringup** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **set default snap channel to edge on main branch (#169)  w...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **set default snap channel to edge on main branch (#340)  *...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **block if the configured namespace doesnt exist; unit tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update validation tests for google cloud (#1487)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1487) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Test load-balancer administration** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider/pull/2) in the [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider/pull/2) in the [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) repository.
 <!-- activity ends -->
 
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Meet Canonical at KubeCon + CloudNativeCon](https://ubuntu.com//blog/meet-canonical-at-kubecon-eu) - Wed, 06 Mar 2024 09:47:29 
-* [Create an Ubuntu Core image with Landscape Client included](https://ubuntu.com//blog/create-an-ubuntu-core-image-with-landscape-client-included) - Tue, 05 Mar 2024 13:53:01 
-* [PostgreSQL for AI applications](https://ubuntu.com//blog/postgresql-ai-application) - Tue, 05 Mar 2024 10:10:48 
-* [ESXi Alternative: try open source LXD](https://ubuntu.com//blog/esxi-alternative) - Tue, 05 Mar 2024 08:30:00 
-* [Join Canonical at 2024 GTC AI Conference](https://ubuntu.com//blog/nvidia-gtc-24) - Thu, 29 Feb 2024 23:02:23 
-* [Telco-grade Sylva-compliant Canonical platforms](https://ubuntu.com//blog/telco-grade-sylva-compliant-canonical-platforms) - Thu, 29 Feb 2024 07:00:00 
+
 <!-- blog ends -->
