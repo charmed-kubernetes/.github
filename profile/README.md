@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **black formatting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **black formatting** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Correct property name aad_client to aad_client_id** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop python 3.6 and 3.7 support** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **A change in the az CLI has forces this change to assign_role** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply workaround from LP#1964067 to provide tenant-id if ...** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lint** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestions from code review  Co-authored-by: Kevin...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **set default snap channel to edge on main branch (#169)  w...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **set default snap channel to edge on main branch (#340)  *...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **block if the configured namespace doesnt exist; unit tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **A change in the az CLI has forces this change to assign_role** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-integrator/pull/8) in the [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update validation tests for google cloud (#1487)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1487) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Test load-balancer administration** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider/pull/2) in the [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider/pull/2) in the [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
