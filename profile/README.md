@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **LP:2054486 make fsname a prereq for enabling cephfs suppo...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/15) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **search for node in calico-early config by stableAddress (#4)** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/4) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/15) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update config.yaml  Co-authored-by: Mateo Florido <328858...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update config.yaml  Co-authored-by: Mateo Florido <328858...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Akd/pytest 7.x/asyncio compat (#1493)  * backup pytest 8 ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Akd/pytest 7.x/asyncio compat (#1493)  * backup pytest 8 ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Large Language Models (LLMs) Retrieval Augmented Generation (RAG) using Charmed OpenSearch](https://ubuntu.com//blog/vector-database-large-language-models-opensearch) - Mon, 11 Mar 2024 07:00:00 
-* [Simplifying software-defined vehicles (SDVs) with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/simplifying-software-defined-vehicles-sdvs-with-eb-corbos-linux-built-on-ubuntu) - Fri, 08 Mar 2024 08:40:00 
-* [Meet Canonical at KubeCon + CloudNativeCon](https://ubuntu.com//blog/meet-canonical-at-kubecon-eu) - Wed, 06 Mar 2024 09:47:29 
-* [Create an Ubuntu Core image with Landscape Client included](https://ubuntu.com//blog/create-an-ubuntu-core-image-with-landscape-client-included) - Tue, 05 Mar 2024 13:53:01 
-* [PostgreSQL for AI applications](https://ubuntu.com//blog/postgresql-ai-application) - Tue, 05 Mar 2024 10:10:48 
-* [ESXi Alternative: try open source LXD](https://ubuntu.com//blog/esxi-alternative) - Tue, 05 Mar 2024 08:30:00 
+
 <!-- blog ends -->
