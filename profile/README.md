@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **LP:2054486 make fsname a prereq for enabling cephfs suppo...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/15) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **search for node in calico-early config by stableAddress (#4)** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/4) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/15) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/15) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update status and tests for unavailable cephfs** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **update status and tests for unavailable cephfs** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **block if the configured namespace doesnt exist (#16)  * b...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Incorporate azure cloud integration (#170)  * integrate w...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Incorporate azure cloud integration (#341)  * integrate w...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **block if the configured namespace doesnt exist (#16)  * b...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
