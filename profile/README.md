@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **include encryption_at_rest path** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Completed unit tests of vault-kv library** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **new storage cache config option (#68)  * add new storage-...** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Retry and log errors on snap refresh** to [layer-snap](https://github.com/charmed-kubernetes/layer-snap)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **address failing integration tests  - test against stable ...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **test against stable bundle with more debug** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **fix non-leader premature kubectl calls  - non-leader unit...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **validate storage-cache config** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update config.yaml  Co-authored-by: Mateo Florido <328858...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update config.yaml  Co-authored-by: Mateo Florido <328858...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical&#8217;s showcase at HPE Tech Jam 2024](https://ubuntu.com//blog/canonicals-showcase-at-hpe-tech-jam-2024) - Tue, 12 Mar 2024 19:47:31 
 * [CentOS EOL &#8211; What does it mean for Ceph storage?](https://ubuntu.com//blog/centos-eol-ceph) - Tue, 12 Mar 2024 08:12:00 
 * [Large Language Models (LLMs) Retrieval Augmented Generation (RAG) using Charmed OpenSearch](https://ubuntu.com//blog/vector-database-large-language-models-opensearch) - Mon, 11 Mar 2024 07:00:00 
 * [Simplifying software-defined vehicles (SDVs) with EB corbos Linux – built on Ubuntu](https://ubuntu.com//blog/simplifying-software-defined-vehicles-sdvs-with-eb-corbos-linux-built-on-ubuntu) - Fri, 08 Mar 2024 08:40:00 
 * [Meet Canonical at KubeCon + CloudNativeCon](https://ubuntu.com//blog/meet-canonical-at-kubecon-eu) - Wed, 06 Mar 2024 09:47:29 
 * [Create an Ubuntu Core image with Landscape Client included](https://ubuntu.com//blog/create-an-ubuntu-core-image-with-landscape-client-included) - Tue, 05 Mar 2024 13:53:01 
-* [PostgreSQL for AI applications](https://ubuntu.com//blog/postgresql-ai-application) - Tue, 05 Mar 2024 10:10:48 
 <!-- blog ends -->
