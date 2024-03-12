@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **address failing integration tests  - test against stable ...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **test against stable bundle with more debug** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **fix non-leader premature kubectl calls  - non-leader unit...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **validate storage-cache config** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update config.yaml  Co-authored-by: Mateo Florido <328858...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update config.yaml  Co-authored-by: Mateo Florido <328858...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico-enterprise/pull/5) in the [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-alpha.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Akd/pytest 7.x/asyncio compat (#1493)  * backup pytest 8 ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Akd/pytest 7.x/asyncio compat (#1493)  * backup pytest 8 ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
