@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update to testing with 1.30/edge channels (#1494)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **begin testing of vaultlocker layer replacement** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1494) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **include encryption_at_rest path** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **Completed unit tests of vault-kv library** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **new storage cache config option (#68)  * add new storage-...** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Retry and log errors on snap refresh** to [layer-snap](https://github.com/charmed-kubernetes/layer-snap)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
