@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1495) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **include encryption_at_rest path** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Completed unit tests of vault-kv library** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
