@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Begin testing of reactive upgrade** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Begin testing of reactive upgrade** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#3)** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#2)** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#1)** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-gcp-integration/pull/3) in the [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
