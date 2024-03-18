@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#3)** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#2)** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
+ - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#1)** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-aws-integration/pull/1) in the [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-azure-integration/pull/2) in the [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-gcp-integration/pull/3) in the [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove failing kubectl auth assertion (#71)  Closes https...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.26.15.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to testing with 1.30/edge channels (#1494)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **begin testing of vaultlocker layer replacement** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1494) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical’s commitment to quality management](https://ubuntu.com//blog/canonicals-commitment-to-quality-management) - Mon, 18 Mar 2024 10:10:41 
 * [LXD 5.21.0 LTS is now available](https://ubuntu.com//blog/lxd_5-21-0_lts) - Fri, 15 Mar 2024 09:41:25 
 * [How should a great K8s distro feel? Try the new Canonical Kubernetes, now in beta](https://ubuntu.com//blog/try-canonical-kubernetes-beta) - Thu, 14 Mar 2024 13:06:16 
 * [Join the Canonical Data and AI team at Data Innovation Summit 2024](https://ubuntu.com//blog/join-canonical-data-and-ai-team-at-data-innovation-summit-2024) - Thu, 14 Mar 2024 08:00:09 
 * [Canonical&#8217;s showcase at HPE Tech Jam 2024](https://ubuntu.com//blog/canonicals-showcase-at-hpe-tech-jam-2024) - Tue, 12 Mar 2024 19:47:31 
 * [CentOS EOL &#8211; What does it mean for Ceph storage?](https://ubuntu.com//blog/centos-eol-ceph) - Tue, 12 Mar 2024 08:12:00 
-* [Large Language Models (LLMs) Retrieval Augmented Generation (RAG) using Charmed OpenSearch](https://ubuntu.com//blog/vector-database-large-language-models-opensearch) - Mon, 11 Mar 2024 07:00:00 
 <!-- blog ends -->
