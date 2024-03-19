@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [The Coronation of a New Mascot](https://ubuntu.com//blog/the-coronation-of-a-new-mascot) - Tue, 19 Mar 2024 06:00:00 
-* [Accelerate AI development with Ubuntu and NVIDIA AI Workbench](https://ubuntu.com//blog/accelerate-ai-development-with-ubuntu-and-nvidia-ai-workbench) - Mon, 18 Mar 2024 22:10:00 
-* [Canonical accelerates AI Application Development with NVIDIA AI Enterprise](https://ubuntu.com//blog/charmed-k8s-support-comes-to-nvidia-ai-enterprise) - Mon, 18 Mar 2024 22:10:00 
-* [Canonical’s commitment to quality management](https://ubuntu.com//blog/canonicals-commitment-to-quality-management) - Mon, 18 Mar 2024 10:10:41 
-* [LXD 5.21.0 LTS is now available](https://ubuntu.com//blog/lxd_5-21-0_lts) - Fri, 15 Mar 2024 09:41:25 
-* [How should a great K8s distro feel? Try the new Canonical Kubernetes, now in beta](https://ubuntu.com//blog/try-canonical-kubernetes-beta) - Thu, 14 Mar 2024 13:06:16 
+
 <!-- blog ends -->
