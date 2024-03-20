@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **handle report situations where no deploy_result exists** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Updating v1.30.0-beta.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Completed unit tests and docs to support vaultlocker encr...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.0-beta.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **sync-oci-images based of 1.30 cdkaddons** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Rather than use -y, use --no-prompt when destroying or ki...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1496) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Begin testing of reactive upgrade** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Begin testing of reactive upgrade** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#3)** to [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#2)** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore directories when building reactive layer (#1)** to [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-aws-integration/pull/1) in the [interface-aws-integration](https://github.com/charmed-kubernetes/interface-aws-integration) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-azure-integration/pull/2) in the [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-gcp-integration/pull/3) in the [interface-gcp-integration](https://github.com/charmed-kubernetes/interface-gcp-integration) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Implementing an Android&#x2122; based cloud game streaming service with Anbox Cloud](https://ubuntu.com//blog/implementing-an-android-based-cloud-game-streaming-service-with-anbox-cloud) - Wed, 20 Mar 2024 08:37:25 
+* [Canonical collaborates with NVIDIA to simplify enterprise AI deployments with NVIDIA BlueField-3 operating an optimised, Ubuntu-based Linux OS](https://ubuntu.com//blog/ubuntu-and-nvidia-bluefield-3) - Tue, 19 Mar 2024 09:00:00 
+* [The Coronation of a New Mascot: Noble Numbat](https://ubuntu.com//blog/the-coronation-of-a-new-mascot-noble-numbat) - Tue, 19 Mar 2024 06:00:00 
+* [Accelerate AI development with Ubuntu and NVIDIA AI Workbench](https://ubuntu.com//blog/accelerate-ai-development-with-ubuntu-and-nvidia-ai-workbench) - Mon, 18 Mar 2024 22:10:00 
+* [Canonical accelerates AI Application Development with NVIDIA AI Enterprise](https://ubuntu.com//blog/charmed-k8s-support-comes-to-nvidia-ai-enterprise) - Mon, 18 Mar 2024 22:10:00 
+* [Canonical’s commitment to quality management](https://ubuntu.com//blog/canonicals-commitment-to-quality-management) - Mon, 18 Mar 2024 10:10:41 
 <!-- blog ends -->
