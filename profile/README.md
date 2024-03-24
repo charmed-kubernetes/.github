@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Getting Started with Azure IoT Edge on Ubuntu Core](https://ubuntu.com//blog/getting-started-with-azure-iot-edge-on-ubuntu-core) - Thu, 21 Mar 2024 10:35:00 
-* [Canonical’s Ubuntu Core receives Microsoft Azure IoT Edge Tier 1 supported platform status](https://ubuntu.com//blog/canonicals-ubuntu-core-receives-microsoft-azure-iot-edge-tier-1-supported-platform-status) - Wed, 20 Mar 2024 09:24:48 
-* [Implementing an Android&#x2122; based cloud game streaming service with Anbox Cloud](https://ubuntu.com//blog/implementing-an-android-based-cloud-game-streaming-service-with-anbox-cloud) - Wed, 20 Mar 2024 08:37:25 
-* [Canonical collaborates with NVIDIA to simplify enterprise AI deployments with NVIDIA BlueField-3 operating an optimised, Ubuntu-based Linux OS](https://ubuntu.com//blog/ubuntu-and-nvidia-bluefield-3) - Tue, 19 Mar 2024 09:00:00 
-* [The Coronation of a New Mascot: Noble Numbat](https://ubuntu.com//blog/the-coronation-of-a-new-mascot-noble-numbat) - Tue, 19 Mar 2024 06:00:00 
-* [Accelerate AI development with Ubuntu and NVIDIA AI Workbench](https://ubuntu.com//blog/accelerate-ai-development-with-ubuntu-and-nvidia-ai-workbench) - Mon, 18 Mar 2024 22:10:00 
+
 <!-- blog ends -->
