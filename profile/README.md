@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **retry kubectl calls (up to 3m) with tenacity** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@kwmonroe](https://github.com/kwmonroe) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/837) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Test bundle should use a null channel for  local charms** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust linting for BundleOpt** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@lengau](https://github.com/lengau) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/130) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **handle report situations where no deploy_result exists** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating v1.30.0-beta.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Completed unit tests and docs to support vaultlocker encr...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.0-beta.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Getting Started with Azure IoT Edge on Ubuntu Core](https://ubuntu.com//blog/getting-started-with-azure-iot-edge-on-ubuntu-core) - Thu, 21 Mar 2024 10:35:00 
-* [Canonical’s Ubuntu Core receives Microsoft Azure IoT Edge Tier 1 supported platform status](https://ubuntu.com//blog/canonicals-ubuntu-core-receives-microsoft-azure-iot-edge-tier-1-supported-platform-status) - Wed, 20 Mar 2024 09:24:48 
-* [Implementing an Android&#x2122; based cloud game streaming service with Anbox Cloud](https://ubuntu.com//blog/implementing-an-android-based-cloud-game-streaming-service-with-anbox-cloud) - Wed, 20 Mar 2024 08:37:25 
-* [Canonical collaborates with NVIDIA to simplify enterprise AI deployments with NVIDIA BlueField-3 operating an optimised, Ubuntu-based Linux OS](https://ubuntu.com//blog/ubuntu-and-nvidia-bluefield-3) - Tue, 19 Mar 2024 09:00:00 
-* [The Coronation of a New Mascot: Noble Numbat](https://ubuntu.com//blog/the-coronation-of-a-new-mascot-noble-numbat) - Tue, 19 Mar 2024 06:00:00 
-* [Accelerate AI development with Ubuntu and NVIDIA AI Workbench](https://ubuntu.com//blog/accelerate-ai-development-with-ubuntu-and-nvidia-ai-workbench) - Mon, 18 Mar 2024 22:10:00 
+
 <!-- blog ends -->
