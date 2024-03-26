@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust linting for BundleOpt** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@lengau](https://github.com/lengau) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/130) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **woke ignore operator libs** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Passing jenkins validation testing** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Charmed MongoDB enters general availability](https://ubuntu.com//blog/charmed-mongodb-enters-general-availability) - Tue, 26 Mar 2024 01:00:00 
 * [Canonical expands Long Term Support to 12 years starting with Ubuntu 14.04 LTS](https://ubuntu.com//blog/canonical-expands-long-term-support-to-12-years-starting-with-ubuntu-14-04-lts) - Mon, 25 Mar 2024 15:59:23 
 * [Getting Started with Azure IoT Edge on Ubuntu Core](https://ubuntu.com//blog/getting-started-with-azure-iot-edge-on-ubuntu-core) - Thu, 21 Mar 2024 10:35:00 
 * [Canonical’s Ubuntu Core receives Microsoft Azure IoT Edge Tier 1 supported platform status](https://ubuntu.com//blog/canonicals-ubuntu-core-receives-microsoft-azure-iot-edge-tier-1-supported-platform-status) - Wed, 20 Mar 2024 09:24:48 
 * [Implementing an Android&#x2122; based cloud game streaming service with Anbox Cloud](https://ubuntu.com//blog/implementing-an-android-based-cloud-game-streaming-service-with-anbox-cloud) - Wed, 20 Mar 2024 08:37:25 
 * [Canonical collaborates with NVIDIA to simplify enterprise AI deployments with NVIDIA BlueField-3 operating an optimised, Ubuntu-based Linux OS](https://ubuntu.com//blog/ubuntu-and-nvidia-bluefield-3) - Tue, 19 Mar 2024 09:00:00 
-* [The Coronation of a New Mascot: Noble Numbat](https://ubuntu.com//blog/the-coronation-of-a-new-mascot-noble-numbat) - Tue, 19 Mar 2024 06:00:00 
 <!-- blog ends -->
