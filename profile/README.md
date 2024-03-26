@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **After a bit of fudging with jjb to test the job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Replace release-microk8s job from groovy to shell script** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **search for node in calico-early config by stableAddress (#4)** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **deployment errors if all config isn't provided at deploy ...** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **retry kubectl calls (up to 3m) with tenacity** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
@@ -33,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Test bundle should use a null channel for  local charms** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust linting for BundleOpt** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@lengau](https://github.com/lengau) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/130) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **woke ignore operator libs** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
