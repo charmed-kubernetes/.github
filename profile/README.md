@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update Parameter description** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Fix misspelling** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust no-reporting path** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **refine to job definitions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Push into lxc with same modes and file permissions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Push into lxc with same modes and file permissions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **After a bit of fudging with jjb to test the job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **After a bit of fudging with jjb to test the job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **After a bit of fudging with jjb to test the job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Replace release-microk8s job from groovy to shell script** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Profile workloads on x86-64-v3 to enable future performance gains](https://ubuntu.com//blog/profile-workloads-on-x86-64-v3-to-enable-future-performance-gains) - Wed, 27 Mar 2024 14:04:26 
-* [Canonical at Google Next &#8211; What you need to know](https://ubuntu.com//blog/canonical-at-google-next-what-you-need-to-know) - Wed, 27 Mar 2024 11:00:00 
-* [What is a telco cloud?](https://ubuntu.com//blog/what-is-a-telco-cloud) - Wed, 27 Mar 2024 08:00:00 
-* [Charmed MongoDB enters general availability](https://ubuntu.com//blog/charmed-mongodb-enters-general-availability) - Tue, 26 Mar 2024 01:00:00 
-* [Canonical expands Long Term Support to 12 years starting with Ubuntu 14.04 LTS](https://ubuntu.com//blog/canonical-expands-long-term-support-to-12-years-starting-with-ubuntu-14-04-lts) - Mon, 25 Mar 2024 15:59:23 
-* [Getting Started with Azure IoT Edge on Ubuntu Core](https://ubuntu.com//blog/getting-started-with-azure-iot-edge-on-ubuntu-core) - Thu, 21 Mar 2024 10:35:00 
+
 <!-- blog ends -->
