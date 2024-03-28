@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add metadata** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **build microk8s 1.30 (#1501)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1499) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update Parameter description** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Fix misspelling** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **adjust no-reporting path** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **refine to job definitions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Push into lxc with same modes and file permissions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Push into lxc with same modes and file permissions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1499) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Push into lxc with same modes and file permissions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **After a bit of fudging with jjb to test the job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
