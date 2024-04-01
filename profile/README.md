@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Replace release-microk8s job from groovy to shell script ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **build microk8s 1.30 (#1501)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -32,8 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update metadata** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update how-to-cos-lite.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add metadata** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **build microk8s 1.30 (#1501)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
