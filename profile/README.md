@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@weiiwang01](https://github.com/weiiwang01) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/72) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Replace release-microk8s job from groovy to shell script ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -32,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Fix availability zones and topology configuration** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update metadata** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update how-to-cos-lite.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add metadata** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
