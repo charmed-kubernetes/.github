@@ -25,14 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Stuff** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add text** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **administrivia** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Formatting** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@weiiwang01](https://github.com/weiiwang01) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/72) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Replace release-microk8s job from groovy to shell script ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
