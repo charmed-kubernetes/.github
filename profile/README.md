@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Touchups** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **More review comments** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Wording** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Touchups** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade workflow actions** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/838) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Simplify yaml, bump cuda version, cleanup application** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Creating Snaps on Ubuntu Touch](https://ubuntu.com//blog/creating-snaps-on-ubuntu-touch) - Wed, 03 Apr 2024 18:42:42 
-* [OpenStack with Sunbeam as an on-prem extension of the OpenStack public cloud](https://ubuntu.com//blog/openstack-with-sunbeam-as-an-on-prem-extension-of-the-openstack-public-cloud) - Wed, 03 Apr 2024 07:00:00 
-* [AI and automotive: navigating the roads of tomorrow](https://ubuntu.com//blog/ai-and-automotive-navigating-the-roads-of-tomorrow) - Fri, 29 Mar 2024 08:00:00 
-* [Deploying Open Language Models on Ubuntu](https://ubuntu.com//blog/deploying-open-language-models-on-ubuntu) - Thu, 28 Mar 2024 22:18:41 
-* [Meet Canonical at Embedded World 2024](https://ubuntu.com//blog/meet-canonical-at-embedded-world-2024) - Thu, 28 Mar 2024 17:07:16 
-* [Generative AI with Ubuntu on AWS. Part II: Text generation](https://ubuntu.com//blog/genai-on-ubuntu-on-aws-text-generation) - Wed, 27 Mar 2024 15:09:40 
+
 <!-- blog ends -->
