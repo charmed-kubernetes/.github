@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Simplify yaml, bump cuda version, cleanup application** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
