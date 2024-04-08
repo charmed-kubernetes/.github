@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **[LP#2060070] Charm Actions Ops Port (#343)  * Porting con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/343) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Test CK8s GPU Support (#1502)  * Initial implementation ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Meet our Federal team at NLIT 2024](https://ubuntu.com//blog/meet-our-federal-team-at-nlit-2024) - Fri, 05 Apr 2024 19:09:00 
+* [Canonical joins ELISA](https://ubuntu.com//blog/canonical-joins-elisa) - Fri, 05 Apr 2024 09:00:00 
+* [Introducing Netplan v1.0 &#8211; stable, declarative network management](https://ubuntu.com//blog/introducing-netplan-v1) - Fri, 05 Apr 2024 08:34:48 
+* [Canonical at America Digital Congress in Chile](https://ubuntu.com//blog/canonical-at-america-digital-congress-in-chile) - Thu, 04 Apr 2024 14:55:23 
+* [Creating Snaps on Ubuntu Touch](https://ubuntu.com//blog/creating-snaps-on-ubuntu-touch) - Wed, 03 Apr 2024 18:42:42 
+* [OpenStack with Sunbeam as an on-prem extension of the OpenStack public cloud](https://ubuntu.com//blog/openstack-with-sunbeam-as-an-on-prem-extension-of-the-openstack-public-cloud) - Wed, 03 Apr 2024 07:00:00 
 <!-- blog ends -->
