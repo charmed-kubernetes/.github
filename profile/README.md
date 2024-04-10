@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration) - Wed, 10 Apr 2024 08:00:00 
+* [Canonical Delivers Secure, Compliant Cloud Solutions for Google Distributed Cloud](https://ubuntu.com//blog/canonical-and-google-deliver-secure-compliant-cloud-solutions-for-google-distributed-cloud) - Tue, 09 Apr 2024 10:55:00 
+* [Canonical launches Ubuntu Pro for Devices](https://ubuntu.com//blog/ubuntu-pro-for-devices) - Tue, 09 Apr 2024 06:51:58 
+* [Meet our Federal team at NLIT 2024](https://ubuntu.com//blog/meet-our-federal-team-at-nlit-2024) - Fri, 05 Apr 2024 19:09:00 
+* [Canonical joins ELISA](https://ubuntu.com//blog/canonical-joins-elisa) - Fri, 05 Apr 2024 09:00:00 
+* [Introducing Netplan v1.0 &#8211; stable, declarative network management](https://ubuntu.com//blog/introducing-netplan-v1) - Fri, 05 Apr 2024 08:34:48 
 <!-- blog ends -->
