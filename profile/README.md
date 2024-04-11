@@ -33,8 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [The role of secure data storage in fueling AI innovation](https://ubuntu.com//blog/secure-data-storage-ai) - Thu, 11 Apr 2024 07:02:00 
+* [Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration) - Wed, 10 Apr 2024 08:00:00 
+* [Canonical Delivers Secure, Compliant Cloud Solutions for Google Distributed Cloud](https://ubuntu.com//blog/canonical-and-google-deliver-secure-compliant-cloud-solutions-for-google-distributed-cloud) - Tue, 09 Apr 2024 10:55:00 
+* [Canonical launches Ubuntu Pro for Devices](https://ubuntu.com//blog/ubuntu-pro-for-devices) - Tue, 09 Apr 2024 06:51:58 
+* [Meet our Federal team at NLIT 2024](https://ubuntu.com//blog/meet-our-federal-team-at-nlit-2024) - Fri, 05 Apr 2024 19:09:00 
+* [Canonical joins ELISA](https://ubuntu.com//blog/canonical-joins-elisa) - Fri, 05 Apr 2024 09:00:00 
 <!-- blog ends -->
