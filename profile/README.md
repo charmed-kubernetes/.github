@@ -25,14 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **use 3/stable for the default juju channel** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **[LP#2060070] Charm Actions Ops Port (#343)  * Porting con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/343) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Test CK8s GPU Support (#1502)  * Initial implementation ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1502) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ad...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ventana and Canonical collaborate on enabling enterprise data center, high-performance and AI computing on RISC-V](https://ubuntu.com//blog/ventana-and-canonical-collaboration) - Thu, 11 Apr 2024 09:00:00 
 * [The role of secure data storage in fueling AI innovation](https://ubuntu.com//blog/secure-data-storage-ai) - Thu, 11 Apr 2024 07:02:00 
 * [Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration) - Wed, 10 Apr 2024 08:00:00 
 * [Canonical Delivers Secure, Compliant Cloud Solutions for Google Distributed Cloud](https://ubuntu.com//blog/canonical-and-google-deliver-secure-compliant-cloud-solutions-for-google-distributed-cloud) - Tue, 09 Apr 2024 10:55:00 
 * [Canonical launches Ubuntu Pro for Devices](https://ubuntu.com//blog/ubuntu-pro-for-devices) - Tue, 09 Apr 2024 06:51:58 
 * [Meet our Federal team at NLIT 2024](https://ubuntu.com//blog/meet-our-federal-team-at-nlit-2024) - Fri, 05 Apr 2024 19:09:00 
-* [Canonical joins ELISA](https://ubuntu.com//blog/canonical-joins-elisa) - Fri, 05 Apr 2024 09:00:00 
 <!-- blog ends -->
