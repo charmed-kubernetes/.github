@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pinning lxd to 5.20 is no longer necessary** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-rc.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Lets see what an exit would do** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.0-rc.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -32,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Make it more clear lxd-channel is ignore with provider=lx...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
