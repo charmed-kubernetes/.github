@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update kube-state-metrics and k8s-device-plugin versions ...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update kube-state-metrics and k8s-device-plugin versions ...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/232) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update release-notes.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.13.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **pin sniffio<1.3.1 (#221)  * pin sniffio<1.3.1  * Test w...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@cjohnston1158](https://github.com/cjohnston1158) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/840) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Unpin setuptools for Python>=3.12 (#224)  * Unpin setupto...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/73) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Pinning lxd to 5.20 is no longer necessary** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0-rc.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Lets see what an exit would do** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Managed Cloud Services: when outsourcing your operations is the most cost-effective choice](https://ubuntu.com//blog/managed-cloud-services-when-outsourcing-your-operations-is-the-most-cost-effective-choice) - Wed, 17 Apr 2024 12:33:31 
+* [Canonical presence at Qualcomm DX Summit @Hannover Messe](https://ubuntu.com//blog/canonical-presence-at-qualcomm-dx-summit-hannover-messe) - Tue, 16 Apr 2024 12:57:25 
+* [Ventana and Canonical collaborate on enabling enterprise data center, high-performance and AI computing on RISC-V](https://ubuntu.com//blog/ventana-and-canonical-collaboration) - Thu, 11 Apr 2024 09:00:00 
+* [The role of secure data storage in fueling AI innovation](https://ubuntu.com//blog/secure-data-storage-ai) - Thu, 11 Apr 2024 07:02:00 
+* [Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration) - Wed, 10 Apr 2024 08:00:00 
+* [Canonical Delivers Secure, Compliant Cloud Solutions for Google Distributed Cloud](https://ubuntu.com//blog/canonical-and-google-deliver-secure-compliant-cloud-solutions-for-google-distributed-cloud) - Tue, 09 Apr 2024 10:55:00 
 <!-- blog ends -->
