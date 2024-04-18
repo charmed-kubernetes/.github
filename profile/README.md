@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Get action id from event** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Format** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update README** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove duplicated Usage header in core README.md** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update sections** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update scripts/test.sh  Co-authored-by: Adam Dyess <adam....** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **kubernetes-control-plane/worker no longer supports vspher...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1500) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
