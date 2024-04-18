@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Get action id from event** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Format** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update src/charm.py  Co-authored-by: Adam Dyess <adam.dye...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update README** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **kubernetes-control-plane/worker no longer supports vspher...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1500) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **commit one test for e2e charm (#34)** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has pushed the commit **address py38 compat** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has pushed the commit **Splitting master/node services into separate charm layers...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Run coredns charm validation with image from charmhub (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1506) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add empty test file.** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add validation coverage for Calico in vxlan mode (#652)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [What is MLflow?](https://ubuntu.com//blog/what-is-mlflow) - Wed, 17 Apr 2024 16:49:14 
+* [Managed Cloud Services: when outsourcing your operations is the most cost-effective choice](https://ubuntu.com//blog/managed-cloud-services-when-outsourcing-your-operations-is-the-most-cost-effective-choice) - Wed, 17 Apr 2024 12:33:31 
+* [Canonical presence at Qualcomm DX Summit @Hannover Messe](https://ubuntu.com//blog/canonical-presence-at-qualcomm-dx-summit-hannover-messe) - Tue, 16 Apr 2024 12:57:25 
+* [Ventana and Canonical collaborate on enabling enterprise data center, high-performance and AI computing on RISC-V](https://ubuntu.com//blog/ventana-and-canonical-collaboration) - Thu, 11 Apr 2024 09:00:00 
+* [The role of secure data storage in fueling AI innovation](https://ubuntu.com//blog/secure-data-storage-ai) - Thu, 11 Apr 2024 07:02:00 
+* [Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration) - Wed, 10 Apr 2024 08:00:00 
 <!-- blog ends -->
