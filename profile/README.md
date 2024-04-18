@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **remove duplicated Usage header in core README.md** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update sections** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update scripts/test.sh  Co-authored-by: Adam Dyess <adam....** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Review comments** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/33) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.4-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Revert pushing CharmedKubernetes snaps and charms to 1.31...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1507) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **add models to support upstream <-> sync for debian packag...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Deploy coredns charm based on control-plane architecture ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Enable testing of canonical k8s with this charm (#33)  Co...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **switch to stable-1.30 on the release-1.30 branch** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **main should use 1.30/edge snaps until 1.31.0.rc0 is avail...** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [DISA publishes STIG for Ubuntu 22.04 LTS](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-lts) - Thu, 18 Apr 2024 16:39:18 
 * [What is MLflow?](https://ubuntu.com//blog/what-is-mlflow) - Wed, 17 Apr 2024 16:49:14 
 * [Managed Cloud Services: when outsourcing your operations is the most cost-effective choice](https://ubuntu.com//blog/managed-cloud-services-when-outsourcing-your-operations-is-the-most-cost-effective-choice) - Wed, 17 Apr 2024 12:33:31 
 * [Canonical presence at Qualcomm DX Summit @Hannover Messe](https://ubuntu.com//blog/canonical-presence-at-qualcomm-dx-summit-hannover-messe) - Tue, 16 Apr 2024 12:57:25 
 * [Ventana and Canonical collaborate on enabling enterprise data center, high-performance and AI computing on RISC-V](https://ubuntu.com//blog/ventana-and-canonical-collaboration) - Thu, 11 Apr 2024 09:00:00 
 * [The role of secure data storage in fueling AI innovation](https://ubuntu.com//blog/secure-data-storage-ai) - Thu, 11 Apr 2024 07:02:00 
-* [Canonical announces collaboration with Qualcomm](https://ubuntu.com//blog/qualcomm-and-canonical-announce-strategic-collaboration) - Wed, 10 Apr 2024 08:00:00 
 <!-- blog ends -->
