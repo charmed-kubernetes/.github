@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **release checklist: pin snap and charm channels  Pin confi...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **release checklist: pin snap and charm channels  Pin confi...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **pin config to 1.30/stable snaps** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Microk8s job fixes (#1508)  * Fix 'cores' overlaps with '...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1508) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update how-to-cos-lite.md (#841)  Fix link to microk8s in...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/841) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1508) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add back missing paragraph** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **create kubernetes operator charms and deploy with integra...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Initial Commit** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Initial commit** to [opa-gatekeeper-operators](https://github.com/charmed-kubernetes/opa-gatekeeper-operators)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **initial coredns charm** to [charm-coredns](https://github.com/charmed-kubernetes/charm-coredns)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Initial commit** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
