@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Validation `test_kubelet_extra_config` should timeout, mo...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **release checklist: pin snap and charm channels  Pin confi...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **release checklist: pin snap and charm channels  Pin confi...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update how-to-cos-lite.md (#841)  Fix link to microk8s in...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/841) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1508) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Add back missing paragraph** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Let’s talk open design](https://ubuntu.com//blog/lets-talk-open-design) - Fri, 19 Apr 2024 10:11:44 
-* [DISA publishes STIG for Ubuntu 22.04 LTS](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-lts) - Thu, 18 Apr 2024 16:39:18 
-* [What is MLflow?](https://ubuntu.com//blog/what-is-mlflow) - Wed, 17 Apr 2024 16:49:14 
-* [Managed Cloud Services: when outsourcing your operations is the most cost-effective choice](https://ubuntu.com//blog/managed-cloud-services-when-outsourcing-your-operations-is-the-most-cost-effective-choice) - Wed, 17 Apr 2024 12:33:31 
-* [Canonical presence at Qualcomm DX Summit @Hannover Messe](https://ubuntu.com//blog/canonical-presence-at-qualcomm-dx-summit-hannover-messe) - Tue, 16 Apr 2024 12:57:25 
-* [Ventana and Canonical collaborate on enabling enterprise data center, high-performance and AI computing on RISC-V](https://ubuntu.com//blog/ventana-and-canonical-collaboration) - Thu, 11 Apr 2024 09:00:00 
+
 <!-- blog ends -->
