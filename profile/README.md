@@ -43,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Achieving Performant Single-Tenant Cloud Isolation with IBM Cloud Bare Metal Servers, Ubuntu Core, Snaps, and AMD Pensando Elba Data Processing Unit](https://ubuntu.com//blog/cloud-isolation-ibm-bare-metal-ubuntu-core) - Mon, 22 Apr 2024 16:52:40 
+* [Let’s talk open design](https://ubuntu.com//blog/lets-talk-open-design) - Fri, 19 Apr 2024 10:11:44 
+* [DISA publishes STIG for Ubuntu 22.04 LTS](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-lts) - Thu, 18 Apr 2024 16:39:18 
+* [What is MLflow?](https://ubuntu.com//blog/what-is-mlflow) - Wed, 17 Apr 2024 16:49:14 
+* [Managed Cloud Services: when outsourcing your operations is the most cost-effective choice](https://ubuntu.com//blog/managed-cloud-services-when-outsourcing-your-operations-is-the-most-cost-effective-choice) - Wed, 17 Apr 2024 12:33:31 
+* [Canonical presence at Qualcomm DX Summit @Hannover Messe](https://ubuntu.com//blog/canonical-presence-at-qualcomm-dx-summit-hannover-messe) - Tue, 16 Apr 2024 12:57:25 
 <!-- blog ends -->
