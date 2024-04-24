@@ -25,10 +25,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/75) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial actions support for configuring env for operator ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Add troubleshooting page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump tar from 6.1.11 to 6.2.1 in /_sass/vanilla-framework...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **new storage cache config option (#68)  * add new storage-...** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **Let juju pick the ubuntu base for coredns deployment** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
