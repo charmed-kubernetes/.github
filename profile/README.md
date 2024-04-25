@@ -25,10 +25,11 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Merge branch 'deb-sync'  Signed-off-by: Adam Stokes <5189...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update Action Node runtime version (#75)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/75) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial actions support for configuring env for operator ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Add troubleshooting page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump tar from 6.1.11 to 6.2.1 in /_sass/vanilla-framework...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -38,10 +39,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [What&#8217;s new in security for Ubuntu 24.04 LTS?](https://ubuntu.com//blog/whats-new-in-security-for-ubuntu-24-04-lts) - Wed, 24 Apr 2024 08:40:27 
-* [Achieving Performant Single-Tenant Cloud Isolation with IBM Cloud Bare Metal Servers, Ubuntu Core, Snaps, and AMD Pensando Elba Data Processing Unit](https://ubuntu.com//blog/cloud-isolation-ibm-bare-metal-ubuntu-core) - Mon, 22 Apr 2024 16:52:40 
-* [Let’s talk open design](https://ubuntu.com//blog/lets-talk-open-design) - Fri, 19 Apr 2024 10:11:44 
-* [DISA publishes STIG for Ubuntu 22.04 LTS](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-lts) - Thu, 18 Apr 2024 16:39:18 
-* [What is MLflow?](https://ubuntu.com//blog/what-is-mlflow) - Wed, 17 Apr 2024 16:49:14 
-* [Managed Cloud Services: when outsourcing your operations is the most cost-effective choice](https://ubuntu.com//blog/managed-cloud-services-when-outsourcing-your-operations-is-the-most-cost-effective-choice) - Wed, 17 Apr 2024 12:33:31 
+
 <!-- blog ends -->
