@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Merge branch 'deb-sync'  Signed-off-by: Adam Stokes <5189...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Initial commit** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Merge branch 'deb-sync'  Signed-off-by: Adam Stokes <5189...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update Action Node runtime version (#75)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/75) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial actions support for configuring env for operator ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add troubleshooting page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical releases Ubuntu 24.04 LTS Noble Numbat](https://ubuntu.com//blog/canonical-releases-ubuntu-24-04-noble-numbat) - Thu, 25 Apr 2024 15:01:15 
+* [Ubuntu Desktop 24.04 LTS: Noble Numbat deep dive](https://ubuntu.com//blog/ubuntu-desktop-24-04-noble-numbat-deep-dive) - Thu, 25 Apr 2024 15:00:49 
+* [What&#8217;s new in security for Ubuntu 24.04 LTS?](https://ubuntu.com//blog/whats-new-in-security-for-ubuntu-24-04-lts) - Wed, 24 Apr 2024 08:40:27 
+* [Achieving Performant Single-Tenant Cloud Isolation with IBM Cloud Bare Metal Servers, Ubuntu Core, Snaps, and AMD Pensando Elba Data Processing Unit](https://ubuntu.com//blog/cloud-isolation-ibm-bare-metal-ubuntu-core) - Mon, 22 Apr 2024 16:52:40 
+* [Let’s talk open design](https://ubuntu.com//blog/lets-talk-open-design) - Fri, 19 Apr 2024 10:11:44 
+* [DISA publishes STIG for Ubuntu 22.04 LTS](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-lts) - Thu, 18 Apr 2024 16:39:18 
 <!-- blog ends -->
