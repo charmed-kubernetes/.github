@@ -25,11 +25,11 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Merge branch 'deb-sync'  Signed-off-by: Adam Stokes <5189...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Initial commit** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Merge branch 'deb-sync'  Signed-off-by: Adam Stokes <5189...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update Action Node runtime version (#75)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/75) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
