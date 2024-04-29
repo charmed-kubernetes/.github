@@ -25,11 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Produce apis to add a k8s cloud and tear down its models ...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/129) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/131) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@addyess](https://github.com/addyess) has pushed the commit **test with updated inclusivity workflow** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust linting for BundleOpt** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Moving the inclusive name check to the canonical org** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@yanksyoon](https://github.com/yanksyoon) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/131) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Merge branch 'deb-sync'  Signed-off-by: Adam Stokes <5189...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Initial commit** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -39,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Kubernetes backups just got easier with the CloudCasa charm from Catalogic](https://ubuntu.com//blog/easier-k8s-backups-with-charmed-cloudcasa) - Mon, 29 Apr 2024 14:00:00 
 * [Canonical releases Ubuntu 24.04 LTS Noble Numbat](https://ubuntu.com//blog/canonical-releases-ubuntu-24-04-noble-numbat) - Thu, 25 Apr 2024 15:01:15 
 * [Ubuntu Desktop 24.04 LTS: Noble Numbat deep dive](https://ubuntu.com//blog/ubuntu-desktop-24-04-noble-numbat-deep-dive) - Thu, 25 Apr 2024 15:00:49 
 * [What&#8217;s new in security for Ubuntu 24.04 LTS?](https://ubuntu.com//blog/whats-new-in-security-for-ubuntu-24-04-lts) - Wed, 24 Apr 2024 08:40:27 
 * [Achieving Performant Single-Tenant Cloud Isolation with IBM Cloud Bare Metal Servers, Ubuntu Core, Snaps, and AMD Pensando Elba Data Processing Unit](https://ubuntu.com//blog/cloud-isolation-ibm-bare-metal-ubuntu-core) - Mon, 22 Apr 2024 16:52:40 
 * [Let’s talk open design](https://ubuntu.com//blog/lets-talk-open-design) - Fri, 19 Apr 2024 10:11:44 
-* [DISA publishes STIG for Ubuntu 22.04 LTS](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-lts) - Thu, 18 Apr 2024 16:39:18 
 <!-- blog ends -->
