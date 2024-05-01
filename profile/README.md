@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **include ceph 3.10 upstream manifests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Update virtualenv along with setuptools. (#226)  Using ol...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin non canonical owned snaps unless workflow specificall...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin non canonical owned snaps unless workflow specificall...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Produce apis to add a k8s cloud and tear down its models ...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/129) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/131) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **test with updated inclusivity workflow** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
