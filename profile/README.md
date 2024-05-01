@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [The biggest use cases for AI in Automotive (that aren&#8217;t just self-driving cars)](https://ubuntu.com//blog/the-biggest-use-cases-for-ai-in-automotive-that-arent-just-self-driving-cars) - Tue, 30 Apr 2024 08:00:00 
-* [What’s New in Ubuntu 24.04 LTS for Microsoft/Azure Users](https://ubuntu.com//blog/ubuntu-24-04-lts-azure-optimized) - Mon, 29 Apr 2024 17:28:34 
-* [Kubernetes backups just got easier with the CloudCasa charm from Catalogic](https://ubuntu.com//blog/easier-k8s-backups-with-charmed-cloudcasa) - Mon, 29 Apr 2024 14:00:00 
-* [Canonical releases Ubuntu 24.04 LTS Noble Numbat](https://ubuntu.com//blog/canonical-releases-ubuntu-24-04-noble-numbat) - Thu, 25 Apr 2024 15:01:15 
-* [Ubuntu Desktop 24.04 LTS: Noble Numbat deep dive](https://ubuntu.com//blog/ubuntu-desktop-24-04-noble-numbat-deep-dive) - Thu, 25 Apr 2024 15:00:49 
-* [What&#8217;s new in security for Ubuntu 24.04 LTS?](https://ubuntu.com//blog/whats-new-in-security-for-ubuntu-24-04-lts) - Wed, 24 Apr 2024 08:40:27 
+
 <!-- blog ends -->
