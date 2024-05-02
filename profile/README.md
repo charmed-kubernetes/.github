@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial commit** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add v3.11 ceph-csi manifests (#17)  * add v3.11 ceph-csi ...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **include ceph 3.10 upstream manifests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Update virtualenv along with setuptools. (#226)  Using ol...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin non canonical owned snaps unless workflow specificall...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin non canonical owned snaps unless workflow specificall...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/76) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
