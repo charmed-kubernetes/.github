@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Initial commit** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **add v3.11 ceph-csi manifests (#17)  * add v3.11 ceph-csi ...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/17) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **lint fixes** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **include ceph 3.10 upstream manifests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Update virtualenv along with setuptools. (#226)  Using ol...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin non canonical owned snaps unless workflow specificall...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Inclusive naming** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2060070] Charm Actions Ops Port (#343)  * Porting con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Handle custom events in Reconcile function (#3)  Add the ...** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/3) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/3) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/3) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
+ - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Add juju 3.4 and 3.5 to CI.  Refactor workflow matrix to ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/77) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Add juju 3.4 and 3.5 to CI.  Refactor workflow matrix to ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Initial actions support for configuring env for operator ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical releases Landscape 24.04 LTS](https://ubuntu.com//blog/canonical-releases-landscape-24-04-lts) - Wed, 01 May 2024 02:31:58 
-* [The biggest use cases for AI in Automotive (that aren&#8217;t just self-driving cars)](https://ubuntu.com//blog/the-biggest-use-cases-for-ai-in-automotive-that-arent-just-self-driving-cars) - Tue, 30 Apr 2024 08:00:00 
-* [What’s New in Ubuntu 24.04 LTS for Microsoft/Azure Users](https://ubuntu.com//blog/ubuntu-24-04-lts-azure-optimized) - Mon, 29 Apr 2024 17:28:34 
-* [Kubernetes backups just got easier with the CloudCasa charm from Catalogic](https://ubuntu.com//blog/easier-k8s-backups-with-charmed-cloudcasa) - Mon, 29 Apr 2024 14:00:00 
-* [Canonical releases Ubuntu 24.04 LTS Noble Numbat](https://ubuntu.com//blog/canonical-releases-ubuntu-24-04-noble-numbat) - Thu, 25 Apr 2024 15:01:15 
-* [Ubuntu Desktop 24.04 LTS: Noble Numbat deep dive](https://ubuntu.com//blog/ubuntu-desktop-24-04-noble-numbat-deep-dive) - Thu, 25 Apr 2024 15:00:49 
+
 <!-- blog ends -->
