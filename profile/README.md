@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve testing, improved security, validated upgrades** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **test_encryption_at_rest becomes a retrant test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **test_encryption_at_rest becomes a retrant test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/3) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/3) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-reconciler/pull/3) in the [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler) repository.
- - [@ca-scribner](https://github.com/ca-scribner) has pushed the commit **Add juju 3.4 and 3.5 to CI.  Refactor workflow matrix to ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical releases Landscape 24.04 LTS](https://ubuntu.com//blog/canonical-releases-landscape-24-04-lts) - Wed, 01 May 2024 02:31:58 
-* [The biggest use cases for AI in Automotive (that aren&#8217;t just self-driving cars)](https://ubuntu.com//blog/the-biggest-use-cases-for-ai-in-automotive-that-arent-just-self-driving-cars) - Tue, 30 Apr 2024 08:00:00 
-* [What’s New in Ubuntu 24.04 LTS for Microsoft/Azure Users](https://ubuntu.com//blog/ubuntu-24-04-lts-azure-optimized) - Mon, 29 Apr 2024 17:28:34 
-* [Kubernetes backups just got easier with the CloudCasa charm from Catalogic](https://ubuntu.com//blog/easier-k8s-backups-with-charmed-cloudcasa) - Mon, 29 Apr 2024 14:00:00 
-* [Canonical releases Ubuntu 24.04 LTS Noble Numbat](https://ubuntu.com//blog/canonical-releases-ubuntu-24-04-noble-numbat) - Thu, 25 Apr 2024 15:01:15 
-* [Ubuntu Desktop 24.04 LTS: Noble Numbat deep dive](https://ubuntu.com//blog/ubuntu-desktop-24-04-noble-numbat-deep-dive) - Thu, 25 Apr 2024 15:00:49 
+
 <!-- blog ends -->
