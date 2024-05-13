@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **test_encryption_at_rest becomes a retrant test** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Inclusive naming** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2060070] Charm Actions Ops Port (#343)  * Porting con...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Handle custom events in Reconcile function (#3)  Add the ...** to [charm-lib-reconciler](https://github.com/charmed-kubernetes/charm-lib-reconciler)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
