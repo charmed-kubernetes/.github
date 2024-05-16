@@ -25,15 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Updating the contributors guide for building the typescri...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/80) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin non-canonical snaps by revision but arch aware (#79)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/79) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/79) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/79) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update http_provides.py ensuring Port value is represente...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/171) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/171) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Migrate to new inclusive naming action** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.5.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.10.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
