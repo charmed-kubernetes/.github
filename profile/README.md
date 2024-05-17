@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin non-canonical snaps by revision but arch aware (#79)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/79) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/79) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical at Dell Technologies World 2024](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2024) - Wed, 15 May 2024 16:32:41 
-* [Ubuntu Pro for EKS is now generally available](https://ubuntu.com//blog/ubuntu-pro-for-eks-is-now-generally-available) - Tue, 14 May 2024 08:26:20 
-* [Deploy an on-premise data hub with Canonical MAAS, Spark, Kubernetes and Ceph](https://ubuntu.com//blog/deploy-an-on-premise-data-hub-with-canonical-maas-spark-kubernetes-and-ceph) - Tue, 14 May 2024 08:22:33 
-* [Ubuntu Pro 24.04 LTS Lands on Google Cloud: Power Up Your Cloud Experience](https://ubuntu.com//blog/ubuntu-pro-24-04-lts-lands-on-google-cloud-power-up-your-cloud-experience) - Mon, 13 May 2024 19:50:16 
-* [An overview of machine learning security risks](https://ubuntu.com//blog/machine-learning-security-risks) - Fri, 10 May 2024 10:23:13 
-* [Meet our federal team at Space Tech Expo USA](https://ubuntu.com//blog/meet-our-federal-team-at-space-tech-expo-usa) - Mon, 06 May 2024 12:48:01 
+
 <!-- blog ends -->
