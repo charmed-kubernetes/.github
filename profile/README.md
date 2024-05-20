@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Cloudify your data centre &#8211; A guide to VMware infrastructure transformation](https://ubuntu.com//blog/cloudify-your-data-centre) - Mon, 20 May 2024 07:00:00 
+* [Migrating from CentOS to Ubuntu: a guide for system administrators and DevOps](https://ubuntu.com//blog/migrating-from-centos-to-ubuntu-guide) - Fri, 17 May 2024 10:52:50 
+* [Canonical at Dell Technologies World 2024](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2024) - Wed, 15 May 2024 16:32:41 
+* [Ubuntu Pro for EKS is now generally available](https://ubuntu.com//blog/ubuntu-pro-for-eks-is-now-generally-available) - Tue, 14 May 2024 08:26:20 
+* [Deploy an on-premise data hub with Canonical MAAS, Spark, Kubernetes and Ceph](https://ubuntu.com//blog/deploy-an-on-premise-data-hub-with-canonical-maas-spark-kubernetes-and-ceph) - Tue, 14 May 2024 08:22:33 
+* [Ubuntu Pro 24.04 LTS Lands on Google Cloud: Power Up Your Cloud Experience](https://ubuntu.com//blog/ubuntu-pro-24-04-lts-lands-on-google-cloud-power-up-your-cloud-experience) - Mon, 13 May 2024 19:50:16 
 <!-- blog ends -->
