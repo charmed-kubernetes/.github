@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Advantech RSB-3810, a new Single Board Computer powered by MediaTek Genio 1200, is now certified on Ubuntu 22.04 LTS](https://ubuntu.com//blog/advantech-rsb-3810-mediatek-genio-ubuntu-certified) - Wed, 22 May 2024 08:24:23 
-* [Canonical supports Microsoft Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-supports-azure-cobalt-100-vms) - Tue, 21 May 2024 19:00:00 
-* [Cloudify your data centre &#8211; A guide to VMware infrastructure transformation](https://ubuntu.com//blog/cloudify-your-data-centre) - Mon, 20 May 2024 07:00:00 
-* [Migrating from CentOS to Ubuntu: a guide for system administrators and DevOps](https://ubuntu.com//blog/migrating-from-centos-to-ubuntu-guide) - Fri, 17 May 2024 10:52:50 
-* [Canonical at Dell Technologies World 2024](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2024) - Wed, 15 May 2024 16:32:41 
-* [Ubuntu Pro for EKS is now generally available](https://ubuntu.com//blog/ubuntu-pro-for-eks-is-now-generally-available) - Tue, 14 May 2024 08:26:20 
+
 <!-- blog ends -->
