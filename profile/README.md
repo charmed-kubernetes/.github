@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin libraries for main, adjust testing (#37)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back libraries for the 1.30 release, adjust testing (...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back libraries for the 1.29 release, adjust testing (...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/37) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/36) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/35) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back libraries for the 1.29 release, adjust testing** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Assert In flight requests (#172)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Assert In flight requests (#172)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Assert In flight requests (#172)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/172) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **some charm sk skeleton** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **ops requirements** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Implement an HttpProvides for the ingress-proxy interface...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Implement an HttpProvides for the ingress-proxy interface...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Give models a bit longer to setup until we can speed up d...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Can it play Doom? Running an AI LAN party on a Spark cluster with ViZDoom](https://ubuntu.com//blog/can-it-play-doom-running-an-ai-lan-party-on-a-spark-cluster-with-vizdoom) - Thu, 23 May 2024 08:22:50 
-* [Advantech RSB-3810, a new Single Board Computer powered by MediaTek Genio 1200, is now certified on Ubuntu 22.04 LTS](https://ubuntu.com//blog/advantech-rsb-3810-mediatek-genio-ubuntu-certified) - Wed, 22 May 2024 08:24:23 
-* [Canonical supports Microsoft Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-supports-azure-cobalt-100-vms) - Tue, 21 May 2024 19:00:00 
-* [Cloudify your data centre &#8211; A guide to VMware infrastructure transformation](https://ubuntu.com//blog/cloudify-your-data-centre) - Mon, 20 May 2024 07:00:00 
-* [Migrating from CentOS to Ubuntu: a guide for system administrators and DevOps](https://ubuntu.com//blog/migrating-from-centos-to-ubuntu-guide) - Fri, 17 May 2024 10:52:50 
-* [Canonical at Dell Technologies World 2024](https://ubuntu.com//blog/canonical-at-dell-technologies-world-2024) - Wed, 15 May 2024 16:32:41 
+
 <!-- blog ends -->
