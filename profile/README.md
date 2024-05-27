@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **etcd-proxy** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **cleanup** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **add snap library** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **the etcd library** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin libraries for main, adjust testing (#37)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back libraries for the 1.30 release, adjust testing (...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back libraries for the 1.29 release, adjust testing (...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/37) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/36) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/35) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin back libraries for the 1.29 release, adjust testing** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Assert In flight requests (#172)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Assert In flight requests (#172)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
