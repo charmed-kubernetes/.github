@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **more etcd snap stuff** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **mini fixes** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **entrypoint** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add new line to end of manifests** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **charmcraft adventure** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Fix variable name** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1498) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **snap install etcd** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **add tls v3 lib** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **events etcd-proxy** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **etcd-proxy** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **cleanup** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **add snap library** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
