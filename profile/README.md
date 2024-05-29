@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/344) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/173) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/38) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for reproducible charm builds** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **more etcd snap stuff** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **mini fixes** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **entrypoint** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Add new line to end of manifests** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **charmcraft adventure** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Fix variable name** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1498) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
