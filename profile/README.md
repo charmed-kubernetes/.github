@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/840) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump rexml from 3.2.6 to 3.2.8 (#842)  Bumps [rexml](http...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **uplift layer opts** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/344) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/173) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/38) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for reproducible charm builds** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include encryption_at_rest path (#16)  * include encrypti...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/16) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/16) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **switch to inclusive-naming** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Remove 1.15 manifests for now** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/16) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
