@@ -26,14 +26,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@addyess](https://github.com/addyess) has pushed the commit **Simplify uplifting the one-shot-token from a reactive upg...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Simplify uplifting the one-shot-token from a reactive upg...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Reintroduce vault kv testing (#1498)  * Reintroduce vault...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ku 510/vault kv/encryption at rest (#342)  * Vendor ops v...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/342) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Freeze python dependencies for rreproducible charm builds...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Cherry-pick #16 via PR into release_1.29 (#17)** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/17) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **include encryption_at_rest path (#16)  * include encrypti...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/345) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Strip the output from leader-get as it tends to add extra...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Strip the output from leader-get as it tends to add extra...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Strip the output from leader-get as it tends to add extra...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/347) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **format file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **refactor for readability** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **do not store one-shot token, but a hash of it instead** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical releases Real-time Ubuntu 24.04 LTS](https://ubuntu.com//blog/real-time-24-04) - Thu, 30 May 2024 13:04:46 
+* [Canonical enables Ubuntu on Milk-V Mars, a credit-card-sized RISC-V SBC](https://ubuntu.com//blog/canonical-enables-ubuntu-on-milk-v-mars) - Tue, 28 May 2024 02:45:17 
+* [Can it play Doom? Running an AI LAN party on a Spark cluster with ViZDoom](https://ubuntu.com//blog/can-it-play-doom-running-an-ai-lan-party-on-a-spark-cluster-with-vizdoom) - Thu, 23 May 2024 08:22:50 
+* [Advantech RSB-3810, a new Single Board Computer powered by MediaTek Genio 1200, is now certified on Ubuntu 22.04 LTS](https://ubuntu.com//blog/advantech-rsb-3810-mediatek-genio-ubuntu-certified) - Wed, 22 May 2024 08:24:23 
+* [Canonical supports Microsoft Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-supports-azure-cobalt-100-vms) - Tue, 21 May 2024 19:00:00 
+* [Cloudify your data centre &#8211; A guide to VMware infrastructure transformation](https://ubuntu.com//blog/cloudify-your-data-centre) - Mon, 20 May 2024 07:00:00 
 <!-- blog ends -->
