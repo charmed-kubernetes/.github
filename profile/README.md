@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove tigera-secure-ee charm from builds** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/12) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating CI checks** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Update CI file** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **lint** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **use hash objects instead of string digests** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **better code** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Canonical releases Real-time Ubuntu 24.04 LTS](https://ubuntu.com//blog/real-time-24-04) - Thu, 30 May 2024 13:04:46 
+* [Canonical enables Ubuntu on Milk-V Mars, a credit-card-sized RISC-V SBC](https://ubuntu.com//blog/canonical-enables-ubuntu-on-milk-v-mars) - Tue, 28 May 2024 02:45:17 
+* [Can it play Doom? Running an AI LAN party on a Spark cluster with ViZDoom](https://ubuntu.com//blog/can-it-play-doom-running-an-ai-lan-party-on-a-spark-cluster-with-vizdoom) - Thu, 23 May 2024 08:22:50 
+* [Advantech RSB-3810, a new Single Board Computer powered by MediaTek Genio 1200, is now certified on Ubuntu 22.04 LTS](https://ubuntu.com//blog/advantech-rsb-3810-mediatek-genio-ubuntu-certified) - Wed, 22 May 2024 08:24:23 
+* [Canonical supports Microsoft Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-supports-azure-cobalt-100-vms) - Tue, 21 May 2024 19:00:00 
+* [Cloudify your data centre &#8211; A guide to VMware infrastructure transformation](https://ubuntu.com//blog/cloudify-your-data-centre) - Mon, 20 May 2024 07:00:00 
 <!-- blog ends -->
