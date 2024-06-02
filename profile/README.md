@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Deploy GenAI applications with Canonical’s  Charmed Kubeflow and NVIDIA NIM](https://ubuntu.com//blog/deploy-genai-applications-with-nvidia-nim-and-charmed-kubeflow) - Sun, 02 Jun 2024 12:38:06 
 * [Canonical releases Real-time Ubuntu 24.04 LTS](https://ubuntu.com//blog/real-time-24-04) - Thu, 30 May 2024 13:04:46 
 * [Canonical enables Ubuntu on Milk-V Mars, a credit-card-sized RISC-V SBC](https://ubuntu.com//blog/canonical-enables-ubuntu-on-milk-v-mars) - Tue, 28 May 2024 02:45:17 
 * [Can it play Doom? Running an AI LAN party on a Spark cluster with ViZDoom](https://ubuntu.com//blog/can-it-play-doom-running-an-ai-lan-party-on-a-spark-cluster-with-vizdoom) - Thu, 23 May 2024 08:22:50 
 * [Advantech RSB-3810, a new Single Board Computer powered by MediaTek Genio 1200, is now certified on Ubuntu 22.04 LTS](https://ubuntu.com//blog/advantech-rsb-3810-mediatek-genio-ubuntu-certified) - Wed, 22 May 2024 08:24:23 
 * [Canonical supports Microsoft Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-supports-azure-cobalt-100-vms) - Tue, 21 May 2024 19:00:00 
-* [Cloudify your data centre &#8211; A guide to VMware infrastructure transformation](https://ubuntu.com//blog/cloudify-your-data-centre) - Mon, 20 May 2024 07:00:00 
 <!-- blog ends -->
