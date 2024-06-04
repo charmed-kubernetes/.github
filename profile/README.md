@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **databag things** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Skip community addons tests for microk8s (#1516)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Untested port of cis-benchmark action to the kubernetes-c...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove tigera-secure-ee charm from builds** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating CI checks** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating CI checks** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Extract the 1.29/stable channel bundle (#891)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update CI file** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update CI file** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Vehicle cybersecurity: the journey towards ISO 21434 compliance](https://ubuntu.com//blog/vehicle-cybersecurity-the-journey-towards-iso-21434-compliance) - Mon, 03 Jun 2024 08:00:00 
-* [Deploy GenAI applications with Canonical’s  Charmed Kubeflow and NVIDIA NIM](https://ubuntu.com//blog/deploy-genai-applications-with-nvidia-nim-and-charmed-kubeflow) - Sun, 02 Jun 2024 12:38:06 
-* [Canonical releases Real-time Ubuntu 24.04 LTS](https://ubuntu.com//blog/real-time-24-04) - Thu, 30 May 2024 13:04:46 
-* [Canonical enables Ubuntu on Milk-V Mars, a credit-card-sized RISC-V SBC](https://ubuntu.com//blog/canonical-enables-ubuntu-on-milk-v-mars) - Tue, 28 May 2024 02:45:17 
-* [Can it play Doom? Running an AI LAN party on a Spark cluster with ViZDoom](https://ubuntu.com//blog/can-it-play-doom-running-an-ai-lan-party-on-a-spark-cluster-with-vizdoom) - Thu, 23 May 2024 08:22:50 
-* [Advantech RSB-3810, a new Single Board Computer powered by MediaTek Genio 1200, is now certified on Ubuntu 22.04 LTS](https://ubuntu.com//blog/advantech-rsb-3810-mediatek-genio-ubuntu-certified) - Wed, 22 May 2024 08:24:23 
+
 <!-- blog ends -->
