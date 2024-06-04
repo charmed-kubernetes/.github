@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [A look into Ubuntu Core 24: Deploying AI models in FPGAs for production](https://ubuntu.com//blog/ubuntu-core-24-ai-models) - Tue, 04 Jun 2024 06:07:07 
+* [A look into Ubuntu Core 24: Device management with Landscape](https://ubuntu.com//blog/ubuntu-core-24-device-management) - Tue, 04 Jun 2024 06:06:34 
+* [Canonical launches Ubuntu Core 24](https://ubuntu.com//blog/canonical-launches-ubuntu-core-24) - Tue, 04 Jun 2024 06:05:55 
+* [Vehicle cybersecurity: the journey towards ISO 21434 compliance](https://ubuntu.com//blog/vehicle-cybersecurity-the-journey-towards-iso-21434-compliance) - Mon, 03 Jun 2024 08:00:00 
+* [Deploy GenAI applications with Canonical’s  Charmed Kubeflow and NVIDIA NIM](https://ubuntu.com//blog/deploy-genai-applications-with-nvidia-nim-and-charmed-kubeflow) - Sun, 02 Jun 2024 12:38:06 
+* [Canonical releases Real-time Ubuntu 24.04 LTS](https://ubuntu.com//blog/real-time-24-04) - Thu, 30 May 2024 13:04:46 
 <!-- blog ends -->
