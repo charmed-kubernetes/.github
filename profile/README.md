@@ -25,15 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address test issues by installing bird in parallel with t...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **insert a line feed so as to not break web renderer** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **databag things** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Skip community addons tests for microk8s (#1516)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Untested port of cis-benchmark action to the kubernetes-c...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove tigera-secure-ee charm from builds** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/12) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Updating CI checks** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Updating CI checks** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [A look into Ubuntu Core 24: Robotics telemetry for your fleet](https://ubuntu.com//blog/ubuntu-core-24-robotics-telemetry) - Wed, 05 Jun 2024 07:00:00 
-* [A look into Ubuntu Core 24: Deploying AI models in FPGAs for production](https://ubuntu.com//blog/ubuntu-core-24-ai-models) - Tue, 04 Jun 2024 06:07:07 
-* [A look into Ubuntu Core 24: Device management with Landscape](https://ubuntu.com//blog/ubuntu-core-24-device-management) - Tue, 04 Jun 2024 06:06:34 
-* [Canonical launches Ubuntu Core 24](https://ubuntu.com//blog/canonical-launches-ubuntu-core-24) - Tue, 04 Jun 2024 06:05:55 
-* [Vehicle cybersecurity: the journey towards ISO 21434 compliance](https://ubuntu.com//blog/vehicle-cybersecurity-the-journey-towards-iso-21434-compliance) - Mon, 03 Jun 2024 08:00:00 
-* [Deploy GenAI applications with Canonical’s  Charmed Kubeflow and NVIDIA NIM](https://ubuntu.com//blog/deploy-genai-applications-with-nvidia-nim-and-charmed-kubeflow) - Sun, 02 Jun 2024 12:38:06 
+
 <!-- blog ends -->
