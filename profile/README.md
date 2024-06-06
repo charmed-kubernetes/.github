@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to calico v3.27.3 (#106)  * Upgrade to calico v3....** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/106) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add 1.13 and 1.14 Cilium manifests (#12)  * Add 1.13, 1.1...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add 1.13 and 1.14 Cilium manifests (#12)  * Add 1.13, 1.1...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/13) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mastier](https://github.com/mastier) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/844) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address test issues by installing bird in parallel with t...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **insert a line feed so as to not break web renderer** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **databag things** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
