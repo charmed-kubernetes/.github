@@ -25,14 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address test issues by installing bird in parallel with t...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **insert a line feed so as to not break web renderer** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **databag things** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Skip community addons tests for microk8s (#1516)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Untested port of cis-benchmark action to the kubernetes-c...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove tigera-secure-ee charm from builds** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
