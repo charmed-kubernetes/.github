@@ -25,14 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/13) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mastier](https://github.com/mastier) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/844) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use current metallb charm and current pytest-operator for...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address test issues by installing bird in parallel with t...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **insert a line feed so as to not break web renderer** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **databag things** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@berkayoz](https://github.com/berkayoz) has pushed the commit **Skip community addons tests for microk8s (#1516)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Untested port of cis-benchmark action to the kubernetes-c...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [BT Group and Canonical deliver 5G to UK stadiums](https://ubuntu.com//blog/bt-group-and-canonical-deliver-5g-to-uk-stadiums) - Thu, 06 Jun 2024 11:19:34 
+* [A look into Ubuntu Core 24: Your first Linux-powered Matter device](https://ubuntu.com//blog/ubuntu-core-24-matter) - Thu, 06 Jun 2024 07:00:00 
+* [A look into Ubuntu Core 24: Robotics telemetry for your fleet](https://ubuntu.com//blog/ubuntu-core-24-robotics-telemetry) - Wed, 05 Jun 2024 07:00:00 
+* [A look into Ubuntu Core 24: Deploying AI models in FPGAs for production](https://ubuntu.com//blog/ubuntu-core-24-ai-models) - Tue, 04 Jun 2024 06:07:07 
+* [A look into Ubuntu Core 24: Device management with Landscape](https://ubuntu.com//blog/ubuntu-core-24-device-management) - Tue, 04 Jun 2024 06:06:34 
+* [Canonical launches Ubuntu Core 24](https://ubuntu.com//blog/canonical-launches-ubuntu-core-24) - Tue, 04 Jun 2024 06:05:55 
 <!-- blog ends -->
