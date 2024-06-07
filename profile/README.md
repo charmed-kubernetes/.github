@@ -25,15 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Partially support the keystone-credentials relation enoug...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/41) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/41) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Prevent update-status hook from wiping out the charm's er...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Protect against invalid cidr of bare-addresses** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Protect against invalid cidr of bare-addresses** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to calico v3.27.3 (#106)  * Upgrade to calico v3....** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/106) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Add 1.13 and 1.14 Cilium manifests (#12)  * Add 1.13, 1.1...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add 1.13 and 1.14 Cilium manifests (#12)  * Add 1.13, 1.1...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
 <!-- activity ends -->
 
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [BT Group and Canonical deliver 5G to UK stadiums](https://ubuntu.com//blog/bt-group-and-canonical-deliver-5g-to-uk-stadiums) - Thu, 06 Jun 2024 11:19:34 
+* [A look into Ubuntu Core 24: Your first Linux-powered Matter device](https://ubuntu.com//blog/ubuntu-core-24-matter) - Thu, 06 Jun 2024 07:00:00 
+* [A look into Ubuntu Core 24: Robotics telemetry for your fleet](https://ubuntu.com//blog/ubuntu-core-24-robotics-telemetry) - Wed, 05 Jun 2024 07:00:00 
+* [A look into Ubuntu Core 24: Deploying AI models in FPGAs for production](https://ubuntu.com//blog/ubuntu-core-24-ai-models) - Tue, 04 Jun 2024 06:07:07 
+* [A look into Ubuntu Core 24: Device management with Landscape](https://ubuntu.com//blog/ubuntu-core-24-device-management) - Tue, 04 Jun 2024 06:06:34 
+* [Canonical launches Ubuntu Core 24](https://ubuntu.com//blog/canonical-launches-ubuntu-core-24) - Tue, 04 Jun 2024 06:05:55 
 <!-- blog ends -->
