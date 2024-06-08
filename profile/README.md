@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve kubectl() to error quicker when kubeconfig doesn'...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust the failure mode when there's no keystone-auth-ser...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Partially support the keystone-credentials relation enoug...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Partially support the keystone-credentials relation enoug...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/41) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/41) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Protect against invalid cidr of bare-addresses** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Protect against invalid cidr of bare-addresses** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to calico v3.27.3 (#106)  * Upgrade to calico v3....** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/106) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add 1.13 and 1.14 Cilium manifests (#12)  * Add 1.13, 1.1...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address multiple issues with metallb charm deployment** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
