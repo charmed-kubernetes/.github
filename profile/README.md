@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.15.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@rgildein](https://github.com/rgildein) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/134) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update README.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Juju admin can configure authorization-webhook-config-file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Correct command mistakes in keystone upgrade nodes, add D...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/844) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **restore ceph testing using ceph-csi charm (#1518)  * rest...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
