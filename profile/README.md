@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.15.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@rgildein](https://github.com/rgildein) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/134) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **prevent authorization-webhook-config-file if Webhook not ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update validation.py  Provide ceph apps more time to deploy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update README.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Juju admin can configure authorization-webhook-config-file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Correct command mistakes in keystone upgrade nodes, add D...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/844) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **restore ceph testing using ceph-csi charm (#1518)  * rest...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1518) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **address new lint issues** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update inclusivity testing** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Supply option to set the authz-webhook-config-file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Supply option to set the authz-webhook-config-file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu Security Notices now available in OSV format](https://ubuntu.com//blog/ubuntu-security-notices-now-available-in-osv-format) - Tue, 11 Jun 2024 20:56:15 
-* [Introducing Charmed Aether SD-Core: Automated open source 5G mobile core network](https://ubuntu.com//blog/charmed-aether-sd-core-beta-release-announcement) - Tue, 11 Jun 2024 14:00:00 
-* [BT Group and Canonical deliver 5G to UK stadiums](https://ubuntu.com//blog/bt-group-and-canonical-deliver-5g-to-uk-stadiums) - Thu, 06 Jun 2024 11:19:34 
-* [A look into Ubuntu Core 24: Your first Linux-powered Matter device](https://ubuntu.com//blog/ubuntu-core-24-matter) - Thu, 06 Jun 2024 07:00:00 
-* [A look into Ubuntu Core 24: Robotics telemetry for your fleet](https://ubuntu.com//blog/ubuntu-core-24-robotics-telemetry) - Wed, 05 Jun 2024 07:00:00 
-* [A look into Ubuntu Core 24: Deploying AI models in FPGAs for production](https://ubuntu.com//blog/ubuntu-core-24-ai-models) - Tue, 04 Jun 2024 06:07:07 
+
 <!-- blog ends -->
