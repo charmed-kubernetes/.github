@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **use an exposed keystone so that auth can be executed agai...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **update docs for juju 3 (#13)  Co-authored-by: Alex Balder...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **add v3.11 ceph-csi manifests (#17)  * add v3.11 ceph-csi ...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Partially support the keystone-credentials relation enoug...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Beginning notes on how to reconfigure for keystone in 1.2...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/352) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/351) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Solving newcomer data science challenges with Canonical’s Data Science Stack &#8211; now in beta](https://ubuntu.com//blog/data-science-stack) - Thu, 13 Jun 2024 13:08:31 
+* [World’s first RISC-V Laptop gets a massive upgrade and equips with Ubuntu](https://ubuntu.com//blog/worlds-first-risc-v-laptop-gets-a-massive-upgrade-and-equips-with-ubuntu) - Thu, 13 Jun 2024 04:04:41 
+* [NIST CMVP Interim Validation &amp; Jammy FIPS](https://ubuntu.com//blog/interim-validation-jammy-fips) - Wed, 12 Jun 2024 20:50:09 
+* [Space pioneers: Lonestar gears up to create a data centre on the Moon](https://ubuntu.com//blog/lonestar-data-centre-moon) - Wed, 12 Jun 2024 12:00:00 
+* [Ubuntu Security Notices now available in OSV format](https://ubuntu.com//blog/ubuntu-security-notices-now-available-in-osv-format) - Tue, 11 Jun 2024 20:56:15 
+* [Introducing Charmed Aether SD-Core: Automated open source 5G mobile core network](https://ubuntu.com//blog/charmed-aether-sd-core-beta-release-announcement) - Tue, 11 Jun 2024 14:00:00 
 <!-- blog ends -->
