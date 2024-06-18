@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Empowering RISC-V with open source through Ubuntu](https://ubuntu.com//blog/empowering-risc-v-with-open-source-through-ubuntu) - Tue, 18 Jun 2024 05:00:00 
+* [Top 5 reasons to use Ubuntu for your AI/ML projects](https://ubuntu.com//blog/ubuntu-ai-ml-projects) - Mon, 17 Jun 2024 09:42:00 
+* [Pair Programming: The Ubuntu Way](https://ubuntu.com//blog/pair-programming) - Sun, 16 Jun 2024 09:07:36 
+* [Solving newcomer data science challenges with Canonical’s Data Science Stack &#8211; now in beta](https://ubuntu.com//blog/data-science-stack) - Thu, 13 Jun 2024 13:08:31 
+* [World’s first RISC-V Laptop gets a massive upgrade and equips with Ubuntu](https://ubuntu.com//blog/worlds-first-risc-v-laptop-gets-a-massive-upgrade-and-equips-with-ubuntu) - Thu, 13 Jun 2024 04:04:41 
+* [NIST CMVP Interim Validation &amp; Jammy FIPS](https://ubuntu.com//blog/interim-validation-jammy-fips) - Wed, 12 Jun 2024 20:50:09 
 <!-- blog ends -->
