@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/21) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide method to update kubeconfigs of known formats** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide method to update kubeconfigs of known formats** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **purge all manifests should only fail via exception** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **purge all manifests should only fail via exception** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **upgrade integration testing** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Reimagine ceph-csi charm with the reconciler pattern** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Reimagine ceph-csi charm with the reconciler pattern** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Reimagine ceph-csi charm with the reconciler pattern** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **validation: use env var for charm-channel if available** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **validation: use env var for charm-channel if available** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
