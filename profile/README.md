@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide method to update kubeconfigs of known formats** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Apply suggestions from TA review** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/843) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/21) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu Summit 2024](https://ubuntu.com//blog/ubuntu-summit-2024) - Tue, 18 Jun 2024 22:56:03 
-* [A CISO’s comprehensive breakdown of the Cyber Resilience Act](https://ubuntu.com//blog/a-cisos-comprehensive-breakdown-of-the-cyber-resilience-act) - Tue, 18 Jun 2024 12:40:31 
-* [Empowering RISC-V with open source through Ubuntu](https://ubuntu.com//blog/empowering-risc-v-with-open-source-through-ubuntu) - Tue, 18 Jun 2024 05:00:00 
-* [Top 5 reasons to use Ubuntu for your AI/ML projects](https://ubuntu.com//blog/ubuntu-ai-ml-projects) - Mon, 17 Jun 2024 09:42:00 
-* [Pair Programming: The Ubuntu Way](https://ubuntu.com//blog/pair-programming) - Sun, 16 Jun 2024 09:07:36 
-* [Solving newcomer data science challenges with Canonical’s Data Science Stack &#8211; now in beta](https://ubuntu.com//blog/data-science-stack) - Thu, 13 Jun 2024 13:08:31 
+
 <!-- blog ends -->
