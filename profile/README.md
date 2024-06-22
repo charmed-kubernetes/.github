@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Data Centre AI evolution: combining MAAS and NVIDIA smart NICs](https://ubuntu.com//blog/data-centre-ai-evolution-combining-maas-and-nvidia-smartnics) - Fri, 21 Jun 2024 13:21:42 
+* [From support engineering to UX: Piper’s career progression at Canonical](https://ubuntu.com//blog/from-support-engineering-to-ux-pipers-career-progression-at-canonical) - Thu, 20 Jun 2024 16:51:27 
+* [Navigating the cost of cloud storage in the public sector](https://ubuntu.com//blog/navigating-the-cost-of-cloud-storage-in-the-public-sector) - Thu, 20 Jun 2024 07:02:00 
+* [Ubuntu Summit 2024](https://ubuntu.com//blog/ubuntu-summit-2024) - Tue, 18 Jun 2024 22:56:03 
+* [A CISO’s comprehensive breakdown of the Cyber Resilience Act](https://ubuntu.com//blog/a-cisos-comprehensive-breakdown-of-the-cyber-resilience-act) - Tue, 18 Jun 2024 12:40:31 
+* [Empowering RISC-V with open source through Ubuntu](https://ubuntu.com//blog/empowering-risc-v-with-open-source-through-ubuntu) - Tue, 18 Jun 2024 05:00:00 
 <!-- blog ends -->
