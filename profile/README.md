@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use appropriate permissions on kubeconfig files (#23)** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use appropriate permissions on kubeconfig files (#23)** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/23) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Instrument more detailed reports on calicoctl failures (#...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use appropriate permissions on kubeconfig files** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/107) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/107) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/107) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/107) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust call to _try_kubectl** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **consolidate kubectl calls in prune method** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove cdk-restart-on-ca-change label as well** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/233) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove cdk-restart-on-ca-change label as well** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/233) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/233) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add ceph and k8s keyston to retire commit list** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add ceph and k8s keyston to retire commit list** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add ceph and k8s keyston to retire commit list** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
