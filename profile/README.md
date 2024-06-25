@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Include deprecation warnings and mitigations for openstac...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Prepare release notes for 1.29+ck2 and now 1.29+ck3 (#843...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Prepare release notes for 1.29+ck2 and now 1.29+ck3 (#843...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **add ldap link** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Retire components: gpu and cloud-providers** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **docs updates** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust call to _try_kubectl** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@addyess](https://github.com/addyess) has pushed the commit **consolidate kubectl calls in prune method** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove cdk-restart-on-ca-change label as well** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/233) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **remove cdk-restart-on-ca-change label as well** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/233) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/233) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add ceph and k8s keyston to retire commit list** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add ceph and k8s keyston to retire commit list** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
