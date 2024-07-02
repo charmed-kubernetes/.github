@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply black formatting** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **provide tests just a bit longer to pull images** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to calico v3.27.3 (#106)  * Upgrade to calico v3....** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **use model fast_forward to check ceph-csi more rapidly** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **use model fast_forward to check ceph-csi more rapidly** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't reconcile if the charm is still waiting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't reconcile if the charm is still waiting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test configure_apiserver while addressing issue with auth...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test configure_apiserver while addressing issue with auth...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.6-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Briefly mention the keystone-k8s-auth charm** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Briefly mention the keystone-k8s-auth charm** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Briefly mention the keystone-k8s-auth charm** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Pin cdk-addons to the charm's channel and warn about cdk-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/358) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/358) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **cdk-addons is no longer a control-plane charm controlled ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/24) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Drop the cdk-addons label on ceph and keystone components...** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Managed Apps on Public Cloud: Why Operations Matter, Part II](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-ii) - Sun, 30 Jun 2024 23:45:00 
-* [Maximizing CPU efficiency and energy savings with IntelⓇ QuickAssist Technology on Ubuntu 24.04](https://ubuntu.com//blog/maximizing-cpu-efficiency-and-energy-savings-with-intel%e2%93%87-quickassist-technology-intel%e2%93%87-qat-on-ubuntu-24-04) - Sat, 29 Jun 2024 02:43:02 
-* [Managed Apps on Public Cloud: Why Operations Matter, Part I](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-i) - Thu, 27 Jun 2024 11:30:00 
-* [Meet Canonical at SIGGRAPH 2024: Innovating Animation and VFX](https://ubuntu.com//blog/canonical-siggraph-2024-animation-vfx) - Thu, 27 Jun 2024 09:52:50 
-* [Canonical offers 12 year LTS for any open source Docker image](https://ubuntu.com//blog/canonical-offers-12-year-lts-for-any-open-source-docker-image) - Wed, 26 Jun 2024 11:05:01 
-* [Meet DISA-STIG compliance requirements for Ubuntu 22.04 LTS with USG](https://ubuntu.com//blog/disa-stig-ubuntu-22-04-usg) - Mon, 24 Jun 2024 08:55:39 
+
 <!-- blog ends -->
