@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.29.6-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Briefly mention the keystone-k8s-auth charm** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Briefly mention the keystone-k8s-auth charm** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Briefly mention the keystone-k8s-auth charm** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Pin cdk-addons to the charm's channel and warn about cdk-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/358) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/358) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **cdk-addons is no longer a control-plane charm controlled ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/24) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin cdk-addons to the charm's channel and warn about cdk-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin cdk-addons to the charm's channel and warn about cdk-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **cdk-addons is no longer a control-plane charm controlled ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **cdk-addons is no longer a control-plane charm controlled ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build Keystone-k8s-auth charm (#1520)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build Keystone-k8s-auth charm (#1520)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build Keystone-k8s-auth charm (#1520)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump charset-normalizer from 3.1.0 to 3.3.2 (#1492)  * Bu...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **updated both requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump idna from 3.4 to 3.7 (#1504)  * Bump idna from 3.4 t...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Introducing Firefighting Support](https://ubuntu.com//blog/introducing-firefighting-support) - Tue, 02 Jul 2024 11:30:00 
-* [Managed Apps on Public Cloud: Why Operations Matter, Part II](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-ii) - Sun, 30 Jun 2024 23:45:00 
-* [Maximizing CPU efficiency and energy savings with IntelⓇ QuickAssist Technology on Ubuntu 24.04](https://ubuntu.com//blog/maximizing-cpu-efficiency-and-energy-savings-with-intel%e2%93%87-quickassist-technology-intel%e2%93%87-qat-on-ubuntu-24-04) - Sat, 29 Jun 2024 02:43:02 
-* [Managed Apps on Public Cloud: Why Operations Matter, Part I](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-i) - Thu, 27 Jun 2024 11:30:00 
-* [Meet Canonical at SIGGRAPH 2024: Innovating Animation and VFX](https://ubuntu.com//blog/canonical-siggraph-2024-animation-vfx) - Thu, 27 Jun 2024 09:52:50 
-* [Canonical offers 12 year LTS for any open source Docker image](https://ubuntu.com//blog/canonical-offers-12-year-lts-for-any-open-source-docker-image) - Wed, 26 Jun 2024 11:05:01 
+
 <!-- blog ends -->
