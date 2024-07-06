@@ -31,10 +31,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/12) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update the woke gh check** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test cdk-addons is in the correct track (#1524)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin cdk-addons to the charm's channel and warn about cdk-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin cdk-addons to the charm's channel and warn about cdk-...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **cdk-addons is no longer a control-plane charm controlled ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **cdk-addons is no longer a control-plane charm controlled ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
