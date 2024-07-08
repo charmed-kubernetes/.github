@@ -28,9 +28,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Charm config to set the reclaim policy on the default sto...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update aws-storage manifests (#12)  * Update aws-storage ...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **linter update** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/12) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update the woke gh check** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
