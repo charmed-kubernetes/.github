@@ -26,7 +26,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Charm config to set the reclaim policy on the default sto...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
