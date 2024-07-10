@@ -25,7 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
