@@ -25,9 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@asbalderson](https://github.com/asbalderson) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1534) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Formatting for python 3.12** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove fruitless assert_hook_occurs_on_all_units** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **consolidate variable names when upgrading chrams and snap...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/108) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
@@ -41,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Deploy confidential computing with Intel® TDX and Ubuntu 24.04 today](https://ubuntu.com//blog/deploy-confidential-computing-intel-tdx-ubuntu-2404) - Mon, 08 Jul 2024 13:22:23 
-* [Ceph Days London 2024](https://ubuntu.com//blog/ceph-days-london-2024) - Fri, 05 Jul 2024 08:45:59 
-* [MongoDB® use cases for automotive industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-automotive-industry) - Thu, 04 Jul 2024 10:00:00 
-* [What you need to know about regreSSHion: an OpenSSH server remote code execution vulnerability (CVE-2024-6387)](https://ubuntu.com//blog/ubuntu-regresshion-security-fix) - Wed, 03 Jul 2024 16:03:43 
-* [Introducing Firefighting Support](https://ubuntu.com//blog/introducing-firefighting-support) - Tue, 02 Jul 2024 11:30:00 
-* [Managed Apps on Public Cloud: Why Operations Matter, Part II](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-ii) - Sun, 30 Jun 2024 23:45:00 
+
 <!-- blog ends -->
