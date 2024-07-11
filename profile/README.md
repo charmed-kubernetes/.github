@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [How often do you apply security patches on Linux?](https://ubuntu.com//blog/how-often-do-you-apply-security-patches-on-linux) - Thu, 11 Jul 2024 00:01:00 
-* [Deploy confidential computing with Intel® TDX and Ubuntu 24.04 today](https://ubuntu.com//blog/deploy-confidential-computing-intel-tdx-ubuntu-2404) - Mon, 08 Jul 2024 13:22:23 
-* [Ceph Days London 2024](https://ubuntu.com//blog/ceph-days-london-2024) - Fri, 05 Jul 2024 08:45:59 
-* [MongoDB® use cases for automotive industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-automotive-industry) - Thu, 04 Jul 2024 10:00:00 
-* [What you need to know about regreSSHion: an OpenSSH server remote code execution vulnerability (CVE-2024-6387)](https://ubuntu.com//blog/ubuntu-regresshion-security-fix) - Wed, 03 Jul 2024 16:03:43 
-* [Introducing Firefighting Support](https://ubuntu.com//blog/introducing-firefighting-support) - Tue, 02 Jul 2024 11:30:00 
+
 <!-- blog ends -->
