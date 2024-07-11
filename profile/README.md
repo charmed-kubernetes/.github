@@ -25,16 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.30/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.28/rh-device-edge (#3039)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **update etcd through force_update_status(...)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove retry_hook method** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1535) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Vault testing no longer requires mysql db, so long as vau...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove fruitless assert_hook_occurs_on_all_units (#1534) ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove fruitless assert_hook_occurs_on_all_units (#1534) ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@asbalderson](https://github.com/asbalderson) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1534) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Formatting for python 3.12** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +35,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Charmed Kubeflow 1.9 Beta is here: try it out](https://ubuntu.com//blog/kubeflow-1-9-beta) - Thu, 11 Jul 2024 11:52:45 
+* [Bringing Real-time Ubuntu to Amazon EKS Anywhere customers with Ubuntu Pro](https://ubuntu.com//blog/bringing-real-time-ubuntu-to-amazon-eks-anywhere-customers-with-ubuntu-pro) - Thu, 11 Jul 2024 09:00:00 
+* [How often do you apply security patches on Linux?](https://ubuntu.com//blog/how-often-do-you-apply-security-patches-on-linux) - Thu, 11 Jul 2024 00:01:00 
+* [Deploy confidential computing with Intel® TDX and Ubuntu 24.04 today](https://ubuntu.com//blog/deploy-confidential-computing-intel-tdx-ubuntu-2404) - Mon, 08 Jul 2024 13:22:23 
+* [Ceph Days London 2024](https://ubuntu.com//blog/ceph-days-london-2024) - Fri, 05 Jul 2024 08:45:59 
+* [MongoDB® use cases for automotive industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-automotive-industry) - Thu, 04 Jul 2024 10:00:00 
 <!-- blog ends -->
