@@ -25,7 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
-
+ - [@addyess](https://github.com/addyess) has pushed the commit **microbot test performed without kubernetes-worker action** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve clean up of stray offers in the k8s model** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
