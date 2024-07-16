@@ -42,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [The guide to cloud storage security for public sector](https://ubuntu.com//blog/the-guide-to-cloud-storage-security-for-public-sector) - Tue, 16 Jul 2024 08:32:09 
-* [Deploying and scaling Apache Spark on Amazon EKS](https://ubuntu.com//blog/deploying-and-scaling-apache-spark-on-amazon-eks) - Mon, 15 Jul 2024 15:51:20 
-* [Managing OTA and telemetry in always-connected fleets](https://ubuntu.com//blog/managing-ota-and-telemetry-in-always-connected-fleets) - Fri, 12 Jul 2024 08:00:00 
-* [Charmed Kubeflow 1.9 Beta is here: try it out](https://ubuntu.com//blog/kubeflow-1-9-beta) - Thu, 11 Jul 2024 11:52:45 
-* [Bringing Real-time Ubuntu to Amazon EKS Anywhere customers with Ubuntu Pro](https://ubuntu.com//blog/bringing-real-time-ubuntu-to-amazon-eks-anywhere-customers-with-ubuntu-pro) - Thu, 11 Jul 2024 09:00:00 
-* [How often do you apply security patches on Linux?](https://ubuntu.com//blog/how-often-do-you-apply-security-patches-on-linux) - Thu, 11 Jul 2024 00:01:00 
+
 <!-- blog ends -->
