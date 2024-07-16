@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Don't be so rigid on the expectation of certain cilium pr...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Don't be so rigid on the expectation of certain cilium pr...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Don't be so rigid on the expectation of certain cilium pr...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/16) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **microbot test performed without kubernetes-worker action** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -39,5 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [The guide to cloud storage security for public sector](https://ubuntu.com//blog/the-guide-to-cloud-storage-security-for-public-sector) - Tue, 16 Jul 2024 08:32:09 
+* [Deploying and scaling Apache Spark on Amazon EKS](https://ubuntu.com//blog/deploying-and-scaling-apache-spark-on-amazon-eks) - Mon, 15 Jul 2024 15:51:20 
+* [Managing OTA and telemetry in always-connected fleets](https://ubuntu.com//blog/managing-ota-and-telemetry-in-always-connected-fleets) - Fri, 12 Jul 2024 08:00:00 
+* [Charmed Kubeflow 1.9 Beta is here: try it out](https://ubuntu.com//blog/kubeflow-1-9-beta) - Thu, 11 Jul 2024 11:52:45 
+* [Bringing Real-time Ubuntu to Amazon EKS Anywhere customers with Ubuntu Pro](https://ubuntu.com//blog/bringing-real-time-ubuntu-to-amazon-eks-anywhere-customers-with-ubuntu-pro) - Thu, 11 Jul 2024 09:00:00 
+* [How often do you apply security patches on Linux?](https://ubuntu.com//blog/how-often-do-you-apply-security-patches-on-linux) - Thu, 11 Jul 2024 00:01:00 
 <!-- blog ends -->
