@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Add delete storage class action** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add delete storage class action** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjust the UX of the storage class parameters feature** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.30.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Charm grows the ability to adjust storage class parameter...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Charm grows the ability to adjust storage class parameter...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/20) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Address linting issues** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address linting issues** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't be so rigid on the expectation of certain cilium pr...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't be so rigid on the expectation of certain cilium pr...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust the UX of the storage class parameters feature (#2...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/21) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/21) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/21) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/21) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update docs around ceph-csi upgrade** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/21) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Charmed PostgreSQL enters General Availability](https://ubuntu.com//blog/charmed-postgresql) - Wed, 17 Jul 2024 09:28:06 
-* [The guide to cloud storage security for public sector](https://ubuntu.com//blog/the-guide-to-cloud-storage-security-for-public-sector) - Tue, 16 Jul 2024 08:32:09 
-* [Deploying and scaling Apache Spark on Amazon EKS](https://ubuntu.com//blog/deploying-and-scaling-apache-spark-on-amazon-eks) - Mon, 15 Jul 2024 15:51:20 
-* [Managing OTA and telemetry in always-connected fleets](https://ubuntu.com//blog/managing-ota-and-telemetry-in-always-connected-fleets) - Fri, 12 Jul 2024 08:00:00 
-* [Charmed Kubeflow 1.9 Beta is here: try it out](https://ubuntu.com//blog/kubeflow-1-9-beta) - Thu, 11 Jul 2024 11:52:45 
-* [Bringing Real-time Ubuntu to Amazon EKS Anywhere customers with Ubuntu Pro](https://ubuntu.com//blog/bringing-real-time-ubuntu-to-amazon-eks-anywhere-customers-with-ubuntu-pro) - Thu, 11 Jul 2024 09:00:00 
+
 <!-- blog ends -->
