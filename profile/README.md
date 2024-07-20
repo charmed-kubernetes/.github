@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran) - Fri, 19 Jul 2024 09:30:00 
+* [Charmed OpenSearch Beta is here. Try it out now!](https://ubuntu.com//blog/charmed-opensearch-beta) - Fri, 19 Jul 2024 08:49:34 
+* [Let’s meet at AI4 and talk about open source and AI tooling](https://ubuntu.com//blog/open-source-at-ai4-2024) - Thu, 18 Jul 2024 12:14:18 
+* [Charmed PostgreSQL enters General Availability](https://ubuntu.com//blog/charmed-postgresql) - Wed, 17 Jul 2024 09:28:06 
+* [The guide to cloud storage security for public sector](https://ubuntu.com//blog/the-guide-to-cloud-storage-security-for-public-sector) - Tue, 16 Jul 2024 08:32:09 
+* [Deploying and scaling Apache Spark on Amazon EKS](https://ubuntu.com//blog/deploying-and-scaling-apache-spark-on-amazon-eks) - Mon, 15 Jul 2024 15:51:20 
 <!-- blog ends -->
