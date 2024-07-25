@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Catch up requirements.txt for jenkins runs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1 (#1532)  Bumps [zipp](htt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1  Bumps [zipp](https://git...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1  Bumps [zipp](https://git...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1  Bumps [zipp](https://git...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump dill from 0.3.6 to 0.3.8 (#1531)  Bumps [dill](https...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump flake8 from 6.0.0 to 7.1.0 (#1527)  Bumps [flake8](h...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump flaky from 3.7.0 to 3.8.1 (#1529)  Bumps [flaky](htt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump kubernetes from 26.1.0 to 30.1.0 (#1530)  Bumps [kub...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Swap out juju series for base specification** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **sniffio is pulled in for anyio, it is not needed otherwis...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pluggy from 1.2.0 to 1.5.0 (#1538)  * Bump pluggy fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump semver from 2.13.0 to 3.0.2 (#1539)  Bumps [semver](...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump python-dateutil from 2.8.2 to 2.9.0.post0 (#1540)  *...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pyparsing from 3.0.9 to 3.1.2 (#1541)  * Bump pypars...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump sh from 2.0.4 to 2.0.7 (#1542)  * Bump sh from 2.0.4...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update python used for CI** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
