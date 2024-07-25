@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **the inclusion of the 'assumes' requires we remove the 'se...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert integration tests series to test on the lowest sup...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **harmonize bases in charmcraft.yaml** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Require the charm to be deploying using juju 3.4 and beyo...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update integration test to wait on new status from Kubern...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update integration test to wait on new status from Kubern...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update integration test to wait on new status from Kubern...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update integration tests builds** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Catch up requirements.txt for jenkins runs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1 (#1532)  Bumps [zipp](htt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1  Bumps [zipp](https://git...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1  Bumps [zipp](https://git...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump zipp from 3.17.0 to 3.19.1  Bumps [zipp](https://git...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump dill from 0.3.6 to 0.3.8 (#1531)  Bumps [dill](https...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump flake8 from 6.0.0 to 7.1.0 (#1527)  Bumps [flake8](h...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump flaky from 3.7.0 to 3.8.1 (#1529)  Bumps [flaky](htt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump kubernetes from 26.1.0 to 30.1.0 (#1530)  Bumps [kub...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran) - Fri, 19 Jul 2024 09:30:00 
-* [Charmed OpenSearch Beta is here. Try it out now!](https://ubuntu.com//blog/charmed-opensearch-beta) - Fri, 19 Jul 2024 08:49:34 
-* [Let’s meet at AI4 and talk about open source and AI tooling](https://ubuntu.com//blog/open-source-at-ai4-2024) - Thu, 18 Jul 2024 12:14:18 
-* [Charmed PostgreSQL enters General Availability](https://ubuntu.com//blog/charmed-postgresql) - Wed, 17 Jul 2024 09:28:06 
-* [The guide to cloud storage security for public sector](https://ubuntu.com//blog/the-guide-to-cloud-storage-security-for-public-sector) - Tue, 16 Jul 2024 08:32:09 
-* [Deploying and scaling Apache Spark on Amazon EKS](https://ubuntu.com//blog/deploying-and-scaling-apache-spark-on-amazon-eks) - Mon, 15 Jul 2024 15:51:20 
+
 <!-- blog ends -->
