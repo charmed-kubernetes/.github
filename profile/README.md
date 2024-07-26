@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1543) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1544) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1544) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1545) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/214) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/42) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/95) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust ceph-osd deployment to use juju==3.5.2.0 definitions** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1537) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-keepalived/pull/24) in the [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/852) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/359) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/109) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/174) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [MongoDB® use cases for the telecommunications industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-telecommunications-industry) - Fri, 26 Jul 2024 12:07:04 
+* [Canonical to present keynote session at Kubecon China 2024](https://ubuntu.com//blog/kubecon-china-2024) - Fri, 26 Jul 2024 10:30:48 
+* [Meet us in Sydney and let’s talk about how you can navigate your AI journey](https://ubuntu.com//blog/ai-in-asia-pacific) - Thu, 25 Jul 2024 15:29:25 
+* [How do you select the best enterprise data storage solution for your business?](https://ubuntu.com//blog/how-do-you-select-the-best-enterprise-data-storage-solution-for-your-business) - Thu, 25 Jul 2024 08:42:00 
+* [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran) - Fri, 19 Jul 2024 09:30:00 
+* [Charmed OpenSearch Beta is here. Try it out now!](https://ubuntu.com//blog/charmed-opensearch-beta) - Fri, 19 Jul 2024 08:49:34 
 <!-- blog ends -->
