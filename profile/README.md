@@ -42,5 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [MongoDB® use cases for the telecommunications industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-telecommunications-industry) - Fri, 26 Jul 2024 12:07:04 
+* [Canonical to present keynote session at Kubecon China 2024](https://ubuntu.com//blog/kubecon-china-2024) - Fri, 26 Jul 2024 10:30:48 
+* [Meet us in Sydney and let’s talk about how you can navigate your AI journey](https://ubuntu.com//blog/ai-in-asia-pacific) - Thu, 25 Jul 2024 15:29:25 
+* [How do you select the best enterprise data storage solution for your business?](https://ubuntu.com//blog/how-do-you-select-the-best-enterprise-data-storage-solution-for-your-business) - Thu, 25 Jul 2024 08:42:00 
+* [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran) - Fri, 19 Jul 2024 09:30:00 
+* [Charmed OpenSearch Beta is here. Try it out now!](https://ubuntu.com//blog/charmed-opensearch-beta) - Fri, 19 Jul 2024 08:49:34 
 <!-- blog ends -->
