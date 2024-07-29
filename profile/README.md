@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Deploy nvidia drivers on stable releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Swap out juju series for base specification (#1544)  * Bu...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.29/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust CI** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
@@ -32,9 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **update workflow** to [interface-azure-integration](https://github.com/charmed-kubernetes/interface-azure-integration)
  - [@addyess](https://github.com/addyess) has pushed the commit **Added s3 storage support (#69)  All settings are describe...** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **Charm config to set the reclaim policy on the default sto...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble (#14)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#110)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
