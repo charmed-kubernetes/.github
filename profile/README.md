@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update azure resources (#22)  * Update azure resources ...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
