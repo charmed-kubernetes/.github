@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **remove kubernetes-autoscaler operator (#1553)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Adding 1.31 tracks** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@aborsik](https://github.com/aborsik) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/853) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Test with juju versions 3.1 and 3.x** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update azure resources (#22)  * Update azure resources ...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/22) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust working on LP#2074016** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update release dates** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix spelling in bugfix docs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Charmcraft and 24.04 charm support (#23)  * Charmcraft an...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address CI issues (#24)  * Address CI issues * lint with...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pinning path until it can be resolved in charm-tools.git** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pinning path until it can be resolved in charm-tools.git** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
