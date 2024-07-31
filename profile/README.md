@@ -25,13 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@aborsik](https://github.com/aborsik) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/853) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test with juju versions 3.1 and 3.x** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update azure resources (#22)  * Update azure resources ...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series (#113)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests should use default-base, not series** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/22) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble (#109)** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
