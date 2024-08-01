@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@Gu1nness](https://github.com/Gu1nness) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/137) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust working on LP#2074016** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update release dates** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix spelling in bugfix docs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **pinning path until it can be resolved in charm-tools.git** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Charmed Kubeflow 1.9 enters general availability with new support for GenAI](https://ubuntu.com//blog/kubeflow-1-9-ga) - Thu, 01 Aug 2024 13:56:01 
+* [Canonical Partners with Microchip to Bring Ubuntu to Microchip&#8217;s PIC64GX RISC-V® MPUs](https://ubuntu.com//blog/canonical-partners-with-microchip-to-bring-ubuntu-to-microchips-pic64gx-risc-v-mpus) - Thu, 01 Aug 2024 12:00:00 
 * [Open source driving the future of EV charging](https://ubuntu.com//blog/open-source-driving-the-future-of-ev-charging) - Wed, 31 Jul 2024 07:31:50 
 * [MongoDB® use cases for the telecommunications industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-telecommunications-industry) - Fri, 26 Jul 2024 12:07:04 
 * [Canonical to present keynote session at Kubecon China 2024](https://ubuntu.com//blog/kubecon-china-2024) - Fri, 26 Jul 2024 10:30:48 
 * [Meet us in Sydney and let’s talk about how you can navigate your AI journey](https://ubuntu.com//blog/ai-in-asia-pacific) - Thu, 25 Jul 2024 15:29:25 
-* [How do you select the best enterprise data storage solution for your business?](https://ubuntu.com//blog/how-do-you-select-the-best-enterprise-data-storage-solution-for-your-business) - Thu, 25 Jul 2024 08:42:00 
-* [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran) - Fri, 19 Jul 2024 09:30:00 
 <!-- blog ends -->
