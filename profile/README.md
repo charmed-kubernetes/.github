@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@Gu1nness](https://github.com/Gu1nness) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/137) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjust working on LP#2074016** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update release dates** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix spelling in bugfix docs** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Charmcraft and 24.04 charm support (#23)  * Charmcraft an...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address CI issues (#24)  * Address CI issues * lint with...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **pinning path until it can be resolved in charm-tools.git** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has pushed the commit **pinning path until it can be resolved in charm-tools.git** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update charms.reactive==1.5.3** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Purge charmcraft from the jenkins agents, charmcraft only...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Report that we're using a branch provided charmcraft channel** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Report that we're using a branch provided charmcraft channel** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin charmcraft channel to 2.x/stable** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update charm recipes to use the latest branch settings to...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
