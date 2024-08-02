@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm tracks automatically during charmcraft release** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix long standing issue which caused all archictures to b...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Purge charmcraft from the jenkins agents, charmcraft only...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Report that we're using a branch provided charmcraft channel** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -32,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Report that we're using a branch provided charmcraft channel** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin charmcraft channel to 2.x/stable** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **update charm recipes to use the latest branch settings to...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1554) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Charmed Kubeflow 1.9 enters general availability with new support for GenAI](https://ubuntu.com//blog/kubeflow-1-9-ga) - Thu, 01 Aug 2024 13:56:01 
-* [Canonical Partners with Microchip to Bring Ubuntu to Microchip&#8217;s PIC64GX RISC-V® MPUs](https://ubuntu.com//blog/canonical-partners-with-microchip-to-bring-ubuntu-to-microchips-pic64gx-risc-v-mpus) - Thu, 01 Aug 2024 12:00:00 
-* [Open source driving the future of EV charging](https://ubuntu.com//blog/open-source-driving-the-future-of-ev-charging) - Wed, 31 Jul 2024 07:31:50 
-* [MongoDB® use cases for the telecommunications industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-telecommunications-industry) - Fri, 26 Jul 2024 12:07:04 
-* [Canonical to present keynote session at Kubecon China 2024](https://ubuntu.com//blog/kubecon-china-2024) - Fri, 26 Jul 2024 10:30:48 
-* [Meet us in Sydney and let’s talk about how you can navigate your AI journey](https://ubuntu.com//blog/ai-in-asia-pacific) - Thu, 25 Jul 2024 15:29:25 
+
 <!-- blog ends -->
