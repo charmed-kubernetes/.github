@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.31.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm tracks automatically during charmcraft relea...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm tracks automatically during charmcraft release** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Adding 1.31 adjustments** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adding 1.31 adjustments** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adding 1.31 adjustments** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow charms to set the version of charmcraft on lp build...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump K8S_NEXT_VERSION to 1.32 when 1.31.0 is available** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Make build-charms.yaml jjb conformant for bash variable u...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Setup 1.31 preparing for GA (#1552)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump sh from 2.0.4 to 2.0.7 (#1542)  * Bump sh from 2.0.4...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert purging charmcraft from jenkins runners** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [How Canonical enables PCI-DSS compliance](https://ubuntu.com//blog/how-canonical-enables-pci-dss-compliance) - Fri, 02 Aug 2024 15:07:07 
-* [Charmed Kubeflow 1.9 enters general availability with new support for GenAI](https://ubuntu.com//blog/kubeflow-1-9-ga) - Thu, 01 Aug 2024 13:56:01 
-* [Canonical Partners with Microchip to Bring Ubuntu to Microchip&#8217;s PIC64GX RISC-V® MPUs](https://ubuntu.com//blog/canonical-partners-with-microchip-to-bring-ubuntu-to-microchips-pic64gx-risc-v-mpus) - Thu, 01 Aug 2024 12:00:00 
-* [Open source driving the future of EV charging](https://ubuntu.com//blog/open-source-driving-the-future-of-ev-charging) - Wed, 31 Jul 2024 07:31:50 
-* [MongoDB® use cases for the telecommunications industry](https://ubuntu.com//blog/enterprise-mongodb-use-cases-telecommunications-industry) - Fri, 26 Jul 2024 12:07:04 
-* [Canonical to present keynote session at Kubecon China 2024](https://ubuntu.com//blog/kubecon-china-2024) - Fri, 26 Jul 2024 10:30:48 
+
 <!-- blog ends -->
