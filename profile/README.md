@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use upstream CCM docs to build the cloud_config including...** to [interface-openstack-integration](https://github.com/charmed-kubernetes/interface-openstack-integration)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.31.0-rc.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/7) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **cdk-addons track follows a the charm's risk track** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@luissimas](https://github.com/luissimas) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/133) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/133) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/133) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/issues/72) in [charmed-kubernetes/kubernetes-dashboard-operator](https://api.github.com/repos/charmed-kubernetes/kubernetes-dashboard-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Updates to better pin cryptography builds for jammy to no...** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/82) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/82) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/82) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/pull/82) in the [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Use the traefik action to list the endpoints** to [kubernetes-dashboard-operator](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
