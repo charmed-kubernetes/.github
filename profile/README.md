@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use and pass a -id based Openstack credentials if they ex...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve error logging when failing to create a load-balan...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include storageclasses to the pruned resource kinds (#234)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Update validation testing to use juju 3.1/stable and 3/st...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1543) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Speed up charm builds dropping charmcraft lxc  * reactive...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **stop assuming /dev/loop0 is mounted (#357)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [What is the telco core network?](https://ubuntu.com//blog/what-is-the-telco-core-network) - Fri, 09 Aug 2024 16:23:27 
+* [AI Inference on the Edge with TensorFlow Lite](https://ubuntu.com//blog/ai-inference-on-edge-with-tensorflow-lite) - Wed, 07 Aug 2024 13:00:00 
+* [How Canonical enables PCI-DSS compliance](https://ubuntu.com//blog/how-canonical-enables-pci-dss-compliance) - Fri, 02 Aug 2024 15:07:07 
+* [Charmed Kubeflow 1.9 enters general availability with new support for GenAI](https://ubuntu.com//blog/kubeflow-1-9-ga) - Thu, 01 Aug 2024 13:56:01 
+* [Canonical Partners with Microchip to Bring Ubuntu to Microchip&#8217;s PIC64GX RISC-V® MPUs](https://ubuntu.com//blog/canonical-partners-with-microchip-to-bring-ubuntu-to-microchips-pic64gx-risc-v-mpus) - Thu, 01 Aug 2024 12:00:00 
+* [Open source driving the future of EV charging](https://ubuntu.com//blog/open-source-driving-the-future-of-ev-charging) - Wed, 31 Jul 2024 07:31:50 
 <!-- blog ends -->
