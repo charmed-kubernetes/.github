@@ -25,6 +25,11 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish snaps to all risks in the 1.31 track** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish snaps to all risks in the 1.31 track** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish snaps to all risks in the 1.31 track** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update upstream version manifests** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Prevent pre-releases from 1.31.* tags** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Prepare for Release 1.31** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Prepare for Release 1.31** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@addyess](https://github.com/addyess) has pushed the commit **Prepare for Release 1.31** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
@@ -38,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [What is the telco core network?](https://ubuntu.com//blog/what-is-the-telco-core-network) - Fri, 09 Aug 2024 16:23:27 
-* [AI Inference on the Edge with TensorFlow Lite](https://ubuntu.com//blog/ai-inference-on-edge-with-tensorflow-lite) - Wed, 07 Aug 2024 13:00:00 
-* [How Canonical enables PCI-DSS compliance](https://ubuntu.com//blog/how-canonical-enables-pci-dss-compliance) - Fri, 02 Aug 2024 15:07:07 
-* [Charmed Kubeflow 1.9 enters general availability with new support for GenAI](https://ubuntu.com//blog/kubeflow-1-9-ga) - Thu, 01 Aug 2024 13:56:01 
-* [Canonical Partners with Microchip to Bring Ubuntu to Microchip&#8217;s PIC64GX RISC-V® MPUs](https://ubuntu.com//blog/canonical-partners-with-microchip-to-bring-ubuntu-to-microchips-pic64gx-risc-v-mpus) - Thu, 01 Aug 2024 12:00:00 
-* [Open source driving the future of EV charging](https://ubuntu.com//blog/open-source-driving-the-future-of-ev-charging) - Wed, 31 Jul 2024 07:31:50 
+
 <!-- blog ends -->
