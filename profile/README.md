@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [From product management to engineering leadership: Jon&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical) - Tue, 13 Aug 2024 19:00:49 
+* [Visual Testing: GitHub Actions Migration &#038; Test Optimisation](https://ubuntu.com//blog/visual-testing-github-actions-migration-test-optimisation) - Tue, 13 Aug 2024 15:39:38 
+* [The Cyber Resilience Act: What it means for open source](https://ubuntu.com//blog/the-cyber-resilience-act-what-it-means-for-open-source) - Tue, 13 Aug 2024 15:24:31 
+* [What is the telco core network?](https://ubuntu.com//blog/what-is-the-telco-core-network) - Fri, 09 Aug 2024 16:23:27 
+* [AI Inference on the Edge with TensorFlow Lite](https://ubuntu.com//blog/ai-inference-on-edge-with-tensorflow-lite) - Wed, 07 Aug 2024 13:00:00 
+* [How Canonical enables PCI-DSS compliance](https://ubuntu.com//blog/how-canonical-enables-pci-dss-compliance) - Fri, 02 Aug 2024 15:07:07 
 <!-- blog ends -->
