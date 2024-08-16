@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade calico to 3.27.4 (#114)  * Upgrade calico to 3.27...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade calico to 3.27.4 (#114)  * Upgrade calico to 3.27...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/114) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/114) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/114) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Address missing node-selector charm config (#42)  * Addre...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address missing node-selector charm config (#42)  * Addre...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Confirm the nodeSelectors are applied to the new pods aft...** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/metallb-operator/pull/42) in the [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin to using charmcraft 2.x/stable** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address missing node-selector charm config** to [metallb-operator](https://github.com/charmed-kubernetes/metallb-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Keep snapd on latest/stable channel on jenkins agents** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure all client calls are wrapped to catch API Errors (...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **ensure all client calls are wrapped to catch API Errors (...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/115) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Meet our Public Sector team at Technet Augusta 2024](https://ubuntu.com//blog/meet-our-public-sector-team-at-technet-augusta-2024) - Thu, 15 Aug 2024 14:17:00 
-* [From product management to engineering leadership: Jon&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical) - Tue, 13 Aug 2024 19:00:49 
-* [Visual Testing: GitHub Actions Migration &#038; Test Optimisation](https://ubuntu.com//blog/visual-testing-github-actions-migration-test-optimisation) - Tue, 13 Aug 2024 15:39:38 
-* [The Cyber Resilience Act: What it means for open source](https://ubuntu.com//blog/the-cyber-resilience-act-what-it-means-for-open-source) - Tue, 13 Aug 2024 15:24:31 
-* [What is the telco core network?](https://ubuntu.com//blog/what-is-the-telco-core-network) - Fri, 09 Aug 2024 16:23:27 
-* [AI Inference on the Edge with TensorFlow Lite](https://ubuntu.com//blog/ai-inference-on-edge-with-tensorflow-lite) - Wed, 07 Aug 2024 13:00:00 
+
 <!-- blog ends -->
