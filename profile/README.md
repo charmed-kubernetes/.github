@@ -25,14 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Quick skip validation test if models mismatch** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/362) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/362) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/362) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/362) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/177) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/177) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **get expected cdk-addons channel by using snap info to fin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade-action must use a context then reconcile if succe...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade-action must use a context then reconcile if succe...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade-action must use a context then reconcile if succe...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/362) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Giant batch of ruff reformatting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **LP builds find the charm using a regex** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **LP builds find the charm using a regex** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu 24.04 LTS Confidential Virtual Machines with Ubuntu Pro enabled Now Available in the Microsoft Azure Marketplace](https://ubuntu.com//blog/ubuntu-pro-confidential-vms-azure) - Fri, 16 Aug 2024 21:42:53 
-* [Managed storage with Ceph](https://ubuntu.com//blog/managed-storage-with-ceph) - Fri, 16 Aug 2024 08:28:00 
-* [Meet our Public Sector team at Technet Augusta 2024](https://ubuntu.com//blog/meet-our-public-sector-team-at-technet-augusta-2024) - Thu, 15 Aug 2024 14:17:00 
-* [From product management to engineering leadership: Jon&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical) - Tue, 13 Aug 2024 19:00:49 
-* [Visual Testing: GitHub Actions Migration &#038; Test Optimisation](https://ubuntu.com//blog/visual-testing-github-actions-migration-test-optimisation) - Tue, 13 Aug 2024 15:39:38 
-* [The Cyber Resilience Act: What it means for open source](https://ubuntu.com//blog/the-cyber-resilience-act-what-it-means-for-open-source) - Tue, 13 Aug 2024 15:24:31 
+
 <!-- blog ends -->
