@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **LP builds find the charm using a regex** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **LP builds find the charm using a regex** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/846) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/853) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
