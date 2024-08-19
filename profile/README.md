@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Giant batch of ruff reformatting** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **LP builds find the charm using a regex** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **LP builds find the charm using a regex** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@evilnick](https://github.com/evilnick) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/846) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,5 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Ubuntu 24.04 LTS Confidential Virtual Machines with Ubuntu Pro enabled Now Available in the Microsoft Azure Marketplace](https://ubuntu.com//blog/ubuntu-pro-confidential-vms-azure) - Fri, 16 Aug 2024 21:42:53 
+* [Managed storage with Ceph](https://ubuntu.com//blog/managed-storage-with-ceph) - Fri, 16 Aug 2024 08:28:00 
+* [Meet our Public Sector team at Technet Augusta 2024](https://ubuntu.com//blog/meet-our-public-sector-team-at-technet-augusta-2024) - Thu, 15 Aug 2024 14:17:00 
+* [From product management to engineering leadership: Jon&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical) - Tue, 13 Aug 2024 19:00:49 
+* [Visual Testing: GitHub Actions Migration &#038; Test Optimisation](https://ubuntu.com//blog/visual-testing-github-actions-migration-test-optimisation) - Tue, 13 Aug 2024 15:39:38 
+* [The Cyber Resilience Act: What it means for open source](https://ubuntu.com//blog/the-cyber-resilience-act-what-it-means-for-open-source) - Tue, 13 Aug 2024 15:24:31 
 <!-- blog ends -->
