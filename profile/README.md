@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Quick skip validation test if models or clouds mismatch (...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1562) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **improve upgrade-snaps action to better recover in error c...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/27) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Undefine specific release date** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Readd testing nginx-ingress with microbot test (#1563)  *...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ma...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ma...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Carefully use a status context on actions (#362)  * Don't...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't use a status context on actions (#177)  * Don't use...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/177) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1562) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1562) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1562) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Prepare for Release 1.31** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
