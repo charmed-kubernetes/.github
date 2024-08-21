@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Partially support the keystone-credentials relation enoug...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.29/rh-device-edge (#3279)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.29/rh-device-edge (#3279)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Note updates from LP#2077189** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add CVE resolution to the upgrade notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Updating v1.31.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update container images list to ingress-nginx v1.11.2 (#899)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/899) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Undefine specific release date** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Readd testing nginx-ingress with microbot test (#1563)  *...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ma...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update jobs/integration/validation.py  Co-authored-by: Ma...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1563) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Carefully use a status context on actions (#362)  * Don't...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Prepare for Release 1.31** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
