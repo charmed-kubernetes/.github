@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve test cloud filtering by using cloud type, not clo...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve test cloud filtering by using cloud type, not clo...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **revert to async process runner** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Partially support the keystone-credentials relation enoug...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.29/rh-device-edge (#3279)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.29/rh-device-edge (#3279)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Note updates from LP#2077189** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add CVE resolution to the upgrade notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Updating v1.31.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [How Ubuntu keeps you secure with KEV prioritisation](https://ubuntu.com//blog/how-ubuntu-keeps-you-secure-with-kev-prioritisation) - Wed, 21 Aug 2024 18:30:45 
-* [Hacker&#8217;s guide to the Raspberry Pi AI kit on Ubuntu](https://ubuntu.com//blog/hackers-guide-to-the-raspberry-pi-ai-kit-on-ubuntu) - Wed, 21 Aug 2024 13:00:00 
-* [Ubuntu 24.04 LTS Confidential Virtual Machines with Ubuntu Pro enabled Now Available in the Microsoft Azure Marketplace](https://ubuntu.com//blog/ubuntu-pro-confidential-vms-azure) - Fri, 16 Aug 2024 21:42:53 
-* [Managed storage with Ceph](https://ubuntu.com//blog/managed-storage-with-ceph) - Fri, 16 Aug 2024 08:28:00 
-* [Meet our Public Sector team at Technet Augusta 2024](https://ubuntu.com//blog/meet-our-public-sector-team-at-technet-augusta-2024) - Thu, 15 Aug 2024 14:17:00 
-* [From product management to engineering leadership: Jon&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical) - Tue, 13 Aug 2024 19:00:49 
+
 <!-- blog ends -->
