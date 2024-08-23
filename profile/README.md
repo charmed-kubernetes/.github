@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build with charmcraft 2.x** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build with charmcraft 2.x** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump packaging from 23.2 to 24.1 (#1547)  * Bump packagin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **1.30 is stable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump beautifulsoup4 from 4.12.2 to 4.12.3 (#1550)  Bumps ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pluggy from 1.2.0 to 1.5.0 (#1538)  * Bump pluggy fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump cachetools from 5.3.3 to 5.5.0 (#1561)  * Bump cache...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pluggy from 1.2.0 to 1.5.0 (#1538)  * Bump pluggy fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
