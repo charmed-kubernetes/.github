@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **check file existence with Path.is_file** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Confirm changes to a config file produce different has va...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Confirm changes to a config file produce different has va...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Confirm changes to a config file produce different has va...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Confirm changes to a config file produce different has va...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump packaging from 23.2 to 24.1 (#1547)  * Bump packagin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **1.30 is stable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pluggy from 1.2.0 to 1.5.0 (#1538)  * Bump pluggy fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump beautifulsoup4 from 4.12.2 to 4.12.3 (#1550)  Bumps ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pluggy from 1.2.0 to 1.5.0 (#1538)  * Bump pluggy fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump cachetools from 5.3.3 to 5.5.0 (#1561)  * Bump cache...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@dependabot](https://github.com/dependabot[bot]) has pushed the commit **Bump pluggy from 1.2.0 to 1.5.0 (#1538)  * Bump pluggy fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [How Ubuntu keeps you secure with KEV prioritisation](https://ubuntu.com//blog/how-ubuntu-keeps-you-secure-with-kev-prioritisation) - Wed, 21 Aug 2024 18:30:45 
-* [Hacker&#8217;s guide to the Raspberry Pi AI kit on Ubuntu](https://ubuntu.com//blog/hackers-guide-to-the-raspberry-pi-ai-kit-on-ubuntu) - Wed, 21 Aug 2024 13:00:00 
-* [Ubuntu 24.04 LTS Confidential Virtual Machines with Ubuntu Pro enabled Now Available in the Microsoft Azure Marketplace](https://ubuntu.com//blog/ubuntu-pro-confidential-vms-azure) - Fri, 16 Aug 2024 21:42:53 
-* [Managed storage with Ceph](https://ubuntu.com//blog/managed-storage-with-ceph) - Fri, 16 Aug 2024 08:28:00 
-* [Meet our Public Sector team at Technet Augusta 2024](https://ubuntu.com//blog/meet-our-public-sector-team-at-technet-augusta-2024) - Thu, 15 Aug 2024 14:17:00 
-* [From product management to engineering leadership: Jon&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical) - Tue, 13 Aug 2024 19:00:49 
+
 <!-- blog ends -->
