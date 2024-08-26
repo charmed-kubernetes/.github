@@ -31,7 +31,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **build using specific charmcraft snap** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Don't use a status context on actions (#177)  * Don't use...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Run e2e tests using charmcraft 2.x** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Run e2e tests using charmcraft 2.x** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
