@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Block when kubelets are unfriendly hosts (#19)  * Block w...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into bug/lp2032533/block-on-environme...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Mark the unit as waiting when kube-system pods aren't rea...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Installing kata was failing on jammy** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Installing kata was failing on jammy** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address review comments** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address review comments** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/19) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/19) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/363) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Don't be cute with variable names** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/18) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Block when kubelets are unfriendly hosts** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address review comments** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
