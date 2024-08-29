@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Installing kata was failing on jammy** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
  - [@addyess](https://github.com/addyess) has pushed the commit **Installing kata was failing on jammy** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address review comments** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
