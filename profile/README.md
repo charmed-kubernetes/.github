@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Introduce config to disable or change the container port ...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@nobuto-m](https://github.com/nobuto-m) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/23) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Alter the home of ceph conf to not interfere with other a...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Alter the home of ceph conf to not interfere with other a...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
