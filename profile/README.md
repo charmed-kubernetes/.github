@@ -25,10 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Correct default component versions (#859)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@perk](https://github.com/perk) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@perk](https://github.com/perk) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Craft Release Notes for Charmed Kubernetes 1.31 (#855)  *...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.31/cdk  Signed-off-by: Adam Dy...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.31/cdk  Signed-off-by: Adam Dy...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **update prev release for 1.31** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has pushed the commit **update release branch for 1.31** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/release-notes.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump rexml from 3.3.3 to 3.3.6 (#856)  Bumps [rexml](http...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump micromatch from 4.0.5 to 4.0.8 (#858)  Bumps [microm...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Provide instructions to upgrade cilium versions (#857)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -38,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Meet Canonical at OpenSearchCon 2024 in San Francisco](https://ubuntu.com//blog/meet-canonical-at-opensearchcon-2024-in-san-francisco) - Wed, 04 Sep 2024 07:48:29 
-* [Meet Canonical at Open Source Summit Europe 2024](https://ubuntu.com//blog/meet-canonical-at-open-source-summit-europe-2024) - Wed, 04 Sep 2024 06:56:49 
-* [Ubuntu Summit 2024: A logo takes flight](https://ubuntu.com//blog/ubuntu-summit-2024-a-logo-takes-flight) - Tue, 03 Sep 2024 23:34:56 
-* [Japanese device manufacturer I-O DATA DEVICE’s business expansion with Ubuntu Pro for Devices](https://ubuntu.com//blog/japanese-device-manufacturer-i-o-data-devices-business-expansion-with-ubuntu-pro-for-devices) - Mon, 02 Sep 2024 14:49:34 
-* [Canonical at IAA Transportation 2024](https://ubuntu.com//blog/canonical-at-iaa-transportation-2024) - Mon, 02 Sep 2024 14:20:04 
-* [Join Canonical in Vienna for Valkey Developer Day 2024](https://ubuntu.com//blog/join-canonical-in-vienna-for-valkey-developer-day-2024) - Mon, 02 Sep 2024 07:44:44 
+
 <!-- blog ends -->
