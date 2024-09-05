@@ -25,16 +25,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **use 2.x/stable charmcraft channel** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **use 2.x/stable charmcraft channel** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Alter the home of ceph conf to not interfere with other a...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Alter the home of ceph conf to not interfere with other a...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **List known issues at the 1.31+ck1 milestone** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Alter the home of ceph conf to not interfere with other a...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.30/catalyst-cloud (#3326)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.30/catalyst-cloud (#3326)  Sig...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/23) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Address review comments** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.31/cdk  Signed-off-by: Adam Dy...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.31/cdk  Signed-off-by: Adam Dy...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update prev release for 1.31** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update release branch for 1.31** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
