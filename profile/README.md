@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update current for 1.31 (#860)  * Bump rexml from 3.2.8 t...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Correct default component versions (#859)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@perk](https://github.com/perk) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@perk](https://github.com/perk) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/release-notes.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump rexml from 3.3.3 to 3.3.6 (#856)  Bumps [rexml](http...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump micromatch from 4.0.5 to 4.0.8 (#858)  Bumps [microm...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Provide instructions to upgrade cilium versions (#857)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
