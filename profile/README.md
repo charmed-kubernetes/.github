@@ -25,14 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **enable/disable cache calculation feature with env var** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include static link to the bundle (#900)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update current for 1.31 (#860)  * Bump rexml from 3.2.8 t...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Correct default component versions (#859)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@perk](https://github.com/perk) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@perk](https://github.com/perk) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/855) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Craft Release Notes for Charmed Kubernetes 1.31 (#855)  *...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.31/cdk  Signed-off-by: Adam Dy...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update pages/k8s/release-notes.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
