@@ -25,13 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **1.31 stable work: adjust enums, start building 1.32 (#1577)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1577) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **enable/disable cache calculation feature with env var** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include static link to the bundle (#900)** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update current for 1.31 (#860)  * Bump rexml from 3.2.8 t...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Correct default component versions (#859)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
