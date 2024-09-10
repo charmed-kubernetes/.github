@@ -42,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Let’s meet at World Summit AI and talk about open source and AI tooling, with a dash of GenAI](https://ubuntu.com//blog/world-summit-ai-2024) - Tue, 10 Sep 2024 08:35:06 
 * [Canonical&#8217;s Anbox Cloud brings new development and testing features to improve in-vehicle infotainment](https://ubuntu.com//blog/anbox-cloud-to-improve-infotainment) - Mon, 09 Sep 2024 13:00:00 
 * [A desktop touched by Midas: Oracular Oriole](https://ubuntu.com//blog/a-desktop-touched-by-midas-oracular-oriole) - Fri, 06 Sep 2024 13:41:27 
 * [Meet Canonical at OpenSearchCon 2024 in San Francisco](https://ubuntu.com//blog/meet-canonical-at-opensearchcon-2024-in-san-francisco) - Wed, 04 Sep 2024 07:48:29 
 * [Meet Canonical at Open Source Summit Europe 2024](https://ubuntu.com//blog/meet-canonical-at-open-source-summit-europe-2024) - Wed, 04 Sep 2024 06:56:49 
 * [Ubuntu Summit 2024: A logo takes flight](https://ubuntu.com//blog/ubuntu-summit-2024-a-logo-takes-flight) - Tue, 03 Sep 2024 23:34:56 
-* [Japanese device manufacturer I-O DATA DEVICE’s business expansion with Ubuntu Pro for Devices](https://ubuntu.com//blog/japanese-device-manufacturer-i-o-data-devices-business-expansion-with-ubuntu-pro-for-devices) - Mon, 02 Sep 2024 14:49:34 
 <!-- blog ends -->
