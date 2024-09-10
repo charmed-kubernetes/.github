@@ -32,7 +32,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **enable/disable cache calculation feature with env var** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include static link to the bundle (#900)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update current for 1.31 (#860)  * Bump rexml from 3.2.8 t...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -42,5 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Join Canonical in Bangalore at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-bangalore-at-dell-technologies-forum) - Tue, 10 Sep 2024 19:08:42 
+* [Let’s meet at World Summit AI and talk about open source and AI tooling, with a dash of GenAI](https://ubuntu.com//blog/world-summit-ai-2024) - Tue, 10 Sep 2024 08:35:06 
+* [Canonical&#8217;s Anbox Cloud brings new development and testing features to improve in-vehicle infotainment](https://ubuntu.com//blog/anbox-cloud-to-improve-infotainment) - Mon, 09 Sep 2024 13:00:00 
+* [A desktop touched by Midas: Oracular Oriole](https://ubuntu.com//blog/a-desktop-touched-by-midas-oracular-oriole) - Fri, 06 Sep 2024 13:41:27 
+* [Meet Canonical at OpenSearchCon 2024 in San Francisco](https://ubuntu.com//blog/meet-canonical-at-opensearchcon-2024-in-san-francisco) - Wed, 04 Sep 2024 07:48:29 
+* [Meet Canonical at Open Source Summit Europe 2024](https://ubuntu.com//blog/meet-canonical-at-open-source-summit-europe-2024) - Wed, 04 Sep 2024 06:56:49 
 <!-- blog ends -->
