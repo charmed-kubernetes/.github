@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **enable/disable cache calculation feature with env var** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [New research predicts networked edge computing will present a $26bn opportunity by 2032](https://ubuntu.com//blog/edge-computing-opportunity) - Thu, 12 Sep 2024 09:28:35 
 * [Join Canonical in Bangalore at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-bangalore-at-dell-technologies-forum) - Tue, 10 Sep 2024 19:08:42 
 * [Let’s meet at World Summit AI and talk about open source and AI tooling, with a dash of GenAI](https://ubuntu.com//blog/world-summit-ai-2024) - Tue, 10 Sep 2024 08:35:06 
 * [Canonical&#8217;s Anbox Cloud brings new development and testing features to improve in-vehicle infotainment](https://ubuntu.com//blog/anbox-cloud-to-improve-infotainment) - Mon, 09 Sep 2024 13:00:00 
 * [A desktop touched by Midas: Oracular Oriole](https://ubuntu.com//blog/a-desktop-touched-by-midas-oracular-oriole) - Fri, 06 Sep 2024 13:41:27 
 * [Meet Canonical at OpenSearchCon 2024 in San Francisco](https://ubuntu.com//blog/meet-canonical-at-opensearchcon-2024-in-san-francisco) - Wed, 04 Sep 2024 07:48:29 
-* [Meet Canonical at Open Source Summit Europe 2024](https://ubuntu.com//blog/meet-canonical-at-open-source-summit-europe-2024) - Wed, 04 Sep 2024 06:56:49 
 <!-- blog ends -->
