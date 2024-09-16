@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Updates gunicorn to 23.0.0 to remove dependency on pkg_re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/364) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1578) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Added explicit configuration option `storage-redirect-dis...** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
  - [@kanmao](https://github.com/kanmao) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/861) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
@@ -39,5 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Announcing Authd: OIDC authentication for Ubuntu Desktop and Server](https://ubuntu.com//blog/authd-oidc-authentication-for-ubuntu-desktop-server) - Mon, 16 Sep 2024 14:25:14 
+* [New research predicts networked edge computing will present a $26bn opportunity by 2032](https://ubuntu.com//blog/edge-computing-opportunity) - Thu, 12 Sep 2024 09:28:35 
+* [Join Canonical in Bangalore at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-bangalore-at-dell-technologies-forum) - Tue, 10 Sep 2024 19:08:42 
+* [Let’s meet at World Summit AI and talk about open source and AI tooling, with a dash of GenAI](https://ubuntu.com//blog/world-summit-ai-2024) - Tue, 10 Sep 2024 08:35:06 
+* [Canonical&#8217;s Anbox Cloud brings new development and testing features to improve in-vehicle infotainment](https://ubuntu.com//blog/anbox-cloud-to-improve-infotainment) - Mon, 09 Sep 2024 13:00:00 
+* [A desktop touched by Midas: Oracular Oriole](https://ubuntu.com//blog/a-desktop-touched-by-midas-oracular-oriole) - Fri, 06 Sep 2024 13:41:27 
 <!-- blog ends -->
