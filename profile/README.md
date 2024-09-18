@@ -31,7 +31,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Updates gunicorn to 23.0.0 to remove dependency on pkg_re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/364) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1578) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Added explicit configuration option `storage-redirect-dis...** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [What is the 5G Edge and Multi-Access Edge Computing?](https://ubuntu.com//blog/what-is-the-5g-edge-and-multi-access-edge-computing) - Wed, 18 Sep 2024 16:12:13 
+* [Join Canonical in Sydney at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-sydney-at-dell-technologies-forum) - Wed, 18 Sep 2024 13:49:10 
+* [Introducing Data Science Stack: set up an ML environment with 3 commands on Ubuntu](https://ubuntu.com//blog/data-science-stack-release) - Tue, 17 Sep 2024 08:44:03 
+* [Announcing Authd: OIDC authentication for Ubuntu Desktop and Server](https://ubuntu.com//blog/authd-oidc-authentication-for-ubuntu-desktop-server) - Mon, 16 Sep 2024 14:25:14 
+* [New research predicts networked edge computing will present a $26bn opportunity by 2032](https://ubuntu.com//blog/edge-computing-opportunity) - Thu, 12 Sep 2024 09:28:35 
+* [Join Canonical in Bangalore at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-bangalore-at-dell-technologies-forum) - Tue, 10 Sep 2024 19:08:42 
 <!-- blog ends -->
