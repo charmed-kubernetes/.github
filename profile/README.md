@@ -41,5 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Life at Canonical: Amy Song shares her experience as a new joiner in Customer Success](https://ubuntu.com//blog/life-at-canonical-amy-song-shares-her-onboarding-experience-as-a-new-joiner-in-customer-success) - Fri, 20 Sep 2024 10:42:21 
+* [Canonical and OpenAirInterface to collaborate on open source telecom network infrastructure](https://ubuntu.com//blog/telco-canonical-and-oai-to-collaborate-on-open-source-telecom-network-infrastructure-for-open-ran) - Fri, 20 Sep 2024 08:51:51 
+* [What is the 5G Edge and Multi-Access Edge Computing?](https://ubuntu.com//blog/what-is-the-5g-edge-and-multi-access-edge-computing) - Wed, 18 Sep 2024 16:12:13 
+* [Join Canonical in Sydney at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-sydney-at-dell-technologies-forum) - Wed, 18 Sep 2024 13:49:10 
+* [Introducing Data Science Stack: set up an ML environment with 3 commands on Ubuntu](https://ubuntu.com//blog/data-science-stack-release) - Tue, 17 Sep 2024 08:44:03 
+* [Announcing Authd: OIDC authentication for Ubuntu Desktop and Server](https://ubuntu.com//blog/authd-oidc-authentication-for-ubuntu-desktop-server) - Mon, 16 Sep 2024 14:25:14 
 <!-- blog ends -->
