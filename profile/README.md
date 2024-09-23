@@ -30,7 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update bundle.yaml (#901)  include docs topic** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@a-velasco](https://github.com/a-velasco) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/901) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **tweak example link; add arc certification steps (#1578)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1578) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
