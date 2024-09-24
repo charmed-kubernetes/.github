@@ -25,11 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/22) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Update bundle.yaml (#901)  include docs topic** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@a-velasco](https://github.com/a-velasco) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/901) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **tweak example link; add arc certification steps (#1578)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
