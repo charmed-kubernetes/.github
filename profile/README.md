@@ -25,13 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@dosaboy](https://github.com/dosaboy) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply docker_lxd_clash for anything beyond jammy** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/22) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update bundle.yaml (#901)  include docs topic** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,5 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Data centre networking: What is OVN?](https://ubuntu.com//blog/data-centre-networking-what-is-ovn) - Tue, 24 Sep 2024 11:15:36 
+* [Life at Canonical: Amy Song shares her experience as a new joiner in Customer Success](https://ubuntu.com//blog/life-at-canonical-amy-song-shares-her-onboarding-experience-as-a-new-joiner-in-customer-success) - Fri, 20 Sep 2024 10:42:21 
+* [Canonical and OpenAirInterface to collaborate on open source telecom network infrastructure](https://ubuntu.com//blog/telco-canonical-and-oai-to-collaborate-on-open-source-telecom-network-infrastructure-for-open-ran) - Fri, 20 Sep 2024 08:51:51 
+* [What is the 5G Edge and Multi-Access Edge Computing?](https://ubuntu.com//blog/what-is-the-5g-edge-and-multi-access-edge-computing) - Wed, 18 Sep 2024 16:12:13 
+* [Join Canonical in Sydney at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-sydney-at-dell-technologies-forum) - Wed, 18 Sep 2024 13:49:10 
+* [Introducing Data Science Stack: set up an ML environment with 3 commands on Ubuntu](https://ubuntu.com//blog/data-science-stack-release) - Tue, 17 Sep 2024 08:44:03 
 <!-- blog ends -->
