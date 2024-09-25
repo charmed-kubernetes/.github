@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ensure that .kube/config is written out once microk8s is ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@deusebio](https://github.com/deusebio) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/84) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/82) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments to actions operator on ubuntu-24.04 (#83)  * ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@jnsgruk](https://github.com/jnsgruk) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Build with sudo -g rather than sudo -u** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Publish 0.37.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use sudo rather than sg on ubuntu-24.04 runners (#140)  *...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Charmed OpenSearch enters general availability](https://ubuntu.com//blog/charmed-opensearch-release) - Wed, 25 Sep 2024 13:58:49 
+* [TurtleBot3 OpenCR firmware update from a snap](https://ubuntu.com//blog/turtlebot3-opencr-firmware-update-from-a-snap) - Wed, 25 Sep 2024 09:59:53 
+* [Data centre networking: What is OVN?](https://ubuntu.com//blog/data-centre-networking-what-is-ovn) - Tue, 24 Sep 2024 11:15:36 
+* [Life at Canonical: Amy Song shares her experience as a new joiner in Customer Success](https://ubuntu.com//blog/life-at-canonical-amy-song-shares-her-onboarding-experience-as-a-new-joiner-in-customer-success) - Fri, 20 Sep 2024 10:42:21 
+* [Canonical and OpenAirInterface to collaborate on open source telecom network infrastructure](https://ubuntu.com//blog/telco-canonical-and-oai-to-collaborate-on-open-source-telecom-network-infrastructure-for-open-ran) - Fri, 20 Sep 2024 08:51:51 
+* [What is the 5G Edge and Multi-Access Edge Computing?](https://ubuntu.com//blog/what-is-the-5g-edge-and-multi-access-edge-computing) - Wed, 18 Sep 2024 16:12:13 
 <!-- blog ends -->
