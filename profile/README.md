@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@deusebio](https://github.com/deusebio) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/84) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/82) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjustments to actions operator on ubuntu-24.04 (#83)  * ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@jnsgruk](https://github.com/jnsgruk) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Publish 0.37.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use sudo rather than sg on ubuntu-24.04 runners (#140)  *...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/83) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
