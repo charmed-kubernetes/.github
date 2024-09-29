@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [AI in Healthcare: 5 Use Cases and 1 challenge](https://ubuntu.com//blog/ai-in-healthcare-5-use-cases-and-1-challenge) - Fri, 27 Sep 2024 09:16:22 
-* [CUPS Remote Code Execution Vulnerability Fix Available](https://ubuntu.com//blog/cups-remote-code-execution-vulnerability-fix-available) - Thu, 26 Sep 2024 21:51:15 
-* [5G mobile networks: A driver for edge computing](https://ubuntu.com//blog/telco-5g-mobile-networks-a-driver-for-edge-computing) - Thu, 26 Sep 2024 10:29:28 
-* [Charmed OpenSearch enters general availability](https://ubuntu.com//blog/charmed-opensearch-release) - Wed, 25 Sep 2024 13:58:49 
-* [TurtleBot3 OpenCR firmware update from a snap](https://ubuntu.com//blog/turtlebot3-opencr-firmware-update-from-a-snap) - Wed, 25 Sep 2024 09:59:53 
-* [Data centre networking: What is OVN?](https://ubuntu.com//blog/data-centre-networking-what-is-ovn) - Tue, 24 Sep 2024 11:15:36 
+
 <!-- blog ends -->
