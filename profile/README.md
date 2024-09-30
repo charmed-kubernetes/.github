@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
  - [@zhhuabj](https://github.com/zhhuabj) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How to deploy AI workloads at the edge using open source solutions](https://ubuntu.com//blog/how-to-deploy-ai-workloads-at-the-edge-using-open-source-solutions) - Mon, 30 Sep 2024 17:22:54 
 * [The waiting game is over. 5G is coming to the edge.](https://ubuntu.com//blog/omdia-report-5g-edge-computing) - Mon, 30 Sep 2024 14:21:24 
 * [What the Cyber Resilience Act (CRA) means for IoT manufacturers](https://ubuntu.com//blog/what-the-cyber-resilience-act-cra-means-for-iot-manufacturers) - Mon, 30 Sep 2024 10:16:39 
 * [AI in Healthcare: 5 Use Cases and 1 challenge](https://ubuntu.com//blog/ai-in-healthcare-5-use-cases-and-1-challenge) - Fri, 27 Sep 2024 09:16:22 
 * [CUPS Remote Code Execution Vulnerability Fix Available](https://ubuntu.com//blog/cups-remote-code-execution-vulnerability-fix-available) - Thu, 26 Sep 2024 21:51:15 
 * [5G mobile networks: A driver for edge computing](https://ubuntu.com//blog/telco-5g-mobile-networks-a-driver-for-edge-computing) - Thu, 26 Sep 2024 10:29:28 
-* [Charmed OpenSearch enters general availability](https://ubuntu.com//blog/charmed-opensearch-release) - Wed, 25 Sep 2024 13:58:49 
 <!-- blog ends -->
