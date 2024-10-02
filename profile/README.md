@@ -30,8 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@dimaqq](https://github.com/dimaqq) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/142) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/139) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@dimaqq](https://github.com/dimaqq) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/141) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/42) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,5 +39,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Launching Your Ubuntu Confidential VM with Intel® TDX on Google Cloud: A Guide to Enhanced Security](https://ubuntu.com//blog/launching-your-ubuntu-confidential-vm-with-intel-tdx-on-google-cloud-a-guide-to-enhanced-security) - Wed, 02 Oct 2024 19:50:16 
+* [How to deploy AI workloads at the edge using open source solutions](https://ubuntu.com//blog/how-to-deploy-ai-workloads-at-the-edge-using-open-source-solutions) - Mon, 30 Sep 2024 17:22:54 
+* [The waiting game is over. 5G is coming to the edge.](https://ubuntu.com//blog/omdia-report-5g-edge-computing) - Mon, 30 Sep 2024 14:21:24 
+* [What the Cyber Resilience Act (CRA) means for IoT manufacturers](https://ubuntu.com//blog/what-the-cyber-resilience-act-cra-means-for-iot-manufacturers) - Mon, 30 Sep 2024 10:16:39 
+* [AI in Healthcare: 5 Use Cases and 1 challenge](https://ubuntu.com//blog/ai-in-healthcare-5-use-cases-and-1-challenge) - Fri, 27 Sep 2024 09:16:22 
+* [CUPS Remote Code Execution Vulnerability Fix Available](https://ubuntu.com//blog/cups-remote-code-execution-vulnerability-fix-available) - Thu, 26 Sep 2024 21:51:15 
 <!-- blog ends -->
