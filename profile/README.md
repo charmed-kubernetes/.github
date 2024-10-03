@@ -25,11 +25,11 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update quickstart.md** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@dimaqq](https://github.com/dimaqq) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/143) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/142) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@dimaqq](https://github.com/dimaqq) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/142) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/139) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
