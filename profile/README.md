@@ -29,7 +29,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@dimaqq](https://github.com/dimaqq) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/143) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/142) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@dimaqq](https://github.com/dimaqq) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/142) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
