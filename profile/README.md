@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@VariableDeclared](https://github.com/VariableDeclared) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/864) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/141) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Publish 0.38.0** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Simplify typing on build_charm method (#142)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
@@ -38,10 +39,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Build your private 5G network with Charmed Aether SD-Core](https://ubuntu.com//blog/telco-build-your-private-5g-network-with-charmed-aether-sd-core) - Fri, 04 Oct 2024 11:00:00 
-* [Canonical at Cloud Expo 2024](https://ubuntu.com//blog/canonical-at-cloud-expo-2024) - Thu, 03 Oct 2024 15:09:49 
-* [What is a vector database?](https://ubuntu.com//blog/what-is-a-vector-database) - Thu, 03 Oct 2024 14:56:01 
-* [Ubuntu powers Azure&#8217;s confidential AI offering](https://ubuntu.com//blog/confidential-ai-azure-ubuntu) - Wed, 02 Oct 2024 22:04:25 
-* [Launching Your Ubuntu Confidential VM with Intel® TDX on Google Cloud: A Guide to Enhanced Security](https://ubuntu.com//blog/launching-your-ubuntu-confidential-vm-with-intel-tdx-on-google-cloud-a-guide-to-enhanced-security) - Wed, 02 Oct 2024 19:50:16 
-* [Canonical joins OPEA to enable Enterprise AI](https://ubuntu.com//blog/canonical-joins-opea-enterprise-ai) - Wed, 02 Oct 2024 08:36:06 
+
 <!-- blog ends -->
