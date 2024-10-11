@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.5.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.27.16.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.28.14.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Prevent creating a snap recipe where the version doesn't ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve logging when branches aren't semver branches** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Improve logging when branches aren't semver branches** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Stop syncing vsphere images, allow the vsphere-cloud-prov...** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Update snapcraft go version based on changes to upstream'...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1580) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1580) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **typo fix** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1580) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1580) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
