@@ -31,7 +31,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@jnsgruk](https://github.com/jnsgruk) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/86) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
