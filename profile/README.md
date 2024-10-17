@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Why is Ubuntu Linux the leading choice to replace CentOS for financial services?](https://ubuntu.com//blog/why-is-ubuntu-linux-the-leading-choice-to-replace-centos-for-finserv-infrastructure) - Thu, 17 Oct 2024 10:28:00 
-* [Apache Spark 4.0 beta release &#8211; try it now](https://ubuntu.com//blog/apache-spark-4-0-beta-release-try-it-now) - Tue, 15 Oct 2024 13:21:59 
-* [20 years of partnership: how our partners help us take Ubuntu across industries, markets and devices](https://ubuntu.com//blog/20-years-of-partnership) - Mon, 14 Oct 2024 15:48:40 
-* [Canonical at RISC-V Summit North America 2024](https://ubuntu.com//blog/canonical-at-risc-v-summit-north-america-2024) - Mon, 14 Oct 2024 10:11:34 
-* [Meet Canonical at OCX 2024 in Mainz, Germany](https://ubuntu.com//blog/meet-canonical-at-ocx-2024-in-mainz-germany) - Fri, 11 Oct 2024 10:30:00 
-* [Canonical Releases Ubuntu 24.10 Oracular Oriole](https://ubuntu.com//blog/canonical-releases-ubuntu-24-10-oracular-oriole) - Thu, 10 Oct 2024 15:53:28 
+
 <!-- blog ends -->
