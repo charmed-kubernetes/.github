@@ -25,8 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **unwind changes to localize issue installing lxd** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **unwind changes to localize issue installing lxd** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
