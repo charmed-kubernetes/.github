@@ -25,12 +25,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update Azure ARC conformance-spec region (#1584)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/865) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Test using concierge (#86)  * Test using concierge * Ins...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Install concierge from snap** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Install concierge from snap** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Install concierge from snap** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Install concierge from snap** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Install concierge from snap** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Install concierge from snap** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
@@ -44,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is Ubuntu used for?](https://ubuntu.com//blog/what-is-ubuntu-used-for) - Tue, 22 Oct 2024 13:38:58 
 * [Meet our EDU team at EDUCAUSE 2024](https://ubuntu.com//blog/meet-our-edu-team-at-educause-2024) - Thu, 17 Oct 2024 17:57:15 
 * [Why is Ubuntu Linux the leading choice to replace CentOS for financial services?](https://ubuntu.com//blog/why-is-ubuntu-linux-the-leading-choice-to-replace-centos-for-finserv-infrastructure) - Thu, 17 Oct 2024 10:28:00 
 * [Apache Spark 4.0 beta release &#8211; try it now](https://ubuntu.com//blog/apache-spark-4-0-beta-release-try-it-now) - Tue, 15 Oct 2024 13:21:59 
 * [20 years of partnership: how our partners help us take Ubuntu across industries, markets and devices](https://ubuntu.com//blog/20-years-of-partnership) - Mon, 14 Oct 2024 15:48:40 
 * [Canonical at RISC-V Summit North America 2024](https://ubuntu.com//blog/canonical-at-risc-v-summit-north-america-2024) - Mon, 14 Oct 2024 10:11:34 
-* [Meet Canonical at OCX 2024 in Mainz, Germany](https://ubuntu.com//blog/meet-canonical-at-ocx-2024-in-mainz-germany) - Fri, 11 Oct 2024 10:30:00 
 <!-- blog ends -->
