@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.31.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Track repo differences with git status rather than git di...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1587) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1586) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Updating out of date links** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/3) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Fix ARC Conformance Script (#1585)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Join Canonical in Brazil at Dell Technologies Forum São Paulo](https://ubuntu.com//blog/join-canonical-in-brazil-at-dell-technologies-forum-sao-paulo) - Wed, 23 Oct 2024 12:24:36 
-* [6 facts for CentOS users who are holding on](https://ubuntu.com//blog/migrating-to-ubuntu-lts-six-facts-for-centos-users) - Wed, 23 Oct 2024 12:23:15 
-* [What is Ubuntu used for?](https://ubuntu.com//blog/what-is-ubuntu-used-for) - Tue, 22 Oct 2024 13:38:58 
-* [Meet our EDU team at EDUCAUSE 2024](https://ubuntu.com//blog/meet-our-edu-team-at-educause-2024) - Thu, 17 Oct 2024 17:57:15 
-* [Why is Ubuntu Linux the leading choice to replace CentOS for financial services?](https://ubuntu.com//blog/why-is-ubuntu-linux-the-leading-choice-to-replace-centos-for-finserv-infrastructure) - Thu, 17 Oct 2024 10:28:00 
-* [Apache Spark 4.0 beta release &#8211; try it now](https://ubuntu.com//blog/apache-spark-4-0-beta-release-try-it-now) - Tue, 15 Oct 2024 13:21:59 
+
 <!-- blog ends -->
