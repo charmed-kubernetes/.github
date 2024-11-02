@@ -25,13 +25,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **chore: update concierge config format (#87)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/87) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/87) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.31.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Track repo differences with git status rather than git di...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1587) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Parse the output of git status according to the standard** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1587) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,10 +38,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical at CES 2025](https://ubuntu.com//blog/canonical-at-ces-2025) - Fri, 01 Nov 2024 08:00:00 
-* [Getting hands-on with AI in automotive](https://ubuntu.com//blog/getting-hands-on-with-ai-in-automotive) - Thu, 31 Oct 2024 08:12:34 
-* [Meet Canonical at SPS 2024](https://ubuntu.com//blog/canonical-sps-2024-industrial) - Tue, 29 Oct 2024 14:40:53 
-* [Unleash new ways of working with flexible, cost-effective VDI](https://ubuntu.com//blog/unleash-new-ways-of-working-with-flexible-cost-effective-vdi) - Mon, 28 Oct 2024 18:23:48 
-* [Canonical at India Mobile Congress 2024 – a retrospective](https://ubuntu.com//blog/canonical-at-india-mobile-congress-2024-a-retrospective) - Mon, 28 Oct 2024 12:02:03 
-* [Imagining the future of Cybersecurity](https://ubuntu.com//blog/imagining-the-future-of-cybersecurity) - Mon, 28 Oct 2024 09:55:16 
+
 <!-- blog ends -->
