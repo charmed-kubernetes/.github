@@ -41,10 +41,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Virtual ECUs, or the future of automotive development and testing](https://ubuntu.com//blog/virtual-ecus-or-the-future-of-automotive-development-and-testing) - Mon, 04 Nov 2024 08:12:49 
-* [Canonical at CES 2025](https://ubuntu.com//blog/canonical-at-ces-2025) - Fri, 01 Nov 2024 08:00:00 
-* [Getting hands-on with AI in automotive](https://ubuntu.com//blog/getting-hands-on-with-ai-in-automotive) - Thu, 31 Oct 2024 08:12:34 
-* [Meet Canonical at SPS 2024](https://ubuntu.com//blog/canonical-sps-2024-industrial) - Tue, 29 Oct 2024 14:40:53 
-* [Unleash new ways of working with flexible, cost-effective VDI](https://ubuntu.com//blog/unleash-new-ways-of-working-with-flexible-cost-effective-vdi) - Mon, 28 Oct 2024 18:23:48 
-* [Canonical at India Mobile Congress 2024 – a retrospective](https://ubuntu.com//blog/canonical-at-india-mobile-congress-2024-a-retrospective) - Mon, 28 Oct 2024 12:02:03 
+
 <!-- blog ends -->
