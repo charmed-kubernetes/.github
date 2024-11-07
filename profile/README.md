@@ -25,14 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide scope for each cred via the ops.provider** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Reimplement shell scripts in node.js** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use coredns charm rather than minio (#88)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use coredns charm rather than minio (#88)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use coredns charm rather than minio** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/88) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **chore: update concierge config format (#87)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/87) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/87) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
