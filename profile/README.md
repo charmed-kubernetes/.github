@@ -43,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Designing Canonical&#8217;s Figma libraries for performance and structure](https://ubuntu.com//blog/designing-canonicals-figma-libraries-for-performance-and-structure) - Wed, 06 Nov 2024 10:53:04 
+* [Charmed MySQL enters General Availability](https://ubuntu.com//blog/charmed-mysql-release) - Wed, 06 Nov 2024 08:02:00 
+* [Meet Canonical at KubeCon + CloudNativeCon North America 2024](https://ubuntu.com//blog/meet-canonical-at-kubecon-cloudnativecon-north-america-2024) - Wed, 06 Nov 2024 07:00:00 
+* [What is IoT device management?](https://ubuntu.com//blog/what-is-iot-device-management) - Tue, 05 Nov 2024 15:28:13 
+* [Join us for Microsoft Ignite](https://ubuntu.com//blog/join-us-for-microsoft-ignite) - Mon, 04 Nov 2024 18:59:14 
+* [Join Canonical in Dallas at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-dallas-at-dell-technologies-forum) - Mon, 04 Nov 2024 10:00:00 
 <!-- blog ends -->
