@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump version** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Default to using only schema 0, not schema 0,1** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Include passing ca-certificate via kube-control relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Include passing ca-certificate via kube-control relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Provide scope for each cred via the ops.provider** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
