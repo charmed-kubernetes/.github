@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **prevent secrets from refresh looping** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **grant secrets on the requested relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump version** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Default to using only schema 0, not schema 0,1** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include passing ca-certificate via kube-control relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Include passing ca-certificate via kube-control relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes kubectl tokens using juju secrets** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Life at Canonical: Freyja Cooper’s perspective as a new joiner in Communications](https://ubuntu.com//blog/life-at-canonical-freyja-coopers-perspective-as-a-new-joiner-in-communications) - Thu, 07 Nov 2024 16:19:27 
+* [Designing Canonical&#8217;s Figma libraries for performance and structure](https://ubuntu.com//blog/designing-canonicals-figma-libraries-for-performance-and-structure) - Wed, 06 Nov 2024 10:53:04 
+* [Charmed MySQL enters General Availability](https://ubuntu.com//blog/charmed-mysql-release) - Wed, 06 Nov 2024 08:02:00 
+* [Meet Canonical at KubeCon + CloudNativeCon North America 2024](https://ubuntu.com//blog/meet-canonical-at-kubecon-cloudnativecon-north-america-2024) - Wed, 06 Nov 2024 07:00:00 
+* [What is IoT device management?](https://ubuntu.com//blog/what-is-iot-device-management) - Tue, 05 Nov 2024 15:28:13 
+* [Join us for Microsoft Ignite](https://ubuntu.com//blog/join-us-for-microsoft-ignite) - Mon, 04 Nov 2024 18:59:14 
 <!-- blog ends -->
