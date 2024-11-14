@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Ensure secret id is set when refreshing secret content** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **prevent secrets from refresh looping** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Join Canonical in Paris at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-paris-at-dell-technologies-forum) - Wed, 13 Nov 2024 18:27:39 
+* [Bringing automation to open source 5G software at Ubuntu Summit 2024](https://ubuntu.com//blog/telco-bringing-automation-to-open-source-5g-software-at-ubuntu-summit-2024) - Tue, 12 Nov 2024 16:45:27 
+* [Life at Canonical: Freyja Cooper’s perspective as a new joiner in Communications](https://ubuntu.com//blog/life-at-canonical-freyja-coopers-perspective-as-a-new-joiner-in-communications) - Thu, 07 Nov 2024 16:19:27 
+* [Designing Canonical&#8217;s Figma libraries for performance and structure](https://ubuntu.com//blog/designing-canonicals-figma-libraries-for-performance-and-structure) - Wed, 06 Nov 2024 10:53:04 
+* [Charmed MySQL enters General Availability](https://ubuntu.com//blog/charmed-mysql-release) - Wed, 06 Nov 2024 08:02:00 
+* [Meet Canonical at KubeCon + CloudNativeCon North America 2024](https://ubuntu.com//blog/meet-canonical-at-kubecon-cloudnativecon-north-america-2024) - Wed, 06 Nov 2024 07:00:00 
 <!-- blog ends -->
