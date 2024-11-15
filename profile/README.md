@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Ensure secret id is set when refreshing secret content** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
