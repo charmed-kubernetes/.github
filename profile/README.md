@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes tokens using juju secrets (#2)  * Tra...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/2) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Offer a way to clean up units removed from the relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Offer a way to clean up units removed from the relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/2) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/2) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/2) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump webrick from 1.8.1 to 1.8.2 (#867)  Bumps [webrick](...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump google-protobuf from 3.24.4 to 3.25.5 (#862)  Bumps ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Bump rexml from 3.3.6 to 3.3.9 (#866)  Bumps [rexml](http...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
