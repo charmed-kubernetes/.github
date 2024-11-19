@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical provides the ideal platform for Microsoft Azure IoT Operations](https://ubuntu.com//blog/ubuntu-for-microsoft-azure-iot) - Tue, 19 Nov 2024 18:05:15 
+* [Getting started with Azure IoT Operations on Ubuntu](https://ubuntu.com//blog/getting-started-azure-iot-ubuntu) - Tue, 19 Nov 2024 18:04:33 
+* [Needrestart local privilege escalation vulnerability fixes available](https://ubuntu.com//blog/needrestart-local-privilege-escalation) - Tue, 19 Nov 2024 09:00:33 
 * [Meet the Canonical Ceph team at Cephalocon 2024](https://ubuntu.com//blog/cephalocon-2024) - Tue, 19 Nov 2024 08:50:03 
 * [The transition to in-house software development in the automotive industry](https://ubuntu.com//blog/the-transition-to-in-house-software-development-in-the-automotive-industry) - Tue, 19 Nov 2024 08:00:00 
 * [Profile-guided optimization: A case study](https://ubuntu.com//blog/profile-guided-optimization-a-case-study) - Mon, 18 Nov 2024 19:32:32 
-* [Canonical announces the first MicroCloud LTS release](https://ubuntu.com//blog/canonical-releases-microcloud-lts) - Fri, 15 Nov 2024 12:00:00 
-* [Join Canonical in Paris at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-paris-at-dell-technologies-forum) - Wed, 13 Nov 2024 18:27:39 
-* [Bringing automation to open source 5G software at Ubuntu Summit 2024](https://ubuntu.com//blog/telco-bringing-automation-to-open-source-5g-software-at-ubuntu-summit-2024) - Tue, 12 Nov 2024 16:45:27 
 <!-- blog ends -->
