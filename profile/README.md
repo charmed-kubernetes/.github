@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Address linting failures** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@patriziobassi](https://github.com/patriziobassi) has opened this [issue](https://github.com/charmed-kubernetes/charm-kube-ovn/issues/54) in [charmed-kubernetes/charm-kube-ovn](https://api.github.com/repos/charmed-kubernetes/charm-kube-ovn).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes tokens using juju secrets (#2)  * Tra...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/2) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Offer a way to clean up units removed from the relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Offer a way to clean up units removed from the relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply review comments** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical provides the ideal platform for Microsoft Azure IoT Operations](https://ubuntu.com//blog/ubuntu-for-microsoft-azure-iot) - Tue, 19 Nov 2024 18:05:15 
-* [Getting started with Azure IoT Operations on Ubuntu](https://ubuntu.com//blog/getting-started-azure-iot-ubuntu) - Tue, 19 Nov 2024 18:04:33 
-* [Needrestart local privilege escalation vulnerability fixes available](https://ubuntu.com//blog/needrestart-local-privilege-escalation) - Tue, 19 Nov 2024 09:00:33 
-* [Meet the Canonical Ceph team at Cephalocon 2024](https://ubuntu.com//blog/cephalocon-2024) - Tue, 19 Nov 2024 08:50:03 
-* [The transition to in-house software development in the automotive industry](https://ubuntu.com//blog/the-transition-to-in-house-software-development-in-the-automotive-industry) - Tue, 19 Nov 2024 08:00:00 
-* [Profile-guided optimization: A case study](https://ubuntu.com//blog/profile-guided-optimization-a-case-study) - Mon, 18 Nov 2024 19:32:32 
+
 <!-- blog ends -->
