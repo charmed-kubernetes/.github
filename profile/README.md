@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address linting failures** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@patriziobassi](https://github.com/patriziobassi) has opened this [issue](https://github.com/charmed-kubernetes/charm-kube-ovn/issues/54) in [charmed-kubernetes/charm-kube-ovn](https://api.github.com/repos/charmed-kubernetes/charm-kube-ovn).
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transmit kubernetes tokens using juju secrets (#2)  * Tra...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/2) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Offer a way to clean up units removed from the relation** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema (#13)  * Support kube-cont...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema (#5)  * Support kube-contr...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **`LabelMaker` provides a path to alternate optional kubect...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/13) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/5) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/5) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
