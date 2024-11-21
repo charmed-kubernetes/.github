@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema (#13)  * Support kube-cont...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema (#5)  * Support kube-contr...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **`LabelMaker` provides a path to alternate optional kubect...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/13) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/5) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/5) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key (#12)  * Add timeou...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Switch docs style to google pydocs** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Applied review comments** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Join Canonical in London at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-london-at-dell-technologies-forum) - Wed, 20 Nov 2024 13:48:11 
-* [Canonical provides the ideal platform for Microsoft Azure IoT Operations](https://ubuntu.com//blog/ubuntu-for-microsoft-azure-iot) - Tue, 19 Nov 2024 18:05:15 
-* [Getting started with Azure IoT Operations on Ubuntu](https://ubuntu.com//blog/getting-started-azure-iot-ubuntu) - Tue, 19 Nov 2024 18:04:33 
-* [Needrestart local privilege escalation vulnerability fixes available](https://ubuntu.com//blog/needrestart-local-privilege-escalation) - Tue, 19 Nov 2024 09:00:33 
-* [Meet the Canonical Ceph team at Cephalocon 2024](https://ubuntu.com//blog/cephalocon-2024) - Tue, 19 Nov 2024 08:50:03 
-* [The transition to in-house software development in the automotive industry](https://ubuntu.com//blog/the-transition-to-in-house-software-development-in-the-automotive-industry) - Tue, 19 Nov 2024 08:00:00 
+
 <!-- blog ends -->
