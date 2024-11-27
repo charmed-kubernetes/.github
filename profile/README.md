@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@aborsik](https://github.com/aborsik) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/868) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Fix lint** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Refactor auth credentials** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.31.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/130) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key (#12)  * Add timeou...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/12) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
