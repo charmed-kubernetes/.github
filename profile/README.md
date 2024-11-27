@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@aborsik](https://github.com/aborsik) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/868) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Fix lint** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Refactor auth credentials** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Entra ID authentication on Ubuntu at scale with Landscape](https://ubuntu.com//blog/entra-id-authentication-on-ubuntu-at-scale-with-landscape) - Wed, 27 Nov 2024 08:52:13 
+* [Is a real-time OS right for your business?](https://ubuntu.com//blog/is-a-real-time-os-right-for-your-business) - Tue, 26 Nov 2024 10:21:00 
+* [EdgeIQ and Ubuntu Core; bringing security and scalability to device management](https://ubuntu.com//blog/edgeiq) - Thu, 21 Nov 2024 12:46:17 
+* [Ubuntu 20.04 LTS end of life: standard support is coming to an end. Here’s how to prepare.](https://ubuntu.com//blog/ubuntu-20-04-lts-end-of-life-standard-support-is-coming-to-an-end-heres-how-to-prepare) - Thu, 21 Nov 2024 10:08:59 
+* [Join Canonical in London at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-london-at-dell-technologies-forum) - Wed, 20 Nov 2024 13:48:11 
+* [Canonical provides the ideal platform for Microsoft Azure IoT Operations](https://ubuntu.com//blog/ubuntu-for-microsoft-azure-iot) - Tue, 19 Nov 2024 18:05:15 
 <!-- blog ends -->
