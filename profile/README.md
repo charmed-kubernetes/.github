@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Entra ID authentication on Ubuntu at scale with Landscape](https://ubuntu.com//blog/entra-id-authentication-on-ubuntu-at-scale-with-landscape) - Wed, 27 Nov 2024 08:52:13 
-* [Is a real-time OS right for your business?](https://ubuntu.com//blog/is-a-real-time-os-right-for-your-business) - Tue, 26 Nov 2024 10:21:00 
-* [EdgeIQ and Ubuntu Core; bringing security and scalability to device management](https://ubuntu.com//blog/edgeiq) - Thu, 21 Nov 2024 12:46:17 
-* [Ubuntu 20.04 LTS end of life: standard support is coming to an end. Here’s how to prepare.](https://ubuntu.com//blog/ubuntu-20-04-lts-end-of-life-standard-support-is-coming-to-an-end-heres-how-to-prepare) - Thu, 21 Nov 2024 10:08:59 
-* [Join Canonical in London at Dell Technologies Forum](https://ubuntu.com//blog/join-canonical-in-london-at-dell-technologies-forum) - Wed, 20 Nov 2024 13:48:11 
-* [Canonical provides the ideal platform for Microsoft Azure IoT Operations](https://ubuntu.com//blog/ubuntu-for-microsoft-azure-iot) - Tue, 19 Nov 2024 18:05:15 
+
 <!-- blog ends -->
