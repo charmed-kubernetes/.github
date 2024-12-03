@@ -25,13 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Installing kata was failing on jammy (#13)** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update actions.yaml (#365)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/365) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/365) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
 <!-- activity ends -->
 
@@ -42,10 +42,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Join Canonical in Mumbai at HPE Discover More](https://ubuntu.com//blog/join-canonical-in-mumbai-at-hpe-discover-more) - Mon, 02 Dec 2024 21:13:01 
-* [Canonical announces public beta of optimized Ubuntu image for Qualcomm IoT platforms](https://ubuntu.com//blog/canonical-announces-public-beta-of-optimized-ubuntu-image-for-qualcomm-iot-platform) - Mon, 02 Dec 2024 16:50:10 
-* [Industrial cybersecurity: the journey towards IEC 62443 compliance](https://ubuntu.com//blog/industrial-cybersecurity-iec-62443-compliance) - Mon, 02 Dec 2024 11:08:45 
-* [Entra ID authentication on Ubuntu at scale with Landscape](https://ubuntu.com//blog/entra-id-authentication-on-ubuntu-at-scale-with-landscape) - Wed, 27 Nov 2024 08:52:13 
-* [Is a real-time OS right for your business?](https://ubuntu.com//blog/is-a-real-time-os-right-for-your-business) - Tue, 26 Nov 2024 10:21:00 
-* [EdgeIQ and Ubuntu Core; bringing security and scalability to device management](https://ubuntu.com//blog/edgeiq) - Thu, 21 Nov 2024 12:46:17 
+
 <!-- blog ends -->
