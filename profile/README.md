@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve tests** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve tests** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **databags with a cert_requets str, should load it as json ...** to [interface-tls-certificates](https://github.com/charmed-kubernetes/interface-tls-certificates)
+ - [@yanksyoon](https://github.com/yanksyoon) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/91) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin websockets to 13.1 when running juju 2.9 tests (#92) ...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin to 7.0 under py3.8** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin to 7.0 under py3.8** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Minor test improvements** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/176) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@yanksyoon](https://github.com/yanksyoon) has opened this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/91) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/176) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add integration tests for setting labels** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/176) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/4) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/176) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/176) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/176) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Meet Canonical at the Mobile World Congress 2025 in Barcelona](https://ubuntu.com//blog/meet-canonical-at-the-mobile-world-congress-2025-in-barcelona) - Thu, 05 Dec 2024 11:00:00 
-* [Canonical announces Ubuntu Security Research Alliance Program](https://ubuntu.com//blog/canonical-announces-ubuntu-security-research-alliance-program) - Wed, 04 Dec 2024 14:56:57 
-* [Documentation, development and design for technical authors](https://ubuntu.com//blog/documentation-development-and-design-for-technical-authors) - Tue, 03 Dec 2024 11:53:39 
-* [Join Canonical in Mumbai at HPE Discover More](https://ubuntu.com//blog/join-canonical-in-mumbai-at-hpe-discover-more) - Mon, 02 Dec 2024 21:13:01 
-* [Canonical announces public beta of optimized Ubuntu image for Qualcomm IoT platforms](https://ubuntu.com//blog/canonical-announces-public-beta-of-optimized-ubuntu-image-for-qualcomm-iot-platform) - Mon, 02 Dec 2024 16:50:10 
-* [Industrial cybersecurity: the journey towards IEC 62443 compliance](https://ubuntu.com//blog/industrial-cybersecurity-iec-62443-compliance) - Mon, 02 Dec 2024 11:08:45 
+
 <!-- blog ends -->
