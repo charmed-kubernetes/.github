@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@dimaqq](https://github.com/dimaqq) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/144) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Return the correct internal lb response (#366)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Return the correct internal lb response (#366)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/366) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2091120] Charm events should reconcile lb_addresses t...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2091120] Charm events should reconcile lb_addresses t...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Add schema 1 support to the kube-control Fix unlink direc...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@dimaqq](https://github.com/dimaqq) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/145) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/366) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Meet Canonical at the Mobile World Congress 2025 in Barcelona](https://ubuntu.com//blog/meet-canonical-at-the-mobile-world-congress-2025-in-barcelona) - Thu, 05 Dec 2024 11:00:00 
-* [Canonical announces Ubuntu Security Research Alliance Program](https://ubuntu.com//blog/canonical-announces-ubuntu-security-research-alliance-program) - Wed, 04 Dec 2024 14:56:57 
-* [Documentation, development and design for technical authors](https://ubuntu.com//blog/documentation-development-and-design-for-technical-authors) - Tue, 03 Dec 2024 11:53:39 
-* [Join Canonical in Mumbai at HPE Discover More](https://ubuntu.com//blog/join-canonical-in-mumbai-at-hpe-discover-more) - Mon, 02 Dec 2024 21:13:01 
-* [Canonical announces public beta of optimized Ubuntu image for Qualcomm IoT platforms](https://ubuntu.com//blog/canonical-announces-public-beta-of-optimized-ubuntu-image-for-qualcomm-iot-platform) - Mon, 02 Dec 2024 16:50:10 
-* [Industrial cybersecurity: the journey towards IEC 62443 compliance](https://ubuntu.com//blog/industrial-cybersecurity-iec-62443-compliance) - Mon, 02 Dec 2024 11:08:45 
+
 <!-- blog ends -->
