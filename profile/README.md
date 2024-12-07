@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Add schema 1 support to the kube-control Fix unlink direc...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@dimaqq](https://github.com/dimaqq) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/145) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@yanksyoon](https://github.com/yanksyoon) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/90) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Untested port of cis-benchmark action to the kubernetes-c...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Updates gunicorn to 23.0.0 to remove dependency on pkg_re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option (#145)  * Add juju max-fra...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/145) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2067404] Check and log all events on failed resources...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve reconciler handlers to prevent early reconcilatio...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin linting deps** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow gathering endpoint certs from the kube_control rela...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test metrics port config** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **[LP#2067404] Check and log all events on failed resources...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Meet Canonical at the Mobile World Congress 2025 in Barcelona](https://ubuntu.com//blog/meet-canonical-at-the-mobile-world-congress-2025-in-barcelona) - Thu, 05 Dec 2024 11:00:00 
+* [Canonical announces Ubuntu Security Research Alliance Program](https://ubuntu.com//blog/canonical-announces-ubuntu-security-research-alliance-program) - Wed, 04 Dec 2024 14:56:57 
+* [Documentation, development and design for technical authors](https://ubuntu.com//blog/documentation-development-and-design-for-technical-authors) - Tue, 03 Dec 2024 11:53:39 
+* [Join Canonical in Mumbai at HPE Discover More](https://ubuntu.com//blog/join-canonical-in-mumbai-at-hpe-discover-more) - Mon, 02 Dec 2024 21:13:01 
+* [Canonical announces public beta of optimized Ubuntu image for Qualcomm IoT platforms](https://ubuntu.com//blog/canonical-announces-public-beta-of-optimized-ubuntu-image-for-qualcomm-iot-platform) - Mon, 02 Dec 2024 16:50:10 
+* [Industrial cybersecurity: the journey towards IEC 62443 compliance](https://ubuntu.com//blog/industrial-cybersecurity-iec-62443-compliance) - Mon, 02 Dec 2024 11:08:45 
 <!-- blog ends -->
