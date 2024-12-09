@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Add schema 1 support to the kube-control (#4)  * Add sche...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **[LP#2035399] Metrics Port configuration (#24)  * Introduc...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Reimagine ceph-csi charm with the reconciler pattern (#19...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Reimagine ceph-csi charm with the reconciler pattern (#19...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/19) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Untested port of cis-benchmark action to the kubernetes-c...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Updates gunicorn to 23.0.0 to remove dependency on pkg_re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add juju max-frame-size option (#145)  * Add juju max-fra...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/145) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2067404] Check and log all events on failed resources...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Improve reconciler handlers to prevent early reconcilatio...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin linting deps** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow gathering endpoint certs from the kube_control rela...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test metrics port config** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
