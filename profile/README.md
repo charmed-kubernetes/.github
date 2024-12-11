@@ -25,16 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Add timeout and user-label config key (#12)  * Add timeou...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Lint and format** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Support kube-control v2 schema (#9)** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Switch back url to Juju solutions** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/3) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Add schema 1 support to the kube-control (#4)  * Add sche...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump pytest-metadata from 3.0.0 to 3.1.1 (#1569)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bugfix upgrade spec can be run on select clouds (#1589)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump drypy from 1.0.1 to 1.0.4 (#1572)  Bumps [drypy](htt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump cryptography from 43.0.0 to 43.0.1 (#1575)  Bumps [c...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add rules to access leases for nginx ingress (#180)  * Ad...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
