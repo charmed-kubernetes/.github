@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [What is vulnerability management?](https://ubuntu.com//blog/what-is-vulnerability-management) - Thu, 12 Dec 2024 10:37:00 
-* [What is SBOM? Software bill of materials explained](https://ubuntu.com//blog/what-is-sbom-software-bill-of-materials-explained) - Tue, 10 Dec 2024 14:35:30 
-* [SiFive, ESWIN Computing and Canonical announce availability of Ubuntu on the  HiFive Premier P550](https://ubuntu.com//blog/sifive-eswin-computing-and-canonical-announce-availability-of-ubuntu-on-the-hifive-premier-p550) - Tue, 10 Dec 2024 14:29:00 
-* [Spark or Hadoop: the best choice for big data teams?](https://ubuntu.com//blog/spark-or-hadoop-the-best-choice-for-big-data-teams) - Tue, 10 Dec 2024 10:26:51 
-* [Meet Canonical at the Mobile World Congress 2025 in Barcelona](https://ubuntu.com//blog/meet-canonical-at-the-mobile-world-congress-2025-in-barcelona) - Thu, 05 Dec 2024 11:00:00 
-* [Canonical announces Ubuntu Security Research Alliance Program](https://ubuntu.com//blog/canonical-announces-ubuntu-security-research-alliance-program) - Wed, 04 Dec 2024 14:56:57 
+
 <!-- blog ends -->
