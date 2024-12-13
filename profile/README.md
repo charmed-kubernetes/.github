@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **add 1.28 -> 1.31 of CPI, add 3.1.2 -> 3.3.1 of the CSI (#33)** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py (#1596)  publish candidate channels to 1....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py  publish candidate channels to 1.31 until...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update go versions for building 1.32 snaps (#1595)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1594) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [How does OpenSearch work?](https://ubuntu.com//blog/how-does-opensearch-work) - Fri, 13 Dec 2024 08:42:44 
+* [What is RAG?](https://ubuntu.com//blog/what-is-rag-explained) - Fri, 13 Dec 2024 08:13:05 
+* [What is vulnerability management?](https://ubuntu.com//blog/what-is-vulnerability-management) - Thu, 12 Dec 2024 10:37:00 
+* [What is SBOM? Software bill of materials explained](https://ubuntu.com//blog/what-is-sbom-software-bill-of-materials-explained) - Tue, 10 Dec 2024 14:35:30 
+* [SiFive, ESWIN Computing and Canonical announce availability of Ubuntu on the  HiFive Premier P550](https://ubuntu.com//blog/sifive-eswin-computing-and-canonical-announce-availability-of-ubuntu-on-the-hifive-premier-p550) - Tue, 10 Dec 2024 14:29:00 
+* [Spark or Hadoop: the best choice for big data teams?](https://ubuntu.com//blog/spark-or-hadoop-the-best-choice-for-big-data-teams) - Tue, 10 Dec 2024 10:26:51 
 <!-- blog ends -->
