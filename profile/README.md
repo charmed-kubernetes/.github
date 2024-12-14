@@ -25,16 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **add 1.28 -> 1.31 of CPI, add 3.1.2 -> 3.3.1 of the CSI (#33)** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py (#1596)  publish candidate channels to 1....** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update enums.py  publish candidate channels to 1.31 until...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update go versions for building 1.32 snaps (#1595)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1595) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add 1.32 tracks (#1594)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1594) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1594) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.29.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+
 <!-- activity ends -->
 
 <!-- roadmap starts -->
