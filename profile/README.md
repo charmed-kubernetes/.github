@@ -36,10 +36,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Ubuntu brings comprehensive support to Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-azure-cobalt-100-vms) - Tue, 17 Dec 2024 00:17:47 
-* [Get Valkey security patching and support with Ubuntu Pro](https://ubuntu.com//blog/valkey-ubuntu-pro) - Mon, 16 Dec 2024 07:45:46 
-* [How does OpenSearch work?](https://ubuntu.com//blog/how-does-opensearch-work) - Fri, 13 Dec 2024 08:42:44 
-* [What is RAG?](https://ubuntu.com//blog/what-is-rag-explained) - Fri, 13 Dec 2024 08:13:05 
-* [What is vulnerability management?](https://ubuntu.com//blog/what-is-vulnerability-management) - Thu, 12 Dec 2024 10:37:00 
-* [What is SBOM? Software bill of materials explained](https://ubuntu.com//blog/what-is-sbom-software-bill-of-materials-explained) - Tue, 10 Dec 2024 14:35:30 
+
 <!-- blog ends -->
