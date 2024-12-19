@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provides debugging from fetching charm info during a buil...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **stop assuming /dev/loop0 is mounted (#357)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -39,5 +40,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Life at Canonical: Victoria Antipova’s perspective as a new joiner in Product Marketing](https://ubuntu.com//blog/life-at-canonical-victoria-antipovas-perspective-as-a-new-joiner-in-product-marketing) - Thu, 19 Dec 2024 12:34:39 
+* [What is patching automation?](https://ubuntu.com//blog/what-is-patching-automation) - Wed, 18 Dec 2024 10:40:00 
+* [A beginner&#8217;s tutorial for your first Machine Learning project using Charmed Kubeflow](https://ubuntu.com//blog/a-beginners-tutorial-for-your-first-machine-learning-project-using-charmed-kubeflow) - Tue, 17 Dec 2024 12:00:00 
+* [Ubuntu brings comprehensive support to Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-azure-cobalt-100-vms) - Tue, 17 Dec 2024 00:17:47 
+* [Get Valkey security patching and support with Ubuntu Pro](https://ubuntu.com//blog/valkey-ubuntu-pro) - Mon, 16 Dec 2024 07:45:46 
+* [How does OpenSearch work?](https://ubuntu.com//blog/how-does-opensearch-work) - Fri, 13 Dec 2024 08:42:44 
 <!-- blog ends -->
