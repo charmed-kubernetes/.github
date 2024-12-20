@@ -25,12 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provides debugging from fetching charm info during a build** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump stable version to 1.32** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allows the user config to remove labels** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allows the user config to remove labels** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allows the user config to remove labels** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@addyess](https://github.com/addyess) has pushed the commit **Provides debugging from fetching charm info during a buil...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adding support from focal to noble** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **stop assuming /dev/loop0 is mounted (#357)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Add release_1.31+ck1 release notes (#870)  * Add release_...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Building RAG with enterprise open source AI infrastructure](https://ubuntu.com//blog/rag-ai-infrastructure) - Fri, 20 Dec 2024 08:18:19 
 * [Life at Canonical: Victoria Antipova’s perspective as a new joiner in Product Marketing](https://ubuntu.com//blog/life-at-canonical-victoria-antipovas-perspective-as-a-new-joiner-in-product-marketing) - Thu, 19 Dec 2024 12:34:39 
 * [What is patching automation?](https://ubuntu.com//blog/what-is-patching-automation) - Wed, 18 Dec 2024 10:40:00 
 * [A beginner&#8217;s tutorial for your first Machine Learning project using Charmed Kubeflow](https://ubuntu.com//blog/a-beginners-tutorial-for-your-first-machine-learning-project-using-charmed-kubeflow) - Tue, 17 Dec 2024 12:00:00 
 * [Ubuntu brings comprehensive support to Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-azure-cobalt-100-vms) - Tue, 17 Dec 2024 00:17:47 
 * [Get Valkey security patching and support with Ubuntu Pro](https://ubuntu.com//blog/valkey-ubuntu-pro) - Mon, 16 Dec 2024 07:45:46 
-* [How does OpenSearch work?](https://ubuntu.com//blog/how-does-opensearch-work) - Fri, 13 Dec 2024 08:42:44 
 <!-- blog ends -->
