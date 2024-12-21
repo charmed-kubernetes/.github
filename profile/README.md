@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Completed tests with canonical k8s platform** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
+ - [@106106](https://github.com/106106) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/871) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address failing grafana-agent relation at CK boot (#367) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test deployment with grafana-agent related** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test deployment with grafana-agent related** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/367) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Address failing grafana-agent relation at CK boot** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has pushed the commit **Remove bundle-tester job from jenkins ci (#1599)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1599) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Provides debugging from fetching charm info during a build** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump stable version to 1.32** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
