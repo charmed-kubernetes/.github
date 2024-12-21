@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Address failing grafana-agent relation at CK boot (#367) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test deployment with grafana-agent related** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test deployment with grafana-agent related** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/367) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Building RAG with enterprise open source AI infrastructure](https://ubuntu.com//blog/rag-ai-infrastructure) - Fri, 20 Dec 2024 08:18:19 
+* [Life at Canonical: Victoria Antipova’s perspective as a new joiner in Product Marketing](https://ubuntu.com//blog/life-at-canonical-victoria-antipovas-perspective-as-a-new-joiner-in-product-marketing) - Thu, 19 Dec 2024 12:34:39 
+* [What is patching automation?](https://ubuntu.com//blog/what-is-patching-automation) - Wed, 18 Dec 2024 10:40:00 
+* [A beginner&#8217;s tutorial for your first Machine Learning project using Charmed Kubeflow](https://ubuntu.com//blog/a-beginners-tutorial-for-your-first-machine-learning-project-using-charmed-kubeflow) - Tue, 17 Dec 2024 12:00:00 
+* [Ubuntu brings comprehensive support to Azure Cobalt 100 VMs](https://ubuntu.com//blog/ubuntu-azure-cobalt-100-vms) - Tue, 17 Dec 2024 00:17:47 
+* [Get Valkey security patching and support with Ubuntu Pro](https://ubuntu.com//blog/valkey-ubuntu-pro) - Mon, 16 Dec 2024 07:45:46 
 <!-- blog ends -->
