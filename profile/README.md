@@ -26,12 +26,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use updated manifest release** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Completed tests with canonical k8s platform** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
- - [@106106](https://github.com/106106) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/871) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
