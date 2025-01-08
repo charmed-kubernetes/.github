@@ -25,9 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Always deploy with 'trust'** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map openstack-integrator to juju terraform syntax** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump loguru from 0.7.0 to 0.7.3 (#1590)  * Bump loguru fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump jinja2 from 3.1.4 to 3.1.5 (#1600)  * Bump jinja2 fr...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/13) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.31/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
