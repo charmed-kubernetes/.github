@@ -25,10 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/13) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Always deploy with 'trust'** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Map openstack-integrator to juju terraform syntax** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Update fragments to 1.32/stable** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **fix test_actions assertion** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **fix test_actions assertion** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
