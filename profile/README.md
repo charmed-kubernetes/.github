@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Pin config to 1.32/stable snaps and tests to 1.32/stable ...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Ensure tests are run from 1.32/edge charms and snaps (#16...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Update enums for 1.32 GA (#1605)  Populate 1.32 stable sn...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/904) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
+* [Web Engineering: Hack Week 2024](https://ubuntu.com//blog/web-engineering-hack-week-2024) - Wed, 08 Jan 2025 13:50:38 
+* [What to know when procuring Linux laptops](https://ubuntu.com//blog/what-to-know-when-procuring-linux-laptops) - Mon, 23 Dec 2024 17:35:05 
+* [Building RAG with enterprise open source AI infrastructure](https://ubuntu.com//blog/rag-ai-infrastructure) - Fri, 20 Dec 2024 08:18:19 
+* [Life at Canonical: Victoria Antipova’s perspective as a new joiner in Product Marketing](https://ubuntu.com//blog/life-at-canonical-victoria-antipovas-perspective-as-a-new-joiner-in-product-marketing) - Thu, 19 Dec 2024 12:34:39 
+* [What is patching automation?](https://ubuntu.com//blog/what-is-patching-automation) - Wed, 18 Dec 2024 10:40:00 
 <!-- blog ends -->
