@@ -25,9 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Update fragments to 1.32/stable** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **fix test_actions assertion** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **fix test_actions assertion** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/10) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/10) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allows the user config to remove labels (#13)** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Pin config to 1.32/stable snaps and tests to 1.32/stable ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Pin config to 1.32/stable snaps and tests to 1.32/stable ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Pin config to 1.32/stable snaps and tests to 1.32/stable ...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Ensure tests are run from 1.32/edge charms and snaps (#16...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Update enums for 1.32 GA (#1605)  Populate 1.32 stable sn...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/904) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
