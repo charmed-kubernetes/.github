@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Can't use constraints on subordinates** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Adding support from focal to noble (#214)  * Adding suppo...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Adding support from focal to noble (#214)  * Adding suppo...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/214) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use GH runners** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use GH runners** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install build dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install build dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin `charm` channel** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `checkout` action** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `upload-artifact` action** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin Charmcraft Version** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Bump Actions Versions** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Bump Actions Versions** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/10) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install build dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
-* [Web Engineering: Hack Week 2024](https://ubuntu.com//blog/web-engineering-hack-week-2024) - Wed, 08 Jan 2025 13:50:38 
-* [What to know when procuring Linux laptops](https://ubuntu.com//blog/what-to-know-when-procuring-linux-laptops) - Mon, 23 Dec 2024 17:35:05 
-* [Building RAG with enterprise open source AI infrastructure](https://ubuntu.com//blog/rag-ai-infrastructure) - Fri, 20 Dec 2024 08:18:19 
-* [Life at Canonical: Victoria Antipova’s perspective as a new joiner in Product Marketing](https://ubuntu.com//blog/life-at-canonical-victoria-antipovas-perspective-as-a-new-joiner-in-product-marketing) - Thu, 19 Dec 2024 12:34:39 
-* [What is patching automation?](https://ubuntu.com//blog/what-is-patching-automation) - Wed, 18 Dec 2024 10:40:00 
+
 <!-- blog ends -->
