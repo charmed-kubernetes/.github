@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install build dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install build dependencies** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin `charm` channel** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `checkout` action** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update `upload-artifact` action** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Pin Charmcraft Version** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Bump Actions Versions** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/10) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/10) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Allows the user config to remove labels (#13)** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Pin config to 1.32/stable snaps and tests to 1.32/stable ...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
