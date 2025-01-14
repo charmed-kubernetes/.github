@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/6) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/9) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/9) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Authorize the CCM to have CRD permissions** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove requires relations since there are none** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Authorize the CCM to have CRD permissions** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/7) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.32.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Include 1.32-static images to the containers-images sync ...** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map openstack-integrator to juju terraform syntax (#9)  *...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map openstack-cloud-controller to juju terraform syntax** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
