@@ -44,5 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [Your data applications, contained and maintained](https://ubuntu.com//blog/introducing-trusted-open-source-data-containers) - Tue, 14 Jan 2025 10:40:35 
+* [How to build your first model using DSS](https://ubuntu.com//blog/how-to-build-your-first-model-using-dss) - Tue, 14 Jan 2025 08:29:25 
+* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
+* [Web Engineering: Hack Week 2024](https://ubuntu.com//blog/web-engineering-hack-week-2024) - Wed, 08 Jan 2025 13:50:38 
+* [What to know when procuring Linux laptops](https://ubuntu.com//blog/what-to-know-when-procuring-linux-laptops) - Mon, 23 Dec 2024 17:35:05 
+* [Building RAG with enterprise open source AI infrastructure](https://ubuntu.com//blog/rag-ai-infrastructure) - Fri, 20 Dec 2024 08:18:19 
 <!-- blog ends -->
