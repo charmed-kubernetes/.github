@@ -25,15 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/23) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax (#28)  * Map ceph-c...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax (#28)  * Map ceph-c...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Map ceph-csi to juju terraform syntax (#28)  * Map ceph-c...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update terraform/versions.tf  Co-authored-by: Louise K. S...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove pip based tox** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Optionally install tox-uv** to [workflows](https://github.com/charmed-kubernetes/workflows)
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/28) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/28) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **centralize config to pyproject.toml** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Your data applications, contained and maintained](https://ubuntu.com//blog/introducing-trusted-open-source-data-containers) - Tue, 14 Jan 2025 10:40:35 
-* [How to build your first model using DSS](https://ubuntu.com//blog/how-to-build-your-first-model-using-dss) - Tue, 14 Jan 2025 08:29:25 
-* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
-* [Web Engineering: Hack Week 2024](https://ubuntu.com//blog/web-engineering-hack-week-2024) - Wed, 08 Jan 2025 13:50:38 
-* [What to know when procuring Linux laptops](https://ubuntu.com//blog/what-to-know-when-procuring-linux-laptops) - Mon, 23 Dec 2024 17:35:05 
-* [Building RAG with enterprise open source AI infrastructure](https://ubuntu.com//blog/rag-ai-infrastructure) - Fri, 20 Dec 2024 08:18:19 
+
 <!-- blog ends -->
