@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.32.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Map openstack-integrator to juju terraform syntax (#9)  *...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address mishandled config of manage-security-group (#11)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,5 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-
+* [A comprehensive guide to NIS2 Compliance: Part 2 &#8211; Understanding NIS2 requirements](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-2-understanding-nis2-requirements) - Fri, 17 Jan 2025 19:18:10 
+* [A comprehensive guide to NIS2 Compliance: Part 1 &#8211; Understanding NIS2 and its scope](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-1-understanding-nis2-and-its-scope) - Wed, 15 Jan 2025 20:42:57 
+* [Rsync remote code execution and related vulnerability fixes available](https://ubuntu.com//blog/rsync-remote-code-execution) - Tue, 14 Jan 2025 18:41:07 
+* [Your data applications, contained and maintained](https://ubuntu.com//blog/introducing-trusted-open-source-data-containers) - Tue, 14 Jan 2025 10:40:35 
+* [How to build your first model using DSS](https://ubuntu.com//blog/how-to-build-your-first-model-using-dss) - Tue, 14 Jan 2025 08:29:25 
+* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
 <!-- blog ends -->
