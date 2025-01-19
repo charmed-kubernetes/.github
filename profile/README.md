@@ -43,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [A comprehensive guide to NIS2 Compliance: Part 2 &#8211; Understanding NIS2 requirements](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-2-understanding-nis2-requirements) - Fri, 17 Jan 2025 19:18:10 
-* [A comprehensive guide to NIS2 Compliance: Part 1 &#8211; Understanding NIS2 and its scope](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-1-understanding-nis2-and-its-scope) - Wed, 15 Jan 2025 20:42:57 
-* [Rsync remote code execution and related vulnerability fixes available](https://ubuntu.com//blog/rsync-remote-code-execution) - Tue, 14 Jan 2025 18:41:07 
-* [Your data applications, contained and maintained](https://ubuntu.com//blog/introducing-trusted-open-source-data-containers) - Tue, 14 Jan 2025 10:40:35 
-* [How to build your first model using DSS](https://ubuntu.com//blog/how-to-build-your-first-model-using-dss) - Tue, 14 Jan 2025 08:29:25 
-* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
+
 <!-- blog ends -->
