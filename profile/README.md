@@ -25,12 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **docs: Improve Charmed K8s bugfix release docs (#1608)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Address comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -40,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [An Introduction to Open Source Licensing for complete beginners](https://ubuntu.com//blog/introduction-to-open-source-licensing) - Mon, 20 Jan 2025 10:40:22 
 * [A comprehensive guide to NIS2 Compliance: Part 2 &#8211; Understanding NIS2 requirements](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-2-understanding-nis2-requirements) - Fri, 17 Jan 2025 19:18:10 
 * [A comprehensive guide to NIS2 Compliance: Part 1 &#8211; Understanding NIS2 and its scope](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-1-understanding-nis2-and-its-scope) - Wed, 15 Jan 2025 20:42:57 
 * [Rsync remote code execution and related vulnerability fixes available](https://ubuntu.com//blog/rsync-remote-code-execution) - Tue, 14 Jan 2025 18:41:07 
 * [Your data applications, contained and maintained](https://ubuntu.com//blog/introducing-trusted-open-source-data-containers) - Tue, 14 Jan 2025 10:40:35 
 * [How to build your first model using DSS](https://ubuntu.com//blog/how-to-build-your-first-model-using-dss) - Tue, 14 Jan 2025 08:29:25 
-* [How we used Flask and 12-factor charms to simplify Canonical.com development](https://ubuntu.com//blog/how-we-used-flask-and-12-factor-charms-to-simplify-canonical-com-development) - Thu, 09 Jan 2025 07:21:39 
 <!-- blog ends -->
