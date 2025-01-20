@@ -31,7 +31,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
