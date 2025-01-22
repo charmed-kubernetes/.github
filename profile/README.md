@@ -26,15 +26,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@FrancescoDeSimone](https://github.com/FrancescoDeSimone) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@FrancescoDeSimone](https://github.com/FrancescoDeSimone) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **docs: Improve Charmed K8s bugfix release docs (#1608)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Address comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **formatting** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Bringing multiple windows to Flutter desktop apps](https://ubuntu.com//blog/multiple-window-flutter-desktop) - Wed, 22 Jan 2025 10:00:00 
-* [Ubuntu Summit 2024 Reflections](https://ubuntu.com//blog/ubuntu-summit-2024-reflections) - Tue, 21 Jan 2025 16:54:38 
-* [A comprehensive guide to NIS2 Compliance: Part 3 &#8211; Setting the roadmap and demonstrating NIS2 compliance.](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-3-setting-the-roadmap-and-demonstrating-nis2-compliance) - Mon, 20 Jan 2025 17:29:24 
-* [An Introduction to Open Source Licensing for complete beginners](https://ubuntu.com//blog/introduction-to-open-source-licensing) - Mon, 20 Jan 2025 10:40:22 
-* [Bringing 12-year LTS to 32-bit Arm processors as CRA comes into force](https://ubuntu.com//blog/lts-cra-arm) - Mon, 20 Jan 2025 09:12:08 
-* [A comprehensive guide to NIS2 Compliance: Part 2 &#8211; Understanding NIS2 requirements](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-2-understanding-nis2-requirements) - Fri, 17 Jan 2025 19:18:10 
+
 <!-- blog ends -->
