@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Replace running dmidecode with reading from a file (#4)  ...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Replace running dmidecode with reading from a file (#4)  ...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider/pull/4) in the [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Focal's hostnamectl cannot determine the vendor of a clou...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test lint and unit with uv** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Optionally install tox-uv** to [workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@FrancescoDeSimone](https://github.com/FrancescoDeSimone) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@FrancescoDeSimone](https://github.com/FrancescoDeSimone) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **docs: Improve Charmed K8s bugfix release docs (#1608)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Address comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1608) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
