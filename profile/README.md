@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **follow main branch of workflows** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Replace running dmidecode with reading from a file (#4)  ...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Replace running dmidecode with reading from a file (#4)  ...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider/pull/4) in the [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Focal's hostnamectl cannot determine the vendor of a clou...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test lint and unit with uv** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Optionally install tox-uv** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add `image-registry` configuration option (#31)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Untie unit-test dependencies from available upstream vers...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Map ceph-csi to juju terraform syntax (#28)  * Map ceph-c...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add `image-registry` configuration option (#31)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/31) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@FrancescoDeSimone](https://github.com/FrancescoDeSimone) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **follow main branch of workflows** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Replace running dmidecode with reading from a file (#4)  ...** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
