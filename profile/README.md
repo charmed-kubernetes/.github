@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add `image-registry` configuration option (#31)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm (#6)  * Create Ter...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/5) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/6) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm (#14)  * Create Te...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/5) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/5) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
 <!-- activity ends -->
 
