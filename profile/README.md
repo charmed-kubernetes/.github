@@ -30,9 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Add `image-registry` configuration option (#31)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm (#6)  * Create Ter...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/5) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
