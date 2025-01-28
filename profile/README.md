@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Run configure hook only on leader** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add `image-registry` configuration option (#31)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
@@ -32,9 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/5) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/6) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Create Terrform modules for this charm (#14)  * Create Te...** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Review comments** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
