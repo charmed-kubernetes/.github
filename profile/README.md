@@ -25,15 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **docs: Improve release instructions  Filling gaps in the m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **docs: Improve release instructions  Filling gaps in the m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/34) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/34) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **LP2053031: Adding tuning params (#213)  * Adding tuning p...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/213) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2096820] Don't push stderr through stdout when runnin...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@addyess](https://github.com/addyess) has pushed the commit **use add-k8s from pytest-operator** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **use add-k8s from pytest-operator** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/215) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **log warnings when stderr has text** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/215) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **call run(...,text=True) to eliminate decode(...)** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/215) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
 <!-- activity ends -->
 
@@ -44,10 +44,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [How to utilize CPU offloads to increase storage efficiency](https://ubuntu.com//blog/how-to-utilize-cpu-offloads-to-increase-storage-efficiency) - Mon, 27 Jan 2025 09:11:00 
-* [Bringing multiple windows to Flutter desktop apps](https://ubuntu.com//blog/multiple-window-flutter-desktop) - Wed, 22 Jan 2025 10:00:00 
-* [Ubuntu Summit 2024 Reflections](https://ubuntu.com//blog/ubuntu-summit-2024-reflections) - Tue, 21 Jan 2025 16:54:38 
-* [A comprehensive guide to NIS2 Compliance: Part 3 &#8211; Setting the roadmap and demonstrating NIS2 compliance.](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-3-setting-the-roadmap-and-demonstrating-nis2-compliance) - Mon, 20 Jan 2025 17:29:24 
-* [An Introduction to Open Source Licensing for complete beginners](https://ubuntu.com//blog/introduction-to-open-source-licensing) - Mon, 20 Jan 2025 10:40:22 
-* [Bringing 12-year LTS to 32-bit Arm processors as CRA comes into force](https://ubuntu.com//blog/lts-cra-arm) - Mon, 20 Jan 2025 09:12:08 
+
 <!-- blog ends -->
