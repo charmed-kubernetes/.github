@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Uniquify crashdump artifact** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Uniquify crashdump artifact** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create a crashdump to test uploading** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create a crashdump to test uploading** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump @actions/artifact to 2.2.1** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **ignore woke checks of the dist/ folder** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **docs: Improve release instructions  Filling gaps in the m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **docs: Improve release instructions  Filling gaps in the m...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/34) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/34) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1610) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update actions/artifact to 2.2.1 (#93)  * Update actions/...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **target ES2022 standard** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/93) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update src/cleanup/index.ts  Co-authored-by: Mateo Florid...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update src/cleanup/index.ts  Co-authored-by: Mateo Florid...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/93) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/93) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/93) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/93) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
