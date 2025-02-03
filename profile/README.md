@@ -25,15 +25,13 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support alternate names for ceph-fs charm and associated ...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/33) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@chrisbetze](https://github.com/chrisbetze) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/872) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **docs: Improve release instructions (#1610)  ---------  ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1610) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Address comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1610) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1610) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1610) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **user create action ensures groups is a list of groups** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
