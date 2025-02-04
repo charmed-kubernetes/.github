@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@chrisbetze](https://github.com/chrisbetze) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/872) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **docs: Improve release instructions (#1610)  ---------  ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1610) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Address comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The role of FIPS 140-3 in the latest FedRAMP guidance](https://ubuntu.com//blog/the-role-of-fips-140-3-in-the-latest-fedramp-guidance) - Tue, 04 Feb 2025 18:30:43 
 * [How to reduce data storage costs by up to 50% with Ceph](https://ubuntu.com//blog/how-to-reduce-data-storage-costs-by-up-to-50-with-ceph) - Mon, 03 Feb 2025 10:32:00 
 * [How to utilize CPU offloads to increase storage efficiency](https://ubuntu.com//blog/how-to-utilize-cpu-offloads-to-increase-storage-efficiency) - Mon, 27 Jan 2025 09:11:00 
 * [Bringing multiple windows to Flutter desktop apps](https://ubuntu.com//blog/multiple-window-flutter-desktop) - Wed, 22 Jan 2025 10:00:00 
 * [Ubuntu Summit 2024 Reflections](https://ubuntu.com//blog/ubuntu-summit-2024-reflections) - Tue, 21 Jan 2025 16:54:38 
 * [A comprehensive guide to NIS2 Compliance: Part 3 &#8211; Setting the roadmap and demonstrating NIS2 compliance.](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-3-setting-the-roadmap-and-demonstrating-nis2-compliance) - Mon, 20 Jan 2025 17:29:24 
-* [An Introduction to Open Source Licensing for complete beginners](https://ubuntu.com//blog/introduction-to-open-source-licensing) - Mon, 20 Jan 2025 10:40:22 
 <!-- blog ends -->
