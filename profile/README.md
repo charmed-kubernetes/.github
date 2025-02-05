@@ -42,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [FIPS 140-3 certified modules now available for Ubuntu 22.04 LTS](https://ubuntu.com//blog/fips-140-3-for-ubuntu-22-04lts) - Wed, 05 Feb 2025 19:19:55 
+* [Ubuntu available in Microsoft’s new WSL distribution format](https://ubuntu.com//blog/ubuntu-wsl-new-format-available) - Wed, 05 Feb 2025 17:21:02 
 * [The role of FIPS 140-3 in the latest FedRAMP guidance](https://ubuntu.com//blog/the-role-of-fips-140-3-in-the-latest-fedramp-guidance) - Tue, 04 Feb 2025 18:30:43 
 * [How to reduce data storage costs by up to 50% with Ceph](https://ubuntu.com//blog/how-to-reduce-data-storage-costs-by-up-to-50-with-ceph) - Mon, 03 Feb 2025 10:32:00 
 * [How to utilize CPU offloads to increase storage efficiency](https://ubuntu.com//blog/how-to-utilize-cpu-offloads-to-increase-storage-efficiency) - Mon, 27 Jan 2025 09:11:00 
 * [Bringing multiple windows to Flutter desktop apps](https://ubuntu.com//blog/multiple-window-flutter-desktop) - Wed, 22 Jan 2025 10:00:00 
-* [Ubuntu Summit 2024 Reflections](https://ubuntu.com//blog/ubuntu-summit-2024-reflections) - Tue, 21 Jan 2025 16:54:38 
-* [A comprehensive guide to NIS2 Compliance: Part 3 &#8211; Setting the roadmap and demonstrating NIS2 compliance.](https://ubuntu.com//blog/a-comprehensive-guide-to-nis2-compliance-part-3-setting-the-roadmap-and-demonstrating-nis2-compliance) - Mon, 20 Jan 2025 17:29:24 
 <!-- blog ends -->
