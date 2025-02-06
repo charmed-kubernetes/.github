@@ -41,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical achieves ISO 21434 certification, strengthening automotive cybersecurity standards](https://ubuntu.com//blog/canonical-achieves-iso-21434-certification) - Thu, 06 Feb 2025 12:00:57 
+* [EU Cyber Resilience Act compliance: best practices for IoT manufacturers](https://ubuntu.com//blog/what-the-cyber-resilience-act-cra-means-for-iot-manufacturers) - Thu, 06 Feb 2025 10:20:31 
+* [A CISO’s comprehensive breakdown of the EU&#8217;s Cyber Resilience Act (EU CRA)](https://ubuntu.com//blog/a-cisos-comprehensive-breakdown-of-the-cyber-resilience-act) - Thu, 06 Feb 2025 10:20:18 
 * [FIPS 140-3 certified modules now available for Ubuntu 22.04 LTS](https://ubuntu.com//blog/fips-140-3-for-ubuntu-22-04lts) - Wed, 05 Feb 2025 19:19:55 
 * [Ubuntu available in Microsoft’s new WSL distribution format](https://ubuntu.com//blog/ubuntu-wsl-new-format-available) - Wed, 05 Feb 2025 17:21:02 
 * [The role of FIPS 140-3 in the latest FedRAMP guidance](https://ubuntu.com//blog/the-role-of-fips-140-3-in-the-latest-fedramp-guidance) - Tue, 04 Feb 2025 18:30:43 
-* [How to reduce data storage costs by up to 50% with Ceph](https://ubuntu.com//blog/how-to-reduce-data-storage-costs-by-up-to-50-with-ceph) - Mon, 03 Feb 2025 10:32:00 
-* [How to utilize CPU offloads to increase storage efficiency](https://ubuntu.com//blog/how-to-utilize-cpu-offloads-to-increase-storage-efficiency) - Mon, 27 Jan 2025 09:11:00 
-* [Bringing multiple windows to Flutter desktop apps](https://ubuntu.com//blog/multiple-window-flutter-desktop) - Wed, 22 Jan 2025 10:00:00 
 <!-- blog ends -->
