@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include new ceph-csi releases** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create charm tolerations for ceph-rbd and cephfs deployme...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/30) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/32) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Test collisions are detected when second app is installed** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test collisions are detected when second app is installed** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@RomainDusi](https://github.com/RomainDusi) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/875) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure edge channel validation use correct channel fo cha...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/872) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix typo in "Installing Charmed Kubernetes on Existing Ma...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/873) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
