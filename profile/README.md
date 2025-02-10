@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How your feedback shapes the way we support open source software](https://ubuntu.com//blog/how-your-feedback-shapes-our-open-source-support) - Mon, 10 Feb 2025 11:00:00 
 * [Ubuntu 20.04 LTS standard support is coming to an end – options for AWS Users](https://ubuntu.com//blog/ubuntu-20-04-lts-end-of-standard-support-options-for-aws) - Fri, 07 Feb 2025 18:39:13 
 * [Security in depth with Ubuntu: Mapping security primitives to attacker capabilities](https://ubuntu.com//blog/ubuntu-security-defense-in-depth) - Fri, 07 Feb 2025 13:24:37 
 * [Canonical achieves ISO 21434 certification, strengthening automotive cybersecurity standards](https://ubuntu.com//blog/canonical-achieves-iso-21434-certification) - Thu, 06 Feb 2025 12:00:57 
 * [EU Cyber Resilience Act compliance: best practices for IoT manufacturers](https://ubuntu.com//blog/what-the-cyber-resilience-act-cra-means-for-iot-manufacturers) - Thu, 06 Feb 2025 10:20:31 
 * [A CISO’s comprehensive breakdown of the EU&#8217;s Cyber Resilience Act (EU CRA)](https://ubuntu.com//blog/a-cisos-comprehensive-breakdown-of-the-cyber-resilience-act) - Thu, 06 Feb 2025 10:20:18 
-* [FIPS 140-3 certified modules now available for Ubuntu 22.04 LTS](https://ubuntu.com//blog/fips-140-3-for-ubuntu-22-04lts) - Wed, 05 Feb 2025 19:19:55 
 <!-- blog ends -->
