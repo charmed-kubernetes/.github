@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: lint** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Support pydantic 2** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **include new ceph-csi releases** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/32) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Test collisions are detected when second app is installed** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test collisions are detected when second app is installed** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@RomainDusi](https://github.com/RomainDusi) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/875) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
