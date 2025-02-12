@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **no extra check** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **format** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **nullable** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **base null** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: lint** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Support pydantic 2** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **include new ceph-csi releases** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade ceph upstream versions including 3.12 and 3.13 (#32)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create charm tolerations for ceph-rbd and cephfs deployme...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/35) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Compress metadata files into charmcraft.yaml (#30)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix: purge any cephfs storage classes installed by ops.ma...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix: purge any cephfs storage classes installed by ops.ma...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/38) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/38) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/38) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix: purge any cephfs storage classes installed by ops.ma...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@nhennigan](https://github.com/nhennigan) has pushed the commit **Update with Canonical Kubernetes links (#878)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/878) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
