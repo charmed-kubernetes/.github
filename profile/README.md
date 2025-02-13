@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **ci: Bump upload-artifact action to v4** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Pinning pbr<6.1.1 so it continues to use setuptools (#229...** to [layer-basic](https://github.com/charmed-kubernetes/layer-basic)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pinning pbr<6.1.1 so it continues to use setuptools (#12)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/12) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/12) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/35) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Compress metadata files into charmcraft.yaml (#30)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix: purge any cephfs storage classes installed by ops.ma...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix: purge any cephfs storage classes installed by ops.ma...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/38) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update setup.py** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **config: Add ingress-proxy-real-ip-cidr charm config (#182...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/182) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/182) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
