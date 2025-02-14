@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Adds charmcraft pack arguments** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/146) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update setup.py** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/4) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **config: Add ingress-proxy-real-ip-cidr charm config (#182...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin ops interface deps** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/5) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Track pod status for kube-ovn pods** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.32.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/8) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider/pull/3) in the [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
