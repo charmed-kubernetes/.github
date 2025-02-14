@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin ops interface deps** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Track pod status for kube-ovn pods** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.32.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/8) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider/pull/3) in the [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
