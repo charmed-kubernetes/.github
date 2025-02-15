@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin ops interface deps** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Support kube-control v2 schema** to [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/interface-kube-control/pull/5) in the [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Publish to pypi** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Track pod status for kube-ovn pods** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.32.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/8) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update pyproject.toml to support >=3.8** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **feat(terraform): Allow null value for base (#37)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve release instructions** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish with a token and fix unit test coverage (#6)** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@addyess](https://github.com/addyess) has pushed the commit **feat: support `pydantic 2` (#4)  Support Pydantic 2** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **feat: support `pydantic 2` (#4)  Support Pydantic 2** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: remove deprecated APIs** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Prepare to build as pypi package (#5)  * Prepare to build...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Prepare to build as pypi package (#5)  * Prepare to build...** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
