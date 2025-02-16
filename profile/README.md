@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/55) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/55) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **removing metrics no longer appearing from kube-ovn metrics** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update to v1.12.30** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Prometheus tests are a bit more patient and clear of miss...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **Rename attribute** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration test verbosity** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to kube-ovn-1.12.28** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update pyproject.toml to support >=3.8** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat(terraform): Allow null value for base (#37)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Improve release instructions** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **Publish with a token and fix unit test coverage (#6)** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: support `pydantic 2` (#4)  Support Pydantic 2** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
