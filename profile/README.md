@@ -44,7 +44,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [A look under the hood of our grid system and typography for the A4 format](https://ubuntu.com//blog/a-look-under-the-hood-of-our-grid-system-and-typography-for-the-a4-format) - Mon, 17 Feb 2025 12:01:52 
+* [A deep dive into our grid system and typography for the A4 format](https://ubuntu.com//blog/a-look-under-the-hood-of-our-grid-system-and-typography-for-the-a4-format) - Mon, 17 Feb 2025 12:01:52 
 * [How Ubuntu Pro + Support keeps your Ubuntu 20.04 LTS secure and stable](https://ubuntu.com//blog/20-04-support-how-ubuntu-pro-support-keeps-your-ubuntu-20-04-lts-secure-and-stable) - Mon, 17 Feb 2025 09:00:00 
 * [7 considerations when building your ML architecture](https://ubuntu.com//blog/7-considerations-ml-architecture) - Mon, 17 Feb 2025 08:34:15 
 * [How can you personalize your Ubuntu Pro subscription?](https://ubuntu.com//blog/how-can-you-personalize-your-ubuntu-pro-subscription) - Thu, 13 Feb 2025 09:17:00 
