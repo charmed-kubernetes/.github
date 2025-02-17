@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/35) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/876) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/55) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/55) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Prometheus tests are a bit more patient and clear of miss...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **Rename attribute** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration test verbosity** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to kube-ovn-1.12.28** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [A look under the hood of our grid system and typography for the A4 format](https://ubuntu.com//blog/a-look-under-the-hood-of-our-grid-system-and-typography-for-the-a4-format) - Mon, 17 Feb 2025 12:01:52 
+* [How Ubuntu Pro + Support keeps your Ubuntu 20.04 LTS secure and stable](https://ubuntu.com//blog/20-04-support-how-ubuntu-pro-support-keeps-your-ubuntu-20-04-lts-secure-and-stable) - Mon, 17 Feb 2025 09:00:00 
 * [7 considerations when building your ML architecture](https://ubuntu.com//blog/7-considerations-ml-architecture) - Mon, 17 Feb 2025 08:34:15 
 * [How can you personalize your Ubuntu Pro subscription?](https://ubuntu.com//blog/how-can-you-personalize-your-ubuntu-pro-subscription) - Thu, 13 Feb 2025 09:17:00 
 * [AI in 2025: is it an agentic year?](https://ubuntu.com//blog/ai-in-2025-is-it-an-agentic-year) - Wed, 12 Feb 2025 10:19:49 
 * [Canonical announces 12 year Kubernetes LTS](https://ubuntu.com//blog/12-year-lts-for-kubernetes) - Tue, 11 Feb 2025 10:01:56 
-* [How your feedback shapes the way we support open source software](https://ubuntu.com//blog/how-your-feedback-shapes-our-open-source-support) - Mon, 10 Feb 2025 11:00:00 
-* [Ubuntu 20.04 LTS standard support is coming to an end – options for AWS Users](https://ubuntu.com//blog/ubuntu-20-04-lts-end-of-standard-support-options-for-aws) - Fri, 07 Feb 2025 18:39:13 
 <!-- blog ends -->
