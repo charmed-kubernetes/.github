@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/876) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/55) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/55) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **removing metrics no longer appearing from kube-ovn metrics** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Rename attribute** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Integration test verbosity** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@addyess](https://github.com/addyess) has pushed the commit **Upgrade to kube-ovn-1.12.28** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update pyproject.toml to support >=3.8** to [interface-kube-control](https://github.com/charmed-kubernetes/interface-kube-control)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [7 considerations when building your ML architecture](https://ubuntu.com//blog/7-considerations-ml-architecture) - Mon, 17 Feb 2025 08:34:15 
 * [How can you personalize your Ubuntu Pro subscription?](https://ubuntu.com//blog/how-can-you-personalize-your-ubuntu-pro-subscription) - Thu, 13 Feb 2025 09:17:00 
 * [AI in 2025: is it an agentic year?](https://ubuntu.com//blog/ai-in-2025-is-it-an-agentic-year) - Wed, 12 Feb 2025 10:19:49 
 * [Canonical announces 12 year Kubernetes LTS](https://ubuntu.com//blog/12-year-lts-for-kubernetes) - Tue, 11 Feb 2025 10:01:56 
 * [How your feedback shapes the way we support open source software](https://ubuntu.com//blog/how-your-feedback-shapes-our-open-source-support) - Mon, 10 Feb 2025 11:00:00 
 * [Ubuntu 20.04 LTS standard support is coming to an end – options for AWS Users](https://ubuntu.com//blog/ubuntu-20-04-lts-end-of-standard-support-options-for-aws) - Fri, 07 Feb 2025 18:39:13 
-* [Security in depth with Ubuntu: Mapping security primitives to attacker capabilities](https://ubuntu.com//blog/ubuntu-security-defense-in-depth) - Fri, 07 Feb 2025 13:24:37 
 <!-- blog ends -->
