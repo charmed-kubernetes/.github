@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update providers (#24)  * Update providers * update acti...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/24) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin kube-control dep** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-azure-cloud-provider/pull/24) in the [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/39) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Address review comments** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/39) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: integration tests cilium version  Signed-off-by: Rez...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Reconciler will detect and block on kubernetes resource c...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update cpu usage Prometheus rule (#369)  Add specific lab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/369) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Reconciler will detect and block on kubernetes resource c...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/39) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/39) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
