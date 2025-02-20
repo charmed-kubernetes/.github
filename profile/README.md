@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Allow Juju tf provider to float past 0.14.0** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/15) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Add newline to charmcraft channel** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Allow Juju tf provider to float past 0.14.0 (#7)  * Allow...** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/7) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
+ - [@bschimke95](https://github.com/bschimke95) has pushed the commit **Allow Juju tf provider to float past 0.14.0** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/6) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update cpu usage Prometheus rule (#369)  Add specific lab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@aborsik](https://github.com/aborsik) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/879) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@rkferreira](https://github.com/rkferreira) has opened this [issue](https://github.com/charmed-kubernetes/cluster-api-provider-juju/issues/20) in [charmed-kubernetes/cluster-api-provider-juju](https://api.github.com/repos/charmed-kubernetes/cluster-api-provider-juju).
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin deps for 1.32 release (#372) (#373)  * Pin deps for 1...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Allow Juju tf provider to float past 0.14.0 (#11)** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/373) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin deps for 1.32 release (#372)  * Pin deps for 1.32 rel...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin deps for 1.32 release (#183)  * Pin deps for 1.32 rel...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/372) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/372) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
