@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **Do not mark succeeded or failed pods as unready (#374)  *...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improved typing** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Work towards creating unit tests for a pip package** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Work towards creating unit tests for a pip package** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/374) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting errors  Signed-off-by: Reza Abbasalipour <re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting errors  Signed-off-by: Reza Abbasalipour <re...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/374) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: add more detail to logging  Signed-off-by: Reza Ab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/374) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/374) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/877) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/876) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Logic simplification** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
