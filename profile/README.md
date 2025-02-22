@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/40) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/40) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update src/manifests_cephfs.py  Co-authored-by: Mateo Flo...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/40) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/4) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/4) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/4) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/4) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-contextual-status/pull/4) in the [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **CI: Update deprecated actions (#34)  actions/download-art...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/vsphere-cloud-provider/pull/34) in the [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **CI: Update deprecated actions (#22)  actions/download-art...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/22) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **CI: Update deprecated actions (#11)  actions/download-art...** to [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-volcano/pull/11) in the [charm-volcano](https://github.com/charmed-kubernetes/charm-volcano) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
