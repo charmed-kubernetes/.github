@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **Add how-to uninstall page to  Charmed Kubernetes (#880)  ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/39) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/39) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/880) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/880) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/880) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/880) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/880) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/880) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Cloud-native telecom infrastructure with Canonical Kubernetes at Mobile World Congress Barcelona 2025](https://ubuntu.com//blog/cloud-native-telecom-infrastructure-with-canonical-kubernetes-at-mwc-2025) - Tue, 25 Feb 2025 11:30:00 
+* [Valkey container image – securely designed, compliant, and long term supported (LTS)](https://ubuntu.com//blog/valkey-container-image) - Tue, 25 Feb 2025 10:00:00 
 * [Canonical at Embedded World 2025](https://ubuntu.com//blog/canonical-at-embedded-world-2025) - Mon, 24 Feb 2025 18:37:14 
 * [A deep dive into our grid system and typography for the A4 format](https://ubuntu.com//blog/a-look-under-the-hood-of-our-grid-system-and-typography-for-the-a4-format) - Mon, 17 Feb 2025 12:01:52 
 * [How Ubuntu Pro + Support keeps your Ubuntu 20.04 LTS secure and stable](https://ubuntu.com//blog/20-04-support-how-ubuntu-pro-support-keeps-your-ubuntu-20-04-lts-secure-and-stable) - Mon, 17 Feb 2025 09:00:00 
 * [7 considerations when building your ML architecture](https://ubuntu.com//blog/7-considerations-ml-architecture) - Mon, 17 Feb 2025 08:34:15 
-* [How can you personalize your Ubuntu Pro subscription?](https://ubuntu.com//blog/how-can-you-personalize-your-ubuntu-pro-subscription) - Thu, 13 Feb 2025 09:17:00 
-* [AI in 2025: is it an agentic year?](https://ubuntu.com//blog/ai-in-2025-is-it-an-agentic-year) - Wed, 12 Feb 2025 10:19:49 
 <!-- blog ends -->
