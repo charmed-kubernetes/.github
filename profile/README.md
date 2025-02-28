@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How to conduct a vulnerability assessment](https://ubuntu.com//blog/how-to-conduct-a-vulnerability-assessment) - Fri, 28 Feb 2025 11:24:59 
+* [Learn how to run your data centre like a cloud at our March after-work event](https://ubuntu.com//blog/canonical-infrastructure-masters-cloud-networking-event) - Fri, 28 Feb 2025 10:19:43 
 * [Experience Edge AI use cases with Canonical at Mobile World Congress Barcelona 2025](https://ubuntu.com//blog/experience-edge-ai-use-cases-with-canonical-at-mobile-world-congress-barcelona-2025) - Thu, 27 Feb 2025 11:00:00 
 * [5G without compromise: Building mission-critical private networks for Industry 4.0 with open source](https://ubuntu.com//blog/5g-without-compromise-building-mission-critical-private-networks-for-industry-4-0-with-open-source) - Wed, 26 Feb 2025 11:00:00 
 * [Cloud-native telecom infrastructure with Canonical Kubernetes at Mobile World Congress Barcelona 2025](https://ubuntu.com//blog/cloud-native-telecom-infrastructure-with-canonical-kubernetes-at-mwc-2025) - Tue, 25 Feb 2025 11:30:00 
 * [Valkey container image – securely designed, compliant, and long term supported (LTS)](https://ubuntu.com//blog/valkey-container-image) - Tue, 25 Feb 2025 10:00:00 
-* [Canonical at Embedded World 2025](https://ubuntu.com//blog/canonical-at-embedded-world-2025) - Mon, 24 Feb 2025 18:37:14 
-* [A deep dive into our grid system and typography for the A4 format](https://ubuntu.com//blog/a-look-under-the-hood-of-our-grid-system-and-typography-for-the-a4-format) - Mon, 17 Feb 2025 12:01:52 
 <!-- blog ends -->
