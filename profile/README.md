@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@rapour](https://github.com/rapour) has pushed the commit **Update cilium version to 1.17.1 (#21)  * chore: add anoth...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has pushed the commit **Update cilium version to 1.17.1 (#21)  * chore: add anoth...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/21) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@nhennigan](https://github.com/nhennigan) has pushed the commit **fix broken link (#877)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@nhennigan](https://github.com/nhennigan) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/875) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@addyess](https://github.com/addyess) has pushed the commit **chore: Update PREV_RELEASE to release-1.32 (#235)** to [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/cdk-addons/pull/235) in the [cdk-addons](https://github.com/charmed-kubernetes/cdk-addons) repository.
- - [@nhennigan](https://github.com/nhennigan) has pushed the commit **1.32 release notes (#881)  * 1.32 release notes * update...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/881) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@nhennigan](https://github.com/nhennigan) has pushed the commit **revert changes to home page (#882)  now canonical k8s web...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update CI workflows (#4)  * Inclusive workflow rename  * ...** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update CI workflows (#4)  * Inclusive workflow rename  * ...** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address more linting failures** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Switch to tox-uv** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Switch to tox-uv** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Switch to tox-uv** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address Linter failures** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
