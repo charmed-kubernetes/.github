@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Update CI workflows (#4)  * Inclusive workflow rename  * ...** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update CI workflows (#4)  * Inclusive workflow rename  * ...** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address more linting failures** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **Switch to tox-uv** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **Switch to tox-uv** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **Switch to tox-uv** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address Linter failures** to [nvidia](https://github.com/charmed-kubernetes/nvidia)
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use ubuntu 20.04 for testing microk8s (#1613)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **First rount self-review** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Disable local-storage** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Continue to label manifests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Continue to label manifests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Avoid csidriver collisions by using a name formatter** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
