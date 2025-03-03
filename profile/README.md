@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Experiment Tracking with MLFlow in Canonical’s Data Science Stack](https://ubuntu.com//blog/experiment-tracking-with-mlflow) - Mon, 03 Mar 2025 13:21:23 
 * [Life at Canonical: Akshara Pathak shares her experience as a new joiner in Customer Success](https://ubuntu.com//blog/life-at-canonical-akshara-pathak-shares-her-experience-as-a-new-joiner-in-customer-success) - Fri, 28 Feb 2025 15:37:22 
 * [How to conduct a vulnerability assessment](https://ubuntu.com//blog/how-to-conduct-a-vulnerability-assessment) - Fri, 28 Feb 2025 11:24:59 
 * [Learn how to run your data centre like a cloud at our March after-work event](https://ubuntu.com//blog/canonical-infrastructure-masters-cloud-networking-event) - Fri, 28 Feb 2025 10:19:43 
 * [Experience Edge AI use cases with Canonical at Mobile World Congress Barcelona 2025](https://ubuntu.com//blog/experience-edge-ai-use-cases-with-canonical-at-mobile-world-congress-barcelona-2025) - Thu, 27 Feb 2025 11:00:00 
 * [5G without compromise: Building mission-critical private networks for Industry 4.0 with open source](https://ubuntu.com//blog/5g-without-compromise-building-mission-critical-private-networks-for-industry-4-0-with-open-source) - Wed, 26 Feb 2025 11:00:00 
-* [Cloud-native telecom infrastructure with Canonical Kubernetes at Mobile World Congress Barcelona 2025](https://ubuntu.com//blog/cloud-native-telecom-infrastructure-with-canonical-kubernetes-at-mwc-2025) - Tue, 25 Feb 2025 11:30:00 
 <!-- blog ends -->
