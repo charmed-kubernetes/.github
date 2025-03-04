@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting errors  Signed-off-by: Reza Abbasalipour <re...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **FIX: Use subnet cidr for member secgroup rules to support...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Build with charmcraft 2.x** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Build with charmcraft 2.x** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test infra on noble** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Install FreePBX and Asterisk on Ubuntu 24.04 LTS for security patches until 2036](https://ubuntu.com//blog/install-freepbx-and-asterisk-on-ubuntu-24-04-lts-for-security-patches-until-2036) - Tue, 04 Mar 2025 14:35:12 
+* [Certification as a strategy: How Ubuntu &amp; SystemReady boost hardware competitiveness](https://ubuntu.com//blog/certification-as-a-strategy-how-ubuntu-systemready-boost-hardware-competitiveness) - Tue, 04 Mar 2025 14:31:13 
+* [Ubuntu 20.04 LTS on Azure: how to stay secure after standard support ends](https://ubuntu.com//blog/ubuntu-2004-lts-security-after-standard-support) - Tue, 04 Mar 2025 12:59:16 
 * [Experiment Tracking with MLFlow in Canonical’s Data Science Stack](https://ubuntu.com//blog/experiment-tracking-with-mlflow) - Mon, 03 Mar 2025 13:21:23 
 * [Life at Canonical: Akshara Pathak shares her experience as a new joiner in Customer Success](https://ubuntu.com//blog/life-at-canonical-akshara-pathak-shares-her-experience-as-a-new-joiner-in-customer-success) - Fri, 28 Feb 2025 15:37:22 
 * [How to conduct a vulnerability assessment](https://ubuntu.com//blog/how-to-conduct-a-vulnerability-assessment) - Fri, 28 Feb 2025 11:24:59 
-* [Learn how to run your data centre like a cloud at our March after-work event](https://ubuntu.com//blog/canonical-infrastructure-masters-cloud-networking-event) - Fri, 28 Feb 2025 10:19:43 
-* [Experience Edge AI use cases with Canonical at Mobile World Congress Barcelona 2025](https://ubuntu.com//blog/experience-edge-ai-use-cases-with-canonical-at-mobile-world-congress-barcelona-2025) - Thu, 27 Feb 2025 11:00:00 
-* [5G without compromise: Building mission-critical private networks for Industry 4.0 with open source](https://ubuntu.com//blog/5g-without-compromise-building-mission-critical-private-networks-for-industry-4-0-with-open-source) - Wed, 26 Feb 2025 11:00:00 
 <!-- blog ends -->
