@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: add a test for non allowed encapsulation protocol ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: add a test for non allowed encapsulation protocol ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting errors  Signed-off-by: Reza Abbasalipour <re...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **FIX: Use subnet cidr for member secgroup rules to support...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
