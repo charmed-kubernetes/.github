@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **feat: Label nodes with AZ information from Juju** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: run _install_cli_resources only if the cilium config...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: add a test for non allowed encapsulation protocol ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: add a test for non allowed encapsulation protocol ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting errors  Signed-off-by: Reza Abbasalipour <re...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch cilium encapsulation protocol config option...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
