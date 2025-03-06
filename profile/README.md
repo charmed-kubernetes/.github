@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@rapour](https://github.com/rapour) has pushed the commit **Support Geneve protocol (#23)  * feat: add an option to s...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: enrhich cilium configuration blocked status messag...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **feat: Label nodes with AZ information from Juju (#14)** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/23) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/14) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/14) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, enable noble where applicable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, enable noble where applicable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Google Authd broker: authenticate to Ubuntu Desktop/Server with your Google account](https://ubuntu.com//blog/google-authd-broker-ubuntu-desktop-server) - Thu, 06 Mar 2025 10:38:34 
+* [Canonical and Renesas Announce Partnership to Accelerate Innovation in Enterprise AI](https://ubuntu.com//blog/canonical-and-renesas-announce-partnership-to-accelerate-innovation-in-enterprise-ai) - Thu, 06 Mar 2025 09:00:00 
 * [Install FreePBX and Asterisk on Ubuntu 24.04 LTS for security patches until 2036](https://ubuntu.com//blog/install-freepbx-and-asterisk-on-ubuntu-24-04-lts-for-security-patches-until-2036) - Tue, 04 Mar 2025 14:35:12 
 * [Certification as a strategy: How Ubuntu &amp; SystemReady boost hardware competitiveness](https://ubuntu.com//blog/certification-as-a-strategy-how-ubuntu-systemready-boost-hardware-competitiveness) - Tue, 04 Mar 2025 14:31:13 
 * [Ubuntu 20.04 LTS on Azure: how to stay secure after standard support ends](https://ubuntu.com//blog/ubuntu-2004-lts-security-after-standard-support) - Tue, 04 Mar 2025 12:59:16 
 * [Experiment Tracking with MLFlow in Canonical’s Data Science Stack](https://ubuntu.com//blog/experiment-tracking-with-mlflow) - Mon, 03 Mar 2025 13:21:23 
-* [Life at Canonical: Akshara Pathak shares her experience as a new joiner in Customer Success](https://ubuntu.com//blog/life-at-canonical-akshara-pathak-shares-her-experience-as-a-new-joiner-in-customer-success) - Fri, 28 Feb 2025 15:37:22 
-* [How to conduct a vulnerability assessment](https://ubuntu.com//blog/how-to-conduct-a-vulnerability-assessment) - Fri, 28 Feb 2025 11:24:59 
 <!-- blog ends -->
