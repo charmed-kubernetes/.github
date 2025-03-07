@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Spacing adjustment in docs** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/147) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Comment the default case for return_all is defined first** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/147) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve build_charm type hinting** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@dimaqq](https://github.com/dimaqq) has closed this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/144) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Stop testing Charmed Kubernetes against focal** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **fix: purge any cephfs storage classes installed by ops.ma...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **test: 2 Ceph clusters to ensure both are read/writable (#...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **test: 2 Ceph clusters to ensure both are read/writable (#...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/41) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **Support Geneve protocol (#23)  * feat: add an option to s...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
