@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back to pytest_async<0.23** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Conform to latest pytest_asyncio docs** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Conform to latest pytest_asyncio docs** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/147) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Build openstack-integrator and etcd with launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, enable noble where applicable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Build openstack-integrator and etcd with launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
