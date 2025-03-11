@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Join Canonical at NVIDIA GTC 2025](https://ubuntu.com//blog/join-canonical-at-nvidia-gtc-2025) - Tue, 11 Mar 2025 15:16:28 
 * [Google Authd broker: authenticate to Ubuntu Desktop/Server with your Google account](https://ubuntu.com//blog/google-authd-broker-ubuntu-desktop-server) - Thu, 06 Mar 2025 10:38:34 
 * [Canonical and Renesas Announce Partnership to Accelerate Innovation in Enterprise AI](https://ubuntu.com//blog/canonical-and-renesas-announce-partnership-to-accelerate-innovation-in-enterprise-ai) - Thu, 06 Mar 2025 09:00:00 
 * [Install FreePBX and Asterisk on Ubuntu 24.04 LTS for security patches until 2036](https://ubuntu.com//blog/install-freepbx-and-asterisk-on-ubuntu-24-04-lts-for-security-patches-until-2036) - Tue, 04 Mar 2025 14:35:12 
 * [Certification as a strategy: How Ubuntu &amp; SystemReady boost hardware competitiveness](https://ubuntu.com//blog/certification-as-a-strategy-how-ubuntu-systemready-boost-hardware-competitiveness) - Tue, 04 Mar 2025 14:31:13 
 * [Ubuntu 20.04 LTS on Azure: how to stay secure after standard support ends](https://ubuntu.com//blog/ubuntu-2004-lts-security-after-standard-support) - Tue, 04 Mar 2025 12:59:16 
-* [Experiment Tracking with MLFlow in Canonical’s Data Science Stack](https://ubuntu.com//blog/experiment-tracking-with-mlflow) - Mon, 03 Mar 2025 13:21:23 
 <!-- blog ends -->
