@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/15) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1615) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/10) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/42) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/216) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back to pytest_async<0.23** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Conform to latest pytest_asyncio docs** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Conform to latest pytest_asyncio docs** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert project to build with uv** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert project to build with uv** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Support for multiple charm files outputs during charmcraf...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/147) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Build openstack-integrator and etcd with launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, enable noble where applicable** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
