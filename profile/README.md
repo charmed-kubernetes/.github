@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is System Hardening? Essential Checklists from OS to Applications](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices) - Fri, 14 Mar 2025 14:39:25 
 * [Effortless observability for Django applications](https://ubuntu.com//blog/effortless-observability-for-django-applications) - Thu, 13 Mar 2025 11:47:46 
 * [Among the waves: Plucky Puffin](https://ubuntu.com//blog/among-the-waves-plucky-puffin) - Wed, 12 Mar 2025 12:02:02 
 * [Join Canonical at NVIDIA GTC 2025](https://ubuntu.com//blog/join-canonical-at-nvidia-gtc-2025) - Tue, 11 Mar 2025 15:16:28 
 * [How to deploy Kubeflow on Azure](https://ubuntu.com//blog/how-to-deploy-kubeflow-on-azure) - Tue, 11 Mar 2025 14:52:53 
 * [Google Authd broker: authenticate to Ubuntu Desktop/Server with your Google account](https://ubuntu.com//blog/google-authd-broker-ubuntu-desktop-server) - Thu, 06 Mar 2025 10:38:34 
-* [Canonical and Renesas Announce Partnership to Accelerate Innovation in Enterprise AI](https://ubuntu.com//blog/canonical-and-renesas-announce-partnership-to-accelerate-innovation-in-enterprise-ai) - Thu, 06 Mar 2025 09:00:00 
 <!-- blog ends -->
