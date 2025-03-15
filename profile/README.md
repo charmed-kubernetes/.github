@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update tigera_aws.py (#1616)  * Update tigera_aws.py  Add...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1616) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **lint** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.32.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1615) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/10) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/42) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/216) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
