@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update tigera_aws.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update tigera_aws.py (#1616)  * Update tigera_aws.py  Add...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1616) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **lint** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/15) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1615) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
