@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update tigera_aws.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Build openstack-integrator and etcd with launchpad (#1615)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix charm flannel builds (#92)  * Fix charm flannel build...** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support from etcd (#216)  * feat: Drop f...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Drop support for python 3.8** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Drop support for python 3.8** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
