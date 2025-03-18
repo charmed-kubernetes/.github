@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1617) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1617) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update tigera_aws.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Build openstack-integrator and etcd with launchpad (#1615)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix charm flannel builds (#92)  * Fix charm flannel build...** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
@@ -32,9 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support from ceph-csi (#42)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble (#15)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-flannel/pull/92) in the [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop support for python 3.8** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop support for python 3.8** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu now officially supports NVIDIA Jetson: powering the future of AI at the edge](https://ubuntu.com//blog/ubuntu-now-officially-supports-nvidia-jetson-powering-the-future-of-ai-at-the-edge) - Tue, 18 Mar 2025 20:00:00 
 * [What is System Hardening? Essential Checklists from OS to Applications](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices) - Fri, 14 Mar 2025 14:39:25 
 * [Effortless observability for Django applications](https://ubuntu.com//blog/effortless-observability-for-django-applications) - Thu, 13 Mar 2025 11:47:46 
 * [Among the waves: Plucky Puffin](https://ubuntu.com//blog/among-the-waves-plucky-puffin) - Wed, 12 Mar 2025 12:02:02 
 * [Join Canonical at NVIDIA GTC 2025](https://ubuntu.com//blog/join-canonical-at-nvidia-gtc-2025) - Tue, 11 Mar 2025 15:16:28 
 * [How to deploy Kubeflow on Azure](https://ubuntu.com//blog/how-to-deploy-kubeflow-on-azure) - Tue, 11 Mar 2025 14:52:53 
-* [Google Authd broker: authenticate to Ubuntu Desktop/Server with your Google account](https://ubuntu.com//blog/google-authd-broker-ubuntu-desktop-server) - Thu, 06 Mar 2025 10:38:34 
 <!-- blog ends -->
