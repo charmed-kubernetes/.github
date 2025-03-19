@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1617) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1617) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **feat: Drop focal support, Add Noble (#12)** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update tigera_aws.py (#1619)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1619) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use charmcraft channel** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build with charmcraft 2.x** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Build with charmcraft 2.x** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Fix interface lookup (#1617)  The test depended on old li...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@eaudetcobello](https://github.com/eaudetcobello) has pushed the commit **Update tigera_aws.py** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Build openstack-integrator and etcd with launchpad (#1615)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix charm flannel builds (#92)  * Fix charm flannel build...** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support from etcd (#216)  * feat: Drop f...** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support from ceph-csi (#42)** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **feat: Drop focal support, Add Noble (#15)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update inclusive name check** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update inclusive name check** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
