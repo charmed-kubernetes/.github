@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: detect vxlan port conflict and block the charm  Si...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into akd/gcp-metadata-correction** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
  - [@addyess](https://github.com/addyess) has pushed the commit **Correct lint/formater using only ruff** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow ignore-missing-cni to blank out the default-cni file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **feat: Drop focal support, Add Noble (#12)** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update tigera_aws.py (#1619)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1619) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Accelerating AI with open source machine learning infrastructure](https://ubuntu.com//blog/accelerating-ai-with-open-source-machine-learning-infrastructure) - Thu, 20 Mar 2025 20:19:00 
 * [Building optimized LLM chatbots with Canonical and NVIDIA](https://ubuntu.com//blog/building-optimized-llm-chatbots-with-canonical-and-nvidia) - Wed, 19 Mar 2025 21:05:00 
 * [Unlocking Edge AI: a collaborative reference architecture with NVIDIA](https://ubuntu.com//blog/unlocking-edge-ai-a-collaborative-reference-architecture-with-nvidia) - Wed, 19 Mar 2025 15:12:00 
 * [Ubuntu now officially supports NVIDIA Jetson: powering the future of AI at the edge](https://ubuntu.com//blog/ubuntu-now-officially-supports-nvidia-jetson-powering-the-future-of-ai-at-the-edge) - Tue, 18 Mar 2025 20:00:00 
 * [What is System Hardening? Essential Checklists from OS to Applications](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices) - Fri, 14 Mar 2025 14:39:25 
 * [Effortless observability for Django applications](https://ubuntu.com//blog/effortless-observability-for-django-applications) - Thu, 13 Mar 2025 11:47:46 
-* [Among the waves: Plucky Puffin](https://ubuntu.com//blog/among-the-waves-plucky-puffin) - Wed, 12 Mar 2025 12:02:02 
 <!-- blog ends -->
