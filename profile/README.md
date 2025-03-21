@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1614) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/38) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/17) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: validate tunnel-port  Signed-off-by: Reza Abbasali...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: unit tests  Signed-off-by: Reza Abbasalipour <reza.a...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Make localhost and nvidia tests run on demand rather than...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1621) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting errors  Signed-off-by: Reza Abbasalipour <re...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch to pyroute2 for network related checks  Sig...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: detect vxlan port conflict and block the charm  Si...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into akd/gcp-metadata-correction** to [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Correct lint/formater using only ruff** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create charm actions for listing cilium resources (#18)** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Release microk8s on M-Th (#1620)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@eaudetcobello](https://github.com/eaudetcobello) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1620) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Setup the None CNI if ignore-missing-cni is true** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow ignore-missing-cni to blank out the default-cni file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **feat: Drop focal support, Add Noble (#12)** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update tigera_aws.py (#1619)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
