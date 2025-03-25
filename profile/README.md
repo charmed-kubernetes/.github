@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Prepare image for 1.33 release** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow validation tests to parameterize the channel of etc...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1622) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fixed broken launchpad url for filing new issues** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fixed broken launchpad url for filing new issues** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Modify test deprecation** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **test with lxd vms** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into akd/noble-support** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve reconciler handlers to prevent early reconcilatio...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin python deps for support with python 3.12** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **build with charmcraft 2.x** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address woke-check** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has pushed the commit **include validate-wheelhouse tests** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
