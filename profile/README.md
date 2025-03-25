@@ -25,9 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Prepare image for 1.33 release** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow validation tests to parameterize the channel of etc...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1622) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Rivos and Canonical partner to deliver scalable RISC-V solutions in Data Centers and enable an enterprise-grade Ubuntu experience across Rivos platforms](https://ubuntu.com//blog/rivos-and-canonical-partner-to-deliver-scalable-risc-v-solutions-in-data-centers) - Tue, 25 Mar 2025 12:19:30 
 * [What is Application Security (AppSec)?](https://ubuntu.com//blog/what-is-application-security-appsec) - Mon, 24 Mar 2025 13:47:29 
 * [Accelerating AI with open source machine learning infrastructure](https://ubuntu.com//blog/accelerating-ai-with-open-source-machine-learning-infrastructure) - Thu, 20 Mar 2025 20:19:00 
 * [Hardening automation for CIS benchmarks now available for Ubuntu 24.04 LTS](https://ubuntu.com//blog/hardening-automation-for-cis-benchmarks-now-available-for-ubuntu-24-04-lts) - Thu, 20 Mar 2025 13:04:55 
 * [Building optimized LLM chatbots with Canonical and NVIDIA](https://ubuntu.com//blog/building-optimized-llm-chatbots-with-canonical-and-nvidia) - Wed, 19 Mar 2025 21:05:00 
 * [Unlocking Edge AI: a collaborative reference architecture with NVIDIA](https://ubuntu.com//blog/unlocking-edge-ai-a-collaborative-reference-architecture-with-nvidia) - Wed, 19 Mar 2025 15:12:00 
-* [Ubuntu now officially supports NVIDIA Jetson: powering the future of AI at the edge](https://ubuntu.com//blog/ubuntu-now-officially-supports-nvidia-jetson-powering-the-future-of-ai-at-the-edge) - Tue, 18 Mar 2025 20:00:00 
 <!-- blog ends -->
