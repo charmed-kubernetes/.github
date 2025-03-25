@@ -25,8 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow validation tests to parameterize the channel of etc...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1622) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
