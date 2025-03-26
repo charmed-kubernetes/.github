@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
+ - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: scrape KSM only on the leader unit** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fixed broken launchpad url for filing new issues** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **Fixed broken launchpad url for filing new issues** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **Modify test deprecation** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **test with lxd vms** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into akd/noble-support** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Improve reconciler handlers to prevent early reconcilatio...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **pin python deps for support with python 3.12** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
