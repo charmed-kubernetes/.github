@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: update oerlat sample file  Signed-off-by: Reza Abb...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@nhennigan](https://github.com/nhennigan) has pushed the commit **add missing version** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@ca-scribner](https://github.com/ca-scribner) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/186) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@copilot-pull-request-reviewer](https://github.com/copilot-pull-request-reviewer[bot]) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/186) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@copilot-pull-request-reviewer](https://github.com/copilot-pull-request-reviewer[bot]) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/186) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **build behind a proxy** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bug/lp2104056/update ingress nginx controller/1.11.5 (#90...** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bug/lp2104056/update ingress nginx controller/1.11.5 (#90...** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/907) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/185) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
