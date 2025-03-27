@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use pypi charms.reconciler charms.contextual-status (#186)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: update oerlat sample file  Signed-off-by: Reza Abb...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@copilot-pull-request-reviewer](https://github.com/copilot-pull-request-reviewer[bot]) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/186) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@copilot-pull-request-reviewer](https://github.com/copilot-pull-request-reviewer[bot]) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/186) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **build behind a proxy** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bug/lp2104056/update ingress nginx controller/1.11.5 (#90...** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
