@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Securing Software Supply Chains: New Research Highlights Industry Vulnerabilities](https://ubuntu.com//blog/securing-software-supply-chains-new-research-highlights-industry-vulnerabilities) - Mon, 31 Mar 2025 14:15:55 
+* [Automated patching for the Linux kernel](https://ubuntu.com//blog/automated-patching-for-the-linux-kernel) - Mon, 31 Mar 2025 13:47:22 
 * [KubeCon Europe 2025: Containers &amp; Connections with Ubuntu](https://ubuntu.com//blog/kubecon-europe-2025) - Fri, 28 Mar 2025 16:12:49 
 * [The State of Silicon and Devices &#8211; Q1 2025 Roundup](https://ubuntu.com//blog/state-of-silicon-devices-q1) - Fri, 28 Mar 2025 14:32:15 
 * [Ubuntu Confidential VMs Now Available on Google Cloud A3 with NVIDIA H100 GPUs](https://ubuntu.com//blog/ubuntu-confidential-vms-now-available-on-google-cloud-a3-with-nvidia-h100-gpus) - Thu, 27 Mar 2025 22:50:48 
 * [Open source enterprise application security remains a challenge despite greater patching efforts, IDC research reveals](https://ubuntu.com//blog/open-source-enterprise-application-security-remains-a-challenge-despite-greater-patching-efforts-idc-research-reveals) - Thu, 27 Mar 2025 09:00:00 
-* [70% of IT teams spend more than 6 hours per week on security patching – new IDC research](https://ubuntu.com//blog/70-of-it-teams-spend-more-than-6-hours-per-week-on-security-patching-new-idc-research) - Wed, 26 Mar 2025 08:33:54 
-* [Rivos and Canonical partner to deliver scalable RISC-V solutions in Data Centers and enable an enterprise-grade Ubuntu experience across Rivos platforms](https://ubuntu.com//blog/rivos-and-canonical-partner-to-deliver-scalable-risc-v-solutions-in-data-centers) - Tue, 25 Mar 2025 12:19:30 
 <!-- blog ends -->
