@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1624) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1624) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1624) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1624) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1624) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Expland bugfix-upgrade to upgrade from N-2 stable snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@baycarbone](https://github.com/baycarbone) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/44) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@patriziobassi](https://github.com/patriziobassi) has opened this [issue](https://github.com/charmed-kubernetes/charm-kube-ovn/issues/57) in [charmed-kubernetes/charm-kube-ovn](https://api.github.com/repos/charmed-kubernetes/charm-kube-ovn).
  - [@addyess](https://github.com/addyess) has pushed the commit **Use the pypi version of the reconciler (#45)  * Use the p...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add charm config to ignore missing CNI, and block when CN...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add charm config to ignore missing CNI, and block when CN...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/45) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump to newer version of libs** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt  Co-authored-by: Mateo Florido <m...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer/pull/45) in the [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Work towards creating unit tests for a pip package (#4)  ...** to [charm-lib-contextual-status](https://github.com/charmed-kubernetes/charm-lib-contextual-status)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How does MongoDB work?](https://ubuntu.com//blog/how-does-mongodb-work) - Wed, 02 Apr 2025 06:43:26 
 * [Securing Software Supply Chains: New Research Highlights Industry Vulnerabilities](https://ubuntu.com//blog/securing-software-supply-chains-new-research-highlights-industry-vulnerabilities) - Mon, 31 Mar 2025 14:15:55 
 * [Automated patching for the Linux kernel](https://ubuntu.com//blog/automated-patching-for-the-linux-kernel) - Mon, 31 Mar 2025 13:47:22 
 * [KubeCon Europe 2025: Containers &amp; Connections with Ubuntu](https://ubuntu.com//blog/kubecon-europe-2025) - Fri, 28 Mar 2025 16:12:49 
 * [The State of Silicon and Devices &#8211; Q1 2025 Roundup](https://ubuntu.com//blog/state-of-silicon-devices-q1) - Fri, 28 Mar 2025 14:32:15 
 * [Ubuntu Confidential VMs Now Available on Google Cloud A3 with NVIDIA H100 GPUs](https://ubuntu.com//blog/ubuntu-confidential-vms-now-available-on-google-cloud-a3-with-nvidia-h100-gpus) - Thu, 27 Mar 2025 22:50:48 
-* [Open source enterprise application security remains a challenge despite greater patching efforts, IDC research reveals](https://ubuntu.com//blog/open-source-enterprise-application-security-remains-a-challenge-despite-greater-patching-efforts-idc-research-reveals) - Thu, 27 Mar 2025 09:00:00 
 <!-- blog ends -->
