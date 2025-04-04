@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: kubelet naming** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **test without virtual-machine** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **fix: restart cilium vxlan interface** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
