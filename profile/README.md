@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: scrape KSM only on the leader unit (#376)  fix: scra...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/376) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **fix: set non-default vxlan destination port when cilium u...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has pushed the commit **fix: take into account when cilium is not found  Signed-o...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/24) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Make sure script is executable** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Make sure script is executable** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Make sure script is executable** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Switch to building docker-registry with launchpad (#1625)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Simplify gh actions** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Build with gh release of yq rather than snap** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1625) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Simplify gh actions** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust charmcraft log dir** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
