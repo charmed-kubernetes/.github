@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Using charmcraft, build for jammy and focal** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Switch to building docker-registry with launchpad (#1625)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Simplify gh actions** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Build with gh release of yq rather than snap** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1625) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Simplify gh actions** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjust charmcraft log dir** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow Juju tf provider to float past 0.14.0** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update providers (#24)  * Update providers * update acti...** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
