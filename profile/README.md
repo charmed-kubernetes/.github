@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Software development for the connected car: on the safe side with Anbox Cloud](https://ubuntu.com//blog/software-development-for-the-connected-car-on-the-safe-side-with-anbox-cloud) - Thu, 10 Apr 2025 09:23:02 
 * [SONiC: The open source network operating system for modern data centers](https://ubuntu.com//blog/sonic-the-open-source-network-operating-system-for-modern-data-centers) - Wed, 09 Apr 2025 16:10:05 
 * [Ubuntu developer images now available for OrangePi RV2: a low-cost RISC-V SBC](https://ubuntu.com//blog/ubuntu-developer-images-now-available-for-orangepi-rv2-a-low-cost-risc-v-sbc) - Tue, 08 Apr 2025 09:57:00 
 * [Announcing Charmed Kubeflow 1.10](https://ubuntu.com//blog/announcing-charmed-kubeflow-1-10) - Tue, 08 Apr 2025 08:17:00 
 * [The future of Kubernetes networking: Cilium and other CNIs with Canonical Kubernetes](https://ubuntu.com//blog/canonical-kubernetes-cilium-and-other-cnis) - Wed, 02 Apr 2025 14:08:08 
 * [How does MongoDB work?](https://ubuntu.com//blog/how-does-mongodb-work) - Wed, 02 Apr 2025 06:43:26 
-* [Automated patching for the Linux kernel](https://ubuntu.com//blog/automated-patching-for-the-linux-kernel) - Mon, 31 Mar 2025 13:47:22 
 <!-- blog ends -->
