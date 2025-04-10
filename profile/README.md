@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
@@ -32,9 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow Juju tf provider to float past 0.14.0** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
  - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
