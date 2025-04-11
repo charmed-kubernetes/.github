@@ -26,13 +26,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [gcp-k8s-storage](https://github.com/charmed-kubernetes/gcp-k8s-storage)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow Juju tf provider to float past 0.14.0** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move all charm data to charmcraft.yaml, format for 3.10** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **KCP allow-privileged for calico to install** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Handle snap upgrade requirements across multiple ck relea...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Use mount tls paths in config.yml** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **adjust allow_privileged to a property** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
