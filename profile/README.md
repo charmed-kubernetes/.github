@@ -25,12 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Back off on v3.1.x support** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/43) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/43) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Separate unit and integration tests, test with EasyRSA v3...** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
  - [@addyess](https://github.com/addyess) has pushed the commit **bug: Validate allow-privileged configuration (#380)  * Va...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Continue auto mode based on needs of cni or container-run...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Continue auto mode based on needs of cni or container-run...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Continue auto mode based on needs of cni or container-run...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Continue auto mode based on needs of cni or container-run...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
