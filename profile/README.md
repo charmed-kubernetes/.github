@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/11) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/18) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/18) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
  - [@elehcim](https://github.com/elehcim) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/887) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Update _install_exporter method to ensure service is stop...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **Correct charm build artifact** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/11) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Back off on v3.1.x support** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/43) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/43) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Separate unit and integration tests, test with EasyRSA v3...** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has pushed the commit **bug: Validate allow-privileged configuration (#380)  * Va...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical Releases Ubuntu 25.04 Plucky Puffin](https://ubuntu.com//blog/canonical-releases-ubuntu-25-04-plucky-puffin) - Thu, 17 Apr 2025 15:23:01 
 * [Ubuntu 20.04 LTS End Of Life – activate ESM to keep your fleet of devices secure and operational](https://ubuntu.com//blog/ubuntu-20-04-eol-for-devicesional) - Wed, 16 Apr 2025 03:16:00 
 * [How we ran an effective sprint to refresh our website, Part 1](https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-website-part-1) - Mon, 14 Apr 2025 10:08:48 
 * [Software development for the connected car: on the safe side with Anbox Cloud](https://ubuntu.com//blog/software-development-for-the-connected-car-on-the-safe-side-with-anbox-cloud) - Thu, 10 Apr 2025 09:23:02 
 * [SONiC: The open source network operating system for modern data centers](https://ubuntu.com//blog/sonic-the-open-source-network-operating-system-for-modern-data-centers) - Wed, 09 Apr 2025 16:10:05 
 * [Ubuntu developer images now available for OrangePi RV2: a low-cost RISC-V SBC](https://ubuntu.com//blog/ubuntu-developer-images-now-available-for-orangepi-rv2-a-low-cost-risc-v-sbc) - Tue, 08 Apr 2025 09:57:00 
-* [Announcing Charmed Kubeflow 1.10](https://ubuntu.com//blog/announcing-charmed-kubeflow-1-10) - Tue, 08 Apr 2025 08:17:00 
 <!-- blog ends -->
