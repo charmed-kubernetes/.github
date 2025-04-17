@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@elehcim](https://github.com/elehcim) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/887) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@addyess](https://github.com/addyess) has pushed the commit **Update _install_exporter method to ensure service is stop...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **Correct charm build artifact** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/11) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/43) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Separate unit and integration tests, test with EasyRSA v3...** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
  - [@addyess](https://github.com/addyess) has pushed the commit **bug: Validate allow-privileged configuration (#380)  * Va...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/380) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
