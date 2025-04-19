@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Consolidate charm metadata to charmcraft.yaml  Signed-off...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump fragments to 1.33/edge (#908)** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Address failing grafana-agent relation at CK boot (#367) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Consolidate charm metadata to charmcraft.yaml** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Stricter Linting** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal completely** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop python 3.8  Signed-off-by: Adam Dyess <adam.dyess@ca...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop python 3.8** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Addresses situation where the charm goes into error state...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/117) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin marshmallow < 4.0** to [loadbalancer-interface](https://github.com/charmed-kubernetes/loadbalancer-interface)
- - [@addyess](https://github.com/addyess) has pushed the commit **Guardrail proxy url** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Correct 1.33 default go version** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
