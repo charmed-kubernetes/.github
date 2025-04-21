@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **ensure we're idle using fast-forward** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use a different kubeconfig file in tests  Signed-off-by: ...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump containerd resource** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Consolidate charm metadata to charmcraft.yaml  Signed-off...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump fragments to 1.33/edge (#908)** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Address failing grafana-agent relation at CK boot (#367) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Consolidate charm metadata to charmcraft.yaml** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump image to mitigate CVE-2025-24513 (#185)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
