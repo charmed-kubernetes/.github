@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/360) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/95) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/95) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/59) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/59) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **python 3.10 formatting** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@addyess](https://github.com/addyess) has pushed the commit **ensure we're idle using fast-forward** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Use a different kubeconfig file in tests  Signed-off-by: ...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump containerd resource** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build  Signed-off-by: Adam...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert to charmcraft reactive build** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Consolidate charm metadata to charmcraft.yaml  Signed-off...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
