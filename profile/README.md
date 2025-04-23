@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/218) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow for upgrade when versions differ** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow for upgrade when versions differ** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
  - [@addyess](https://github.com/addyess) has pushed the commit **Apply review comments** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **fix setuptools requirements for jammy and noble (#381)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/381) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Split on user whitespace, not 'space' (#15)** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@addyess](https://github.com/addyess) has pushed the commit ** Adding support from focal to noble (#40)  * Adding suppo...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **deploy integrator charms inheriting SERIES from env** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **pre-pull layers from a release branch (#94)** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump urllib3 from 1.25.9 to 1.26.19 in /jobs/microk8s (#1...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump certifi from 2023.7.22 to 2024.7.4 in /jobs/microk8s...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical and Ampere announce AmpereOne® SoC certification and other partnership milestones](https://ubuntu.com//blog/canonical-and-ampere-announce-ampereone-soc-certification-and-other-partnership-milestones) - Wed, 23 Apr 2025 10:06:00 
 * [Canonical Releases Ubuntu 25.04 Plucky Puffin](https://ubuntu.com//blog/canonical-releases-ubuntu-25-04-plucky-puffin) - Thu, 17 Apr 2025 15:23:01 
 * [Ubuntu 20.04 LTS End Of Life – activate ESM to keep your fleet of devices secure and operational](https://ubuntu.com//blog/ubuntu-20-04-eol-for-devicesional) - Wed, 16 Apr 2025 03:16:00 
 * [How we ran an effective sprint to refresh our website, Part 1](https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-website-part-1) - Mon, 14 Apr 2025 10:08:48 
 * [Software development for the connected car: on the safe side with Anbox Cloud](https://ubuntu.com//blog/software-development-for-the-connected-car-on-the-safe-side-with-anbox-cloud) - Thu, 10 Apr 2025 09:23:02 
 * [SONiC: The open source network operating system for modern data centers](https://ubuntu.com//blog/sonic-the-open-source-network-operating-system-for-modern-data-centers) - Wed, 09 Apr 2025 16:10:05 
-* [Ubuntu developer images now available for OrangePi RV2: a low-cost RISC-V SBC](https://ubuntu.com//blog/ubuntu-developer-images-now-available-for-orangepi-rv2-a-low-cost-risc-v-sbc) - Tue, 08 Apr 2025 09:57:00 
 <!-- blog ends -->
