@@ -25,16 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-etcd/pull/218) in the [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow for upgrade when versions differ** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow for upgrade when versions differ** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has pushed the commit **Apply review comments** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **fix setuptools requirements for jammy and noble (#381)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/381) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Split on user whitespace, not 'space' (#15)** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit ** Adding support from focal to noble (#40)  * Adding suppo...** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+
 <!-- activity ends -->
 
 <!-- roadmap starts -->
