@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Use the pypi version of the reconciler (#43)  * Use the p...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use the pypi version of the reconciler (#43)  * Use the p...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **publish 1.33 to candidate, beta, edge risks** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Retry request for non-404 codes (#1634)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Improve debug of sync-snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/189) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/39) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/382) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Add enable-session-affinity config to config-map (#25)  *...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add enable-session-affinity config to config-map (#25)  *...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump juju requirements** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/25) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **session-affinity must be stringly typed** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/25) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/25) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The hitchhiker’s guide to infrastructure modernization](https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization) - Thu, 24 Apr 2025 12:36:45 
 * [Canonical and Ampere announce AmpereOne® SoC certification and other partnership milestones](https://ubuntu.com//blog/canonical-and-ampere-announce-ampereone-soc-certification-and-other-partnership-milestones) - Wed, 23 Apr 2025 10:06:00 
 * [Canonical Releases Ubuntu 25.04 Plucky Puffin](https://ubuntu.com//blog/canonical-releases-ubuntu-25-04-plucky-puffin) - Thu, 17 Apr 2025 15:23:01 
 * [Ubuntu 20.04 LTS End Of Life – activate ESM to keep your fleet of devices secure and operational](https://ubuntu.com//blog/ubuntu-20-04-eol-for-devicesional) - Wed, 16 Apr 2025 03:16:00 
 * [How we ran an effective sprint to refresh our website, Part 1](https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-website-part-1) - Mon, 14 Apr 2025 10:08:48 
 * [Software development for the connected car: on the safe side with Anbox Cloud](https://ubuntu.com//blog/software-development-for-the-connected-car-on-the-safe-side-with-anbox-cloud) - Thu, 10 Apr 2025 09:23:02 
-* [SONiC: The open source network operating system for modern data centers](https://ubuntu.com//blog/sonic-the-open-source-network-operating-system-for-modern-data-centers) - Wed, 09 Apr 2025 16:10:05 
 <!-- blog ends -->
