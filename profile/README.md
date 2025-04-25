@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix integration tests, warn about missing trust** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Transition to an ops.lib-manifest charm and nobel** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **keepalived build on launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Port the untested cis-benchmark to the ops worker charm (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Port the untested cis-benchmark to the ops worker charm (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update calico to v3.29.3 (#118)  * Updates calico to v3.2...** to [charm-calico](https://github.com/charmed-kubernetes/charm-calico)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-calico/pull/118) in the [charm-calico](https://github.com/charmed-kubernetes/charm-calico) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, move to charmcraft (#25)  * Drop focal, move ...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, move to charmcraft (#25)  * Drop focal, move ...** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.33.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Integration tests build with charmcraft** to [charm-keepalived](https://github.com/charmed-kubernetes/charm-keepalived)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
