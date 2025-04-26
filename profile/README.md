@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **drop proxy config** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#6)** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
@@ -32,9 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#13)** to [kube-state-metrics-operator](https://github.com/charmed-kubernetes/kube-state-metrics-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#13)** to [kube-state-metrics-operator](https://github.com/charmed-kubernetes/kube-state-metrics-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **add missing trust (#19)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transition to an ops.lib-manifest charm and nobel (#5)  *...** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Transition to an ops.lib-manifest charm and nobel (#5)  *...** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Subordinate charms don't use constraints (#18)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
