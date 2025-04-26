@@ -25,16 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Fix integration tests, warn about missing trust** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator/pull/5) in the [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Transition to an ops.lib-manifest charm and nobel** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **keepalived build on launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Port the untested cis-benchmark to the ops worker charm (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Port the untested cis-benchmark to the ops worker charm (...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#13)** to [kube-state-metrics-operator](https://github.com/charmed-kubernetes/kube-state-metrics-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#13)** to [kube-state-metrics-operator](https://github.com/charmed-kubernetes/kube-state-metrics-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **add missing trust (#19)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Transition to an ops.lib-manifest charm and nobel (#5)  *...** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Transition to an ops.lib-manifest charm and nobel (#5)  *...** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Subordinate charms don't use constraints (#18)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Subordinate charms don't use constraints (#10)** to [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider)
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-cloud-provider/pull/10) in the [charm-aws-cloud-provider](https://github.com/charmed-kubernetes/charm-aws-cloud-provider) repository.
+ - [@louiseschmidtgen](https://github.com/louiseschmidtgen) has reviewed a [pull request](https://github.com/charmed-kubernetes/aws-k8s-storage/pull/18) in the [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
