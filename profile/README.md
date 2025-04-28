@@ -25,15 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Drop focal, add noble (#13)  ## Overview  To support runn...** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Drop focal, add noble (#10)  Applicable spec: KU-2847  ##...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Drop focal, add noble (#13)  ## Overview  To support runn...** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-iam/pull/13) in the [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam) repository.
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Drop focal, add noble (#10)  Applicable spec: KU-2847  ##...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/10) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
  - [@addyess](https://github.com/addyess) has pushed the commit **drop proxy config** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#6)** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#6)** to [kubernetes-metrics-server-operator](https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#13)** to [kube-state-metrics-operator](https://github.com/charmed-kubernetes/kube-state-metrics-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjusting for LP building w/ charmcraft 3 (#13)** to [kube-state-metrics-operator](https://github.com/charmed-kubernetes/kube-state-metrics-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **add missing trust (#19)** to [aws-k8s-storage](https://github.com/charmed-kubernetes/aws-k8s-storage)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
