@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Resolve LP Building issue (#14)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Resolve LP Building issue (#14)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **build aws-iam on launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@alexsander-souza](https://github.com/alexsander-souza) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/issues/83) in [charmed-kubernetes/kubernetes-dashboard-operator](https://api.github.com/repos/charmed-kubernetes/kubernetes-dashboard-operator).
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [layer-etcd](https://github.com/charmed-kubernetes/layer-etcd)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Update charmcraft.yaml** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Drop focal, add noble (#13)  ## Overview  To support runn...** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **Drop focal, add noble (#10)  Applicable spec: KU-2847  ##...** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
