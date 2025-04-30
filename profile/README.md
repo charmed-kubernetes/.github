@@ -25,6 +25,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **CephFS subvolumegroup as a literal rather than config** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **CephFS subvolumegroup as a literal rather than config** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow for ceph-* charms to continue to deploy on jammy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
  - [@addyess](https://github.com/addyess) has pushed the commit **Resolve LP Building issue (#14)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
  - [@addyess](https://github.com/addyess) has pushed the commit **Resolve LP Building issue (#14)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
@@ -32,9 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@alexsander-souza](https://github.com/alexsander-souza) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/issues/83) in [charmed-kubernetes/kubernetes-dashboard-operator](https://api.github.com/repos/charmed-kubernetes/kubernetes-dashboard-operator).
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
