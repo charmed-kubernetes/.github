@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **CephFS subvolumegroup as a literal rather than config** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **CephFS subvolumegroup as a literal rather than config** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Allow for ceph-* charms to continue to deploy on jammy** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@addyess](https://github.com/addyess) has pushed the commit **Resolve LP Building issue (#14)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@addyess](https://github.com/addyess) has pushed the commit **Resolve LP Building issue (#14)** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
- - [@addyess](https://github.com/addyess) has pushed the commit **build aws-iam on launchpad** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@alexsander-souza](https://github.com/alexsander-souza) has opened this [issue](https://github.com/charmed-kubernetes/kubernetes-dashboard-operator/issues/83) in [charmed-kubernetes/kubernetes-dashboard-operator](https://api.github.com/repos/charmed-kubernetes/kubernetes-dashboard-operator).
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has pushed the commit **chore: Change RELEASE_BRANCH to release_1.33** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Refactor CLI calls and create cephfs volume subgroups (#4...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Refactor CLI calls and create cephfs volume subgroups (#4...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/45) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/45) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust functional test deps** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow for keystone and mysql charms to continue to deploy...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/45) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical announces first Ubuntu Desktop image for Qualcomm Dragonwing™ Platform with Ubuntu 24.04](https://ubuntu.com//blog/canonical-announces-first-ubuntu-desktop-image-for-qualcomm-dragonwing-platform-with-ubuntu-24-04) - Wed, 30 Apr 2025 19:58:03 
+* [The long march towards delivering CRA compliance](https://ubuntu.com//blog/march-events-cyber-resilience-act-compliance) - Wed, 30 Apr 2025 13:16:30 
 * [Extra Factor Authentication: how to create zero trust IAM with third-party IdPs](https://ubuntu.com//blog/how-to-implement-zero-trust-into-third-party-idps) - Tue, 29 Apr 2025 14:33:34 
 * [The hitchhiker’s guide to infrastructure modernization](https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization) - Thu, 24 Apr 2025 12:36:45 
 * [Canonical and Ampere announce AmpereOne® SoC certification and other partnership milestones](https://ubuntu.com//blog/canonical-and-ampere-announce-ampereone-soc-certification-and-other-partnership-milestones) - Wed, 23 Apr 2025 10:06:00 
 * [Canonical Releases Ubuntu 25.04 Plucky Puffin](https://ubuntu.com//blog/canonical-releases-ubuntu-25-04-plucky-puffin) - Thu, 17 Apr 2025 15:23:01 
-* [Ubuntu 20.04 LTS End Of Life – activate ESM to keep your fleet of devices secure and operational](https://ubuntu.com//blog/ubuntu-20-04-eol-for-devicesional) - Wed, 16 Apr 2025 03:16:00 
-* [How we ran an effective sprint to refresh our website, Part 1](https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-website-part-1) - Mon, 14 Apr 2025 10:08:48 
 <!-- blog ends -->
