@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/891) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/891) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, move charm config to charmcraft** to [charm-calico-enterprise](https://github.com/charmed-kubernetes/charm-calico-enterprise)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide application level versioning** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Convert kata to install from kata-manager.sh rather than apt** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin setup-tools for noble and jammy** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, move to charmcraft** to [charm-kata](https://github.com/charmed-kubernetes/charm-kata)
  - [@Deezzir](https://github.com/Deezzir) has opened this [issue](https://github.com/charmed-kubernetes/pytest-operator/issues/151) in [charmed-kubernetes/pytest-operator](https://api.github.com/repos/charmed-kubernetes/pytest-operator).
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/60) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy (#385)  * Pin set...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **chore: 1.33 release readiness (#382)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy (#385)  * Pin set...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Reduce test complexity** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update pydantic to 1.10.x** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/60) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy (#46)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin setuptools used for noble and jammy (#46)** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
