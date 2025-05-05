@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu IoT Day in Singapore &#8211; Unlock compliant and scalable innovation in edge AI](https://ubuntu.com//blog/ubuntu-iot-day-singapore-2025) - Mon, 05 May 2025 11:42:00 
 * [Canonical announces first Ubuntu Desktop image for Qualcomm Dragonwing™ Platform with Ubuntu 24.04](https://ubuntu.com//blog/canonical-announces-first-ubuntu-desktop-image-for-qualcomm-dragonwing-platform-with-ubuntu-24-04) - Wed, 30 Apr 2025 19:58:03 
 * [The long march towards delivering CRA compliance](https://ubuntu.com//blog/march-events-cyber-resilience-act-compliance) - Wed, 30 Apr 2025 13:16:30 
 * [Extra Factor Authentication: how to create zero trust IAM with third-party IdPs](https://ubuntu.com//blog/how-to-implement-zero-trust-into-third-party-idps) - Tue, 29 Apr 2025 14:33:34 
 * [The hitchhiker’s guide to infrastructure modernization](https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization) - Thu, 24 Apr 2025 12:36:45 
 * [Canonical and Ampere announce AmpereOne® SoC certification and other partnership milestones](https://ubuntu.com//blog/canonical-and-ampere-announce-ampereone-soc-certification-and-other-partnership-milestones) - Wed, 23 Apr 2025 10:06:00 
-* [Canonical Releases Ubuntu 25.04 Plucky Puffin](https://ubuntu.com//blog/canonical-releases-ubuntu-25-04-plucky-puffin) - Thu, 17 Apr 2025 15:23:01 
 <!-- blog ends -->
