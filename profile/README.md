@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **Must include either series or default-base to pubilsh to ...** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1636) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/bundle/pull/910) in the [bundle](https://github.com/charmed-kubernetes/bundle) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on supported bases** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on supported bases** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on supported bases** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-virt/pull/15) in the [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on supported bases** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on supported bases** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
- - [@addyess](https://github.com/addyess) has pushed the commit **Test on supported bases** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix checking for existing architecture entry (#99)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Fix checking for non-empty string (#98)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust supported package name for qemu** to [charm-kube-virt](https://github.com/charmed-kubernetes/charm-kube-virt)
+ - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Skip installation of juju-bundle on unsupported arches** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **drop focal runners** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [IBM LinuxONE 5 and Ubuntu Server, a great combination from day one](https://ubuntu.com//blog/ibm-linuxone-emperor-5-ubuntu-server-integration) - Tue, 06 May 2025 03:59:49 
 * [Ubuntu IoT Day in Singapore &#8211; Unlock compliant and scalable innovation in edge AI](https://ubuntu.com//blog/ubuntu-iot-day-singapore-2025) - Mon, 05 May 2025 11:42:00 
 * [Canonical announces first Ubuntu Desktop image for Qualcomm Dragonwing™ Platform with Ubuntu 24.04](https://ubuntu.com//blog/canonical-announces-first-ubuntu-desktop-image-for-qualcomm-dragonwing-platform-with-ubuntu-24-04) - Wed, 30 Apr 2025 19:58:03 
 * [The long march towards delivering CRA compliance](https://ubuntu.com//blog/march-events-cyber-resilience-act-compliance) - Wed, 30 Apr 2025 13:16:30 
 * [Extra Factor Authentication: how to create zero trust IAM with third-party IdPs](https://ubuntu.com//blog/how-to-implement-zero-trust-into-third-party-idps) - Tue, 29 Apr 2025 14:33:34 
 * [The hitchhiker’s guide to infrastructure modernization](https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization) - Thu, 24 Apr 2025 12:36:45 
-* [Canonical and Ampere announce AmpereOne® SoC certification and other partnership milestones](https://ubuntu.com//blog/canonical-and-ampere-announce-ampereone-soc-certification-and-other-partnership-milestones) - Wed, 23 Apr 2025 10:06:00 
 <!-- blog ends -->
