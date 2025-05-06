@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Skip unsupportted app pinning on some platforms** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix checking for existing architecture entry (#99)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Fix checking for non-empty string (#98)** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Skip installation of juju-bundle on unsupported arches** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **drop focal runners** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
