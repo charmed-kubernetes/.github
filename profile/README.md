@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@samuelallan72](https://github.com/samuelallan72) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/97) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install `importlib-metadata` as a binary package** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Install `importlib-metadata` as a binary package** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update vsphere-integration.yaml** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update charmcraft.yaml** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/387) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/387) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/387) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/386) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin `contextual-status` version to `release_1.32` (#37)** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/37) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update charmcraft.yaml** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update requirements.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [CRA compliance: Things IoT manufacturers can no longer do under the CRA (and what to do instead)](https://ubuntu.com//blog/cra-compliance-iot-manufacturer-best-practices) - Wed, 07 May 2025 14:36:30 
 * [IBM LinuxONE 5 and Ubuntu Server, a great combination from day one](https://ubuntu.com//blog/ibm-linuxone-emperor-5-ubuntu-server-integration) - Tue, 06 May 2025 03:59:49 
 * [Ubuntu IoT Day in Singapore &#8211; Unlock compliant and scalable innovation in edge AI](https://ubuntu.com//blog/ubuntu-iot-day-singapore-2025) - Mon, 05 May 2025 11:42:00 
 * [Canonical announces first Ubuntu Desktop image for Qualcomm Dragonwing™ Platform with Ubuntu 24.04](https://ubuntu.com//blog/canonical-announces-first-ubuntu-desktop-image-for-qualcomm-dragonwing-platform-with-ubuntu-24-04) - Wed, 30 Apr 2025 19:58:03 
 * [The long march towards delivering CRA compliance](https://ubuntu.com//blog/march-events-cyber-resilience-act-compliance) - Wed, 30 Apr 2025 13:16:30 
 * [Extra Factor Authentication: how to create zero trust IAM with third-party IdPs](https://ubuntu.com//blog/how-to-implement-zero-trust-into-third-party-idps) - Tue, 29 Apr 2025 14:33:34 
-* [The hitchhiker’s guide to infrastructure modernization](https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization) - Thu, 24 Apr 2025 12:36:45 
 <!-- blog ends -->
