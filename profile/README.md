@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use python enums to create a map of series names to ubunt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use python enums to create a map of series names to ubunt...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Prepare Bugfix Release Notes for `1.32+ck2` and `1.31+ck3...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Update release date** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/892) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/20) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **revert wheelhouse changes** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **pin versions of calver and hatching to install a pinned o...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update versions.tf (#14)  Allow Juju tf provider to float...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add 1.31 to common release notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [New 50 TOPS DC-ROMA RISC-V AI PC ships with Ubuntu Desktop 24.04 LTS pre-installed](https://ubuntu.com//blog/new-50-tops-dc-roma-risc-v-ai-pc-ships-with-ubuntu-desktop-24-04-lts-pre-installed) - Fri, 09 May 2025 09:30:00 
 * [CRA compliance: Things IoT manufacturers can no longer do under the CRA (and what to do instead)](https://ubuntu.com//blog/cra-compliance-iot-manufacturer-best-practices) - Wed, 07 May 2025 14:36:30 
 * [IBM LinuxONE 5 and Ubuntu Server, a great combination from day one](https://ubuntu.com//blog/ibm-linuxone-emperor-5-ubuntu-server-integration) - Tue, 06 May 2025 03:59:49 
 * [Ubuntu IoT Day in Singapore &#8211; Unlock compliant and scalable innovation in edge AI](https://ubuntu.com//blog/ubuntu-iot-day-singapore-2025) - Mon, 05 May 2025 11:42:00 
 * [Canonical announces first Ubuntu Desktop image for Qualcomm Dragonwing™ Platform with Ubuntu 24.04](https://ubuntu.com//blog/canonical-announces-first-ubuntu-desktop-image-for-qualcomm-dragonwing-platform-with-ubuntu-24-04) - Wed, 30 Apr 2025 19:58:03 
 * [The long march towards delivering CRA compliance](https://ubuntu.com//blog/march-events-cyber-resilience-act-compliance) - Wed, 30 Apr 2025 13:16:30 
-* [Extra Factor Authentication: how to create zero trust IAM with third-party IdPs](https://ubuntu.com//blog/how-to-implement-zero-trust-into-third-party-idps) - Tue, 29 Apr 2025 14:33:34 
 <!-- blog ends -->
