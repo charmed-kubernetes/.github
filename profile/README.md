@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add 1.31 to common release notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/892) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/892) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Create a pki/ copy of the `openssl-*.conf` file (#44)  * ...** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has pushed the commit **Create a pki/ copy of the `openssl-*.conf` file (#44)  * ...** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/44) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure proper newline spacing** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has pushed the commit **Expect 1 and only 1 openssl-*.cnf in the easyrsa_directory** to [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/44) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-easyrsa/pull/44) in the [layer-easyrsa](https://github.com/charmed-kubernetes/layer-easyrsa) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/20) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **revert wheelhouse changes** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pin versions of calver and hatching to install a pinned o...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update versions.tf (#14)  Allow Juju tf provider to float...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add 1.31 to common release notes** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
