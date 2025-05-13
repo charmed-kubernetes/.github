@@ -42,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical + thanks.dev = giving back to open source developers](https://ubuntu.com//blog/canonical-thanks-dev-giving-back-to-open-source-developers) - Tue, 13 May 2025 11:52:53 
 * [See a DeepSeek demo running on ESWIN Computing’s EIC77 series at RISC-V Summit Europe 2025 in Paris](https://ubuntu.com//blog/deepseek-demo-running-on-eswin-computings-eic77-series-at-risc-v-summit-europe-2025) - Mon, 12 May 2025 08:15:00 
 * [New 50 TOPS DC-ROMA RISC-V AI PC ships with Ubuntu Desktop 24.04 LTS pre-installed](https://ubuntu.com//blog/new-50-tops-dc-roma-risc-v-ai-pc-ships-with-ubuntu-desktop-24-04-lts-pre-installed) - Fri, 09 May 2025 09:30:00 
 * [CRA compliance: Things IoT manufacturers can no longer do under the CRA (and what to do instead)](https://ubuntu.com//blog/cra-compliance-iot-manufacturer-best-practices) - Wed, 07 May 2025 14:36:30 
 * [IBM LinuxONE 5 and Ubuntu Server, a great combination from day one](https://ubuntu.com//blog/ibm-linuxone-emperor-5-ubuntu-server-integration) - Tue, 06 May 2025 03:59:49 
 * [Ubuntu IoT Day in Singapore &#8211; Unlock compliant and scalable innovation in edge AI](https://ubuntu.com//blog/ubuntu-iot-day-singapore-2025) - Mon, 05 May 2025 11:42:00 
-* [Canonical announces first Ubuntu Desktop image for Qualcomm Dragonwing™ Platform with Ubuntu 24.04](https://ubuntu.com//blog/canonical-announces-first-ubuntu-desktop-image-for-qualcomm-dragonwing-platform-with-ubuntu-24-04) - Wed, 30 Apr 2025 19:58:03 
 <!-- blog ends -->
