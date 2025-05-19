@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: add v1.16.10 cilium  Signed-off-by: Reza Abbasalip...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.30.13.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@sombrafam](https://github.com/sombrafam) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/190) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/190) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.33.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.5.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Rethinking virtualization: open source alternatives for resellers](https://ubuntu.com//blog/virtualization-alternatives-guide) - Mon, 19 May 2025 09:11:00 
 * [Building an end-to-end Retrieval- Augmented Generation (RAG) workflow](https://ubuntu.com//blog/rag-workflow-explained) - Thu, 15 May 2025 14:31:19 
 * [vBRAS NFVI reference architecture with Huawei OceanStor and Canonical OpenStack](https://ubuntu.com//blog/telco-nfvi-vbras-huawei-oceanstor-canonical-openstack) - Thu, 15 May 2025 13:45:11 
 * [Canonical + thanks.dev = giving back to open source developers](https://ubuntu.com//blog/canonical-thanks-dev-giving-back-to-open-source-developers) - Tue, 13 May 2025 11:52:53 
 * [See a DeepSeek demo running on ESWIN Computing’s EIC77 series at RISC-V Summit Europe 2025 in Paris](https://ubuntu.com//blog/deepseek-demo-running-on-eswin-computings-eic77-series-at-risc-v-summit-europe-2025) - Mon, 12 May 2025 08:15:00 
 * [New 50 TOPS DC-ROMA RISC-V AI PC ships with Ubuntu Desktop 24.04 LTS pre-installed](https://ubuntu.com//blog/new-50-tops-dc-roma-risc-v-ai-pc-ships-with-ubuntu-desktop-24-04-lts-pre-installed) - Fri, 09 May 2025 09:30:00 
-* [CRA compliance: Things IoT manufacturers can no longer do under the CRA (and what to do instead)](https://ubuntu.com//blog/cra-compliance-iot-manufacturer-best-practices) - Wed, 07 May 2025 14:36:30 
 <!-- blog ends -->
