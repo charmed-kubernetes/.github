@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is geopatriation?](https://ubuntu.com//blog/what-is-geopatriation) - Tue, 20 May 2025 08:11:00 
 * [Rethinking virtualization: open source alternatives for resellers](https://ubuntu.com//blog/virtualization-alternatives-guide) - Mon, 19 May 2025 09:11:00 
 * [Building an end-to-end Retrieval- Augmented Generation (RAG) workflow](https://ubuntu.com//blog/rag-workflow-explained) - Thu, 15 May 2025 14:31:19 
 * [vBRAS NFVI reference architecture with Huawei OceanStor and Canonical OpenStack](https://ubuntu.com//blog/telco-nfvi-vbras-huawei-oceanstor-canonical-openstack) - Thu, 15 May 2025 13:45:11 
 * [Canonical + thanks.dev = giving back to open source developers](https://ubuntu.com//blog/canonical-thanks-dev-giving-back-to-open-source-developers) - Tue, 13 May 2025 11:52:53 
 * [See a DeepSeek demo running on ESWIN Computing’s EIC77 series at RISC-V Summit Europe 2025 in Paris](https://ubuntu.com//blog/deepseek-demo-running-on-eswin-computings-eic77-series-at-risc-v-summit-europe-2025) - Mon, 12 May 2025 08:15:00 
-* [New 50 TOPS DC-ROMA RISC-V AI PC ships with Ubuntu Desktop 24.04 LTS pre-installed](https://ubuntu.com//blog/new-50-tops-dc-roma-risc-v-ai-pc-ships-with-ubuntu-desktop-24-04-lts-pre-installed) - Fri, 09 May 2025 09:30:00 
 <!-- blog ends -->
