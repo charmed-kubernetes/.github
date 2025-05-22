@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@gustavosr98](https://github.com/gustavosr98) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/46) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Vault testing no longer requires mysql db, so long as vau...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump packaging from 23.2 to 24.1 (#1547)  * Bump packagin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Cluster Validation using Canonical K8s (#35)  * Use kube-...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
@@ -33,8 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **CI: Update deprecated actions (#37)  actions/download-art...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add missing Cilium versions (#26)  * chore: add v1.15.17 ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **Add missing Cilium versions (#26)  * chore: add v1.15.17 ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: set default cilium version to 1.17.1  Signed-off-b...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-cilium/pull/26) in the [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
