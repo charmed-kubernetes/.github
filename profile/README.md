@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Share the client proxy-settings** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adapt to spec KU144** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@gustavosr98](https://github.com/gustavosr98) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/46) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
  - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **CI: Update deprecated actions (#37)  actions/download-art...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add missing Cilium versions (#26)  * chore: add v1.15.17 ...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
