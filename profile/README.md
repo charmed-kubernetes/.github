@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: support dual stack kubelet node ip addresses  Signed...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: support dual stack kubelet node ip addresses  Signed...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Share the client proxy-settings** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adapt to spec KU144** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump packaging from 23.2 to 24.1 (#1547)  * Bump packagin...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Cluster Validation using Canonical K8s (#35)  * Use kube-...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/35) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **CI: Update deprecated actions (#37)  actions/download-art...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [OpenStack with Sunbeam for medium-scale cloud infrastructure](https://ubuntu.com//blog/openstack-with-sunbeam-for-medium-scale-cloud-infrastructure) - Mon, 26 May 2025 07:00:00 
 * [Boost your Android development with remote app testing via Anbox Cloud](https://ubuntu.com//blog/boost-your-android-development-with-remote-app-testing-via-anbox-cloud) - Thu, 22 May 2025 07:00:00 
 * [Simplify security maintenance and compliance with Ubuntu Pro auto-attach for LXD guests](https://ubuntu.com//blog/ubuntu-pro-auto-attach-for-lxd) - Wed, 21 May 2025 12:30:00 
 * [What is geopatriation?](https://ubuntu.com//blog/what-is-geopatriation) - Tue, 20 May 2025 08:11:00 
 * [Rethinking virtualization: open source alternatives for resellers](https://ubuntu.com//blog/virtualization-alternatives-guide) - Mon, 19 May 2025 09:11:00 
 * [Building an end-to-end Retrieval- Augmented Generation (RAG) workflow](https://ubuntu.com//blog/rag-workflow-explained) - Thu, 15 May 2025 14:31:19 
-* [vBRAS NFVI reference architecture with Huawei OceanStor and Canonical OpenStack](https://ubuntu.com//blog/telco-nfvi-vbras-huawei-oceanstor-canonical-openstack) - Thu, 15 May 2025 13:45:11 
 <!-- blog ends -->
