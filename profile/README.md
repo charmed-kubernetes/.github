@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Ubuntu Summit 25.10 is coming to your circle of friends, from London](https://ubuntu.com//blog/ubuntu-summit-25-10-is-coming-to-your-circle-of-friends-from-london) - Tue, 27 May 2025 13:58:25 
 * [OpenStack with Sunbeam for medium-scale cloud infrastructure](https://ubuntu.com//blog/openstack-with-sunbeam-for-medium-scale-cloud-infrastructure) - Mon, 26 May 2025 07:00:00 
 * [Boost your Android development with remote app testing via Anbox Cloud](https://ubuntu.com//blog/boost-your-android-development-with-remote-app-testing-via-anbox-cloud) - Thu, 22 May 2025 07:00:00 
 * [Simplify security maintenance and compliance with Ubuntu Pro auto-attach for LXD guests](https://ubuntu.com//blog/ubuntu-pro-auto-attach-for-lxd) - Wed, 21 May 2025 12:30:00 
 * [What is geopatriation?](https://ubuntu.com//blog/what-is-geopatriation) - Tue, 20 May 2025 08:11:00 
 * [Rethinking virtualization: open source alternatives for resellers](https://ubuntu.com//blog/virtualization-alternatives-guide) - Mon, 19 May 2025 09:11:00 
-* [Building an end-to-end Retrieval- Augmented Generation (RAG) workflow](https://ubuntu.com//blog/rag-workflow-explained) - Thu, 15 May 2025 14:31:19 
 <!-- blog ends -->
