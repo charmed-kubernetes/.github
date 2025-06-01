@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch from series to base  Signed-off-by: Reza Ab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch base to noble  Signed-off-by: Reza Abbasali...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch to base from series  Signed-off-by: Reza Ab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
