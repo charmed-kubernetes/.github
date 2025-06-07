@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Adjust requirement** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **include lower-case proxy values, and confirm extra no-pro...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Continue to match KU158 spec as it changes** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Revert name of tests to ease SolQA testing (#1639)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Swap application name from integrations to clients** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **[LP#2111261] Tag iam roles and policies with juju-model-u...** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
  - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-aws-integrator/pull/8) in the [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Adds support to integrate with Canonical K8s (#36)  * Add...** to [vsphere-cloud-provider](https://github.com/charmed-kubernetes/vsphere-cloud-provider)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
