@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@rapour](https://github.com/rapour) has pushed the commit **fix: linting  Signed-off-by: Reza Abbasalipour <reza.abba...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjust requirement** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **include lower-case proxy values, and confirm extra no-pro...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Continue to match KU158 spec as it changes** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert name of tests to ease SolQA testing (#1639)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Revert name of tests to ease SolQA testing** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update conftest.py  Don't use relation.name, but relation...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Swap application name from integrations to clients** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Swap application name from integrations to clients** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **[LP#2111261] Tag iam roles and policies with juju-model-u...** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
