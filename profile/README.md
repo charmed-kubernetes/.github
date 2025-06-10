@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Apache Spark security: start with a solid foundation](https://ubuntu.com//blog/apache-spark-security-start-with-a-solid-foundation) - Tue, 10 Jun 2025 09:28:32 
 * [What is CMMC compliance?](https://ubuntu.com//blog/what-is-cmmc-compliance) - Fri, 06 Jun 2025 13:27:14 
 * [What if your container images were security-maintained at the source?](https://ubuntu.com//blog/what-if-your-container-images-were-security-maintained-at-the-source) - Thu, 05 Jun 2025 13:00:00 
 * [Apport local information disclosure vulnerability fixes available](https://ubuntu.com//blog/apport-local-information-disclosure-vulnerability-fixes-available) - Fri, 30 May 2025 12:42:05 
 * [The 2025 Frankfurt Engineering Sprint: What did you miss?](https://ubuntu.com//blog/the-2025-frankfurt-engineering-sprint-what-did-you-miss) - Wed, 28 May 2025 09:30:00 
 * [Ubuntu Summit 25.10 is coming to your circle of friends, from London](https://ubuntu.com//blog/ubuntu-summit-25-10-is-coming-to-your-circle-of-friends-from-london) - Tue, 27 May 2025 13:58:25 
-* [OpenStack with Sunbeam for medium-scale cloud infrastructure](https://ubuntu.com//blog/openstack-with-sunbeam-for-medium-scale-cloud-infrastructure) - Mon, 26 May 2025 07:00:00 
 <!-- blog ends -->
