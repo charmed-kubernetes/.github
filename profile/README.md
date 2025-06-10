@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: add logging  Signed-off-by: Reza Abbasalipour <rez...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@rapour](https://github.com/rapour) has pushed the commit **chore: switch to service monitoring  Signed-off-by: Reza ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/190) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
