@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support creating the namespace when application is config...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: revert versions to 1.16.10  Signed-off-by: Reza Ab...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: update gitignore  Signed-off-by: Reza Abbasalipour...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: revert versions to 1.16.10  Signed-off-by: Reza Ab...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/190) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/36) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical delivers Kubernetes platform and open-source security with NVIDIA Enterprise AI Factory validated design](https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design) - Wed, 11 Jun 2025 11:04:48 
+* [Canonical Kubernetes meets NVIDIA DOCA Platform Framework (DPF): building the future of DPU-driven infrastructure](https://ubuntu.com//blog/canonical-kubernetes-meets-nvidia-doca-platform-framework-dpf-building-the-future-of-dpu-driven-infrastructure) - Wed, 11 Jun 2025 11:04:10 
 * [Apache Spark security: start with a solid foundation](https://ubuntu.com//blog/apache-spark-security-start-with-a-solid-foundation) - Tue, 10 Jun 2025 09:28:32 
 * [What is CMMC compliance?](https://ubuntu.com//blog/what-is-cmmc-compliance) - Fri, 06 Jun 2025 13:27:14 
 * [What if your container images were security-maintained at the source?](https://ubuntu.com//blog/what-if-your-container-images-were-security-maintained-at-the-source) - Thu, 05 Jun 2025 13:00:00 
 * [Apport local information disclosure vulnerability fixes available](https://ubuntu.com//blog/apport-local-information-disclosure-vulnerability-fixes-available) - Fri, 30 May 2025 12:42:05 
-* [The 2025 Frankfurt Engineering Sprint: What did you miss?](https://ubuntu.com//blog/the-2025-frankfurt-engineering-sprint-what-did-you-miss) - Wed, 28 May 2025 09:30:00 
-* [Ubuntu Summit 25.10 is coming to your circle of friends, from London](https://ubuntu.com//blog/ubuntu-summit-25-10-is-coming-to-your-circle-of-friends-from-london) - Tue, 27 May 2025 13:58:25 
 <!-- blog ends -->
