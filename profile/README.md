@@ -25,16 +25,14 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Support creating the namespace when application is config...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@rapour](https://github.com/rapour) has pushed the commit **dev: reset the NRestarts  Signed-off-by: Reza Abbasalipou...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/192) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/192) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/192) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/192) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **fix: support dual stack kubelet node ip addresses (#389) ...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/389) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@rapour](https://github.com/rapour) has pushed the commit **chore: address comments  Signed-off-by: Reza Abbasalipour...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Join Canonical at HPE Discover Las Vegas 2025](https://ubuntu.com//blog/canonical-at-hpe-discover-las-vegas-2025) - Mon, 16 Jun 2025 22:51:44 
 * [Canonical delivers Kubernetes platform and open-source security with NVIDIA Enterprise AI Factory validated design](https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design) - Wed, 11 Jun 2025 11:04:48 
 * [Canonical Kubernetes meets NVIDIA DOCA Platform Framework (DPF): building the future of DPU-driven infrastructure](https://ubuntu.com//blog/canonical-kubernetes-meets-nvidia-doca-platform-framework-dpf-building-the-future-of-dpu-driven-infrastructure) - Wed, 11 Jun 2025 11:04:10 
 * [Apache Spark security: start with a solid foundation](https://ubuntu.com//blog/apache-spark-security-start-with-a-solid-foundation) - Tue, 10 Jun 2025 09:28:32 
 * [What is CMMC compliance?](https://ubuntu.com//blog/what-is-cmmc-compliance) - Fri, 06 Jun 2025 13:27:14 
 * [What if your container images were security-maintained at the source?](https://ubuntu.com//blog/what-if-your-container-images-were-security-maintained-at-the-source) - Thu, 05 Jun 2025 13:00:00 
-* [Apport local information disclosure vulnerability fixes available](https://ubuntu.com//blog/apport-local-information-disclosure-vulnerability-fixes-available) - Fri, 30 May 2025 12:42:05 
 <!-- blog ends -->
