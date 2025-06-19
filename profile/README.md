@@ -25,13 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/190) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/190) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.33.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.6.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@rapour](https://github.com/rapour) has pushed the commit **chore: update cilium cni documents (#893)  * chore: updat...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/893) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: set context for status (#392)  Signed-off-by: Reza A...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/392) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@rapour](https://github.com/rapour) has pushed the commit **fix: status context  Signed-off-by: Reza Abbasalipour <re...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/46) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
- - [@addyess](https://github.com/addyess) has pushed the commit **Support creating the namespace when application is config...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -41,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What are our partners building for device makers? Explore the highlights from Ubuntu IoT Day Singapore](https://ubuntu.com//blog/highlights-iot-day-singapore) - Thu, 19 Jun 2025 04:48:39 
 * [Fixes available for local privilege escalation vulnerability in libblockdev using udisks](https://ubuntu.com//blog/udisks-libblockdev-lpe-vulnerability-fixes-available) - Wed, 18 Jun 2025 16:19:15 
 * [Join Canonical at HPE Discover Las Vegas 2025](https://ubuntu.com//blog/canonical-at-hpe-discover-las-vegas-2025) - Mon, 16 Jun 2025 22:51:44 
 * [Canonical delivers Kubernetes platform and open-source security with NVIDIA Enterprise AI Factory validated design](https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design) - Wed, 11 Jun 2025 11:04:48 
 * [Canonical Kubernetes meets NVIDIA DOCA Platform Framework (DPF): building the future of DPU-driven infrastructure](https://ubuntu.com//blog/canonical-kubernetes-meets-nvidia-doca-platform-framework-dpf-building-the-future-of-dpu-driven-infrastructure) - Wed, 11 Jun 2025 11:04:10 
 * [Apache Spark security: start with a solid foundation](https://ubuntu.com//blog/apache-spark-security-start-with-a-solid-foundation) - Tue, 10 Jun 2025 09:28:32 
-* [What is CMMC compliance?](https://ubuntu.com//blog/what-is-cmmc-compliance) - Fri, 06 Jun 2025 13:27:14 
 <!-- blog ends -->
