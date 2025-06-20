@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Effective infrastructure automation to reduce data center costs](https://ubuntu.com//blog/effective-infrastructure-automation-to-reduce-data-center-costs) - Fri, 20 Jun 2025 10:28:01 
 * [What are our partners building for device makers? Explore the highlights from Ubuntu IoT Day Singapore](https://ubuntu.com//blog/highlights-iot-day-singapore) - Thu, 19 Jun 2025 04:48:39 
 * [Fixes available for local privilege escalation vulnerability in libblockdev using udisks](https://ubuntu.com//blog/udisks-libblockdev-lpe-vulnerability-fixes-available) - Wed, 18 Jun 2025 16:19:15 
 * [Join Canonical at HPE Discover Las Vegas 2025](https://ubuntu.com//blog/canonical-at-hpe-discover-las-vegas-2025) - Mon, 16 Jun 2025 22:51:44 
 * [Canonical delivers Kubernetes platform and open-source security with NVIDIA Enterprise AI Factory validated design](https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design) - Wed, 11 Jun 2025 11:04:48 
 * [Canonical Kubernetes meets NVIDIA DOCA Platform Framework (DPF): building the future of DPU-driven infrastructure](https://ubuntu.com//blog/canonical-kubernetes-meets-nvidia-doca-platform-framework-dpf-building-the-future-of-dpu-driven-infrastructure) - Wed, 11 Jun 2025 11:04:10 
-* [Apache Spark security: start with a solid foundation](https://ubuntu.com//blog/apache-spark-security-start-with-a-solid-foundation) - Tue, 10 Jun 2025 09:28:32 
 <!-- blog ends -->
