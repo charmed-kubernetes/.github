@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/48) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove unused code** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove unused code** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **pin setup-tools for noble and jammy** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add config juju-model-proxy-enable** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pivot to jmodelproxylib for proxy config** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update tf channel pins and ubuntu bases** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update tf channel pins and ubuntu bases** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Map cinder-csi to juju terraform syntax (#10)  * Map cind...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Map openstack-cloud-controller to juju terraform syntax** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
