@@ -25,7 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
-
+ - [@addyess](https://github.com/addyess) has pushed the commit **timeout commands and urlopen** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
