@@ -25,16 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/48) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove unused code** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove unused code** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **pin setup-tools for noble and jammy** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Add config juju-model-proxy-enable** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin back ops to the last release without opentelemetry (#20)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pivot to jmodelproxylib for proxy config** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +35,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Revolutionizing Web Page Creation: How Structured Content is Slashing Design and Development Time](https://ubuntu.com//blog/revolutionizing-web-page-creation-how-structured-content-is-slashing-design-and-development-time) - Mon, 23 Jun 2025 16:25:27 
 * [Ubuntu Core is now available on MediaTek’s Genio platform](https://ubuntu.com//blog/ubuntu-core-is-now-available-on-mediateks-genio-platform) - Mon, 23 Jun 2025 12:00:00 
 * [Effective infrastructure automation to reduce data center costs](https://ubuntu.com//blog/effective-infrastructure-automation-to-reduce-data-center-costs) - Fri, 20 Jun 2025 10:28:01 
 * [What are our partners building for device makers? Explore the highlights from Ubuntu IoT Day Singapore](https://ubuntu.com//blog/highlights-iot-day-singapore) - Thu, 19 Jun 2025 04:48:39 
 * [Fixes available for local privilege escalation vulnerability in libblockdev using udisks](https://ubuntu.com//blog/udisks-libblockdev-lpe-vulnerability-fixes-available) - Wed, 18 Jun 2025 16:19:15 
 * [Join Canonical at HPE Discover Las Vegas 2025](https://ubuntu.com//blog/canonical-at-hpe-discover-las-vegas-2025) - Mon, 16 Jun 2025 22:51:44 
-* [Canonical delivers Kubernetes platform and open-source security with NVIDIA Enterprise AI Factory validated design](https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design) - Wed, 11 Jun 2025 11:04:48 
 <!-- blog ends -->
