@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test reactive methods** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Ensure tokens integration when setting up cos** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **timeout commands and urlopen** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
@@ -35,10 +37,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Native integration now available for Pure Storage and Canonical LXD](https://ubuntu.com//blog/lxd-pure-storage) - Wed, 25 Jun 2025 08:38:27 
 * [Revolutionizing Web Page Creation: How Structured Content is Slashing Design and Development Time](https://ubuntu.com//blog/revolutionizing-web-page-creation-how-structured-content-is-slashing-design-and-development-time) - Mon, 23 Jun 2025 16:25:27 
 * [Ubuntu Core is now available on MediaTek’s Genio platform](https://ubuntu.com//blog/ubuntu-core-is-now-available-on-mediateks-genio-platform) - Mon, 23 Jun 2025 12:00:00 
 * [Effective infrastructure automation to reduce data center costs](https://ubuntu.com//blog/effective-infrastructure-automation-to-reduce-data-center-costs) - Fri, 20 Jun 2025 10:28:01 
 * [What are our partners building for device makers? Explore the highlights from Ubuntu IoT Day Singapore](https://ubuntu.com//blog/highlights-iot-day-singapore) - Thu, 19 Jun 2025 04:48:39 
 * [Fixes available for local privilege escalation vulnerability in libblockdev using udisks](https://ubuntu.com//blog/udisks-libblockdev-lpe-vulnerability-fixes-available) - Wed, 18 Jun 2025 16:19:15 
-* [Join Canonical at HPE Discover Las Vegas 2025](https://ubuntu.com//blog/canonical-at-hpe-discover-las-vegas-2025) - Mon, 16 Jun 2025 22:51:44 
 <!-- blog ends -->
