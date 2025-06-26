@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Accelerating data science with Apache Spark and GPUs](https://ubuntu.com//blog/accelerating-data-science-with-apache-spark-and-gpus) - Thu, 26 Jun 2025 14:55:04 
 * [Cut data center energy costs with bare metal automation](https://ubuntu.com//blog/cut-data-center-energy-costs-with-bare-metal-automation) - Thu, 26 Jun 2025 14:38:48 
 * [Build the future of *craft: announcing Starcraft Bounties!](https://ubuntu.com//blog/build-the-future-of-craft-announcing-starcraft-bounties) - Thu, 26 Jun 2025 09:58:55 
 * [NodeJS 18 LTS EOL extended from April 2025 to May 2032 on Ubuntu](https://ubuntu.com//blog/nodejs-18-lts-eol-extended-from-april-2025-to-may-2032-on-ubuntu) - Thu, 26 Jun 2025 00:00:00 
 * [Native integration now available for Pure Storage and Canonical LXD](https://ubuntu.com//blog/lxd-pure-storage) - Wed, 25 Jun 2025 08:38:27 
 * [Revolutionizing Web Page Creation: How Structured Content is Slashing Design and Development Time](https://ubuntu.com//blog/revolutionizing-web-page-creation-how-structured-content-is-slashing-design-and-development-time) - Mon, 23 Jun 2025 16:25:27 
-* [Ubuntu Core is now available on MediaTek’s Genio platform](https://ubuntu.com//blog/ubuntu-core-is-now-available-on-mediateks-genio-platform) - Mon, 23 Jun 2025 12:00:00 
 <!-- blog ends -->
