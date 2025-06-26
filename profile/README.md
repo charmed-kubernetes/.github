@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/193) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-worker/pull/193) in the [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/393) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/393) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/393) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/393) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin node-base to a commit** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin node-base to a commit** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Provide a set of ops utils to determine node addresses fo...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-node-base/pull/16) in the [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Use node-base NodeAddress library** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Use node-base NodeAddress library** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has pushed the commit **Refactor library to allow us to add more modules undernea...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
- - [@addyess](https://github.com/addyess) has pushed the commit **Refactor library to allow us to add more modules undernea...** to [layer-kubernetes-node-base](https://github.com/charmed-kubernetes/layer-kubernetes-node-base)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [NodeJS 18 LTS EOL extended from April 2025 to May 2032 on Ubuntu](https://ubuntu.com//blog/nodejs-18-lts-eol-extended-from-april-2025-to-may-2032-on-ubuntu) - Thu, 26 Jun 2025 00:00:00 
 * [Native integration now available for Pure Storage and Canonical LXD](https://ubuntu.com//blog/lxd-pure-storage) - Wed, 25 Jun 2025 08:38:27 
 * [Revolutionizing Web Page Creation: How Structured Content is Slashing Design and Development Time](https://ubuntu.com//blog/revolutionizing-web-page-creation-how-structured-content-is-slashing-design-and-development-time) - Mon, 23 Jun 2025 16:25:27 
 * [Ubuntu Core is now available on MediaTek’s Genio platform](https://ubuntu.com//blog/ubuntu-core-is-now-available-on-mediateks-genio-platform) - Mon, 23 Jun 2025 12:00:00 
 * [Effective infrastructure automation to reduce data center costs](https://ubuntu.com//blog/effective-infrastructure-automation-to-reduce-data-center-costs) - Fri, 20 Jun 2025 10:28:01 
 * [What are our partners building for device makers? Explore the highlights from Ubuntu IoT Day Singapore](https://ubuntu.com//blog/highlights-iot-day-singapore) - Thu, 19 Jun 2025 04:48:39 
-* [Fixes available for local privilege escalation vulnerability in libblockdev using udisks](https://ubuntu.com//blog/udisks-libblockdev-lpe-vulnerability-fixes-available) - Wed, 18 Jun 2025 16:19:15 
 <!-- blog ends -->
