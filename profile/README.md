@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **improve build_charm failure logs (#152)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Publish 0.42.1** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **improve build_charm failure logs (#152)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/152) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump stable release to 1.33 (#1642)  * Bump stable releas...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Drop focal, add noble** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Ensure tokens integration when setting up cos (#895)  * E...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/895) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Test scheduled with latest/edge and latest/stable ceph-cs...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Chiseled Ubuntu containers for OpenJRE 8, 17 and 21](https://ubuntu.com//blog/chiseled-ubuntu-containers-openjre) - Tue, 01 Jul 2025 15:48:46 
+* [Introducing Canonical builds of OpenJDK](https://ubuntu.com//blog/introducing-canonical-builds-of-openjdk) - Tue, 01 Jul 2025 11:00:12 
 * [Update Livepatch Client for the newest kernel module signing certificate](https://ubuntu.com//blog/update-livepatch-client-for-the-newest-kernel-module-signing-certificate) - Tue, 01 Jul 2025 04:48:36 
 * [How to get a job at Canonical](https://ubuntu.com//blog/how-to-get-a-job-at-canonical) - Mon, 30 Jun 2025 11:57:25 
 * [How is Livepatch safeguarded against bad actors?](https://ubuntu.com//blog/how-is-livepatch-safeguarded-against-bad-actors) - Fri, 27 Jun 2025 00:01:00 
 * [Accelerating data science with Apache Spark and GPUs](https://ubuntu.com//blog/accelerating-data-science-with-apache-spark-and-gpus) - Thu, 26 Jun 2025 14:55:04 
-* [Cut data center energy costs with bare metal automation](https://ubuntu.com//blog/cut-data-center-energy-costs-with-bare-metal-automation) - Thu, 26 Jun 2025 14:38:48 
-* [Build the future of *craft: announcing Starcraft Bounties!](https://ubuntu.com//blog/build-the-future-of-craft-announcing-starcraft-bounties) - Thu, 26 Jun 2025 09:58:55 
 <!-- blog ends -->
