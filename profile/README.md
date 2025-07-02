@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Convert project to build with uv (#148)  * Convert projec...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Azure storage needs kcp and kw to relate to the integrator** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Set fetch-tags** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Set fetch-tags** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Set fetch-tags** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **publish on tags starting with 'v'** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **bump setuptools** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **improve build_charm failure logs (#152)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Publish 0.42.1** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **improve build_charm failure logs (#152)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/152) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump stable release to 1.33 (#1642)  * Bump stable releas...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update to approved ux web-proxy-enable** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Source to production: Spring Boot containers made easy](https://ubuntu.com//blog/spring-boot-containers-made-easy) - Wed, 02 Jul 2025 14:09:59 
+* [Spring support available on Ubuntu](https://ubuntu.com//blog/devpack-spring-support-ubuntu) - Wed, 02 Jul 2025 09:53:17 
 * [Live Linux kernel patching with progressive timestamped rollouts](https://ubuntu.com//blog/live-linux-kernel-patching-with-progressive-timestamped-rollouts) - Wed, 02 Jul 2025 00:01:00 
 * [Chiseled Ubuntu containers for OpenJRE 8, 17 and 21](https://ubuntu.com//blog/chiseled-ubuntu-containers-openjre) - Tue, 01 Jul 2025 15:48:46 
 * [Introducing Canonical builds of OpenJDK](https://ubuntu.com//blog/introducing-canonical-builds-of-openjdk) - Tue, 01 Jul 2025 11:00:12 
 * [Update Livepatch Client for the newest kernel module signing certificate](https://ubuntu.com//blog/update-livepatch-client-for-the-newest-kernel-module-signing-certificate) - Tue, 01 Jul 2025 04:48:36 
-* [How to get a job at Canonical](https://ubuntu.com//blog/how-to-get-a-job-at-canonical) - Mon, 30 Jun 2025 11:57:25 
-* [How is Livepatch safeguarded against bad actors?](https://ubuntu.com//blog/how-is-livepatch-safeguarded-against-bad-actors) - Fri, 27 Jun 2025 00:01:00 
 <!-- blog ends -->
