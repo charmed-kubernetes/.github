@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Run e2e tests against canonical k8s and charmed-kubernetes** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Run e2e tests against canonical k8s and charmed-kubernetes** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow for pytest to be run with overridden --basetemp arg...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/153) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Allow for pytest to be run with overridden --basetemp arg...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Convert project to build with uv (#148)  * Convert projec...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Azure storage needs kcp and kw to relate to the integrator** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Set fetch-tags** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Set fetch-tags** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Set fetch-tags** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **publish on tags starting with 'v'** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **bump setuptools** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **improve build_charm failure logs (#152)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Publish 0.42.1** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **improve build_charm failure logs (#152)** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
