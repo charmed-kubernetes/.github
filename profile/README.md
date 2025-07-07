@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@aborsik](https://github.com/aborsik) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/868) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
+ - [@aborsik](https://github.com/aborsik) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/879) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator/pull/11) in the [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/18) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow for pytest to be run with overridden --basetemp arg...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/153) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow for pytest to be run with overridden --basetemp arg...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Convert project to build with uv (#148)  * Convert projec...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Azure storage needs kcp and kw to relate to the integrator** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The State of Silicon and Devices &#8211; Q2 2025 Roundup](https://ubuntu.com//blog/state-of-silicon-devices-q2) - Mon, 07 Jul 2025 13:43:14 
 * [JetPack 4 EOL – how to keep your userspace secure during migration](https://ubuntu.com//blog/jetpack-4-eol) - Thu, 03 Jul 2025 08:30:54 
 * [Source to production: Spring Boot containers made easy](https://ubuntu.com//blog/spring-boot-containers-made-easy) - Wed, 02 Jul 2025 14:09:59 
 * [Spring support available on Ubuntu](https://ubuntu.com//blog/devpack-spring-support-ubuntu) - Wed, 02 Jul 2025 09:53:17 
 * [Live Linux kernel patching with progressive timestamped rollouts](https://ubuntu.com//blog/live-linux-kernel-patching-with-progressive-timestamped-rollouts) - Wed, 02 Jul 2025 00:01:00 
 * [Chiseled Ubuntu containers for OpenJRE 8, 17 and 21](https://ubuntu.com//blog/chiseled-ubuntu-containers-openjre) - Tue, 01 Jul 2025 15:48:46 
-* [Introducing Canonical builds of OpenJDK](https://ubuntu.com//blog/introducing-canonical-builds-of-openjdk) - Tue, 01 Jul 2025 11:00:12 
 <!-- blog ends -->
