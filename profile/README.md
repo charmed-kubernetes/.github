@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [The State of Silicon and Devices &#8211; Q2 2025 Roundup](https://ubuntu.com//blog/state-of-silicon-devices-q2) - Mon, 07 Jul 2025 13:43:14 
+* [What our users make with Ubuntu Pro &#8211; Episode 1](https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-1) - Tue, 08 Jul 2025 09:05:00 
+* [The State of Silicon and Devices &#8211; Q2 2025 roundup](https://ubuntu.com//blog/state-of-silicon-devices-q2) - Mon, 07 Jul 2025 13:43:14 
 * [JetPack 4 EOL – how to keep your userspace secure during migration](https://ubuntu.com//blog/jetpack-4-eol) - Thu, 03 Jul 2025 08:30:54 
 * [Source to production: Spring Boot containers made easy](https://ubuntu.com//blog/spring-boot-containers-made-easy) - Wed, 02 Jul 2025 14:09:59 
 * [Spring support available on Ubuntu](https://ubuntu.com//blog/devpack-spring-support-ubuntu) - Wed, 02 Jul 2025 09:53:17 
 * [Live Linux kernel patching with progressive timestamped rollouts](https://ubuntu.com//blog/live-linux-kernel-patching-with-progressive-timestamped-rollouts) - Wed, 02 Jul 2025 00:01:00 
-* [Chiseled Ubuntu containers for OpenJRE 8, 17 and 21](https://ubuntu.com//blog/chiseled-ubuntu-containers-openjre) - Tue, 01 Jul 2025 15:48:46 
 <!-- blog ends -->
