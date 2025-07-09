@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Allow juju admin to specify o7k endpoint proxy values by ...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@aborsik](https://github.com/aborsik) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/868) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
- - [@aborsik](https://github.com/aborsik) has closed this [issue](https://github.com/charmed-kubernetes/kubernetes-docs/issues/879) in [charmed-kubernetes/kubernetes-docs](https://api.github.com/repos/charmed-kubernetes/kubernetes-docs).
 <!-- activity ends -->
 
 <!-- roadmap starts -->
