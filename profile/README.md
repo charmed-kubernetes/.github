@@ -33,7 +33,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2110221] Config change and Creds changes validates LB...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -43,10 +42,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [From sales development to renewals: Mariam Tawakol&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-sales-development-to-renewals-mariam-tawakols-career-progression-at-canonical) - Fri, 11 Jul 2025 04:30:00 
 * [In pursuit of quality: UX for documentation authors](https://ubuntu.com//blog/in-pursuit-of-quality-ux-for-documentation-authors) - Thu, 10 Jul 2025 15:01:21 
 * [Canonical announces Charmed Feast: A production-grade feature store for your open source MLOps stack](https://ubuntu.com//blog/charmed-feast-feature-store-launch) - Thu, 10 Jul 2025 09:00:00 
 * [Raising the bar for automotive cybersecurity in open source – Canonical’s ISO/SAE 21434 certification](https://ubuntu.com//blog/raising-the-bar-for-automotive-cybersecurity-in-open-source-canonicals-iso-sae-21434-certification) - Wed, 09 Jul 2025 09:36:03 
 * [What our users make with Ubuntu Pro &#8211; Episode 1](https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-1) - Tue, 08 Jul 2025 09:05:00 
 * [The State of Silicon and Devices &#8211; Q2 2025 roundup](https://ubuntu.com//blog/state-of-silicon-devices-q2) - Mon, 07 Jul 2025 13:43:14 
-* [JetPack 4 EOL – how to keep your userspace secure during migration](https://ubuntu.com//blog/jetpack-4-eol) - Thu, 03 Jul 2025 08:30:54 
 <!-- blog ends -->
