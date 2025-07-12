@@ -25,14 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Document changes of the 1.33+ck1 release (#896)  * Docume...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **include openstack tag for openstack-integrator charm** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Set default TF channel and supported bases** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Accept proxy-config from clients relation and apply to o7...** to [cinder-csi-operator](https://github.com/charmed-kubernetes/cinder-csi-operator)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2110221] Config change and Creds changes validates LB...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
