@@ -43,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical at RISC-V Summit China 2025](https://ubuntu.com//blog/canonical-at-risc-v-summit-china-2025) - Mon, 14 Jul 2025 04:00:00 
 * [From sales development to renewals: Mariam Tawakol&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-sales-development-to-renewals-mariam-tawakols-career-progression-at-canonical) - Fri, 11 Jul 2025 04:30:00 
 * [In pursuit of quality: UX for documentation authors](https://ubuntu.com//blog/in-pursuit-of-quality-ux-for-documentation-authors) - Thu, 10 Jul 2025 15:01:21 
 * [Canonical announces Charmed Feast: A production-grade feature store for your open source MLOps stack](https://ubuntu.com//blog/charmed-feast-feature-store-launch) - Thu, 10 Jul 2025 09:00:00 
 * [Raising the bar for automotive cybersecurity in open source – Canonical’s ISO/SAE 21434 certification](https://ubuntu.com//blog/raising-the-bar-for-automotive-cybersecurity-in-open-source-canonicals-iso-sae-21434-certification) - Wed, 09 Jul 2025 09:36:03 
 * [What our users make with Ubuntu Pro &#8211; Episode 1](https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-1) - Tue, 08 Jul 2025 09:05:00 
-* [The State of Silicon and Devices &#8211; Q2 2025 roundup](https://ubuntu.com//blog/state-of-silicon-devices-q2) - Mon, 07 Jul 2025 13:43:14 
 <!-- blog ends -->
