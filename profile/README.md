@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.33.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Document changes of the 1.33+ck1 release (#896)  * Docume...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
