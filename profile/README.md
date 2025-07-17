@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.33.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
@@ -33,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update pages/k8s/1.33/release-notes.md  Co-authored-by: N...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [UbuCon Africa and DjangoCon Africa 2025](https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025) - Thu, 17 Jul 2025 10:42:44 
 * [ESWIN Computing launches the EBC77 Series Single Board Computer with Ubuntu](https://ubuntu.com//blog/eswin-computing-launches-the-ebc77-series-single-board-computer-with-ubuntu) - Wed, 16 Jul 2025 08:50:45 
 * [What is Linux Support?](https://ubuntu.com//blog/what-is-linux-support) - Mon, 14 Jul 2025 14:11:56 
 * [Let’s meet at AI4 and talk about AI infrastructure with open source](https://ubuntu.com//blog/canonical-ubuntu-ai4-2025) - Mon, 14 Jul 2025 10:06:35 
 * [Canonical at RISC-V Summit China 2025](https://ubuntu.com//blog/canonical-at-risc-v-summit-china-2025) - Mon, 14 Jul 2025 04:00:00 
 * [From sales development to renewals: Mariam Tawakol&#8217;s career progression at Canonical](https://ubuntu.com//blog/from-sales-development-to-renewals-mariam-tawakols-career-progression-at-canonical) - Fri, 11 Jul 2025 04:30:00 
-* [In pursuit of quality: UX for documentation authors](https://ubuntu.com//blog/in-pursuit-of-quality-ux-for-documentation-authors) - Thu, 10 Jul 2025 15:01:21 
 <!-- blog ends -->
