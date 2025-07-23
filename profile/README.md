@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance results for v1.30/gcore (#3344)  Signed-off-b...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.32/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Conformance Results for v1.33/eks-d (#3774)  Signed-off-b...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Run e2e tests against canonical k8s and charmed-kubernete...** to [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-e2e/pull/41) in the [charm-kubernetes-e2e](https://github.com/charmed-kubernetes/charm-kubernetes-e2e) repository.
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.7.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.11.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.3.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.33.3-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@addyess](https://github.com/addyess) has pushed the commit **Document changes of the 1.33+ck1 release (#896)  * Docume...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/896) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What is practice leadership?](https://ubuntu.com//blog/what-is-practice-leadership) - Wed, 23 Jul 2025 07:42:26 
 * [Native integration available for Dell PowerFlex and Canonical LXD](https://ubuntu.com//blog/native-integration-dell-powerflex-and-lxd) - Tue, 22 Jul 2025 14:16:48 
 * [UbuCon Africa and DjangoCon Africa 2025](https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025) - Thu, 17 Jul 2025 10:42:44 
 * [ESWIN Computing launches the EBC77 Series Single Board Computer with Ubuntu](https://ubuntu.com//blog/eswin-computing-launches-the-ebc77-series-single-board-computer-with-ubuntu) - Wed, 16 Jul 2025 08:50:45 
 * [What is Linux Support?](https://ubuntu.com//blog/what-is-linux-support) - Mon, 14 Jul 2025 14:11:56 
 * [Let’s meet at AI4 and talk about AI infrastructure with open source](https://ubuntu.com//blog/canonical-ubuntu-ai4-2025) - Mon, 14 Jul 2025 10:06:35 
-* [Canonical at RISC-V Summit China 2025](https://ubuntu.com//blog/canonical-at-risc-v-summit-china-2025) - Mon, 14 Jul 2025 04:00:00 
 <!-- blog ends -->
