@@ -25,15 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@nhennigan](https://github.com/nhennigan) has pushed the commit **inclusive language fix** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@nhennigan](https://github.com/nhennigan) has pushed the commit **Make diff as small as possible  Making small changes to m...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use `node-base.address` library (#393)  * Use node-base N...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193)  * Use node-base Nod...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/395) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/394) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193)  * Use node-base Nod...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193)  * Use node-base Nod...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193)  * Use node-base Nod...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **charm-libs are not intended to be in the build-cache (#16...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1644) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add the charm-lib packages to the list of layers (#1643)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use `node-base.address` library (#393) (#396)  * Use node...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193) (#196)  * Use node-b...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193) (#195)  * Use node-b...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193) (#194)  * Use node-b...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[backport/release_1.31] Use `node-base.address` library (...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use `node-base.address` library (#393) (#395)  * Use node...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193)  * Use node-base Nod...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
