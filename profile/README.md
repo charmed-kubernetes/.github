@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical MAAS awarded as best quality software by TIOBE](https://ubuntu.com//blog/canonical-maas-awarded-as-best-quality-software-by-tiobe) - Tue, 29 Jul 2025 13:30:45 
 * [The Linux Foundation and OpenStack – a new chapter for cloud-native infrastructure](https://ubuntu.com//blog/linux-foundation-openstack) - Thu, 24 Jul 2025 16:59:25 
 * [What is practice leadership?](https://ubuntu.com//blog/what-is-practice-leadership) - Wed, 23 Jul 2025 07:42:26 
 * [Native integration available for Dell PowerFlex and Canonical LXD](https://ubuntu.com//blog/native-integration-dell-powerflex-and-lxd) - Tue, 22 Jul 2025 14:16:48 
 * [UbuCon Africa and DjangoCon Africa 2025](https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025) - Thu, 17 Jul 2025 10:42:44 
 * [ESWIN Computing launches the EBC77 Series Single Board Computer with Ubuntu](https://ubuntu.com//blog/eswin-computing-launches-the-ebc77-series-single-board-computer-with-ubuntu) - Wed, 16 Jul 2025 08:50:45 
-* [What is Linux Support?](https://ubuntu.com//blog/what-is-linux-support) - Mon, 14 Jul 2025 14:11:56 
 <!-- blog ends -->
