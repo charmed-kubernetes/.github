@@ -34,7 +34,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193) (#195)  * Use node-b...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use node-base.address library (#193) (#194)  * Use node-b...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **[backport/release_1.31] Use `node-base.address` library (...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Use `node-base.address` library (#393) (#395)  * Use node...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +43,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How to enable Real-time Ubuntu on your machine](https://ubuntu.com//blog/enable-real-time-ubuntu) - Wed, 30 Jul 2025 11:12:38 
 * [Canonical MAAS awarded as best quality software by TIOBE](https://ubuntu.com//blog/canonical-maas-awarded-as-best-quality-software-by-tiobe) - Tue, 29 Jul 2025 13:30:45 
 * [The Linux Foundation and OpenStack – a new chapter for cloud-native infrastructure](https://ubuntu.com//blog/linux-foundation-openstack) - Thu, 24 Jul 2025 16:59:25 
 * [What is practice leadership?](https://ubuntu.com//blog/what-is-practice-leadership) - Wed, 23 Jul 2025 07:42:26 
 * [Native integration available for Dell PowerFlex and Canonical LXD](https://ubuntu.com//blog/native-integration-dell-powerflex-and-lxd) - Tue, 22 Jul 2025 14:16:48 
 * [UbuCon Africa and DjangoCon Africa 2025](https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025) - Thu, 17 Jul 2025 10:42:44 
-* [ESWIN Computing launches the EBC77 Series Single Board Computer with Ubuntu](https://ubuntu.com//blog/eswin-computing-launches-the-ebc77-series-single-board-computer-with-ubuntu) - Wed, 16 Jul 2025 08:50:45 
 <!-- blog ends -->
