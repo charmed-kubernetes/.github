@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **refactor etcd lib** to [kubernetes-libs](https://github.com/charmed-kubernetes/kubernetes-libs)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-libs/pull/1) in the [kubernetes-libs](https://github.com/charmed-kubernetes/kubernetes-libs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Load machine series from a given machine's base (#1649)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1649) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1649) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Load machine series from a given machine's base** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1649) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Update bundles to use 1.34/edge snaps** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-beta.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-aws-iam](https://github.com/charmed-kubernetes/charm-aws-iam)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [docker-registry-charm](https://github.com/charmed-kubernetes/docker-registry-charm)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
