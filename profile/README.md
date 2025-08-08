@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Test 1.34/beta snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-azure-integrator](https://github.com/charmed-kubernetes/charm-azure-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
