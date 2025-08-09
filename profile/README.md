@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **feat: support holding snaps once installed (refresh only ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@addyess](https://github.com/addyess) has pushed the commit ** Prepare patch build for Manual CNI deployments (#377)  *...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update cpu usage Prometheus rule (#369)  Add specific lab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Use node-base.address library (#193) (#194)  * Use node-b...** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update cpu usage Prometheus rule (#369)  Add specific lab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **build with charm tools in a github action** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test 1.34/beta snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-flannel](https://github.com/charmed-kubernetes/charm-flannel)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [layer-canal](https://github.com/charmed-kubernetes/layer-canal)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-azure-cloud-provider](https://github.com/charmed-kubernetes/charm-azure-cloud-provider)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-aws-integrator](https://github.com/charmed-kubernetes/charm-aws-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-vsphere-integrator](https://github.com/charmed-kubernetes/charm-vsphere-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Pin dependencies to 1.34 branch** to [charm-gcp-integrator](https://github.com/charmed-kubernetes/charm-gcp-integrator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
