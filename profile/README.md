@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-rc.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.0-rc.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **feat: support holding snaps once installed (refresh only ...** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has pushed the commit ** Prepare patch build for Manual CNI deployments (#377)  *...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update cpu usage Prometheus rule (#369)  Add specific lab...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Add cinder-availability-zone config (#289)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **build with charm tools in a github action** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **Test 1.34/beta snaps** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-rc.0.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.0-rc.0-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
