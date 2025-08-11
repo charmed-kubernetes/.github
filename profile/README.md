@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [A CISO’s guide to Application Security best practices](https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices) - Mon, 11 Aug 2025 09:00:00 
 * [ROS Noetic is EOL – take action to maintain fleet security](https://ubuntu.com//blog/ros-noetic-is-eol-take-action-to-maintain-fleet-security) - Fri, 08 Aug 2025 15:01:40 
 * [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Wed, 06 Aug 2025 15:04:00 
 * [What craft means for Canonical](https://ubuntu.com//blog/what-craft-means-for-canonical) - Wed, 06 Aug 2025 05:34:41 
 * [How to enable Real-time Ubuntu on your machine](https://ubuntu.com//blog/enable-real-time-ubuntu) - Wed, 30 Jul 2025 11:12:38 
 * [Canonical MAAS awarded best quality software by TIOBE](https://ubuntu.com//blog/canonical-maas-awarded-as-best-quality-software-by-tiobe) - Tue, 29 Jul 2025 13:30:45 
-* [The Linux Foundation and OpenStack – a new chapter for cloud-native infrastructure](https://ubuntu.com//blog/linux-foundation-openstack) - Thu, 24 Jul 2025 16:59:25 
 <!-- blog ends -->
