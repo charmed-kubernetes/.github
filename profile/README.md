@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/398) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: bump loadbalancer_interface** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/398) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: bump upload-artifact version** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: bump upload-artifact version** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: bump upload-artifact version** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: bump upload-artifact version** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply review comment** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **pip library update** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/403) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/403) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/403) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update cis-benchmark action to support cis-1.10** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update cis-benchmark action to support cis-1.10** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Add charm config to ignore missing CNI, and block when CN...** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/38) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: unit tests / dynamic versioning** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **fix: add `.charmcraft-channel` file** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Create cis-1.10** to [kube-bench-config](https://github.com/charmed-kubernetes/kube-bench-config)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical launches general availability of Ubuntu for Qualcomm Dragonwing Platforms](https://ubuntu.com//blog/ubuntu-ga-for-qualcomm-dragonwing) - Thu, 14 Aug 2025 19:28:17 
 * [A CISO’s guide to Application Security best practices](https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices) - Mon, 11 Aug 2025 09:00:00 
 * [ROS Noetic is EOL – take action to maintain fleet security](https://ubuntu.com//blog/ros-noetic-is-eol-take-action-to-maintain-fleet-security) - Fri, 08 Aug 2025 15:01:40 
 * [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Wed, 06 Aug 2025 15:04:00 
 * [What craft means for Canonical](https://ubuntu.com//blog/what-craft-means-for-canonical) - Wed, 06 Aug 2025 05:34:41 
 * [How to enable Real-time Ubuntu on your machine](https://ubuntu.com//blog/enable-real-time-ubuntu) - Wed, 30 Jul 2025 11:12:38 
-* [Canonical MAAS awarded best quality software by TIOBE](https://ubuntu.com//blog/canonical-maas-awarded-as-best-quality-software-by-tiobe) - Tue, 29 Jul 2025 13:30:45 
 <!-- blog ends -->
