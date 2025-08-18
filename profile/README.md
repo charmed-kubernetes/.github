@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [AMD SEV-SNP host support available on Ubuntu 25.04](https://ubuntu.com//blog/ubuntu-25-04-amd-sev-snp-host-support) - Mon, 18 Aug 2025 14:01:49 
 * [A journey of a thousand smiles: Questing Quokka](https://ubuntu.com//blog/journey-thousand-smiles-questing-quokka) - Mon, 18 Aug 2025 11:23:48 
 * [Canonical launches general availability of Ubuntu for Qualcomm Dragonwing Platforms](https://ubuntu.com//blog/ubuntu-ga-for-qualcomm-dragonwing) - Thu, 14 Aug 2025 19:28:17 
 * [A CISO’s guide to Application Security best practices](https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices) - Mon, 11 Aug 2025 09:00:00 
 * [ROS Noetic is EOL – take action to maintain fleet security](https://ubuntu.com//blog/ros-noetic-is-eol-take-action-to-maintain-fleet-security) - Fri, 08 Aug 2025 15:01:40 
 * [Is Linux secure?](https://ubuntu.com//blog/is-linux-secure) - Wed, 06 Aug 2025 15:04:00 
+* [What craft means for Canonical](https://ubuntu.com//blog/what-craft-means-for-canonical) - Wed, 06 Aug 2025 05:34:41 
 <!-- blog ends -->
