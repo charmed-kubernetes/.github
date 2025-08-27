@@ -25,14 +25,12 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **feat: Add '1.33-strict' Microk8s to supported versions li...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add building of MicroK8s 1.34 and 1.35 (#1650)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1650) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Include through v1.33.1** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-rc.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.0-rc.2-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.33.4.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.8.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.31.12.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **use `charms.kubernetes-snaps` (#202)** to [charm-kubernetes-worker](https://github.com/charmed-kubernetes/charm-kubernetes-worker)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
