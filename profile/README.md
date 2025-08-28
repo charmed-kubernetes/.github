@@ -39,10 +39,5 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical’s Ubuntu to be supported on NVIDIA Jetson Thor](https://ubuntu.com//blog/nvidia-jetson-thor-ubuntu-support) - Wed, 27 Aug 2025 11:14:54 
-* [Broadcom and Canonical expand partnership to optimize VMware Cloud Foundation for modern container and AI workloads](https://ubuntu.com//blog/broadcom-and-canonical-expand-partnership-to-optimize-vmware-cloud-foundation-for-modern-container-and-ai-workloads) - Tue, 26 Aug 2025 13:09:12 
-* [Generating allow-lists with DNS monitoring on LXD](https://ubuntu.com//blog/generating-allow-lists-with-dns-monitoring-on-lxd) - Tue, 26 Aug 2025 13:00:00 
-* [Real-time OS examples: use cases across industries](https://ubuntu.com//blog/real-time-os-examples-across-industries) - Mon, 25 Aug 2025 13:07:19 
-* [69% of organizations in Europe believe adopting open source makes them more competitive – new Linux Foundation research](https://ubuntu.com//blog/open-source-advantage-europe) - Mon, 25 Aug 2025 07:38:56 
-* [A complete security view for every Ubuntu LTS VM on Azure](https://ubuntu.com//blog/ubuntu-on-azure) - Fri, 22 Aug 2025 12:59:58 
+
 <!-- blog ends -->
