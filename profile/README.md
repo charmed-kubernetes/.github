@@ -30,7 +30,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1650) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Include through v1.33.1** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.0-rc.2.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
