@@ -29,7 +29,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **feat: Add '1.33-strict' Microk8s to supported versions li...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add building of MicroK8s 1.34 and 1.35 (#1650)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1650) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Include through v1.33.1** to [openstack-cloud-controller-operator](https://github.com/charmed-kubernetes/openstack-cloud-controller-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
