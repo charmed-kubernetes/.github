@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add charm configuration to switch load-balancer modes** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **feat: Add '1.33-strict' Microk8s to supported versions li...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add building of MicroK8s 1.34 and 1.35 (#1650)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
