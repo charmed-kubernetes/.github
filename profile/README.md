@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@gustavosr98](https://github.com/gustavosr98) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/54) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add charm configuration to switch load-balancer modes** to [charm-kubeapi-load-balancer](https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **feat: Add '1.33-strict' Microk8s to supported versions li...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -40,7 +41,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- blog starts -->
 * [OpenStack PoC? No problem!](https://ubuntu.com//blog/openstack-poc) - Tue, 02 Sep 2025 07:00:00 
-* [What Linux support specialists do](https://ubuntu.com//blog/linux-support-specialists) - Mon, 01 Sep 2025 09:00:00 
+* [What dedicated Linux support specialists do](https://ubuntu.com//blog/dedicated-linux-support) - Mon, 01 Sep 2025 09:00:00 
 * [Ubuntu Pro Minimal 22.04 LTS with CIS hardening is now generally available on AWS](https://ubuntu.com//blog/cis-hardened-ubuntu-pro-minimal-available-on-aws) - Thu, 28 Aug 2025 09:00:00 
 * [Canonical’s Ubuntu to be supported on NVIDIA Jetson Thor](https://ubuntu.com//blog/nvidia-jetson-thor-ubuntu-support) - Wed, 27 Aug 2025 11:14:54 
 * [Broadcom and Canonical expand partnership to optimize VMware Cloud Foundation for modern container and AI workloads](https://ubuntu.com//blog/broadcom-and-canonical-expand-partnership-to-optimize-vmware-cloud-foundation-for-modern-container-and-ai-workloads) - Tue, 26 Aug 2025 13:09:12 
