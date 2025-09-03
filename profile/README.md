@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/56) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@WizardBit](https://github.com/WizardBit) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/56) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Don't pin manifest versions into the unit tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@gustavosr98](https://github.com/gustavosr98) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/54) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
@@ -40,10 +41,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [54% of European enterprises want long term open source support: how Ubuntu Pro + Support delivers](https://ubuntu.com//blog/54-of-european-enterprises-want-long-term-open-source-support-how-ubuntu-pro-support-delivers) - Wed, 03 Sep 2025 09:00:00 
 * [Using ISO/SAE 21434 to stay ahead of the Cyber Resilience Act](https://ubuntu.com//blog/using-iso-sae-21434-to-stay-ahead-of-the-cyber-resilience-act) - Wed, 03 Sep 2025 07:15:14 
 * [Huawei OceanStor with Canonical Kubernetes – integration verification report](https://ubuntu.com//blog/huawei-oceanstor-canonical-kubernetes-integration-report) - Tue, 02 Sep 2025 21:24:43 
 * [Join Canonical at the first-ever African OpenInfra Days](https://ubuntu.com//blog/join-canonical-at-the-first-ever-african-openinfra-days) - Tue, 02 Sep 2025 17:22:27 
 * [OpenStack PoC? No problem!](https://ubuntu.com//blog/openstack-poc) - Tue, 02 Sep 2025 07:00:00 
 * [What dedicated Linux support specialists do](https://ubuntu.com//blog/dedicated-linux-support) - Mon, 01 Sep 2025 09:00:00 
-* [Ubuntu Pro Minimal 22.04 LTS with CIS hardening is now generally available on AWS](https://ubuntu.com//blog/cis-hardened-ubuntu-pro-minimal-available-on-aws) - Thu, 28 Aug 2025 09:00:00 
 <!-- blog ends -->
