@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Add Huawei Cloud CCE v1.32 conformance test result. (#381...** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has closed this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/56) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@WizardBit](https://github.com/WizardBit) has opened this [issue](https://github.com/charmed-kubernetes/ceph-csi-operator/issues/56) in [charmed-kubernetes/ceph-csi-operator](https://api.github.com/repos/charmed-kubernetes/ceph-csi-operator).
  - [@addyess](https://github.com/addyess) has pushed the commit **Don't pin manifest versions into the unit tests** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
