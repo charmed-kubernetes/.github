@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.34.1.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clear resource cache during an upgrade, and reset app ver...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjustment to support 1.7.x containerd** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Catching too narrow an exception 'ConnectError', use broa...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@addyess](https://github.com/addyess) has pushed the commit **pin ceph-mon ceph-osd deployments on quincy to jammy base** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Make deploying with/without sysctl changes configurable (...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **docs: add release notes for `ignore-missing-cni` Charmed ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/900) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What our users make with Ubuntu Pro &#8211; Episode 2](https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2) - Thu, 11 Sep 2025 12:13:51 
 * [What’s the state of open source adoption in Europe?](https://ubuntu.com//blog/state-of-open-source-adoption-in-europe) - Wed, 10 Sep 2025 09:51:10 
 * [What are dependencies, and how do you secure them?](https://ubuntu.com//blog/what-are-dependencies) - Wed, 10 Sep 2025 09:00:00 
 * [How we ran a sprint to refresh our design website, Part 2](https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-design-website-part-2) - Tue, 09 Sep 2025 09:16:57 
 * [Bringing Canonical Kubernetes to Sylva: a new chapter for European telco clouds](https://ubuntu.com//blog/bringing-canonical-kubernetes-to-sylva-a-new-chapter-for-european-telco-clouds) - Fri, 05 Sep 2025 14:26:26 
 * [Implement an enterprise-ready data lakehouse architecture with Spark and Kyuubi](https://ubuntu.com//blog/implement-an-enterprise-ready-data-lakehouse-architecture-with-spark-and-kyuubi) - Thu, 04 Sep 2025 13:49:17 
-* [54% of European enterprises want long term open source support: how Ubuntu Pro + Support delivers](https://ubuntu.com//blog/54-of-european-enterprises-want-long-term-open-source-support-how-ubuntu-pro-support-delivers) - Wed, 03 Sep 2025 09:00:00 
 <!-- blog ends -->
