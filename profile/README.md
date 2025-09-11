@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clear resource cache during an upgrade, and reset app ver...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@addyess](https://github.com/addyess) has pushed the commit **Adjustment to support 1.7.x containerd** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **Make deploying with/without sysctl changes configurable (...** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
  - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **docs: add release notes for `ignore-missing-cni` Charmed ...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/900) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Enforce net.ipv4.conf.all.rp_filter=0 on each node** to [charm-cilium](https://github.com/charmed-kubernetes/charm-cilium)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
