@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update URLs to point to charmed-kubernetes org (#22)** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add integration tests for canonical k8s** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Add integration tests for canonical k8s** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating v1.34.1-upstream: images** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Updating container-images/v1.32.9.txt** to [bundle](https://github.com/charmed-kubernetes/bundle)
  - [@addyess](https://github.com/addyess) has pushed the commit **Clear resource cache during an upgrade, and reset app ver...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
- - [@addyess](https://github.com/addyess) has pushed the commit **Adjustment to support 1.7.x containerd** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
