@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical announces it will support and distribute NVIDIA CUDA in Ubuntu](https://ubuntu.com//blog/canonical-announces-it-will-support-and-distribute-nvidia-cuda-in-ubuntu) - Mon, 15 Sep 2025 14:30:49 
 * [What our users make with Ubuntu Pro &#8211; Episode 2](https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2) - Thu, 11 Sep 2025 12:13:51 
 * [What’s the state of open source adoption in Europe?](https://ubuntu.com//blog/state-of-open-source-adoption-in-europe) - Wed, 10 Sep 2025 09:51:10 
 * [What are dependencies, and how do you secure them?](https://ubuntu.com//blog/what-are-dependencies) - Wed, 10 Sep 2025 09:00:00 
 * [How we ran a sprint to refresh our design website, Part 2](https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-design-website-part-2) - Tue, 09 Sep 2025 09:16:57 
 * [Bringing Canonical Kubernetes to Sylva: a new chapter for European telco clouds](https://ubuntu.com//blog/bringing-canonical-kubernetes-to-sylva-a-new-chapter-for-european-telco-clouds) - Fri, 05 Sep 2025 14:26:26 
-* [Implement an enterprise-ready data lakehouse architecture with Spark and Kyuubi](https://ubuntu.com//blog/implement-an-enterprise-ready-data-lakehouse-architecture-with-spark-and-kyuubi) - Thu, 04 Sep 2025 13:49:17 
 <!-- blog ends -->
