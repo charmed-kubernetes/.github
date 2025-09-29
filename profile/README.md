@@ -37,10 +37,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)](https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp) - Mon, 29 Sep 2025 17:59:55 
 * [Beyond ‘whack-a-mole’ and insecticide](https://ubuntu.com//blog/beyond-whack-a-mole-and-insecticide) - Wed, 24 Sep 2025 15:00:00 
 * [Mythbusting the scope of Livepatch protection](https://ubuntu.com//blog/mythbusting-the-scope-of-livepatch-protection) - Wed, 24 Sep 2025 03:12:48 
 * [How to build an awesome cloud gaming platform with Anbox Cloud](https://ubuntu.com//blog/how-to-build-an-awesome-cloud-gaming-platform-with-anbox-cloud) - Fri, 19 Sep 2025 08:00:00 
 * [Canonical achieves IEC 62443-4-1 compliance in Industrial Automation and Control Systems](https://ubuntu.com//blog/canonical-iec-62443-4-1) - Thu, 18 Sep 2025 11:00:00 
 * [Canonical announces it will support and distribute NVIDIA CUDA in Ubuntu](https://ubuntu.com//blog/canonical-announces-it-will-support-and-distribute-nvidia-cuda-in-ubuntu) - Mon, 15 Sep 2025 14:30:49 
-* [What our users make with Ubuntu Pro &#8211; Episode 2](https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2) - Thu, 11 Sep 2025 12:13:51 
 <!-- blog ends -->
