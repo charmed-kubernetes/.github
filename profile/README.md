@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Charmed Kubernetes Release 1.34  (#901)  * Tool Generated...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2121137] Handle failed port addition to a loadbalance...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **List 1.34 in the main upgrading page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Generate release notes with links to bugs in a list form** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Generate release notes with links to bugs in a list form** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Generate release notes with links to bugs in a list form** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Canonical achieves ISO 27001 certification](https://ubuntu.com//blog/canonical-achieves-iso-27001-certification) - Tue, 30 Sep 2025 15:05:07 
 * [Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)](https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp) - Mon, 29 Sep 2025 17:59:55 
 * [Beyond ‘whack-a-mole’ and insecticide](https://ubuntu.com//blog/beyond-whack-a-mole-and-insecticide) - Wed, 24 Sep 2025 15:00:00 
 * [Mythbusting the scope of Livepatch protection](https://ubuntu.com//blog/mythbusting-the-scope-of-livepatch-protection) - Wed, 24 Sep 2025 03:12:48 
 * [How to build an awesome cloud gaming platform with Anbox Cloud](https://ubuntu.com//blog/how-to-build-an-awesome-cloud-gaming-platform-with-anbox-cloud) - Fri, 19 Sep 2025 08:00:00 
 * [Canonical achieves IEC 62443-4-1 compliance in Industrial Automation and Control Systems](https://ubuntu.com//blog/canonical-iec-62443-4-1) - Thu, 18 Sep 2025 11:00:00 
-* [Canonical announces it will support and distribute NVIDIA CUDA in Ubuntu](https://ubuntu.com//blog/canonical-announces-it-will-support-and-distribute-nvidia-cuda-in-ubuntu) - Mon, 15 Sep 2025 14:30:49 
 <!-- blog ends -->
