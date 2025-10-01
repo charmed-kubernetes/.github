@@ -25,15 +25,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Contribute feedback from review on PR for u.com** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@addyess](https://github.com/addyess) has pushed the commit **address inclusive checks** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
+ - [@addyess](https://github.com/addyess) has pushed the commit **edit helm link** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update templates/kubernetes/charmed-k8s/docs/how-to-unins...** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Apply suggestion from @Copilot  Co-authored-by: Copilot <...** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
  - [@addyess](https://github.com/addyess) has pushed the commit **Charmed Kubernetes Release 1.34  (#901)  * Tool Generated...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2121137] Handle failed port addition to a loadbalance...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **List 1.34 in the main upgrading page** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **Generate release notes with links to bugs in a list form** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/23) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/901) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Generate release notes with links to bugs in a list form** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **Generate release notes with links to bugs in a list form** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
 <!-- activity ends -->
 
