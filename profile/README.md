@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/13) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
+ - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/13) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Contribute feedback from review on PR for u.com** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove ellipses (...) in side-nav** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
  - [@addyess](https://github.com/addyess) has pushed the commit **env vars cannot be over 128K in linux, just use the cidr ...** to [layer-container-runtime-common](https://github.com/charmed-kubernetes/layer-container-runtime-common)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-container-runtime-common/pull/8) in the [layer-container-runtime-common](https://github.com/charmed-kubernetes/layer-container-runtime-common) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **Feature flags become module level globals** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps/pull/31) in the [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Improve testing by also hashing file content changes** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update pyproject.toml contextual status deps (#32)** to [charm-lib-kubernetes-snaps](https://github.com/charmed-kubernetes/charm-lib-kubernetes-snaps)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
