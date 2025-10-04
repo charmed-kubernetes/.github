@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/155) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
+ - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **linted correctly this time** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **minor linting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **updated readme** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **cleaned up test, added fault tolerance** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **added to test to check if resizing happened in pod** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Contribute feedback from review on PR for u.com** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove ellipses (...) in side-nav** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
  - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/13) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/13) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Contribute feedback from review on PR for u.com** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove ellipses (...) in side-nav** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
- - [@addyess](https://github.com/addyess) has pushed the commit **env vars cannot be over 128K in linux, just use the cidr ...** to [layer-container-runtime-common](https://github.com/charmed-kubernetes/layer-container-runtime-common)
- - [@addyess](https://github.com/addyess) has pushed the commit **env vars cannot be over 128K in linux, just use the cidr ...** to [layer-container-runtime-common](https://github.com/charmed-kubernetes/layer-container-runtime-common)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
