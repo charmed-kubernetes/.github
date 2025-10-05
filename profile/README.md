@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **fix: cloud entries in an dictionary were being deleted wh...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
+ - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/155) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **linted correctly this time** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **cleaned up test, added fault tolerance** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **added to test to check if resizing happened in pod** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@addyess](https://github.com/addyess) has pushed the commit **Contribute feedback from review on PR for u.com** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove ellipses (...) in side-nav** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/13) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
