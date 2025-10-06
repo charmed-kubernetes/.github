@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Test resizing a running pod to ensure it grows from 1Gi t...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **fix: cloud entries in an dictionary were being deleted wh...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **minor linting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **updated readme** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **cleaned up test, added fault tolerance** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **added to test to check if resizing happened in pod** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [The clock is ticking: Ubuntu Summit 25.10 is just around the corner](https://ubuntu.com//blog/the-clock-is-ticking-ubuntu-summit-25-10-is-just-around-the-corner) - Mon, 06 Oct 2025 15:16:50 
 * [Canonical achieves ISO 27001 certification](https://ubuntu.com//blog/canonical-achieves-iso-27001-certification) - Tue, 30 Sep 2025 15:05:07 
 * [Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)](https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp) - Mon, 29 Sep 2025 17:59:55 
 * [Beyond ‘whack-a-mole’ and insecticide](https://ubuntu.com//blog/beyond-whack-a-mole-and-insecticide) - Wed, 24 Sep 2025 15:00:00 
 * [Mythbusting the scope of Livepatch protection](https://ubuntu.com//blog/mythbusting-the-scope-of-livepatch-protection) - Wed, 24 Sep 2025 03:12:48 
 * [How to build an awesome cloud gaming platform with Anbox Cloud](https://ubuntu.com//blog/how-to-build-an-awesome-cloud-gaming-platform-with-anbox-cloud) - Fri, 19 Sep 2025 08:00:00 
-* [Canonical achieves IEC 62443-4-1 compliance in Industrial Automation and Control Systems](https://ubuntu.com//blog/canonical-iec-62443-4-1) - Thu, 18 Sep 2025 11:00:00 
 <!-- blog ends -->
