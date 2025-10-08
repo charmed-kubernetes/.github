@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/58) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
+ - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/58) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Test resizing a running pod to ensure it grows from 1Gi t...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **fix: cloud entries in an dictionary were being deleted wh...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/155) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **linted correctly this time** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **minor linting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **updated readme** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **cleaned up test, added fault tolerance** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
