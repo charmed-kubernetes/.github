@@ -25,6 +25,8 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **updated readme (#58)  * updated readme  * Update README.m...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
+ - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Update README.md  Co-authored-by: Niamh Hennigan <niamh.h...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/58) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/58) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Test resizing a running pod to ensure it grows from 1Gi t...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -33,8 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/pytest-operator/pull/155) in the [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator) repository.
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **linted correctly this time** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **minor linting** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
