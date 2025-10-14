@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [NVIDIA DGX Spark: The developer’s personal AI supercomputer built on an Ubuntu base](https://ubuntu.com//blog/nvidia-dgx-spark-ubuntu-base) - Tue, 14 Oct 2025 14:30:26 
 * [Canonical releases Ubuntu 25.10 Questing Quokka](https://ubuntu.com//blog/canonical-releases-ubuntu-25-10-questing-quokka) - Thu, 09 Oct 2025 09:48:38 
 * [Ubuntu worker nodes for OKE now in Limited Availability](https://ubuntu.com//blog/ubuntu-worker-nodes-for-oracle-oke-now-in-limited-availability) - Wed, 08 Oct 2025 16:31:34 
 * [OpenStack cloud – happy 15th anniversary!](https://ubuntu.com//blog/openstack-cloud-happy-15th-anniversary) - Tue, 07 Oct 2025 07:00:00 
 * [The clock is ticking: Ubuntu Summit 25.10 is just around the corner](https://ubuntu.com//blog/the-clock-is-ticking-ubuntu-summit-25-10-is-just-around-the-corner) - Mon, 06 Oct 2025 15:16:50 
 * [Canonical achieves ISO 27001 certification](https://ubuntu.com//blog/canonical-achieves-iso-27001-certification) - Tue, 30 Sep 2025 15:05:07 
-* [Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)](https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp) - Mon, 29 Sep 2025 17:59:55 
 <!-- blog ends -->
