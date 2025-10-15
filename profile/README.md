@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **Remove helm.md** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **updated readme (#58)  * updated readme  * Update README.m...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
  - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Update README.md  Co-authored-by: Niamh Hennigan <niamh.h...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **fix: cloud entries in an dictionary were being deleted wh...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
