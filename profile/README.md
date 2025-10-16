@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has pushed the commit **vsan settings moved to an updated CLOUDS_YAML** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Defaul vsphere integration to use org default vsan options** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/406) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into fix/lp1905008/widen-sg-group-for...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2110221] Config change and Creds changes validates LB...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Defaul vsphere integration to use org default vsan options** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Defaul vsphere integration to use org default vsan options** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **KU-4500 default all CI machines to create vsphere thin disks** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Remove helm.md** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.33/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **updated readme (#58)  * updated readme  * Update README.m...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Update README.md  Co-authored-by: Niamh Hennigan <niamh.h...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/58) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@nhennigan](https://github.com/nhennigan) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/58) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@ethandcosta](https://github.com/ethandcosta) has pushed the commit **Test resizing a running pod to ensure it grows from 1Gi t...** to [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator)
- - [@bschimke95](https://github.com/bschimke95) has reviewed a [pull request](https://github.com/charmed-kubernetes/ceph-csi-operator/pull/53) in the [ceph-csi-operator](https://github.com/charmed-kubernetes/ceph-csi-operator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **fix: cloud entries in an dictionary were being deleted wh...** to [pytest-operator](https://github.com/charmed-kubernetes/pytest-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
