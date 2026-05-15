@@ -25,16 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@rapour](https://github.com/rapour) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-openstack-integrator/pull/13) in the [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **vsan settings moved to an updated CLOUDS_YAML** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Defaul vsphere integration to use org default vsan options** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/406) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **Merge branch 'main' into fix/lp1905008/widen-sg-group-for...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **[LP#2110221] Config change and Creds changes validates LB...** to [charm-openstack-integrator](https://github.com/charmed-kubernetes/charm-openstack-integrator)
- - [@addyess](https://github.com/addyess) has pushed the commit **Defaul vsphere integration to use org default vsan options** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **Defaul vsphere integration to use org default vsan options** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **KU-4500 default all CI machines to create vsphere thin disks** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Remove helm.md** to [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com)
+
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +35,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [NVIDIA DGX Spark: The developer’s personal AI supercomputer built on an Ubuntu base](https://ubuntu.com//blog/nvidia-dgx-spark-ubuntu-base) - Tue, 14 Oct 2025 14:30:26 
-* [Canonical releases Ubuntu 25.10 Questing Quokka](https://ubuntu.com//blog/canonical-releases-ubuntu-25-10-questing-quokka) - Thu, 09 Oct 2025 09:48:38 
-* [Ubuntu worker nodes for OKE now in Limited Availability](https://ubuntu.com//blog/ubuntu-worker-nodes-for-oracle-oke-now-in-limited-availability) - Wed, 08 Oct 2025 16:31:34 
-* [OpenStack cloud – happy 15th anniversary!](https://ubuntu.com//blog/openstack-cloud-happy-15th-anniversary) - Tue, 07 Oct 2025 07:00:00 
-* [The clock is ticking: Ubuntu Summit 25.10 is just around the corner](https://ubuntu.com//blog/the-clock-is-ticking-ubuntu-summit-25-10-is-just-around-the-corner) - Mon, 06 Oct 2025 15:16:50 
-* [Canonical achieves ISO 27001 certification](https://ubuntu.com//blog/canonical-achieves-iso-27001-certification) - Tue, 30 Sep 2025 15:05:07 
+* [Finding the blind spot: How Canonical hunts logic flaws with AI](https://ubuntu.com//blog/finding-the-blind-spot-how-canonical-hunts-logic-flaws-with-ai) - Fri, 15 May 2026 08:53:19 
+* [Fragnesia Linux kernel local privilege escalation vulnerability mitigations](https://ubuntu.com//blog/fragnesia-linux-vulnerability-fixes-available) - Thu, 14 May 2026 19:07:38 
+* [Rethinking BYOD security: protecting data without trusting devices](https://ubuntu.com//blog/rethinking-byod-security-protecting-data-without-trusting-devices) - Wed, 13 May 2026 16:54:20 
+* [Dirty Frag Linux kernel local privilege escalation vulnerability mitigations](https://ubuntu.com//blog/dirty-frag-linux-vulnerability-fixes-available) - Fri, 08 May 2026 11:57:24 
+* [Three weeks to go: A sneak peek of the Ubuntu Summit 26.04 experience](https://ubuntu.com//blog/three-weeks-to-go-a-sneak-peek-of-the-ubuntu-summit-26-04-experience) - Wed, 06 May 2026 10:26:53 
+* [How to use Ubuntu on Windows](https://ubuntu.com//blog/how-to-use-ubuntu-on-windows) - Mon, 04 May 2026 00:00:00 
 <!-- blog ends -->
