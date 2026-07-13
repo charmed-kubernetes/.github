@@ -35,10 +35,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Finding the blind spot: How Canonical hunts logic flaws with AI](https://ubuntu.com//blog/finding-the-blind-spot-how-canonical-hunts-logic-flaws-with-ai) - Fri, 15 May 2026 08:53:19 
-* [Fragnesia Linux kernel local privilege escalation vulnerability mitigations](https://ubuntu.com//blog/fragnesia-linux-vulnerability-fixes-available) - Thu, 14 May 2026 19:07:38 
-* [Rethinking BYOD security: protecting data without trusting devices](https://ubuntu.com//blog/rethinking-byod-security-protecting-data-without-trusting-devices) - Wed, 13 May 2026 16:54:20 
-* [Dirty Frag Linux kernel local privilege escalation vulnerability mitigations](https://ubuntu.com//blog/dirty-frag-linux-vulnerability-fixes-available) - Fri, 08 May 2026 11:57:24 
-* [Three weeks to go: A sneak peek of the Ubuntu Summit 26.04 experience](https://ubuntu.com//blog/three-weeks-to-go-a-sneak-peek-of-the-ubuntu-summit-26-04-experience) - Wed, 06 May 2026 10:26:53 
-* [How to use Ubuntu on Windows](https://ubuntu.com//blog/how-to-use-ubuntu-on-windows) - Mon, 04 May 2026 00:00:00 
+* [Januscape vulnerability CVE-2026-53359 mitigations available](https://ubuntu.com//blog/januscape-linux-vulnerability-mitigations-available) - Sat, 11 Jul 2026 20:00:00 
+* [Managing Ubuntu on bare metal at scale](https://ubuntu.com//blog/managing-ubuntu-on-bare-metal-at-scale) - Thu, 09 Jul 2026 15:17:20 
+* [Ubuntu Server: a platform made for enterprise scale](https://ubuntu.com//blog/ubuntu-server-a-platform-made-for-enterprise-scale) - Tue, 07 Jul 2026 16:42:07 
+* [Building an open source chain of trust: new research uncovers key blockers and ways forward](https://ubuntu.com//blog/open-source-security-research) - Mon, 06 Jul 2026 14:39:37 
+* [Beyond safety and security: Why automotive open source demands dependability](https://ubuntu.com//blog/beyond-safety-and-security-why-automotive-open-source-demands-dependability) - Mon, 06 Jul 2026 14:12:00 
+* [DirtyClone Linux kernel local privilege escalation vulnerability fixes available](https://ubuntu.com//blog/dirtyclone-linux-vulnerability-fixes-available) - Wed, 01 Jul 2026 07:57:40 
 <!-- blog ends -->
