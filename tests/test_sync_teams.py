@@ -13,6 +13,7 @@ from scripts.sync_teams import (
     main,
     reconcile_team,
     render_markdown_summary,
+    render_text_summary,
 )
 
 
@@ -662,6 +663,36 @@ class TestSummaryAndCLI(unittest.TestCase):
         summary_err = render_markdown_summary([err_res], dry_run=False)
         self.assertNotIn("No changes required. Team is in sync.", summary_err)
         self.assertIn("Reconciliation failed or incomplete due to errors", summary_err)
+
+    def test_render_text_summary_aligned_for_humans(self):
+        actions = [
+            TeamAction("add_member", "alice", "member"),
+            TeamAction("add_member", "very-long-canonical-username", "maintainer"),
+            TeamAction("noop_org_owner", "carol", "member", "org owner coerced to maintainer by GitHub"),
+        ]
+        res = TeamSyncResult(
+            team_slug="kubernetes",
+            created_team=True,
+            actions=actions,
+            errors=[],
+            desired_count=3,
+        )
+        text_dry = render_text_summary([res], dry_run=True)
+        self.assertIn("DRY RUN (no changes applied)", text_dry)
+        self.assertIn("Would create team 'kubernetes' (privacy: closed)", text_dry)
+        self.assertIn("+ would add member", text_dry)
+        self.assertIn("USERNAME", text_dry)
+        # Ensure stdout text report has no raw Markdown table pipes or backticks
+        self.assertNotIn("| --- |", text_dry)
+        self.assertNotIn("`alice`", text_dry)
+        self.assertIn("Would add:", text_dry)
+
+        # Error case with zero actions must not claim in sync
+        err_res = TeamSyncResult(team_slug="kubernetes", errors=["boom"])
+        text_err = render_text_summary([err_res], dry_run=True)
+        self.assertNotIn("No changes required. Team is in sync.", text_err)
+        self.assertIn("Reconciliation failed or incomplete due to errors", text_err)
+
     def test_missing_env_token_exits_2(self):
         with patch.dict(os.environ, {}, clear=True):
             with patch("sys.stderr", new_callable=io.StringIO) as fake_err:
@@ -718,10 +749,11 @@ class TestSummaryAndCLI(unittest.TestCase):
                         code = main(["--teams", "kubernetes", "--dry-run"])
                         self.assertEqual(code, 0)
                         stdout_val = fake_out.getvalue()
-                        self.assertIn("Canonical -> Charmed Kubernetes Team Sync", stdout_val)
+                        self.assertIn("Canonical -> Charmed Kubernetes Team Sync [DRY RUN (no changes applied)]", stdout_val)
+                        self.assertNotIn("| :--- |", stdout_val)
                         with open(summary_path, "r", encoding="utf-8") as f:
                             file_val = f.read()
-                        self.assertEqual(stdout_val.strip(), file_val.strip())
+                        self.assertIn("# Canonical -> Charmed Kubernetes Team Sync (DRY RUN)", file_val)
         finally:
             if os.path.exists(summary_path):
                 os.remove(summary_path)

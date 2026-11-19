@@ -442,6 +442,133 @@ def reconcile_team(
     )
 
 
+_ACTION_LABELS_LIVE: dict[str, str] = {
+    "add_member": "+ add member",
+    "update_role": "~ update role",
+    "update_pending_role": "~ update pending role",
+    "remove_member": "- remove member",
+    "remove_pending": "- remove pending invite",
+    "skip_pending": "= keep pending invite",
+    "noop_org_owner": "= keep (org owner)",
+    "noop": "= in sync",
+}
+
+_ACTION_LABELS_DRY_RUN: dict[str, str] = {
+    "add_member": "+ would add member",
+    "update_role": "~ would update role",
+    "update_pending_role": "~ would update pending role",
+    "remove_member": "- would remove member",
+    "remove_pending": "- would remove pending invite",
+    "skip_pending": "= keep pending invite",
+    "noop_org_owner": "= keep (org owner)",
+    "noop": "= in sync",
+}
+
+
+def _format_ascii_table(headers: list[str], rows: list[list[str]]) -> list[str]:
+    """Format rows into a padded, human-readable plain-text table for terminal logs."""
+    widths = [len(h) for h in headers]
+    for row in rows:
+        for idx, cell in enumerate(row):
+            if len(cell) > widths[idx]:
+                widths[idx] = len(cell)
+
+    def fmt_row(cells: list[str]) -> str:
+        return "  " + "  ".join(cell.ljust(widths[idx]) for idx, cell in enumerate(cells)).rstrip()
+
+    sep = "  " + "  ".join("-" * w for w in widths)
+    out = [fmt_row(headers), sep]
+    for row in rows:
+        out.append(fmt_row(row))
+    return out
+
+
+def render_text_summary(results: list[TeamSyncResult], *, dry_run: bool) -> str:
+    """Render a clean, column-aligned plain-text report for terminal and CI step logs."""
+    labels = _ACTION_LABELS_DRY_RUN if dry_run else _ACTION_LABELS_LIVE
+    mode_banner = "DRY RUN (no changes applied)" if dry_run else "LIVE SYNC"
+    lines: list[str] = [
+        f"Canonical -> Charmed Kubernetes Team Sync [{mode_banner}]",
+        "=" * (44 + len(mode_banner)),
+        "",
+    ]
+
+    total_added = 0
+    total_updated = 0
+    total_removed = 0
+    total_skipped = 0
+    total_errors = 0
+
+    for res in results:
+        lines.append(f"Team: {res.team_slug}")
+        lines.append("-" * (6 + len(res.team_slug)))
+        if res.created_team:
+            status_text = "Would create team" if dry_run else "Created team"
+            lines.append(f"  Status:          {status_text} '{res.team_slug}' (privacy: closed)")
+        lines.append(f"  Source members:  {res.desired_count}")
+
+        added = [a for a in res.actions if a.action == "add_member"]
+        updated = [a for a in res.actions if a.action in ("update_role", "update_pending_role")]
+        removed = [a for a in res.actions if a.action in ("remove_member", "remove_pending")]
+        skipped = [a for a in res.actions if a.action in ("skip_pending", "noop_org_owner", "noop")]
+
+        total_added += len(added)
+        total_updated += len(updated)
+        total_removed += len(removed)
+        total_skipped += len(skipped)
+        total_errors += len(res.errors)
+
+        lines.append(
+            f"  Planned changes: {len(added)} to add, {len(updated)} to update, {len(removed)} to remove, {len(skipped)} unchanged/skipped"
+            if dry_run
+            else f"  Applied changes: {len(added)} added, {len(updated)} updated, {len(removed)} removed, {len(skipped)} unchanged/skipped"
+        )
+        lines.append("")
+
+        meaningful_actions = [a for a in res.actions if a.action != "noop"]
+        if meaningful_actions:
+            rows = [
+                [
+                    a.username,
+                    labels.get(a.action, a.action),
+                    a.role or "-",
+                    a.detail or "",
+                ]
+                for a in meaningful_actions
+            ]
+            has_details = any(r[3] for r in rows)
+            if has_details:
+                lines.extend(_format_ascii_table(["USERNAME", "ACTION", "ROLE", "NOTES"], rows))
+            else:
+                lines.extend(_format_ascii_table(["USERNAME", "ACTION", "ROLE"], [r[:3] for r in rows]))
+            lines.append("")
+        elif res.errors:
+            lines.append("  ! Reconciliation failed or incomplete due to errors; sync status could not be confirmed.")
+            lines.append("")
+        else:
+            lines.append("  No changes required. Team is in sync.")
+            lines.append("")
+
+        if res.errors:
+            lines.append("  Errors:")
+            for err in res.errors:
+                lines.append(f"    [ERROR] {err}")
+            lines.append("")
+
+    lines.append("Summary")
+    lines.append("-------")
+    verb_add = "Would add" if dry_run else "Added"
+    verb_upd = "Would update" if dry_run else "Updated"
+    verb_rem = "Would remove" if dry_run else "Removed"
+    lines.append(f"  {verb_add + ':':<16} {total_added}")
+    lines.append(f"  {verb_upd + ':':<16} {total_updated}")
+    lines.append(f"  {verb_rem + ':':<16} {total_removed}")
+    lines.append(f"  {'Unchanged/Skip:':<16} {total_skipped}")
+    lines.append(f"  {'Errors:':<16} {total_errors}")
+
+    return "\n".join(lines)
+
+
 def render_markdown_summary(results: list[TeamSyncResult], *, dry_run: bool) -> str:
     """Render a GitHub Flavored Markdown reconciliation report."""
     lines: list[str] = []
@@ -478,14 +605,16 @@ def render_markdown_summary(results: list[TeamSyncResult], *, dry_run: bool) -> 
         lines.append(f"- **Changes:** {len(added)} added, {len(updated)} updated, {len(removed)} removed, {len(skipped)} skipped/noop")
         lines.append("")
 
+        labels = _ACTION_LABELS_DRY_RUN if dry_run else _ACTION_LABELS_LIVE
         meaningful_actions = [a for a in res.actions if a.action != "noop"]
         if meaningful_actions:
-            lines.append("| Username | Action | Role | Details |")
-            lines.append("| --- | --- | --- | --- |")
+            lines.append("| Username | Action | Role | Notes |")
+            lines.append("| :--- | :--- | :--- | :--- |")
             for a in meaningful_actions:
                 role_str = a.role or "-"
                 detail_str = a.detail or "-"
-                lines.append(f"| `{a.username}` | `{a.action}` | {role_str} | {detail_str} |")
+                action_label = labels.get(a.action, a.action)
+                lines.append(f"| `{a.username}` | {action_label} | `{role_str}` | {detail_str} |")
             lines.append("")
         elif res.errors:
             lines.append("Reconciliation failed or incomplete due to errors; sync status could not be confirmed.")
@@ -595,14 +724,15 @@ def main(argv: list[str] | None = None) -> int:
                     desired_count=0,
                 )
             )
-    summary = render_markdown_summary(results, dry_run=args.dry_run)
-    print(summary)
+    text_report = render_text_summary(results, dry_run=args.dry_run)
+    print(text_report)
 
     step_summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
     if step_summary_path:
+        markdown_summary = render_markdown_summary(results, dry_run=args.dry_run)
         try:
             with open(step_summary_path, "a", encoding="utf-8") as f:
-                f.write(summary + "\n")
+                f.write(markdown_summary + "\n")
         except Exception as e:
             sys.stderr.write(f"Warning: Failed to write to GITHUB_STEP_SUMMARY: {sanitize_err(e)}\n")
     return 1 if has_errors else 0
