@@ -537,6 +537,37 @@ class TestReconcileTeam(unittest.TestCase):
         self.assertEqual(len(result.errors), 1)
         self.assertIn("999", result.errors[0])
         self.assertIn("manual resolution required", result.errors[0])
+
+    def test_malformed_pending_membership_response_records_error(self):
+        def source_handler(method, url, headers, body):
+            if "role=all" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "eve"}]).encode())
+            return FakeHTTPResponse(200, b"[]")
+
+        for bad_payload in (b"<html>proxy glitch</html>", b'{"state": "pending"}', b'{"role": "unknown"}'):
+            def target_handler(method, url, headers, body, payload=bad_payload):
+                if method == "GET" and url.endswith("/teams/kubernetes"):
+                    return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
+                if method == "GET" and "/teams/kubernetes/members?role=all" in url:
+                    return FakeHTTPResponse(200, b"[]")
+                if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
+                    return FakeHTTPResponse(200, b"[]")
+                if method == "GET" and "/teams/kubernetes/invitations" in url:
+                    return FakeHTTPResponse(200, json.dumps([{"login": "eve", "id": 555, "team_count": 1}]).encode())
+                if method == "GET" and "/memberships/eve" in url:
+                    return FakeHTTPResponse(200, payload)
+                raise AssertionError(f"Unexpected target call: {method} {url}")
+
+            source_client, target_client, _, _ = self.make_clients(source_handler, target_handler)
+            result = reconcile_team(
+                source_client, target_client,
+                "canonical", "charmed-kubernetes", "kubernetes",
+                target_org_owners=set(),
+                dry_run=False,
+            )
+            self.assertEqual(len(result.errors), 1)
+            self.assertIn("Failed to inspect pending membership for eve", result.errors[0])
+            self.assertEqual(result.actions, [])
     def test_target_team_create_failure_returns_immediately(self):
         def source_handler(method, url, headers, body):
             if "role=all" in url:

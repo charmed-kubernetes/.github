@@ -355,16 +355,18 @@ def reconcile_team(
                         errors.append(f"Failed to update role for {display_login}: {e.message}")
         elif login_lower in target_pending:
             # Query pending membership role via read-only GET
-            pending_role = None
+            pending_role: str | None = None
+            membership_path = f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{user_q}"
             try:
-                _, membership_data, _ = target_client.request_json(
-                    "GET",
-                    f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{user_q}",
-                )
-                if isinstance(membership_data, dict):
-                    pending_role = membership_data.get("role", "member")
-                else:
-                    pending_role = "member"
+                status_code, membership_data, _ = target_client.request_json("GET", membership_path)
+                if not isinstance(membership_data, dict) or membership_data.get("role") not in ("member", "maintainer"):
+                    raise GitHubError(
+                        status_code,
+                        "GET",
+                        membership_path,
+                        "Malformed membership response; expected JSON object with valid role",
+                    )
+                pending_role = str(membership_data["role"])
             except GitHubError as e:
                 errors.append(f"Failed to inspect pending membership for {display_login}: {e.message}")
 
