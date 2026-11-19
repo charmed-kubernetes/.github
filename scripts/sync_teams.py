@@ -175,10 +175,14 @@ class GitHubClient:
 
         while next_path:
             status, page_items, headers = self.request_json("GET", next_path)
-            if isinstance(page_items, list):
-                items.extend(page_items)
-            elif isinstance(page_items, dict):
-                items.append(page_items)
+            if not isinstance(page_items, list) or not all(isinstance(entry, dict) for entry in page_items):
+                raise GitHubError(
+                    status,
+                    "GET",
+                    self._sanitize(next_path),
+                    "Unexpected paginated response payload; expected JSON array of objects",
+                )
+            items.extend(page_items)
 
             link_header = None
             for k, v in headers.items():
@@ -188,7 +192,6 @@ class GitHubClient:
             next_path = _parse_next_link(link_header)
 
         return items
-
 
 @dataclass
 class TeamAction:
@@ -227,18 +230,24 @@ def reconcile_team(
     tgt_org_q = urllib.parse.quote(target_org, safe="")
     team_q = urllib.parse.quote(team_slug, safe="")
 
-    # 1. Read source memberships (member and maintainer)
-    source_members = source_client.paginate(f"/orgs/{src_org_q}/teams/{team_q}/members?role=member&per_page=100")
+    # 1. Read source memberships using role=all as the base snapshot so a concurrent
+    # maintainer -> member demotion between requests never drops an active team member,
+    # then overlay role=maintainer (with inline 'role' field fallback if returned by GitHub).
+    source_all = source_client.paginate(f"/orgs/{src_org_q}/teams/{team_q}/members?role=all&per_page=100")
     source_maintainers = source_client.paginate(f"/orgs/{src_org_q}/teams/{team_q}/members?role=maintainer&per_page=100")
     desired: dict[str, tuple[str, str]] = {}
-    for m in source_members:
-        login = m["login"]
-        desired[login.lower()] = (login, "member")
+    for m in source_all:
+        login = m.get("login")
+        if not isinstance(login, str) or not login:
+            raise GitHubError(200, "GET", f"/orgs/{src_org_q}/teams/{team_q}/members", "Malformed member object missing login")
+        inline_role = m.get("role")
+        role = "maintainer" if inline_role == "maintainer" else "member"
+        desired[login.lower()] = (login, role)
     for m in source_maintainers:
-        login = m["login"]
-        # Maintainer wins if user appears in both
+        login = m.get("login")
+        if not isinstance(login, str) or not login:
+            raise GitHubError(200, "GET", f"/orgs/{src_org_q}/teams/{team_q}/members", "Malformed maintainer object missing login")
         desired[login.lower()] = (login, "maintainer")
-
     # Circuit breaker check: abort before any target mutations if source is empty
     if len(desired) == 0 and not allow_empty:
         raise RuntimeError(
@@ -288,17 +297,21 @@ def reconcile_team(
                 )
 
     if target_team_exists or created_team and not dry_run:
-        # 3. Read target active members and pending invitations (including after live team creation,
-        # since GitHub automatically adds the team creator as an active maintainer)
-        active_members = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=member&per_page=100")
+        # 3. Read target active members (role=all base + role=maintainer overlay) and pending invitations
+        active_all = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=all&per_page=100")
         active_maintainers = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=maintainer&per_page=100")
-        for m in active_members:
-            login = m["login"]
-            target_active[login.lower()] = (login, "member")
+        for m in active_all:
+            login = m.get("login")
+            if not isinstance(login, str) or not login:
+                raise GitHubError(200, "GET", f"/orgs/{tgt_org_q}/teams/{team_q}/members", "Malformed target member object missing login")
+            inline_role = m.get("role")
+            role = "maintainer" if inline_role == "maintainer" else "member"
+            target_active[login.lower()] = (login, role)
         for m in active_maintainers:
-            login = m["login"]
+            login = m.get("login")
+            if not isinstance(login, str) or not login:
+                raise GitHubError(200, "GET", f"/orgs/{tgt_org_q}/teams/{team_q}/members", "Malformed target maintainer object missing login")
             target_active[login.lower()] = (login, "maintainer")
-
         pending_invitations = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/invitations?per_page=100")
         for inv in pending_invitations:
             login = inv.get("login")

@@ -94,6 +94,30 @@ class TestGitHubClient(unittest.TestCase):
         self.assertEqual(len(items), 2)
         self.assertEqual([i["login"] for i in items], ["alice", "bob"])
 
+
+    def test_paginate_rejects_malformed_or_non_list_page_payload(self):
+        page1_data = json.dumps([{"login": "alice"}]).encode("utf-8")
+
+        def handler_malformed_page2(method, url, headers, body):
+            if "page=2" not in url:
+                link = '<https://api.github.com/orgs/canonical/members?page=2>; rel="next"'
+                return FakeHTTPResponse(200, page1_data, {"Link": link})
+            # Truncated / non-JSON HTML error body with HTTP 200
+            return FakeHTTPResponse(200, b"<html>upstream proxy glitch</html>")
+
+        client = GitHubClient(token="fake-secret-token", opener=FakeOpener(handler_malformed_page2))
+        with self.assertRaises(GitHubError) as ctx:
+            client.paginate("/orgs/canonical/members?per_page=1")
+        self.assertIn("Unexpected paginated response payload", str(ctx.exception))
+
+        # Dict error payload on HTTP 200 must also be rejected
+        client_dict = GitHubClient(
+            token="fake-secret-token",
+            opener=FakeOpener(lambda m, u, h, b: FakeHTTPResponse(200, b'{"message": "unexpected object"}')),
+        )
+        with self.assertRaises(GitHubError):
+            client_dict.paginate("/orgs/canonical/members?per_page=1")
+
     def test_cross_origin_or_insecure_next_link_rejected_before_opener(self):
         page1_data = json.dumps([{"login": "alice"}]).encode("utf-8")
 
@@ -236,7 +260,7 @@ class TestReconcileTeam(unittest.TestCase):
 
     def test_target_team_not_found_creates_team(self):
         def source_handler(method, url, headers, body):
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
             if "role=maintainer" in url:
                 return FakeHTTPResponse(200, json.dumps([]).encode())
@@ -248,8 +272,8 @@ class TestReconcileTeam(unittest.TestCase):
                 raise urllib.error.HTTPError(url, 404, "Not Found", {}, io.BytesIO(b'{"message": "Not Found"}'))
             if method == "POST" and url.endswith("/orgs/charmed-kubernetes/teams"):
                 return FakeHTTPResponse(201, json.dumps({"slug": "kubernetes", "name": "kubernetes"}).encode())
-            if method == "GET" and "/teams/kubernetes/members?role=member" in url:
-                return FakeHTTPResponse(200, b"[]")
+            if method == "GET" and "/teams/kubernetes/members?role=all" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "cdkbot"}]).encode())
             if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
                 # GitHub automatically adds the team creator (cdkbot) as an active maintainer upon creation
                 return FakeHTTPResponse(200, json.dumps([{"login": "cdkbot"}]).encode())
@@ -275,7 +299,7 @@ class TestReconcileTeam(unittest.TestCase):
         self.assertTrue(any(a.action == "remove_member" and a.username == "cdkbot" for a in result.actions))
     def test_target_team_not_found_dry_run_skips_mutations(self):
         def source_handler(method, url, headers, body):
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
             return FakeHTTPResponse(200, b"[]")
 
@@ -324,7 +348,7 @@ class TestReconcileTeam(unittest.TestCase):
         def target_handler(method, url, headers, body):
             if method == "GET" and url.endswith("/teams/kubernetes"):
                 return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
-            if method == "GET" and "role=member" in url:
+            if method == "GET" and "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "olduser"}]).encode())
             if method == "GET" and "role=maintainer" in url:
                 return FakeHTTPResponse(200, b"[]")
@@ -359,13 +383,14 @@ class TestReconcileTeam(unittest.TestCase):
         # - "Peggy" (not in source, team_count == 1 -> remove_pending + cancel org invite)
         # - "Sybil" (not in source, team_count == 2 -> remove_pending only)
         def source_handler(method, url, headers, body):
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([
                     {"login": "Alice"},
+                    {"login": "Bob"},
                     {"login": "Carol"},
                     {"login": "Dave"},
                     {"login": "Eve"},
-                    {"login": "Frank"},  # Frank appears in both; maintainer must win
+                    {"login": "Frank"},
                 ]).encode())
             if "role=maintainer" in url:
                 return FakeHTTPResponse(200, json.dumps([
@@ -377,9 +402,11 @@ class TestReconcileTeam(unittest.TestCase):
         def target_handler(method, url, headers, body):
             if method == "GET" and url.endswith("/teams/kubernetes"):
                 return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
-            if method == "GET" and "/teams/kubernetes/members?role=member" in url:
+            if method == "GET" and "/teams/kubernetes/members?role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([
                     {"login": "Bob"},
+                    {"login": "Carol"},
+                    {"login": "Dave"},
                     {"login": "Mallory"},
                 ]).encode())
             if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
@@ -440,16 +467,59 @@ class TestReconcileTeam(unittest.TestCase):
         cancelled_invites = [c["url"] for c in target_opener.calls if "/orgs/charmed-kubernetes/invitations/" in c["url"] and c["method"] == "DELETE"]
         self.assertEqual(cancelled_invites, [])
 
+
+    def test_concurrent_maintainer_demotion_preserves_member(self):
+        # Regression test: "demoted_user" is demoted from maintainer -> member right after role=all
+        # returns (so role=all includes them without maintainer flag, and role=maintainer no longer
+        # includes them). They must remain in desired as "member" rather than being deleted!
+        def source_handler(method, url, headers, body):
+            if "role=all" in url:
+                return FakeHTTPResponse(200, json.dumps([
+                    {"login": "alice"},
+                    {"login": "demoted_user"},
+                ]).encode())
+            if "role=maintainer" in url:
+                return FakeHTTPResponse(200, b"[]")
+            return FakeHTTPResponse(200, b"[]")
+
+        def target_handler(method, url, headers, body):
+            if method == "GET" and url.endswith("/teams/kubernetes"):
+                return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
+            if method == "GET" and "/teams/kubernetes/members?role=all" in url:
+                return FakeHTTPResponse(200, json.dumps([
+                    {"login": "alice"},
+                    {"login": "demoted_user"},
+                ]).encode())
+            if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "demoted_user"}]).encode())
+            if method == "GET" and "/teams/kubernetes/invitations" in url:
+                return FakeHTTPResponse(200, b"[]")
+            if method == "PUT" and "/memberships/demoted_user" in url:
+                self.assertEqual(body, {"role": "member"})
+                return FakeHTTPResponse(200, json.dumps({"role": "member"}).encode())
+            raise AssertionError(f"Unexpected target call: {method} {url}")
+
+        source_client, target_client, _, _ = self.make_clients(source_handler, target_handler)
+        result = reconcile_team(
+            source_client, target_client,
+            "canonical", "charmed-kubernetes", "kubernetes",
+            target_org_owners=set(),
+            dry_run=False,
+        )
+        self.assertEqual(len(result.errors), 0)
+        self.assertFalse(any(a.action == "remove_member" for a in result.actions))
+        self.assertTrue(any(a.action == "update_role" and a.username == "demoted_user" and a.role == "member" for a in result.actions))
+
     def test_null_login_invitation_records_error(self):
         def source_handler(method, url, headers, body):
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
             return FakeHTTPResponse(200, b"[]")
 
         def target_handler(method, url, headers, body):
             if method == "GET" and url.endswith("/teams/kubernetes"):
                 return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
-            if method == "GET" and "/teams/kubernetes/members?role=member" in url:
+            if method == "GET" and "/teams/kubernetes/members?role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
             if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
                 return FakeHTTPResponse(200, b"[]")
@@ -469,7 +539,7 @@ class TestReconcileTeam(unittest.TestCase):
         self.assertIn("manual resolution required", result.errors[0])
     def test_target_team_create_failure_returns_immediately(self):
         def source_handler(method, url, headers, body):
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
             return FakeHTTPResponse(200, b"[]")
 
@@ -497,7 +567,7 @@ class TestReconcileTeam(unittest.TestCase):
     def test_url_encoding_path_segments(self):
         def source_handler(method, url, headers, body):
             self.assertIn("/orgs/canonical%20org/teams/k8s%2Bteam/members", url)
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "user+name"}]).encode())
             return FakeHTTPResponse(200, b"[]")
 
@@ -574,15 +644,19 @@ class TestSummaryAndCLI(unittest.TestCase):
             summary_path = tf.name
 
         def source_handler(method, url, headers, body):
-            return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
+            if "role=all" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
+            return FakeHTTPResponse(200, b"[]")
 
         def target_handler(method, url, headers, body):
             if "/members?role=admin" in url:
                 return FakeHTTPResponse(200, b"[]")
             if url.endswith("/teams/kubernetes"):
                 return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
-            if "/members?" in url:
+            if "/members?role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
+            if "/members?role=maintainer" in url:
+                return FakeHTTPResponse(200, b"[]")
             if "/invitations?" in url:
                 return FakeHTTPResponse(200, b"[]")
             raise AssertionError(f"Unexpected target call: {method} {url}")
@@ -623,7 +697,7 @@ class TestSummaryAndCLI(unittest.TestCase):
 
     def test_partial_failure_continues_and_exits_1(self):
         def source_handler(method, url, headers, body):
-            if "role=member" in url:
+            if "role=all" in url:
                 return FakeHTTPResponse(200, json.dumps([{"login": "user1"}, {"login": "user2"}]).encode())
             return FakeHTTPResponse(200, b"[]")
 
