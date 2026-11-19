@@ -21,6 +21,11 @@ class FakeHTTPResponse:
         self.status = status
         self.data = data
         self.headers = headers or {}
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        pass
 
     def read(self) -> bytes:
         return self.data
@@ -64,6 +69,7 @@ class FakeOpener:
             "url": url,
             "headers": headers,
             "body": body,
+            "timeout": timeout,
         })
         return self.handler(method, url, headers, body)
 
@@ -126,6 +132,35 @@ class TestGitHubClient(unittest.TestCase):
         self.assertNotIn("super-secret-pat-xyz", str(err))
         self.assertNotIn("super-secret-pat-xyz", repr(err))
         self.assertIn("Must have admin rights to Repository.", str(err))
+
+    def test_timeout_error_retries_and_auth_redaction(self):
+        attempts = 0
+        sleeps = []
+
+        def fake_sleep(duration):
+            sleeps.append(duration)
+
+        def handler(method, url, headers, body):
+            nonlocal attempts
+            attempts += 1
+            raise TimeoutError("timed out with secret-token-xyz")
+
+        opener = FakeOpener(handler)
+        client = GitHubClient(token="secret-token-xyz", opener=opener, sleep_fn=fake_sleep, timeout=30.0)
+        with self.assertRaises(GitHubError) as ctx:
+            client.request_json("GET", "/test")
+
+        self.assertEqual(attempts, 4)
+        self.assertEqual(sleeps, [1.0, 2.0, 4.0])
+        self.assertEqual(ctx.exception.status, 0)
+        self.assertNotIn("secret-token-xyz", str(ctx.exception))
+        self.assertIn("[REDACTED]", str(ctx.exception))
+        self.assertEqual(opener.calls[0]["timeout"], 30.0)
+
+    def test_parse_next_link_with_commas_in_url(self):
+        from scripts.sync_teams import _parse_next_link
+        link = '<https://api.github.com/orgs/canonical/members?page=2&filter=a,b>; rel="next", <https://api.github.com/orgs/canonical/members?page=5>; rel="last"'
+        self.assertEqual(_parse_next_link(link), "https://api.github.com/orgs/canonical/members?page=2&filter=a,b")
 
 
 class TestReconcileTeam(unittest.TestCase):
@@ -345,6 +380,61 @@ class TestReconcileTeam(unittest.TestCase):
         self.assertTrue(any("103" in u for u in cancelled_invites))
         self.assertFalse(any("104" in u for u in cancelled_invites))
 
+    def test_target_team_create_failure_returns_immediately(self):
+        def source_handler(method, url, headers, body):
+            if "role=member" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
+            return FakeHTTPResponse(200, b"[]")
+
+        def target_handler(method, url, headers, body):
+            import urllib.error
+            if method == "GET" and url.endswith("/teams/kubernetes"):
+                raise urllib.error.HTTPError(url, 404, "Not Found", {}, io.BytesIO(b'{"message": "Not Found"}'))
+            if method == "POST" and url.endswith("/orgs/charmed-kubernetes/teams"):
+                raise urllib.error.HTTPError(url, 403, "Forbidden", {}, io.BytesIO(b'{"message": "Forbidden"}'))
+            raise AssertionError(f"Unexpected target call: {method} {url}")
+
+        source_client, target_client, _, target_opener = self.make_clients(source_handler, target_handler)
+        result = reconcile_team(
+            source_client, target_client,
+            "canonical", "charmed-kubernetes", "kubernetes",
+            target_org_owners=set(),
+            dry_run=False,
+        )
+        self.assertFalse(result.created_team)
+        self.assertEqual(len(result.errors), 1)
+        self.assertIn("Failed to create target team", result.errors[0])
+        self.assertEqual(len(result.actions), 0)
+        self.assertEqual(len(target_opener.calls), 2)
+
+    def test_url_encoding_path_segments(self):
+        def source_handler(method, url, headers, body):
+            self.assertIn("/orgs/canonical%20org/teams/k8s%2Bteam/members", url)
+            if "role=member" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "user+name"}]).encode())
+            return FakeHTTPResponse(200, b"[]")
+
+        def target_handler(method, url, headers, body):
+            if method == "GET" and url.endswith("/teams/k8s%2Bteam"):
+                return FakeHTTPResponse(200, json.dumps({"slug": "k8s+team"}).encode())
+            if method == "GET" and "/members?" in url:
+                return FakeHTTPResponse(200, b"[]")
+            if method == "GET" and "/invitations?" in url:
+                return FakeHTTPResponse(200, b"[]")
+            if method == "PUT" and "/memberships/user%2Bname" in url:
+                return FakeHTTPResponse(200, json.dumps({"role": "member"}).encode())
+            raise AssertionError(f"Unexpected target call: {method} {url}")
+
+        source_client, target_client, _, target_opener = self.make_clients(source_handler, target_handler)
+        result = reconcile_team(
+            source_client, target_client,
+            "canonical org", "charmed-kubernetes", "k8s+team",
+            target_org_owners=set(),
+            dry_run=False,
+        )
+        self.assertEqual(len(result.errors), 0)
+        self.assertTrue(any(a.action == "add_member" and a.username == "user+name" for a in result.actions))
+
 
 class TestSummaryAndCLI(unittest.TestCase):
     def test_render_markdown_summary(self):
@@ -400,7 +490,7 @@ class TestSummaryAndCLI(unittest.TestCase):
         source_opener = FakeOpener(source_handler)
         target_opener = FakeOpener(target_handler)
 
-        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None):
+        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None, timeout=30.0):
             if token == "src_tok":
                 self.opener = source_opener
             else:
@@ -408,6 +498,7 @@ class TestSummaryAndCLI(unittest.TestCase):
             self.token = token
             self.base_url = base_url.rstrip("/")
             self.sleep_fn = sleep_fn or (lambda x: None)
+            self.timeout = timeout
 
         env = {
             "CANONICAL_ORG_READ_TOKEN": "src_tok",
@@ -455,11 +546,12 @@ class TestSummaryAndCLI(unittest.TestCase):
         source_opener = FakeOpener(source_handler)
         target_opener = FakeOpener(target_handler)
 
-        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None):
+        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None, timeout=30.0):
             self.opener = source_opener if token == "src_tok" else target_opener
             self.token = token
             self.base_url = base_url.rstrip("/")
             self.sleep_fn = sleep_fn or (lambda x: None)
+            self.timeout = timeout
 
         env = {"CANONICAL_ORG_READ_TOKEN": "src_tok", "CK8S_ORG_SYNC_TOKEN": "tgt_tok"}
         with patch.dict(os.environ, env, clear=True):
@@ -483,11 +575,12 @@ class TestSummaryAndCLI(unittest.TestCase):
         source_opener = FakeOpener(source_handler)
         target_opener = FakeOpener(target_handler)
 
-        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None):
+        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None, timeout=30.0):
             self.opener = source_opener if token == "src_tok" else target_opener
             self.token = token
             self.base_url = base_url.rstrip("/")
             self.sleep_fn = sleep_fn or (lambda x: None)
+            self.timeout = timeout
 
         env = {"CANONICAL_ORG_READ_TOKEN": "src_tok", "CK8S_ORG_SYNC_TOKEN": "tgt_tok"}
         with patch.dict(os.environ, env, clear=True):

@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import argparse
 from dataclasses import dataclass, field
-import io
 import json
 import os
 import re
@@ -33,13 +32,15 @@ class GitHubError(Exception):
 
 
 def _parse_next_link(link_header: str | None) -> str | None:
-    """Parse RFC 5988 Link header to find rel="next" URL."""
+    """Parse RFC 5988 Link header to find rel="next" URL, handling commas inside URLs."""
     if not link_header:
         return None
-    for part in link_header.split(","):
-        match = re.search(r'<([^>]+)>;\s*rel="([^"]+)"', part.strip())
-        if match:
-            url, rel = match.groups()
+    for match in re.finditer(r'<([^>]+)>(.*?)(?:,|$)', link_header):
+        url = match.group(1)
+        params = match.group(2)
+        rel_match = re.search(r'rel=(?:"([^"]+)"|([^\s;]+))', params)
+        if rel_match:
+            rel = rel_match.group(1) or rel_match.group(2)
             if rel.lower() == "next":
                 return url
     return None
@@ -54,11 +55,13 @@ class GitHubClient:
         base_url: str = "https://api.github.com",
         opener: urllib.request.OpenerDirector | None = None,
         sleep_fn: Any = time.sleep,
+        timeout: float = 30.0,
     ) -> None:
         self.token = token
         self.base_url = base_url.rstrip("/")
         self.opener = opener or urllib.request.build_opener()
         self.sleep_fn = sleep_fn
+        self.timeout = timeout
 
     def _sanitize(self, text: str) -> str:
         if self.token and self.token in text:
@@ -93,17 +96,17 @@ class GitHubClient:
         for attempt in range(max_retries + 1):
             req = urllib.request.Request(url, data=data, headers=headers, method=method)
             try:
-                resp = self.opener.open(req)
-                status = resp.status if hasattr(resp, "status") else 200
-                resp_headers = dict(resp.info().items()) if hasattr(resp, "info") else {}
-                raw_body = resp.read()
-                parsed_data = None
-                if raw_body:
-                    try:
-                        parsed_data = json.loads(raw_body.decode("utf-8"))
-                    except Exception:
-                        parsed_data = raw_body.decode("utf-8", errors="replace")
-                return status, parsed_data, resp_headers
+                with self.opener.open(req, timeout=self.timeout) as resp:
+                    status = resp.status if hasattr(resp, "status") else 200
+                    resp_headers = dict(resp.info().items()) if hasattr(resp, "info") else {}
+                    raw_body = resp.read()
+                    parsed_data = None
+                    if raw_body:
+                        try:
+                            parsed_data = json.loads(raw_body.decode("utf-8"))
+                        except Exception:
+                            parsed_data = raw_body.decode("utf-8", errors="replace")
+                    return status, parsed_data, resp_headers
             except urllib.error.HTTPError as e:
                 status = e.code
                 if status in (502, 503, 504) and attempt < max_retries:
@@ -126,12 +129,13 @@ class GitHubClient:
                 sanitized_msg = self._sanitize(error_message or str(e.reason))
                 sanitized_url = self._sanitize(url)
                 raise GitHubError(status, method, sanitized_url, sanitized_msg) from None
-            except urllib.error.URLError as e:
+            except (urllib.error.URLError, TimeoutError) as e:
                 if attempt < max_retries:
                     backoff = 1.0 * (2 ** attempt)
                     self.sleep_fn(backoff)
                     continue
-                sanitized_msg = self._sanitize(str(e.reason))
+                err_detail = str(e.reason) if hasattr(e, "reason") else str(e)
+                sanitized_msg = self._sanitize(err_detail)
                 sanitized_url = self._sanitize(url)
                 raise GitHubError(0, method, sanitized_url, sanitized_msg) from None
 
@@ -192,10 +196,13 @@ def reconcile_team(
     allow_empty: bool = False,
 ) -> TeamSyncResult:
     """Reconcile a single team between source and target organizations."""
-    # 1. Read source memberships (member and maintainer)
-    source_members = source_client.paginate(f"/orgs/{source_org}/teams/{team_slug}/members?role=member&per_page=100")
-    source_maintainers = source_client.paginate(f"/orgs/{source_org}/teams/{team_slug}/members?role=maintainer&per_page=100")
+    src_org_q = urllib.parse.quote(source_org, safe="")
+    tgt_org_q = urllib.parse.quote(target_org, safe="")
+    team_q = urllib.parse.quote(team_slug, safe="")
 
+    # 1. Read source memberships (member and maintainer)
+    source_members = source_client.paginate(f"/orgs/{src_org_q}/teams/{team_q}/members?role=member&per_page=100")
+    source_maintainers = source_client.paginate(f"/orgs/{src_org_q}/teams/{team_q}/members?role=maintainer&per_page=100")
     desired: dict[str, tuple[str, str]] = {}
     for m in source_members:
         login = m["login"]
@@ -221,7 +228,7 @@ def reconcile_team(
 
     target_team_exists = True
     try:
-        target_client.request_json("GET", f"/orgs/{target_org}/teams/{team_slug}")
+        target_client.request_json("GET", f"/orgs/{tgt_org_q}/teams/{team_q}")
     except GitHubError as e:
         if e.status == 404:
             target_team_exists = False
@@ -229,24 +236,33 @@ def reconcile_team(
             raise
 
     if not target_team_exists:
-        created_team = True
-        if not dry_run:
+        if dry_run:
+            created_team = True
+        else:
             try:
                 target_client.request_json(
                     "POST",
-                    f"/orgs/{target_org}/teams",
+                    f"/orgs/{tgt_org_q}/teams",
                     {
                         "name": team_slug,
                         "privacy": "closed",
                         "description": f"Synced from @{source_org}/{team_slug}",
                     },
                 )
+                created_team = True
             except GitHubError as e:
                 errors.append(f"Failed to create target team {team_slug}: {e.message}")
+                return TeamSyncResult(
+                    team_slug=team_slug,
+                    created_team=False,
+                    actions=actions,
+                    errors=errors,
+                    desired_count=len(desired),
+                )
     else:
         # 3. Read target active members and pending invitations
-        active_members = target_client.paginate(f"/orgs/{target_org}/teams/{team_slug}/members?role=member&per_page=100")
-        active_maintainers = target_client.paginate(f"/orgs/{target_org}/teams/{team_slug}/members?role=maintainer&per_page=100")
+        active_members = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=member&per_page=100")
+        active_maintainers = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=maintainer&per_page=100")
         for m in active_members:
             login = m["login"]
             target_active[login.lower()] = (login, "member")
@@ -254,7 +270,7 @@ def reconcile_team(
             login = m["login"]
             target_active[login.lower()] = (login, "maintainer")
 
-        pending_invitations = target_client.paginate(f"/orgs/{target_org}/teams/{team_slug}/invitations?per_page=100")
+        pending_invitations = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/invitations?per_page=100")
         for inv in pending_invitations:
             login = inv.get("login")
             if login is not None:
@@ -264,6 +280,7 @@ def reconcile_team(
 
     # 4. Process desired members (add / update role / noop / skip pending)
     for login_lower, (display_login, desired_role) in sorted(desired.items()):
+        user_q = urllib.parse.quote(display_login, safe="")
         if login_lower in target_active:
             active_display, active_role = target_active[login_lower]
             if active_role == desired_role:
@@ -284,7 +301,7 @@ def reconcile_team(
                     try:
                         target_client.request_json(
                             "PUT",
-                            f"/orgs/{target_org}/teams/{team_slug}/memberships/{display_login}",
+                            f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{user_q}",
                             {"role": desired_role},
                         )
                         actions.append(TeamAction("update_role", display_login, role=desired_role))
@@ -296,7 +313,7 @@ def reconcile_team(
             try:
                 _, membership_data, _ = target_client.request_json(
                     "GET",
-                    f"/orgs/{target_org}/teams/{team_slug}/memberships/{display_login}",
+                    f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{user_q}",
                 )
                 if isinstance(membership_data, dict):
                     pending_role = membership_data.get("role", "member")
@@ -314,7 +331,7 @@ def reconcile_team(
                     try:
                         target_client.request_json(
                             "PUT",
-                            f"/orgs/{target_org}/teams/{team_slug}/memberships/{display_login}",
+                            f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{user_q}",
                             {"role": desired_role},
                         )
                         actions.append(TeamAction("update_pending_role", display_login, role=desired_role))
@@ -328,7 +345,7 @@ def reconcile_team(
                 try:
                     target_client.request_json(
                         "PUT",
-                        f"/orgs/{target_org}/teams/{team_slug}/memberships/{display_login}",
+                        f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{user_q}",
                         {"role": desired_role},
                     )
                     actions.append(TeamAction("add_member", display_login, role=desired_role))
@@ -338,13 +355,14 @@ def reconcile_team(
     # 5. Process undesired active members (remove member)
     for login_lower, (active_display, active_role) in sorted(target_active.items()):
         if login_lower not in desired:
+            active_q = urllib.parse.quote(active_display, safe="")
             if dry_run:
                 actions.append(TeamAction("remove_member", active_display, role=active_role))
             else:
                 try:
                     target_client.request_json(
                         "DELETE",
-                        f"/orgs/{target_org}/teams/{team_slug}/memberships/{active_display}",
+                        f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{active_q}",
                     )
                     actions.append(TeamAction("remove_member", active_display, role=active_role))
                 except GitHubError as e:
@@ -354,13 +372,14 @@ def reconcile_team(
     for login_lower, inv in sorted(target_pending.items()):
         if login_lower not in desired:
             pending_display = inv.get("login") or login_lower
+            pending_q = urllib.parse.quote(pending_display, safe="")
             if dry_run:
                 actions.append(TeamAction("remove_pending", pending_display))
             else:
                 try:
                     target_client.request_json(
                         "DELETE",
-                        f"/orgs/{target_org}/teams/{team_slug}/memberships/{pending_display}",
+                        f"/orgs/{tgt_org_q}/teams/{team_q}/memberships/{pending_q}",
                     )
                     actions.append(TeamAction("remove_pending", pending_display))
                 except GitHubError as e:
@@ -369,10 +388,11 @@ def reconcile_team(
                 team_count = inv.get("team_count", 0)
                 inv_id = inv.get("id")
                 if team_count <= 1 and inv_id is not None:
+                    inv_id_q = urllib.parse.quote(str(inv_id), safe="")
                     try:
                         target_client.request_json(
                             "DELETE",
-                            f"/orgs/{target_org}/invitations/{inv_id}",
+                            f"/orgs/{tgt_org_q}/invitations/{inv_id_q}",
                         )
                     except GitHubError as e:
                         errors.append(f"Failed to cancel org invitation {inv_id} for {pending_display}: {e.message}")
@@ -500,7 +520,8 @@ def main(argv: list[str] | None = None) -> int:
     # Read target organization admins (owners) once
     target_org_owners: set[str] = set()
     try:
-        owners_data = target_client.paginate(f"/orgs/{args.target_org}/members?role=admin&per_page=100")
+        tgt_org_q = urllib.parse.quote(args.target_org, safe="")
+        owners_data = target_client.paginate(f"/orgs/{tgt_org_q}/members?role=admin&per_page=100")
         target_org_owners = {m["login"].lower() for m in owners_data if "login" in m}
     except Exception as e:
         sys.stderr.write(f"Warning: Failed to fetch target org owners: {e}\n")
