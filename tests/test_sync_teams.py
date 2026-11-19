@@ -591,5 +591,30 @@ class TestSummaryAndCLI(unittest.TestCase):
                     stdout_val = fake_out.getvalue()
                     self.assertIn("Circuit breaker tripped", stdout_val)
 
+    def test_unexpected_exceptions_in_main_are_sanitized(self):
+        def mock_client_init(self, token, base_url="https://api.github.com", opener=None, sleep_fn=None, timeout=30.0):
+            self.token = token
+            self.base_url = base_url.rstrip("/")
+            self.opener = FakeOpener(lambda method, url, headers, body: FakeHTTPResponse(200, b"[]"))
+            self.sleep_fn = sleep_fn or (lambda x: None)
+            self.timeout = timeout
+
+        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok_12345", "CK8S_ORG_SYNC_TOKEN": "tgt_tok_67890"}
+        with patch.dict(os.environ, env, clear=True):
+            with patch.object(GitHubClient, "__init__", mock_client_init):
+                with patch("sys.stdout", new_callable=io.StringIO) as fake_out, \
+                     patch("sys.stderr", new_callable=io.StringIO) as fake_err:
+                    with patch("scripts.sync_teams.reconcile_team", side_effect=RuntimeError("Failure with src_tok_12345 and tgt_tok_67890")):
+                        with patch.object(GitHubClient, "paginate", side_effect=RuntimeError("Owner lookup failed with src_tok_12345 and tgt_tok_67890")):
+                            code = main(["--teams", "kubernetes"])
+                            self.assertEqual(code, 1)
+                            stdout_val = fake_out.getvalue()
+                            stderr_val = fake_err.getvalue()
+                            self.assertNotIn("src_tok_12345", stdout_val)
+                            self.assertNotIn("tgt_tok_67890", stdout_val)
+                            self.assertNotIn("src_tok_12345", stderr_val)
+                            self.assertNotIn("tgt_tok_67890", stderr_val)
+                            self.assertIn("[REDACTED]", stdout_val)
+                            self.assertIn("[REDACTED]", stderr_val)
 if __name__ == "__main__":
     unittest.main()

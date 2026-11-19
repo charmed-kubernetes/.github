@@ -517,6 +517,9 @@ def main(argv: list[str] | None = None) -> int:
     source_client = GitHubClient(token=source_token)
     target_client = GitHubClient(token=target_token)
 
+    def sanitize_err(err: Exception | str) -> str:
+        return target_client._sanitize(source_client._sanitize(str(err)))
+
     # Read target organization admins (owners) once
     target_org_owners: set[str] = set()
     try:
@@ -524,8 +527,7 @@ def main(argv: list[str] | None = None) -> int:
         owners_data = target_client.paginate(f"/orgs/{tgt_org_q}/members?role=admin&per_page=100")
         target_org_owners = {m["login"].lower() for m in owners_data if "login" in m}
     except Exception as e:
-        sys.stderr.write(f"Warning: Failed to fetch target org owners: {e}\n")
-
+        sys.stderr.write(f"Warning: Failed to fetch target org owners: {sanitize_err(e)}\n")
     results: list[TeamSyncResult] = []
     has_errors = False
 
@@ -551,11 +553,10 @@ def main(argv: list[str] | None = None) -> int:
                     team_slug=team_slug,
                     created_team=False,
                     actions=[],
-                    errors=[str(e)],
+                    errors=[sanitize_err(e)],
                     desired_count=0,
                 )
             )
-
     summary = render_markdown_summary(results, dry_run=args.dry_run)
     print(summary)
 
@@ -565,8 +566,7 @@ def main(argv: list[str] | None = None) -> int:
             with open(step_summary_path, "a", encoding="utf-8") as f:
                 f.write(summary + "\n")
         except Exception as e:
-            sys.stderr.write(f"Warning: Failed to write to GITHUB_STEP_SUMMARY: {e}\n")
-
+            sys.stderr.write(f"Warning: Failed to write to GITHUB_STEP_SUMMARY: {sanitize_err(e)}\n")
     return 1 if has_errors else 0
 
 
