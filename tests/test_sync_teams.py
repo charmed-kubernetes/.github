@@ -94,6 +94,43 @@ class TestGitHubClient(unittest.TestCase):
         self.assertEqual(len(items), 2)
         self.assertEqual([i["login"] for i in items], ["alice", "bob"])
 
+    def test_cross_origin_or_insecure_next_link_rejected_before_opener(self):
+        page1_data = json.dumps([{"login": "alice"}]).encode("utf-8")
+
+        # Test cross-origin next link
+        calls = []
+        def handler_cross_origin(method, url, headers, body):
+            calls.append(url)
+            link = '<https://evil.attacker.com/steal?page=2>; rel="next"'
+            return FakeHTTPResponse(200, page1_data, {"Link": link})
+
+        opener = FakeOpener(handler_cross_origin)
+        client = GitHubClient(token="fake-secret-token", opener=opener)
+        with self.assertRaises(GitHubError) as ctx:
+            client.paginate("/orgs/canonical/members?per_page=1")
+        self.assertIn("Refusing cross-origin or insecure URL", str(ctx.exception))
+        # Ensure opener was only called once for the first page, and never called for evil.attacker.com
+        self.assertEqual(len(calls), 1)
+        self.assertNotIn("evil.attacker.com", calls[0])
+
+        # Test insecure http:// next link
+        calls_http = []
+        def handler_insecure_http(method, url, headers, body):
+            calls_http.append(url)
+            link = '<http://api.github.com/orgs/canonical/members?page=2>; rel="next"'
+            return FakeHTTPResponse(200, page1_data, {"Link": link})
+
+        opener_http = FakeOpener(handler_insecure_http)
+        client_http = GitHubClient(token="fake-secret-token", opener=opener_http)
+        with self.assertRaises(GitHubError) as ctx_http:
+            client_http.paginate("/orgs/canonical/members?per_page=1")
+        self.assertIn("Refusing cross-origin or insecure URL", str(ctx_http.exception))
+        self.assertEqual(len(calls_http), 1)
+
+        # Test direct call to cross-origin URL
+        with self.assertRaises(GitHubError) as ctx_direct:
+            client.request_json("GET", "https://evil.attacker.com/leak")
+        self.assertIn("Refusing cross-origin or insecure URL", str(ctx_direct.exception))
     def test_transient_retry_and_auth_redaction(self):
         attempts = 0
         sleeps = []

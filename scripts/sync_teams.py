@@ -78,9 +78,12 @@ class GitHubClient:
         method = method.upper()
         if path.startswith("http://") or path.startswith("https://"):
             url = path
+            parsed = urllib.parse.urlparse(url)
+            base_parsed = urllib.parse.urlparse(self.base_url)
+            if (parsed.scheme, parsed.netloc) != (base_parsed.scheme, base_parsed.netloc):
+                raise GitHubError(0, method, self._sanitize(url), "Refusing cross-origin or insecure URL")
         else:
             url = f"{self.base_url}/{path.lstrip('/')}"
-
         headers = {
             "Accept": "application/vnd.github+json",
             "X-GitHub-Api-Version": "2022-11-28",

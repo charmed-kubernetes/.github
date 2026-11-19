@@ -36,6 +36,9 @@ class TestWorkflowContract(unittest.TestCase):
         self.assertIn("concurrency:", self.content)
         self.assertIn("group: sync-canonical-teams", self.content)
         self.assertIn("cancel-in-progress: false", self.content)
+        sync_section = self.content.split("sync:")[1]
+        self.assertIn("concurrency:", sync_section)
+        self.assertIn("group: sync-canonical-teams", sync_section)
 
     def test_triggers(self) -> None:
         self.test_workflow_file_exists()
@@ -61,7 +64,10 @@ class TestWorkflowContract(unittest.TestCase):
 
         # pull_request paths filter
         self.assertIn("pull_request:", self.content)
-        self.assertIn("scripts/sync_teams.py", self.content)
+        self.assertTrue(
+            "scripts/**" in self.content or "scripts/sync_teams.py" in self.content,
+            "pull_request must filter on scripts changes",
+        )
         self.assertIn("tests/**", self.content)
         self.assertIn(".github/workflows/sync-teams.yml", self.content)
 
@@ -112,14 +118,36 @@ class TestWorkflowContract(unittest.TestCase):
         self.assertIn("INPUT_DRY_RUN: ${{ inputs.dry_run }}", self.content)
         self.assertIn("INPUT_ALLOW_EMPTY: ${{ inputs.allow_empty }}", self.content)
 
-        # No direct ${{ inputs.* }} inside shell run blocks
-        for part in self.content.split("run:")[1:]:
-            script_chunk = part.split("\n\n")[0]
-            self.assertNotIn(
-                "${{ inputs.",
-                script_chunk,
-                "Workflow run block must not directly interpolate ${{ inputs.* }} into shell scripts",
-            )
+        # Scan entire run blocks (including across blank lines) for any direct ${{ inputs.* }} interpolation
+        in_run_block = False
+        run_indent = 0
+        run_block_lines = []
+        for line in self.content.splitlines():
+            if not in_run_block:
+                m = re.match(r"^(\s*)run:\s*\|-?", line)
+                if m:
+                    in_run_block = True
+                    run_indent = len(m.group(1))
+            else:
+                if not line.strip():
+                    run_block_lines.append(line)
+                    continue
+                current_indent = len(line) - len(line.lstrip())
+                if current_indent > run_indent:
+                    run_block_lines.append(line)
+                else:
+                    in_run_block = False
+                    m = re.match(r"^(\s*)run:\s*\|-?", line)
+                    if m:
+                        in_run_block = True
+                        run_indent = len(m.group(1))
+
+        run_script_content = "\n".join(run_block_lines)
+        self.assertNotIn(
+            "${{ inputs.",
+            run_script_content,
+            "Workflow run block must not directly interpolate ${{ inputs.* }} into shell scripts",
+        )
 
         # CLI invocation parameters
         self.assertIn("--source-org canonical", self.content)
@@ -127,6 +155,7 @@ class TestWorkflowContract(unittest.TestCase):
         self.assertIn("--teams kubernetes kubernetes-admins", self.content)
         self.assertIn("--dry-run", self.content)
         self.assertIn("--allow-empty", self.content)
+        self.assertIn('python3 scripts/sync_teams.py "${ARGS[@]}"', self.content)
 
 
 if __name__ == "__main__":
