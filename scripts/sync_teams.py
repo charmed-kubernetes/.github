@@ -509,11 +509,11 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv if argv is not None else sys.argv[1:])
 
     source_token = os.environ.get("CANONICAL_ORG_READ_TOKEN")
-    target_token = os.environ.get("CK8S_ORG_SYNC_TOKEN")
+    target_token = os.environ.get("CHARMED_K8S_SYNC_TOKEN")
 
     if not source_token or not target_token:
         sys.stderr.write(
-            "Error: Both CANONICAL_ORG_READ_TOKEN and CK8S_ORG_SYNC_TOKEN environment variables must be set.\n"
+            "Error: Both CANONICAL_ORG_READ_TOKEN and CHARMED_K8S_SYNC_TOKEN environment variables must be set.\n"
         )
         return 2
 

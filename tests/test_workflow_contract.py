@@ -112,7 +112,8 @@ class TestWorkflowContract(unittest.TestCase):
         self.test_workflow_file_exists()
         # Secret check
         self.assertIn("CANONICAL_ORG_READ_TOKEN", self.content)
-        self.assertIn("CK8S_ORG_SYNC_TOKEN", self.content)
+        self.assertIn("CHARMED_K8S_SYNC_TOKEN", self.content)
+        self.assertNotIn("CK8S_ORG_SYNC_TOKEN", self.content)
 
         # Environment variable bindings for workflow inputs
         self.assertIn("INPUT_DRY_RUN: ${{ inputs.dry_run }}", self.content)

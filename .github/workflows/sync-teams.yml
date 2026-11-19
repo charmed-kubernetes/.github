@@ -57,16 +57,16 @@ jobs:
       - name: Reconcile Canonical teams to Charmed Kubernetes
         env:
           CANONICAL_ORG_READ_TOKEN: ${{ secrets.CANONICAL_ORG_READ_TOKEN }}
-          CK8S_ORG_SYNC_TOKEN: ${{ secrets.CK8S_ORG_SYNC_TOKEN }}
+          CHARMED_K8S_SYNC_TOKEN: ${{ secrets.CHARMED_K8S_SYNC_TOKEN }}
           INPUT_DRY_RUN: ${{ inputs.dry_run }}
           INPUT_ALLOW_EMPTY: ${{ inputs.allow_empty }}
         run: |-
-          if [ -z "$CANONICAL_ORG_READ_TOKEN" ] || [ -z "$CK8S_ORG_SYNC_TOKEN" ]; then
+          if [ -z "$CANONICAL_ORG_READ_TOKEN" ] || [ -z "$CHARMED_K8S_SYNC_TOKEN" ]; then
             echo "::error::Missing required secret(s) for team reconciliation."
-            echo "Ensure both CANONICAL_ORG_READ_TOKEN and CK8S_ORG_SYNC_TOKEN are configured in repository secrets." >&2
+            echo "Ensure both CANONICAL_ORG_READ_TOKEN and CHARMED_K8S_SYNC_TOKEN are configured in repository secrets." >&2
             echo "Required setup:" >&2
             echo "  - CANONICAL_ORG_READ_TOKEN: fine-grained PAT with read access to canonical org members and teams" >&2
-            echo "  - CK8S_ORG_SYNC_TOKEN: fine-grained PAT with admin/write access to charmed-kubernetes org teams" >&2
+            echo "  - CHARMED_K8S_SYNC_TOKEN: fine-grained PAT with admin/write access to charmed-kubernetes org teams" >&2
             exit 1
           fi
 

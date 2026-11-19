@@ -505,6 +505,7 @@ class TestSummaryAndCLI(unittest.TestCase):
                 code = main(["--dry-run"])
                 self.assertEqual(code, 2)
                 self.assertIn("CANONICAL_ORG_READ_TOKEN", fake_err.getvalue())
+                self.assertIn("CHARMED_K8S_SYNC_TOKEN", fake_err.getvalue())
 
     def test_main_cli_step_summary_output(self):
         with tempfile.NamedTemporaryFile("w+", delete=False) as tf:
@@ -539,7 +540,7 @@ class TestSummaryAndCLI(unittest.TestCase):
 
         env = {
             "CANONICAL_ORG_READ_TOKEN": "src_tok",
-            "CK8S_ORG_SYNC_TOKEN": "tgt_tok",
+            "CHARMED_K8S_SYNC_TOKEN": "tgt_tok",
             "GITHUB_STEP_SUMMARY": summary_path,
         }
 
@@ -590,7 +591,7 @@ class TestSummaryAndCLI(unittest.TestCase):
             self.sleep_fn = sleep_fn or (lambda x: None)
             self.timeout = timeout
 
-        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok", "CK8S_ORG_SYNC_TOKEN": "tgt_tok"}
+        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok", "CHARMED_K8S_SYNC_TOKEN": "tgt_tok"}
         with patch.dict(os.environ, env, clear=True):
             with patch.object(GitHubClient, "__init__", mock_client_init):
                 with patch("sys.stdout", new_callable=io.StringIO) as fake_out:
@@ -619,7 +620,7 @@ class TestSummaryAndCLI(unittest.TestCase):
             self.sleep_fn = sleep_fn or (lambda x: None)
             self.timeout = timeout
 
-        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok", "CK8S_ORG_SYNC_TOKEN": "tgt_tok"}
+        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok", "CHARMED_K8S_SYNC_TOKEN": "tgt_tok"}
         with patch.dict(os.environ, env, clear=True):
             with patch.object(GitHubClient, "__init__", mock_client_init):
                 with patch("sys.stdout", new_callable=io.StringIO) as fake_out:
@@ -636,7 +637,7 @@ class TestSummaryAndCLI(unittest.TestCase):
             self.sleep_fn = sleep_fn or (lambda x: None)
             self.timeout = timeout
 
-        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok_12345", "CK8S_ORG_SYNC_TOKEN": "tgt_tok_67890"}
+        env = {"CANONICAL_ORG_READ_TOKEN": "src_tok_12345", "CHARMED_K8S_SYNC_TOKEN": "tgt_tok_67890"}
         with patch.dict(os.environ, env, clear=True):
             with patch.object(GitHubClient, "__init__", mock_client_init):
                 with patch("sys.stdout", new_callable=io.StringIO) as fake_out, \
