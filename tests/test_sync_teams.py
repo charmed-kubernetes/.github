@@ -131,6 +131,28 @@ class TestGitHubClient(unittest.TestCase):
         with self.assertRaises(GitHubError) as ctx_direct:
             client.request_json("GET", "https://evil.attacker.com/leak")
         self.assertIn("Refusing cross-origin or insecure URL", str(ctx_direct.exception))
+    def test_redirect_handler_rejects_cross_origin_and_insecure_redirects(self):
+        import urllib.request
+        from scripts.sync_teams import _SameOriginRedirectHandler
+
+        handler = _SameOriginRedirectHandler("https://api.github.com")
+        req = urllib.request.Request("https://api.github.com/orgs/canonical/teams", headers={"Authorization": "Bearer secret-tok"})
+
+        # Cross-origin HTTPS redirect must be rejected
+        with self.assertRaises(Exception) as ctx_cross:
+            handler.redirect_request(req, None, 302, "Found", {}, "https://evil.example.com/capture")
+        self.assertIn("Refusing cross-origin or insecure redirect", str(ctx_cross.exception))
+
+        # Same-host HTTP downgrade redirect must be rejected
+        with self.assertRaises(Exception) as ctx_http:
+            handler.redirect_request(req, None, 302, "Found", {}, "http://api.github.com/orgs/canonical/teams")
+        self.assertIn("Refusing cross-origin or insecure redirect", str(ctx_http.exception))
+
+        # Same-origin HTTPS redirect is permitted
+        redirected = handler.redirect_request(req, None, 307, "Temporary Redirect", {}, "/organizations/123/teams")
+        self.assertIsNotNone(redirected)
+        self.assertEqual(redirected.full_url, "https://api.github.com/organizations/123/teams")
+
     def test_transient_retry_and_auth_redaction(self):
         attempts = 0
         sleeps = []
@@ -226,12 +248,17 @@ class TestReconcileTeam(unittest.TestCase):
                 raise urllib.error.HTTPError(url, 404, "Not Found", {}, io.BytesIO(b'{"message": "Not Found"}'))
             if method == "POST" and url.endswith("/orgs/charmed-kubernetes/teams"):
                 return FakeHTTPResponse(201, json.dumps({"slug": "kubernetes", "name": "kubernetes"}).encode())
-            if method == "GET" and "/members?" in url:
+            if method == "GET" and "/teams/kubernetes/members?role=member" in url:
                 return FakeHTTPResponse(200, b"[]")
+            if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
+                # GitHub automatically adds the team creator (cdkbot) as an active maintainer upon creation
+                return FakeHTTPResponse(200, json.dumps([{"login": "cdkbot"}]).encode())
             if method == "GET" and "/invitations?" in url:
                 return FakeHTTPResponse(200, b"[]")
             if method == "PUT" and "/memberships/alice" in url:
                 return FakeHTTPResponse(200, json.dumps({"state": "active", "role": "member"}).encode())
+            if method == "DELETE" and "/memberships/cdkbot" in url:
+                return FakeHTTPResponse(204, b"")
             raise AssertionError(f"Unexpected target call: {method} {url}")
 
         source_client, target_client, _, target_opener = self.make_clients(source_handler, target_handler)
@@ -245,7 +272,7 @@ class TestReconcileTeam(unittest.TestCase):
         self.assertEqual(len(result.errors), 0)
         self.assertTrue(any(c["method"] == "POST" and c["url"].endswith("/orgs/charmed-kubernetes/teams") for c in target_opener.calls))
         self.assertTrue(any(a.action == "add_member" and a.username == "alice" for a in result.actions))
-
+        self.assertTrue(any(a.action == "remove_member" and a.username == "cdkbot" for a in result.actions))
     def test_target_team_not_found_dry_run_skips_mutations(self):
         def source_handler(method, url, headers, body):
             if "role=member" in url:
@@ -366,7 +393,6 @@ class TestReconcileTeam(unittest.TestCase):
                     {"login": "Frank", "id": 102, "team_count": 1},
                     {"login": "Peggy", "id": 103, "team_count": 1},
                     {"login": "Sybil", "id": 104, "team_count": 2},
-                    {"login": None, "id": 105, "team_count": 1},  # must skip None login
                 ]).encode())
             if method == "GET" and "/memberships/Eve" in url:
                 return FakeHTTPResponse(200, json.dumps({"state": "pending", "role": "member"}).encode())
@@ -383,8 +409,6 @@ class TestReconcileTeam(unittest.TestCase):
             if method == "DELETE" and "/memberships/Mallory" in url:
                 return FakeHTTPResponse(204, b"")
             if method == "DELETE" and "/memberships/Peggy" in url:
-                return FakeHTTPResponse(204, b"")
-            if method == "DELETE" and url.endswith("/orgs/charmed-kubernetes/invitations/103"):
                 return FakeHTTPResponse(204, b"")
             if method == "DELETE" and "/memberships/Sybil" in url:
                 return FakeHTTPResponse(204, b"")
@@ -412,11 +436,37 @@ class TestReconcileTeam(unittest.TestCase):
         self.assertEqual([a.username for a in actions_by_type.get("remove_member", [])], ["Mallory"])
         self.assertEqual([a.username for a in actions_by_type.get("remove_pending", [])], ["Peggy", "Sybil"])
 
-        # Check that invitation 103 was deleted but 104 was not
-        cancelled_invites = [c["url"] for c in target_opener.calls if "invitations/" in c["url"] and c["method"] == "DELETE"]
-        self.assertTrue(any("103" in u for u in cancelled_invites))
-        self.assertFalse(any("104" in u for u in cancelled_invites))
+        # Organization-level invitations must never be cancelled by team reconciliation
+        cancelled_invites = [c["url"] for c in target_opener.calls if "/orgs/charmed-kubernetes/invitations/" in c["url"] and c["method"] == "DELETE"]
+        self.assertEqual(cancelled_invites, [])
 
+    def test_null_login_invitation_records_error(self):
+        def source_handler(method, url, headers, body):
+            if "role=member" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
+            return FakeHTTPResponse(200, b"[]")
+
+        def target_handler(method, url, headers, body):
+            if method == "GET" and url.endswith("/teams/kubernetes"):
+                return FakeHTTPResponse(200, json.dumps({"slug": "kubernetes"}).encode())
+            if method == "GET" and "/teams/kubernetes/members?role=member" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": "alice"}]).encode())
+            if method == "GET" and "/teams/kubernetes/members?role=maintainer" in url:
+                return FakeHTTPResponse(200, b"[]")
+            if method == "GET" and "/teams/kubernetes/invitations" in url:
+                return FakeHTTPResponse(200, json.dumps([{"login": None, "id": 999, "team_count": 1}]).encode())
+            raise AssertionError(f"Unexpected target call: {method} {url}")
+
+        source_client, target_client, _, _ = self.make_clients(source_handler, target_handler)
+        result = reconcile_team(
+            source_client, target_client,
+            "canonical", "charmed-kubernetes", "kubernetes",
+            target_org_owners=set(),
+            dry_run=False,
+        )
+        self.assertEqual(len(result.errors), 1)
+        self.assertIn("999", result.errors[0])
+        self.assertIn("manual resolution required", result.errors[0])
     def test_target_team_create_failure_returns_immediately(self):
         def source_handler(method, url, headers, body):
             if "role=member" in url:
@@ -499,6 +549,18 @@ class TestSummaryAndCLI(unittest.TestCase):
         summary_live = render_markdown_summary([res], dry_run=False)
         self.assertNotIn("DRY RUN", summary_live)
         self.assertIn("Created team", summary_live)
+
+        # Error result with zero meaningful actions must NOT claim team is in sync
+        err_res = TeamSyncResult(
+            team_slug="kubernetes",
+            created_team=False,
+            actions=[],
+            errors=["Circuit breaker tripped"],
+            desired_count=0,
+        )
+        summary_err = render_markdown_summary([err_res], dry_run=False)
+        self.assertNotIn("No changes required. Team is in sync.", summary_err)
+        self.assertIn("Reconciliation failed or incomplete due to errors", summary_err)
     def test_missing_env_token_exits_2(self):
         with patch.dict(os.environ, {}, clear=True):
             with patch("sys.stderr", new_callable=io.StringIO) as fake_err:

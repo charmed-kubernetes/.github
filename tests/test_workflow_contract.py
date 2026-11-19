@@ -34,12 +34,11 @@ class TestWorkflowContract(unittest.TestCase):
     def test_concurrency_settings(self) -> None:
         self.test_workflow_file_exists()
         self.assertIn("concurrency:", self.content)
-        self.assertIn("group: sync-canonical-teams", self.content)
-        self.assertIn("cancel-in-progress: false", self.content)
+        self.assertIn("group: sync-canonical-teams-", self.content)
+        self.assertIn("cancel-in-progress:", self.content)
         sync_section = self.content.split("sync:")[1]
         self.assertIn("concurrency:", sync_section)
-        self.assertIn("group: sync-canonical-teams", sync_section)
-
+        self.assertIn("group: sync-canonical-teams-", sync_section)
     def test_triggers(self) -> None:
         self.test_workflow_file_exists()
         # schedule cron check
@@ -88,18 +87,16 @@ class TestWorkflowContract(unittest.TestCase):
         self.assertIn("test:", self.content, "Workflow must define a 'test' job")
         self.assertIn("sync:", self.content, "Workflow must define a 'sync' job")
 
-        # sync job must depend on test and not run on pull_request
+        # sync job must depend on test and guard fork pull_requests while allowing same-repo PR dry-runs
         self.assertRegex(
             self.content,
             r"needs:\s*(?:\[\s*test\s*\]|\btest\b)",
             "sync job must declare 'needs: test' or 'needs: [test]'",
         )
-        self.assertRegex(
+        self.assertIn(
+            "if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository",
             self.content,
-            r"if:\s*github\.event_name\s*!=\s*['\"]pull_request['\"]",
-            "sync job must be gated with 'if: github.event_name != \\'pull_request\\''",
         )
-
     def test_python_version_configuration(self) -> None:
         self.test_workflow_file_exists()
         self.assertRegex(
@@ -115,10 +112,11 @@ class TestWorkflowContract(unittest.TestCase):
         self.assertIn("CHARMED_K8S_SYNC_TOKEN", self.content)
         self.assertNotIn("CK8S_ORG_SYNC_TOKEN", self.content)
 
-        # Environment variable bindings for workflow inputs
+        # Environment variable bindings for workflow inputs and event name
+        self.assertIn("EVENT_NAME: ${{ github.event_name }}", self.content)
         self.assertIn("INPUT_DRY_RUN: ${{ inputs.dry_run }}", self.content)
         self.assertIn("INPUT_ALLOW_EMPTY: ${{ inputs.allow_empty }}", self.content)
-
+        self.assertIn('if [ "$EVENT_NAME" = "pull_request" ] || [ "$INPUT_DRY_RUN" = "true" ]; then', self.content)
         # Scan entire run blocks (including across blank lines) for any direct ${{ inputs.* }} interpolation
         in_run_block = False
         run_indent = 0

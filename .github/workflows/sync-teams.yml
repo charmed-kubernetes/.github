@@ -40,10 +40,10 @@ jobs:
 
   sync:
     needs: [test]
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
     concurrency:
-      group: sync-canonical-teams
-      cancel-in-progress: false
+      group: sync-canonical-teams-${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || 'live' }}
+      cancel-in-progress: ${{ github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -58,6 +58,7 @@ jobs:
         env:
           CANONICAL_ORG_READ_TOKEN: ${{ secrets.CANONICAL_ORG_READ_TOKEN }}
           CHARMED_K8S_SYNC_TOKEN: ${{ secrets.CHARMED_K8S_SYNC_TOKEN }}
+          EVENT_NAME: ${{ github.event_name }}
           INPUT_DRY_RUN: ${{ inputs.dry_run }}
           INPUT_ALLOW_EMPTY: ${{ inputs.allow_empty }}
         run: |-
@@ -71,7 +72,7 @@ jobs:
           fi
 
           ARGS=(--source-org canonical --target-org charmed-kubernetes --teams kubernetes kubernetes-admins)
-          if [ "$INPUT_DRY_RUN" = "true" ]; then
+          if [ "$EVENT_NAME" = "pull_request" ] || [ "$INPUT_DRY_RUN" = "true" ]; then
             ARGS+=(--dry-run)
           fi
           if [ "$INPUT_ALLOW_EMPTY" = "true" ]; then

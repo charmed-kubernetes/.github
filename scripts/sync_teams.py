@@ -46,6 +46,27 @@ def _parse_next_link(link_header: str | None) -> str | None:
     return None
 
 
+class _SecurityRedirectError(urllib.error.URLError):
+    """Raised when an HTTP redirect crosses origins or downgrades scheme."""
+
+
+class _SameOriginRedirectHandler(urllib.request.HTTPRedirectHandler):
+    """Redirect handler that rejects cross-origin or insecure HTTP redirects."""
+
+    def __init__(self, base_url: str) -> None:
+        super().__init__()
+        parsed = urllib.parse.urlparse(base_url)
+        self._allowed_origin = (parsed.scheme, parsed.netloc)
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):  # type: ignore[override]
+        resolved = urllib.parse.urljoin(req.full_url, newurl)
+        parsed = urllib.parse.urlparse(resolved)
+        if (parsed.scheme, parsed.netloc) != self._allowed_origin:
+            raise _SecurityRedirectError(
+                f"Refusing cross-origin or insecure redirect to {parsed.scheme}://{parsed.netloc}"
+            )
+        return super().redirect_request(req, fp, code, msg, headers, resolved)
+
 class GitHubClient:
     """Minimal GitHub REST API client using standard library urllib."""
 
@@ -59,7 +80,7 @@ class GitHubClient:
     ) -> None:
         self.token = token
         self.base_url = base_url.rstrip("/")
-        self.opener = opener or urllib.request.build_opener()
+        self.opener = opener or urllib.request.build_opener(_SameOriginRedirectHandler(self.base_url))
         self.sleep_fn = sleep_fn
         self.timeout = timeout
 
@@ -132,6 +153,9 @@ class GitHubClient:
                 sanitized_msg = self._sanitize(error_message or str(e.reason))
                 sanitized_url = self._sanitize(url)
                 raise GitHubError(status, method, sanitized_url, sanitized_msg) from None
+            except _SecurityRedirectError as e:
+                err_detail = str(e.reason) if hasattr(e, "reason") else str(e)
+                raise GitHubError(0, method, self._sanitize(url), self._sanitize(err_detail)) from None
             except (urllib.error.URLError, TimeoutError) as e:
                 if attempt < max_retries:
                     backoff = 1.0 * (2 ** attempt)
@@ -262,8 +286,10 @@ def reconcile_team(
                     errors=errors,
                     desired_count=len(desired),
                 )
-    else:
-        # 3. Read target active members and pending invitations
+
+    if target_team_exists or created_team and not dry_run:
+        # 3. Read target active members and pending invitations (including after live team creation,
+        # since GitHub automatically adds the team creator as an active maintainer)
         active_members = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=member&per_page=100")
         active_maintainers = target_client.paginate(f"/orgs/{tgt_org_q}/teams/{team_q}/members?role=maintainer&per_page=100")
         for m in active_members:
@@ -278,7 +304,11 @@ def reconcile_team(
             login = inv.get("login")
             if login is not None:
                 target_pending[login.lower()] = inv
-
+            else:
+                inv_id = inv.get("id", "unknown")
+                errors.append(
+                    f"Pending invitation {inv_id} on team {team_slug} has no GitHub login (email invitation); manual resolution required"
+                )
     owners_lower = {o.lower() for o in target_org_owners}
 
     # 4. Process desired members (add / update role / noop / skip pending)
@@ -371,7 +401,8 @@ def reconcile_team(
                 except GitHubError as e:
                     errors.append(f"Failed to remove member {active_display}: {e.message}")
 
-    # 6. Process undesired pending invitations (remove pending + cancel org invite if team_count <= 1)
+    # 6. Process undesired pending invitations (remove pending team association only;
+    # never cancel organization-level invitations since org membership/roles are managed independently)
     for login_lower, inv in sorted(target_pending.items()):
         if login_lower not in desired:
             pending_display = inv.get("login") or login_lower
@@ -387,19 +418,6 @@ def reconcile_team(
                     actions.append(TeamAction("remove_pending", pending_display))
                 except GitHubError as e:
                     errors.append(f"Failed to remove pending membership {pending_display}: {e.message}")
-
-                team_count = inv.get("team_count", 0)
-                inv_id = inv.get("id")
-                if team_count <= 1 and inv_id is not None:
-                    inv_id_q = urllib.parse.quote(str(inv_id), safe="")
-                    try:
-                        target_client.request_json(
-                            "DELETE",
-                            f"/orgs/{tgt_org_q}/invitations/{inv_id_q}",
-                        )
-                    except GitHubError as e:
-                        errors.append(f"Failed to cancel org invitation {inv_id} for {pending_display}: {e.message}")
-
     return TeamSyncResult(
         team_slug=team_slug,
         created_team=created_team,
@@ -454,10 +472,12 @@ def render_markdown_summary(results: list[TeamSyncResult], *, dry_run: bool) -> 
                 detail_str = a.detail or "-"
                 lines.append(f"| `{a.username}` | `{a.action}` | {role_str} | {detail_str} |")
             lines.append("")
+        elif res.errors:
+            lines.append("Reconciliation failed or incomplete due to errors; sync status could not be confirmed.")
+            lines.append("")
         else:
             lines.append("No changes required. Team is in sync.")
             lines.append("")
-
         if res.errors:
             lines.append("### Errors")
             for err in res.errors:
