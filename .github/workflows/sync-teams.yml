@@ -1,0 +1,82 @@
+name: Sync Canonical Teams
+
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Run reconciliation without mutating target teams'
+        required: false
+        type: boolean
+        default: false
+      allow_empty:
+        description: 'Allow empty source teams without tripping circuit breaker'
+        required: false
+        type: boolean
+        default: false
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/sync-teams.yml'
+
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+
+      - name: Run unit and contract tests
+        run: python3 -m unittest discover -s tests -v
+
+  sync:
+    needs: [test]
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    concurrency:
+      group: sync-canonical-teams-${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || 'live' }}
+      cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+
+      - name: Reconcile Canonical teams to Charmed Kubernetes
+        env:
+          CANONICAL_ORG_READ_TOKEN: ${{ secrets.CANONICAL_ORG_READ_TOKEN }}
+          CHARMED_K8S_SYNC_TOKEN: ${{ secrets.CHARMED_K8S_SYNC_TOKEN }}
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_ALLOW_EMPTY: ${{ inputs.allow_empty }}
+        run: |-
+          if [ -z "$CANONICAL_ORG_READ_TOKEN" ] || [ -z "$CHARMED_K8S_SYNC_TOKEN" ]; then
+            echo "::error::Missing required secret(s) for team reconciliation."
+            echo "Ensure both CANONICAL_ORG_READ_TOKEN and CHARMED_K8S_SYNC_TOKEN are configured in repository secrets." >&2
+            echo "Required setup:" >&2
+            echo "  - CANONICAL_ORG_READ_TOKEN: fine-grained PAT with read access to canonical org members and teams" >&2
+            echo "  - CHARMED_K8S_SYNC_TOKEN: fine-grained PAT with admin/write access to charmed-kubernetes org teams" >&2
+            exit 1
+          fi
+
+          ARGS=(--source-org canonical --target-org charmed-kubernetes --teams kubernetes kubernetes-admins)
+          if [ "$EVENT_NAME" = "pull_request" ] || [ "$INPUT_DRY_RUN" = "true" ]; then
+            ARGS+=(--dry-run)
+          fi
+          if [ "$INPUT_ALLOW_EMPTY" = "true" ]; then
+            ARGS+=(--allow-empty)
+          fi
+
+          python3 scripts/sync_teams.py "${ARGS[@]}"
